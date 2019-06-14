@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1560322039279">
+      <file name="/Python Console" timestamp="1560502168502">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1560391325289">
         <mark key="[" line="148" column="53" />
@@ -12,19 +15,7 @@
         <mark key="." line="150" column="17" />
         <mark key="^" line="150" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1559545680990">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/System/Volumes/Data/Users/Warmer/Documents/my-repositories/image_caption/lib/misc/__init__.py" timestamp="1559189036990">
-        <mark key="[" line="2" column="37" />
-      </file>
-      <file name="/System/Volumes/Data/Users/Warmer/Documents/my-repositories/image_caption/scripts/train_butd_coco.sh" timestamp="1559551322187">
-        <mark key="[" line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/pyespresso.py" timestamp="1560408546805" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/lib/foundation/utils/__init__.py" timestamp="1559743526163">
-        <mark key="[" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/tensorflow/loaders.py" timestamp="1560255121669">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="231" column="14" />
@@ -38,12 +29,6 @@
         <mark key="." line="63" column="5" />
         <mark key="^" line="63" column="5" />
       </file>
-      <file name="/System/Volumes/Data/Users/Warmer/Documents/my-repositories/image_caption/lib/validators/__init__.py" timestamp="1559188811949">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/lib/data/datasets/base.py" timestamp="1559742669581">
-        <mark key="[" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1560499194656">
         <mark key="'" line="395" column="0" />
         <mark key="[" line="368" column="0" />
@@ -51,25 +36,34 @@
         <mark key="^" line="369" column="11" />
         <mark key="." line="369" column="11" />
       </file>
-      <file name="/System/Volumes/Data/Users/Warmer/Documents/my-repositories/image_caption/scripts/data_gen_bottom_up.sh" timestamp="1559539437029">
-        <mark key="[" line="0" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559808347536">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1559369817295">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1560408905879">
         <mark key="[" line="34" column="67" />
         <mark key="]" line="34" column="68" />
         <mark key="^" line="34" column="85" />
         <mark key="." line="34" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/requirements.txt" timestamp="1560502491838">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_utils.py" timestamp="1560326060058">
         <mark key="[" line="137" column="75" />
         <mark key="]" line="137" column="75" />
         <mark key="." line="137" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/legacy.py" timestamp="1560502246897">
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/utils/env.py" timestamp="1560502458690">
+        <mark key="'" line="39" column="56" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="31" column="66" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1560311317163">
         <mark key="[" line="26" column="0" />
@@ -77,11 +71,11 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
       </file>
-      <file name="/System/Volumes/Data/Users/Warmer/Documents/my-repositories/image_caption/lib/core/config.py" timestamp="1559033880429">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/cfgs/debug.yaml" timestamp="1559787235711">
-        <mark key="[" line="25" column="49" />
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/core/config_loader.py" timestamp="1560503346968">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/decoders.py" timestamp="1560403792485">
         <mark key="[" line="20" column="65" />
@@ -94,12 +88,6 @@
         <mark key="]" line="105" column="27" />
         <mark key="^" line="105" column="27" />
         <mark key="." line="105" column="27" />
-      </file>
-      <file name="/System/Volumes/Data/Users/Warmer/Documents/my-repositories/ImageCaption_v2/lib/misc/caption_generator.py" timestamp="1559298696420">
-        <mark key="[" line="148" column="46" />
-      </file>
-      <file name="/System/Volumes/Data/Users/Warmer/Documents/my-repositories/image_caption/lib/datasets/__init__.py" timestamp="1559045710510">
-        <mark key="[" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -166,10 +154,11 @@
       <jump line="356" column="38" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
       <jump line="352" column="35" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
       <jump line="395" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
+      <jump line="44" column="56" filename="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/utils/env.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
+        <text encoding="base64">aXNtcG9ydCBsb2dnaW5nCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -181,31 +170,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoJ3t9IG5vdCBpbXBsZW1lbnRlZCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZvcm1hdChzZWxmLl9jbm5fbW9kZWwpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
+        <text encoding="base64">aXNtcG9ydCBsb2dnaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGYuc3F1ZWV6ZSgpZGQK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YSA9IHNjYXR0ZXIoaW5wdXRzLCB0YXJnZXRfZ3B1cz1bMCwgMV0sIGRpbT0wKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5fY25uX21vZGVsID09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYQo=</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmNvbnRyaWIgaW1wb3J0IGxheWVycyBhcyBsYXllcnNfbGliCg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmNvbnRyaWIuc2xpbS5weXRob24uc2xpbS5uZXRzIGltcG9ydCByZXNuZXRfdXRpbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY29wZT1oX2F0dF9lbWJfc2NvcGUpCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCgppbXBvcnQgbG9nZ2luZwoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgpmcm9tIGxpYi5yZWdpc3RyeSBpbXBvcnQgUmVnaXN0cnkKCgpjbGFzcyBUVChSZWdpc3RyeSk6CiAgICBUWVBFID0gb2JqZWN0CgoKQFRULnJlZ2lzdGVyCmNsYXNzIFRlc3QoKToKICAgIHBhc3MKCgpAVFQucmVnaXN0ZXIKZGVmIHQoKToKICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
