@@ -1,0 +1,12 @@
+<templateSet group="Python">
+  <template name="l1_comment" value="# --------------------------------------------------------------------------- #&#10;# $END$&#10;# --------------------------------------------------------------------------- #" description="Comment with line in the begining and the end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="l2_comment" value="#&#10;# $END$&#10;#" description="Comment the black line the begining and the end" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
