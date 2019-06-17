@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/simcloud/Setup/simcloud_setup.sh" timestamp="1560737332858" />
       <file name="/Python Console" timestamp="1560502168502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -47,11 +48,6 @@
         <mark key="]" line="6" column="9" />
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_utils.py" timestamp="1560326060058">
-        <mark key="[" line="137" column="75" />
-        <mark key="]" line="137" column="75" />
-        <mark key="." line="137" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/legacy.py" timestamp="1560502246897">
         <mark key="]" line="2" column="19" />
