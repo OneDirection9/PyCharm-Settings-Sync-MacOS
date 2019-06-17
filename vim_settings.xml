@@ -29,8 +29,8 @@
         <mark key="." line="63" column="5" />
         <mark key="^" line="63" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1560499194656">
-        <mark key="'" line="395" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1560736410833">
+        <mark key="'" line="90" column="0" />
         <mark key="[" line="368" column="0" />
         <mark key="]" line="369" column="11" />
         <mark key="^" line="369" column="11" />
@@ -155,6 +155,8 @@
       <jump line="352" column="35" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
       <jump line="395" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
       <jump line="44" column="56" filename="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/utils/env.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
