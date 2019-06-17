@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/simcloud/Setup/simcloud_setup.sh" timestamp="1560739421361" />
-      <file name="/Python Console" timestamp="1560502168502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1560391325289">
         <mark key="[" line="148" column="53" />
         <mark key="]" line="150" column="17" />
@@ -17,49 +10,17 @@
         <mark key="^" line="150" column="17" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/pyespresso.py" timestamp="1560408546805" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/tensorflow/loaders.py" timestamp="1560255121669">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="231" column="14" />
-        <mark key="." line="231" column="14" />
-        <mark key="^" line="231" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1560403560428" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_v2.py" timestamp="1560396268557">
-        <mark key="[" line="63" column="45" />
-        <mark key="]" line="63" column="5" />
-        <mark key="." line="63" column="5" />
-        <mark key="^" line="63" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1560736410833">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="369" column="11" />
-        <mark key="^" line="369" column="11" />
-        <mark key="." line="369" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1560408905879">
         <mark key="[" line="34" column="67" />
         <mark key="]" line="34" column="68" />
         <mark key="^" line="34" column="85" />
         <mark key="." line="34" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/requirements.txt" timestamp="1560502491838">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/legacy.py" timestamp="1560502246897">
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/utils/env.py" timestamp="1560502458690">
-        <mark key="'" line="39" column="56" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="31" column="66" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1560311317163">
         <mark key="[" line="26" column="0" />
@@ -84,6 +45,51 @@
         <mark key="]" line="105" column="27" />
         <mark key="^" line="105" column="27" />
         <mark key="." line="105" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/simcloud/Setup/simcloud_setup.sh" timestamp="1560739421361" />
+      <file name="/Python Console" timestamp="1560502168502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/tensorflow/loaders.py" timestamp="1560255121669">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="231" column="14" />
+        <mark key="." line="231" column="14" />
+        <mark key="^" line="231" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_v2.py" timestamp="1560396268557">
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="63" column="5" />
+        <mark key="." line="63" column="5" />
+        <mark key="^" line="63" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1560736410833">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="369" column="11" />
+        <mark key="^" line="369" column="11" />
+        <mark key="." line="369" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tsv.py" timestamp="1560744868996">
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/requirements.txt" timestamp="1560502491838">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/utils/env.py" timestamp="1560502458690">
+        <mark key="'" line="39" column="56" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="31" column="66" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -153,13 +159,14 @@
       <jump line="44" column="56" filename="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/utils/env.py" />
       <jump line="76" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
+      <jump line="31" column="52" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/tsv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aXNtcG9ydCBsb2dnaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -168,31 +175,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoJ3t9IG5vdCBpbXBsZW1lbnRlZCcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZvcm1hdChzZWxmLl9jbm5fbW9kZWwpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aXNtcG9ydCBsb2dnaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB0c3ZfaW1hZ2VfaWRzID0gc2V0KHRzdl9pbWFnZV9pZHMpCiAgICBtaXNzaW5nX2lkcyA9IGltYWdlX2lkcyAtIHRzdl9pbWFnZV9pZHMKICAgIGlmIGxlbihtaXNzaW5nX2lkcykgPiAwOgogICAgICAgIGltcG9ydCB3YXJuaW5ncwogICAgICAgIHdhcm5pbmdzLndhcm4oJ25vdCBmb3VuZCBpbWFnZSBpZHM6IHt9Jy5mb3JtYXQobWlzc2luZ19pZHMpKQoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHN2X2ltYWdlX2lkcy5hcHBlbmQoaW1hZ2VfaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgIGltYWdlX2lkcyA9IHNldCgpCiAgICBmb3Igc3BsaXQgaW4gc3BsaXRzOgogICAgICAgIHNwbGl0X2ZpbGUgPSBvc3Auam9pbihzcGxpdF9kaXIsIGZpbGVuYW1lX2Zvcm1hdC5mb3JtYXQoc3BsaXQpKQogICAgICAgIHNwbGl0X2ltYWdlX2lkcyA9IGxvYWRfaW1hZ2VfaWRzKHNwbGl0X2ZpbGUpCiAgICAgICAgaW1hZ2VfaWRzIHw9IHNwbGl0X2ltYWdlX2lkcwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ZGVmIGxvYWRfaW1hZ2VfaWRzKGZpbGUpOgogICAgd2l0aCBvcGVuKGZpbGUsICdyJykgYXMgZjoKICAgICAgICBqc29uX2RhdGEgPSBqc29uLmxvYWQoZikKCiAgICBpbWFnZV9pZHMgPSBzZXQoaW50KGl0ZW1bJ2ltYWdlX2lkJ10pIGZvciBpdGVtIGluIGpzb25fZGF0YSkKICAgIHJldHVybiBpbWFnZV9pZHMKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tYW5uLWZpbGUnLCBkZXN0PSdhbm5fZmlsZScsIHR5cGU9c3RyLAogICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PScuLi9kYXRhL2thcl9zcGxpdC9rYXJfdHJhaW4uanNvbicsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J2Fubm90YXRpb24gZmlsZSBpbiBDT0NPIGZvcm1hdCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc3BsaXQtZGlyJywgZGVzdD0nc3BsaXRfZGlyJywgdHlwZT1zdHIsCiAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9Jy4uL2RhdGEva2FyX3NwbGl0JywKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0ncGF0aCB0byBzcGxpdCBmaWxlcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IHByaW50X2Z1bmN0aW9uCgppbXBvcnQgbG9nZ2luZwoKbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCgpmcm9tIGxpYi5yZWdpc3RyeSBpbXBvcnQgUmVnaXN0cnkKCgpjbGFzcyBUVChSZWdpc3RyeSk6CiAgICBUWVBFID0gb2JqZWN0CgoKQFRULnJlZ2lzdGVyCmNsYXNzIFRlc3QoKToKICAgIHBhc3MKCgpAVFQucmVnaXN0ZXIKZGVmIHQoKToKICAgIHBhc3MK</text>
+        <text encoding="base64">aXNtcG9ydCBsb2dnaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
