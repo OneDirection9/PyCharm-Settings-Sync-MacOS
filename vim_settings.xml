@@ -37,7 +37,7 @@
         <mark key="^" line="158" column="60" />
         <mark key="." line="158" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/datagen_bottom_up.sh" timestamp="1560823762445">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/datagen_bottom_up.sh" timestamp="1560827969077">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="35" />
         <mark key="^" line="1" column="35" />
@@ -266,7 +266,7 @@
         <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCoqa3dhcmdzKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -298,11 +298,11 @@
         <entry>.,20d</entry>
         <entry>wwwwwwwww</entry>
         <entry>w3</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>we</entry>
         <entry>wk</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
