@@ -31,11 +31,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/dataset.py" timestamp="1560841761514" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/butd_attention.py" timestamp="1560844769393">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="79" />
-        <mark key="^" line="107" column="38" />
-        <mark key="." line="103" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/butd_attention.py" timestamp="1560847100267">
+        <mark key="[" line="48" column="63" />
+        <mark key="]" line="48" column="63" />
+        <mark key="^" line="48" column="63" />
+        <mark key="." line="48" column="63" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/tensorflow/loaders.py" timestamp="1560255121669">
         <mark key="[" line="67" column="0" />
