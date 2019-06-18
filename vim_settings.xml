@@ -144,12 +144,12 @@
         <mark key="^" line="105" column="27" />
         <mark key="." line="105" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" timestamp="1560823648924">
-        <mark key="'" line="71" column="18" />
-        <mark key="[" line="53" column="40" />
-        <mark key="]" line="53" column="31" />
-        <mark key="." line="53" column="31" />
-        <mark key="^" line="53" column="31" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" timestamp="1560838007821">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="71" column="68" />
+        <mark key="]" line="72" column="11" />
+        <mark key="^" line="72" column="11" />
+        <mark key="." line="72" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -224,6 +224,8 @@
       <jump line="67" column="18" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" />
       <jump line="108" column="32" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" />
       <jump line="100" column="4" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" />
+      <jump line="71" column="67" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" />
+      <jump line="14" column="11" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
