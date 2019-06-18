@@ -21,6 +21,9 @@
         <mark key="." line="150" column="17" />
         <mark key="^" line="150" column="17" />
       </file>
+      <file name="/a.dummy" timestamp="1560823641061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/tensorflow/loaders.py" timestamp="1560255121669">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="231" column="14" />
@@ -33,6 +36,12 @@
         <mark key="]" line="158" column="60" />
         <mark key="^" line="158" column="60" />
         <mark key="." line="158" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/datagen_bottom_up.sh" timestamp="1560823762445">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
         <mark key="[" line="41" column="0" />
@@ -49,11 +58,11 @@
         <mark key="^" line="33" column="41" />
         <mark key="." line="33" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_roi.cfg" timestamp="1560759626350">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_roi.cfg" timestamp="1560823681984">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1560736410833">
         <mark key="'" line="90" column="0" />
@@ -98,11 +107,6 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/legacy.py" timestamp="1560502246897">
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_100_rois.cfg" timestamp="1560759756372">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="23" column="28" />
@@ -140,12 +144,12 @@
         <mark key="^" line="105" column="27" />
         <mark key="." line="105" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" timestamp="1560759571873">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" timestamp="1560823648924">
         <mark key="'" line="71" column="18" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="58" column="7" />
-        <mark key="^" line="58" column="7" />
+        <mark key="[" line="53" column="40" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="31" />
+        <mark key="^" line="53" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -223,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>roi_tfrecord_100</text>
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>roi_tfrecord_100</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
