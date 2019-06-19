@@ -112,11 +112,11 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1560849982432">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="59" column="53" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1560947862328">
+        <mark key="[" line="71" column="55" />
+        <mark key="]" line="71" column="83" />
+        <mark key="." line="71" column="83" />
+        <mark key="^" line="71" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/requirements.txt" timestamp="1560502491838">
         <mark key="[" line="4" column="6" />
@@ -307,7 +307,7 @@
         <text encoding="base64">ICAgIGNvbnYgPSBuZXQubGF5ZXJfYnlfbmFtZSgncmVzbmV0X3YyXzEwMS9jb252MS9Db252MkQnKQogICAgIyBwb29sID0gbnAucmFuZG9tLnJhbmQoMSwgNjQsIDExMiwgMTEyKQogICAgIyBwcmludChwb29sKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -343,8 +343,8 @@
         <entry>wk</entry>
         <entry>ew</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
