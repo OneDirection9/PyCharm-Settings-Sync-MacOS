@@ -114,11 +114,12 @@
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/hooks.py" timestamp="1560850411828" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/dataset.py" timestamp="1560841761514" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1560998042465" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecords.py" timestamp="1561014129035">
-        <mark key="'" line="53" column="29" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecords.py" timestamp="1561016083461">
+        <mark key="'" line="44" column="29" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/butd_attention.py" timestamp="1561001403854">
         <mark key="[" line="48" column="63" />
@@ -333,10 +334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gMQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBvcy5wYXRoIGFzIG9zcAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -345,31 +346,31 @@
         <text>ibopenblas</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gMQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBvcy5wYXRoIGFzIG9zcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zcC5pc2ZpbGUoaW1nX2ZpbGUpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZWxzZToKCg==</text>
+        <text encoding="base64">ICAgIGFsbF9maWxlcyA9IG9zLmxpc3RkaXIoYXJncy50ZnJlY29yZF9kaXIpCiAgICBmaWxlbmFtZXMgPSBbXQogICAgZm9yIGZpbGVuYW1lIGluIGFsbF9maWxlczoKICAgICAgICBpZiBub3QgZmlsZW5hbWUuZW5kc3dpdGgoJy50ZnJlY29yZCcpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZpbGVuYW1lcy5hcHBlbmQob3NwLmpvaW4oYXJncy50ZnJlY29yZF9kaXIsIGZpbGVuYW1lKSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF4ID0gcGxvdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHNhdmVfdmlzKHNhdmVfZmlsZSwgKmFyZ3MsICoqa3dhcmdzKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zcC5pc2ZpbGUoaW1nX2ZpbGUpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZWxzZToKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9zZXRfdXBfbWF0cGxvdGxpYigpCg==</text>
+        <text encoding="base64">ICAgIGF4ID0gcGxvdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHNhdmVfdmlzKCk6Cg==</text>
+        <text encoding="base64">ZGVmIHNhdmVfdmlzKHNhdmVfZmlsZSwgKmFyZ3MsICoqa3dhcmdzKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgIF9zZXRfdXBfbWF0cGxvdGxpYigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNhdmVfdmlzKCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
