@@ -15,10 +15,8 @@
         <mark key="^" line="1187" column="41" />
         <mark key="." line="1187" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="/Python Console" timestamp="1561124588765">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1561114564192">
         <mark key="[" line="0" column="0" />
@@ -54,11 +52,11 @@
         <mark key="." line="231" column="14" />
         <mark key="^" line="231" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1560949249969">
-        <mark key="[" line="132" column="45" />
-        <mark key="]" line="132" column="22" />
-        <mark key="^" line="132" column="22" />
-        <mark key="." line="132" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1561126116613">
+        <mark key="[" line="132" column="19" />
+        <mark key="]" line="133" column="42" />
+        <mark key="^" line="133" column="42" />
+        <mark key="." line="133" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecord.py" timestamp="1561008730059">
         <mark key="[" line="47" column="17" />
@@ -81,12 +79,11 @@
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561118076527">
-        <mark key="'" line="16" column="11" />
-        <mark key="[" line="55" column="53" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="43" />
-        <mark key="^" line="55" column="43" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561126551185">
+        <mark key="[" line="87" column="38" />
+        <mark key="]" line="88" column="66" />
+        <mark key="^" line="88" column="66" />
+        <mark key="." line="88" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_v2.py" timestamp="1560396268557">
         <mark key="[" line="63" column="45" />
@@ -106,12 +103,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561009195219">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561125190821">
         <mark key="'" line="343" column="30" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="57" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="336" column="56" />
+        <mark key="]" line="336" column="64" />
+        <mark key="^" line="336" column="64" />
+        <mark key="." line="336" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/requirements.txt" timestamp="1560942164911">
         <mark key="[" line="0" column="4" />
@@ -125,6 +122,9 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1561121305198">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/data_gen_bottom_up.cfg" timestamp="1560756723466">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
@@ -136,9 +136,6 @@
         <mark key="]" line="27" column="33" />
         <mark key="." line="27" column="33" />
         <mark key="^" line="27" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/nets/scenenet.py" timestamp="1561010092659">
-        <mark key="'" line="585" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561108126126">
         <mark key="[" line="23" column="32" />
@@ -158,11 +155,18 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/vocabulary.py" timestamp="1561122719461" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_roi_100.cfg" timestamp="1560759899628">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="23" column="28" />
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/.gitignore" timestamp="1561126430667">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_100_rois.cfg" timestamp="1560759756372">
         <mark key="[" line="23" column="25" />
@@ -176,6 +180,12 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/eval.sh" timestamp="1561126217955">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561114648242">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="55" />
@@ -187,9 +197,6 @@
         <mark key="]" line="19" column="13" />
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561010396200">
-        <mark key="'" line="220" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/core/config_loader.py" timestamp="1560503346968">
         <mark key="[" line="8" column="25" />
@@ -227,11 +234,18 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561122533203" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_butd.cfg" timestamp="1560998089972">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1561125864432">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="37" column="86" />
+        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -322,46 +336,47 @@
       <jump line="220" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" />
       <jump line="53" column="29" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecords.py" />
       <jump line="77" column="23" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_tsv_result.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5wLnJlc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrcG9pbnRfZGlyID0gcGFyYW1zLmdldCgnY2hlY2twb2ludF9kaXInLCB0bXBfZGlyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>osp.join(project_dir, 'experiments/tmp')</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
       </register>
-      <register name="0" type="4">
-        <text>ibopenblas</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBibG9iX25hbWVzLmFwcGVuZCgnYXR0X2ZlYXRzX2VtYicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5wLnJlc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrcG9pbnRfZGlyID0gcGFyYW1zLmdldCgnY2hlY2twb2ludF9kaXInLCB0bXBfZGlyKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlkeDJuYW1lID0gbmV0LmJsb2JfbmFtZXMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUyaWR4ID0ge25hbWU6IGlkeCBmb3IgaWR4LCBuYW1lIGluIGVudW1lcmF0ZShpZHgybmFtZSl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNyb3BfaW1nKGltZ19kYXRhLCBjcm9wX3dpZHRoPTQ0OCwgY3JvcF9oZWlnaHQ9NDQ4KToK</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5wLnJlc2l6ZQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIyB0cnk6CiAgICAjICAgICBwYXJhbXMsIGJsb2JfbmFtZXMgPSBbXSwgW10KICAgICMgICAgIG5ldC5ibG9iX2J5X25hbWUoJ2ltYWdlJykuc2V0X3RvKGltZ19kYXRhKQogICAgIwogICAgIyAgICAgbmV0LmZvcndhcmQoc3RhcnQ9MCkKICAgICMKICAgICMgICAgIGJsb2JfbmFtZXMuYXBwZW5kKCdtZWFuX2ZlYXRzX2VtYicpCiAgICAjICAgICBibG9iX25hbWVzLmFwcGVuZCgnYXR0X2ZlYXRzX2VtYicpCiAgICAjICAgICBibG9iX25hbWVzLmFwcGVuZCgncF9hdHRfZmVhdHNfZW1iJykKICAgICMgICAgIGZvciBsYXllcl9uYW1lIGluIGJsb2JfbmFtZXM6CiAgICAjICAgICAgICAgcHJpbnQoJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKQogICAgIyAgICAgICAgIHByaW50KGxheWVyX25hbWUpCiAgICAjICAgICAgICAgbGF5ZXJfcGFyYSA9IG5ldC5ibG9iX2J5X25hbWUobGF5ZXJfbmFtZSkuZ2V0X2NvcHkoKQogICAgIyAgICAgICAgIHByaW50KGxheWVyX3BhcmEuc2hhcGUpCiAgICAjICAgICAgICAgcGFyYW1zLmFwcGVuZChsYXllcl9wYXJhKQogICAgIyAgICAgZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKICAgICMgICAgIHNldF90cmFjZSgpCiAgICAjIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6CiAgICAjICAgICBwcmludCgnd2hpbGUgbG9hZGluZyBkYXRhIGFzIGlucHV0IHRvIG5ldHdvcmsgYW5kIHJ1bm5pbmcgZm9yd2FyZCBwYXNzLCBleGNlcHRpb24gaXMge30nLmZvcm1hdChleCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBucC5hcnJheShJbWFnZS5mcm9tYXJyYXkoaW1nX2RhdGEpLnJlc2l6ZShjcm9wX3dpZHRoLCBjcm9wX2hlaWdodCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbWJlZF9mZWVkID0gZW1iZWRkaW5nX21hdHJpeFt3b3JkXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnYgPSBuZXQubGF5ZXJfYnlfbmFtZSgncmVzbmV0X3YyXzEwMS9jb252MS9Db252MkQnKQogICAgd2VpZ2h0cyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCd3ZWlnaHRzJykKICAgIGJpYXNlcyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCdiaWFzZXMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGNyb3BfaW1nKGltZ19kYXRhLCBjcm9wX3dpZHRoPTQ0OCwgY3JvcF9oZWlnaHQ9NDQ4KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -394,7 +409,6 @@
       </history-search>
       <history-cmd>
         <entry>!ls</entry>
-        <entry>W</entry>
         <entry encoding="base64">PA==</entry>
         <entry>.,20d</entry>
         <entry>wwwwwwwww</entry>
@@ -405,6 +419,7 @@
         <entry>we</entry>
         <entry>noh</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
