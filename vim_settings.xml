@@ -81,12 +81,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561116327846">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561118076527">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="65" column="68" />
-        <mark key="]" line="66" column="3" />
-        <mark key="^" line="66" column="3" />
-        <mark key="." line="66" column="3" />
+        <mark key="[" line="55" column="53" />
+        <mark key="]" line="55" column="43" />
+        <mark key="." line="55" column="43" />
+        <mark key="^" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_v2.py" timestamp="1560396268557">
         <mark key="[" line="63" column="45" />
@@ -325,7 +325,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnYgPSBuZXQubGF5ZXJfYnlfbmFtZSgncmVzbmV0X3YyXzEwMS9jb252MS9Db252MkQnKQogICAgd2VpZ2h0cyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCd3ZWlnaHRzJykKICAgIGJpYXNlcyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCdiaWFzZXMnKQo=</text>
+        <text encoding="base64">ICAgIG5wLnJlc2l6ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -337,31 +337,31 @@
         <text>ibopenblas</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnYgPSBuZXQubGF5ZXJfYnlfbmFtZSgncmVzbmV0X3YyXzEwMS9jb252MS9Db252MkQnKQogICAgd2VpZ2h0cyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCd3ZWlnaHRzJykKICAgIGJpYXNlcyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCdiaWFzZXMnKQo=</text>
+        <text encoding="base64">ICAgIG5wLnJlc2l6ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGNyb3BfaW1nKGltZ19kYXRhLCBjcm9wX3dpZHRoPTQ0OCwgY3JvcF9oZWlnaHQ9NDQ4KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2NpcHkgaW1wb3J0IG1pc2MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNjaXB5LmltCg==</text>
+        <text encoding="base64">ZGVmIGNyb3BfaW1nKGltZ19kYXRhLCBjcm9wX3dpZHRoPTQ0OCwgY3JvcF9oZWlnaHQ9NDQ4KToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5wLnJhbmRvbS5zZWVkKDMpCiAgICBmb3IgbmFtZSBpbiBuZXQuYmxvYl9uYW1lcygpOgogICAgICAgIHByaW50KG5hbWUpCgo=</text>
+        <text encoding="base64">ICAgIG5wLnJlc2l6ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PScuLi9leHBlcmltZW50cy9leHBvcnQvbGliX21vZGVsX29wdC5lc3ByZXNzby5uZXQnLAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBucC5hcnJheShJbWFnZS5mcm9tYXJyYXkoaW1nX2RhdGEpLnJlc2l6ZShjcm9wX3dpZHRoLCBjcm9wX2hlaWdodCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldC5sb2FkKGFyZ3MuZXNwcmVzc29fcGF0aCwgTm9uZSwgcHllc3ByZXNzby5DUFUsIHB5ZXNwcmVzc28uRkxPQVQzMikK</text>
+        <text encoding="base64">ICAgIGNvbnYgPSBuZXQubGF5ZXJfYnlfbmFtZSgncmVzbmV0X3YyXzEwMS9jb252MS9Db252MkQnKQogICAgd2VpZ2h0cyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCd3ZWlnaHRzJykKICAgIGJpYXNlcyA9IGNvbnYucmVhZG9ubHlfYmxvYl9ieV9uYW1lKCdiaWFzZXMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldCA9IHB5ZXNwcmVzc28uTmV0KCkK</text>
+        <text encoding="base64">ZGVmIGNyb3BfaW1nKGltZ19kYXRhLCBjcm9wX3dpZHRoPTQ0OCwgY3JvcF9oZWlnaHQ9NDQ4KToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
