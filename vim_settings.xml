@@ -3,95 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/parse_tsv.py" timestamp="1561014133375" />
-      <file name="/a.dummy" timestamp="1561013778014">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/bottom-up_env-setup.sh" timestamp="1561011765094">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="44" column="2" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
-        <mark key="[" line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1560926233535">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="48" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1560755953357">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="33" column="41" />
-        <mark key="^" line="33" column="41" />
-        <mark key="." line="33" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/requirements.txt" timestamp="1560942164911">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/data_gen_bottom_up.cfg" timestamp="1560756723466">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/nets/scenenet.py" timestamp="1561010092659">
-        <mark key="'" line="585" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561085843672">
-        <mark key="[" line="34" column="63" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bbox_from_tsv.py" timestamp="1561013750686">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="3" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="39" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1560311317163">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="1" />
-        <mark key="^" line="26" column="1" />
-        <mark key="." line="26" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bboxes_from_tsv.py" timestamp="1561013173622">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/core/config_loader.py" timestamp="1560503346968">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/bottom-up_env-setup.sh" timestamp="1561010866458">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dump.py" timestamp="1560261541230">
-        <mark key="[" line="105" column="28" />
-        <mark key="]" line="105" column="27" />
-        <mark key="^" line="105" column="27" />
-        <mark key="." line="105" column="27" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1560922325774" />
       <file name="$USER_HOME$/Documents/simcloud/Setup/simcloud_setup.sh" timestamp="1560844263568">
         <mark key="[" line="214" column="0" />
         <mark key="]" line="214" column="3" />
@@ -104,9 +15,14 @@
         <mark key="^" line="1187" column="41" />
         <mark key="." line="1187" column="41" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/hooks.py" timestamp="1560850411828" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/dataset.py" timestamp="1560841761514" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1560998042465" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1561013778014">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecords.py" timestamp="1561016083461">
         <mark key="'" line="44" column="29" />
         <mark key="[" line="5" column="0" />
@@ -126,7 +42,12 @@
         <mark key="." line="23" column="63" />
         <mark key="^" line="23" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/import_pb_to_tensorboard.py" timestamp="1561084328520" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/bottom-up_env-setup.sh" timestamp="1561011765094">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="44" column="2" />
+        <mark key="." line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/tensorflow/loaders.py" timestamp="1560255121669">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="231" column="14" />
@@ -151,13 +72,34 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561108244391">
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="55" column="51" />
+        <mark key="^" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
+        <mark key="[" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1560926233535">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="48" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_v2.py" timestamp="1560396268557">
         <mark key="[" line="63" column="45" />
         <mark key="]" line="63" column="5" />
         <mark key="." line="63" column="5" />
         <mark key="^" line="63" column="5" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/tensorflow/contrib/layers/python/layers/layers.py" timestamp="1560927410702" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1560755953357">
+        <mark key="[" line="33" column="44" />
+        <mark key="]" line="33" column="41" />
+        <mark key="^" line="33" column="41" />
+        <mark key="." line="33" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_roi.cfg" timestamp="1560823681984">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="21" />
@@ -171,11 +113,32 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/requirements.txt" timestamp="1560942164911">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tsv.py" timestamp="1561009556578">
         <mark key="[" line="58" column="43" />
         <mark key="]" line="59" column="3" />
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/data_gen_bottom_up.cfg" timestamp="1560756723466">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/nets/scenenet.py" timestamp="1561010092659">
+        <mark key="'" line="585" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561108126126">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="66" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="23" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/requirements.txt" timestamp="1560502491838">
         <mark key="[" line="4" column="6" />
@@ -195,21 +158,56 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/tensorflow/contrib/slim/python/slim/nets/resnet_v2.py" timestamp="1560927758638" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_100_rois.cfg" timestamp="1560759756372">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="23" column="28" />
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bbox_from_tsv.py" timestamp="1561013750686">
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1560311317163">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bboxes_from_tsv.py" timestamp="1561013173622">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561010396200">
         <mark key="'" line="220" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/lib/core/config_loader.py" timestamp="1560503346968">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/bottom-up_env-setup.sh" timestamp="1561010866458">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_butd.sh" timestamp="1560844219547">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="28" />
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dump.py" timestamp="1560261541230">
+        <mark key="[" line="105" column="28" />
+        <mark key="]" line="105" column="27" />
+        <mark key="^" line="105" column="27" />
+        <mark key="." line="105" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/producers.py" timestamp="1560839778029">
         <mark key="[" line="11" column="17" />
@@ -223,7 +221,6 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/simcloud/Setup/create_job.sh" timestamp="1560932595223" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_butd.cfg" timestamp="1560998089972">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="22" column="18" />
