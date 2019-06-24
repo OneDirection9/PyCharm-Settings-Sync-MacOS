@@ -9,6 +9,9 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561338306976">
+        <mark key="[" line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1561222822857">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="9" />
@@ -19,10 +22,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text />
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
     </registers>
     <search>
@@ -31,7 +37,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
