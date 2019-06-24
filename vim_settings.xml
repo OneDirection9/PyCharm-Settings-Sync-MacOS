@@ -26,15 +26,18 @@
         <mark key="]" line="36" column="9" />
         <mark key="." line="36" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561408046353">
-        <mark key="[" line="193" column="12" />
-        <mark key="]" line="193" column="13" />
-        <mark key="." line="193" column="13" />
-        <mark key="^" line="193" column="13" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561409500287">
+        <mark key="[" line="295" column="13" />
+        <mark key="]" line="295" column="9" />
+        <mark key="." line="295" column="9" />
+        <mark key="^" line="295" column="9" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBhdHRfd2VpZ2h0cyA9IHRmLmV4cGFuZF9kaW1zKGF0dF93ZWlnaHRzLCBheGlzPTIpCg==</text>
+      </register>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
       </register>
@@ -52,6 +55,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
