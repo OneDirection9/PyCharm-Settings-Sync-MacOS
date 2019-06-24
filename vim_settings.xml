@@ -15,17 +15,13 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561353981519">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_bottom_up.cfg" timestamp="1561411895125" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1561222822857">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="9" />
         <mark key="." line="36" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_butd.cfg" timestamp="1561411428053" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561409500287">
         <mark key="[" line="295" column="13" />
         <mark key="]" line="295" column="9" />
