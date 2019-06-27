@@ -21,6 +21,12 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1561617715652">
         <mark key="[" line="132" column="8" />
         <mark key="]" line="149" column="0" />
@@ -47,6 +53,12 @@
         <mark key="^" line="95" column="50" />
         <mark key="." line="95" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561622559634">
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1561222822857">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="9" />
@@ -57,12 +69,12 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561616963036">
-        <mark key="'" line="324" column="0" />
-        <mark key="[" line="309" column="44" />
-        <mark key="]" line="309" column="58" />
-        <mark key="." line="309" column="58" />
-        <mark key="^" line="309" column="58" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561622394116">
+        <mark key="'" line="332" column="0" />
+        <mark key="[" line="107" column="52" />
+        <mark key="]" line="114" column="31" />
+        <mark key="." line="114" column="31" />
+        <mark key="^" line="114" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -70,37 +82,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">IyByZXN1bWUKLS1maW5ldHVuZSA9IG1yMzovL1Zpc3VhbENhcHRpb25pbmcvY25uX2NoZWNrcG9pbnQvcmVzbmV0X3YyXzEwMS5ja3B0Ci0tcmVzdW1lLWluY2x1ZGUtc2NvcGVzID0gcmVzbmV0LioKLS1leGNsdWRlLXRyYWluLXNjb3BlID0gcmVzbmV0LioKLS1leGNsdWRlLXVwZGF0ZXMtc2NvcGVzID0gcmVzbmV0LioKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">IyByZXN1bWUKLS1maW5ldHVuZSA9IG1yMzovL1Zpc3VhbENhcHRpb25pbmcvY25uX2NoZWNrcG9pbnQvcmVzbmV0X3YyXzEwMS5ja3B0Ci0tcmVzdW1lLWluY2x1ZGUtc2NvcGVzID0gcmVzbmV0LioKLS1leGNsdWRlLXRyYWluLXNjb3BlID0gcmVzbmV0LioKLS1leGNsdWRlLXVwZGF0ZXMtc2NvcGVzID0gcmVzbmV0LioKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRfc3RhdGUgPSBhdHRfbHN0bV9jZWxsLnplcm9fc3RhdGUoYmF0Y2hfc2l6ZSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYW5nX2xzdG1fY2VsbCwgbGFuZ19zdGF0ZSA9IGxhbmdfbHN0bQo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRfc3RhdGUgPSBhdHRfbHN0bV9jZWxsLnplcm9fc3RhdGUoYmF0Y2hfc2l6ZSwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRfbHN0bV9jZWxsLCBhdHRfc3RhdGUgPSBhdHRfbHN0bQo=</text>
+        <text encoding="base64">ICAgICAgICBsYW5nX2xzdG1fY2VsbCwgbGFuZ19zdGF0ZSA9IGxhbmdfbHN0bQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdHRfbHN0bV9jZWxsLCBhdHRfc3RhdGUgPSBhdHRfbHN0bQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFuZ19sc3RtID0gbGFuZ19sc3RtX2NlbGwsIGxhbmdfc3RhdGVfdHVwbGUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0X2xzdG0gPSBhdHRfbHN0bV9jZWxsLCBhdHRfc3RhdGVfdHVwbGUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFuZ19sc3RtID0gbGFuZ19sc3RtX2NlbGwsIGxhbmdfc3RhdGVfdHVwbGUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXR0X2xzdG0gPSBhdHRfbHN0bV9jZWxsLCBhdHRfc3RhdGVfdHVwbGUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRfc3RhdGVfcGxhY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAgICAgZHR5cGU9dGYuZmxvYXQzMiwgc2hhcGU9W05vbmUsIHN1bShhdHRfbHN0bV9jZWxsLnN0YXRlX3NpemUpXSwKICAgICAgICAgICAgbmFtZT0nYXR0X3N0YXRlX2ZlZWQnKQogICAgICAgIGxhbmdfc3RhdGVfcGFsY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAgICAgZHR5cGU9dGYuZmxvYXQzMiwgc2hhcGU9W05vbmUsIHN1bShsYW5nX2xzdG1fY2VsbC5zdGF0ZV9zaXplKV0sCiAgICAgICAgICAgIG5hbWU9J2xhbmdfc3RhdGVfZmVlZCcpCiAgICAgICAgYXR0X3N0YXRlX3R1cGxlID0gdGYuc3BsaXQoCiAgICAgICAgICAgIHZhbHVlPWF0dF9zdGF0ZV9wbGFjZWhvbGRlciwgbnVtX29yX3NpemVfc3BsaXRzPTIsIGF4aXM9MSkKICAgICAgICBsYW5nX3N0YXRlX3R1cGxlID0gdGYuc3BsaXQoCiAgICAgICAgICAgIHZhbHVlPWxhbmdfc3RhdGVfcGFsY2Vob2xkZXIsIG51bV9vcl9zaXplX3NwbGl0cz0yLCBheGlzPTEpCgogICAgICAgIGl0ID0gdGYucGxhY2Vob2xkZXIoZHR5cGU9dGYuaW50NjQsIHNoYXBlPVtiYXRjaF9zaXplLCBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -117,6 +129,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
