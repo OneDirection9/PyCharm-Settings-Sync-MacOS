@@ -39,6 +39,9 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561620547590">
+        <mark key="[" line="68" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561590889611">
         <mark key="]" line="95" column="50" />
         <mark key="^" line="95" column="50" />
