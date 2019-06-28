@@ -36,18 +36,18 @@
         <mark key="^" line="48" column="66" />
         <mark key="." line="48" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561751338842">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561764927236">
         <mark key="'" line="68" column="65" />
         <mark key="[" line="68" column="33" />
         <mark key="]" line="68" column="53" />
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561761074830">
-        <mark key="[" line="126" column="34" />
-        <mark key="]" line="118" column="22" />
-        <mark key="^" line="118" column="22" />
-        <mark key="." line="118" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561765226537">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
         <mark key="[" line="41" column="16" />
