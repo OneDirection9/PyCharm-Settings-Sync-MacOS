@@ -48,26 +48,27 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561741386267">
-        <mark key="[" line="24" column="58" />
-        <mark key="]" line="24" column="61" />
-        <mark key="^" line="24" column="61" />
-        <mark key="." line="24" column="61" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561744856798">
+        <mark key="[" line="24" column="68" />
+        <mark key="]" line="24" column="73" />
+        <mark key="^" line="24" column="73" />
+        <mark key="." line="24" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561741364117">
-        <mark key="[" line="68" column="58" />
-        <mark key="]" line="68" column="44" />
-        <mark key="^" line="68" column="44" />
-        <mark key="." line="68" column="44" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561745179480">
+        <mark key="'" line="68" column="65" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="39" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561712072770">
         <mark key="[" line="19" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561742098319">
-        <mark key="[" line="62" column="66" />
-        <mark key="]" line="62" column="38" />
-        <mark key="^" line="62" column="38" />
-        <mark key="." line="62" column="38" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="17" />
+        <mark key="^" line="41" column="17" />
+        <mark key="." line="41" column="17" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1561618254164">
@@ -75,16 +76,17 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561742803071">
-        <mark key="[" line="183" column="59" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="192" column="0" />
-        <mark key="." line="192" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561744133338">
+        <mark key="[" line="294" column="24" />
+        <mark key="]" line="294" column="23" />
+        <mark key="^" line="294" column="23" />
+        <mark key="." line="294" column="23" />
       </file>
     </filemarks>
     <jumps>
       <jump line="318" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
       <jump line="350" column="32" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/tensorflow/python/ops/rnn_cell_impl.py" />
+      <jump line="68" column="65" filename="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" />
     </jumps>
     <registers>
       <register name="1" type="2">
