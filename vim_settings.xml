@@ -45,16 +45,16 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561710175369">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="33" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561712843446">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561620547590">
         <mark key="[" line="68" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561701609898">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561712072770">
         <mark key="[" line="19" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561622559634">
@@ -69,10 +69,8 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561710243134">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561713376964">
+        <mark key="[" line="184" column="0" />
       </file>
     </filemarks>
     <jumps>
