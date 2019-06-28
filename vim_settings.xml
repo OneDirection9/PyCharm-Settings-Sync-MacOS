@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1561681458921">
+      <file name="/Python Console" timestamp="1561759327232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/eval.cfg" timestamp="1561746486762">
@@ -24,7 +24,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1561751800986">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1561758842681">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
@@ -43,11 +43,11 @@
         <mark key="^" line="68" column="53" />
         <mark key="." line="68" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561749153565">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="41" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="19" column="41" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561759321342">
+        <mark key="[" line="126" column="34" />
+        <mark key="]" line="126" column="34" />
+        <mark key="^" line="126" column="41" />
+        <mark key="." line="126" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
         <mark key="[" line="41" column="16" />
@@ -55,11 +55,11 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561757422301">
-        <mark key="[" line="391" column="38" />
-        <mark key="]" line="391" column="35" />
-        <mark key="." line="391" column="35" />
-        <mark key="^" line="391" column="35" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561758218858">
+        <mark key="[" line="338" column="61" />
+        <mark key="]" line="338" column="76" />
+        <mark key="." line="338" column="76" />
+        <mark key="^" line="338" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
@@ -79,7 +79,7 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561751385892">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561757850362">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="56" />
         <mark key="^" line="24" column="56" />
@@ -98,41 +98,41 @@
       <jump line="68" column="65" filename="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfZmVlZCA9IG5wLmFyZ21heChzb2Z0bWF4LCBheGlzPTEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIG1lYW5fZmVhdHNfcGxhY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAjICAgICBkdHlwZT10Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMSwgMSwgc2VsZi5fZW1iZWRkaW5nX3NpemVdLAogICAgICAgICMgICAgIG5hbWU9J21lYW5fZmVhdHNfcGxhY2Vob2xkZXInKQogICAgICAgICMgYXR0X2ZlYXRzX3BsYWNlaG9sZGVyID0gdGYucGxhY2Vob2xkZXIoCiAgICAgICAgIyAgICAgZHR5cGU9dGYuZmxvYXQzMiwKICAgICAgICAjICAgICBzaGFwZT1bTm9uZSwgc2VsZi5faW1hZ2VfZmVhdF9zaXplWzBdLCBzZWxmLl9pbWFnZV9mZWF0X3NpemVbMV0sIHNlbGYuX2VtYmVkZGluZ19zaXplXSwKICAgICAgICAjICAgICBuYW1lPSdhdHRfZmVhdHNfcGxhY2Vob2xkZXInKQogICAgICAgICMgcF9hdHRfZmVhdHNfcGxhY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAjICAgICBkdHlwZT10Zi5mbG9hdDMyLAogICAgICAgICMgICAgIHNoYXBlPVtOb25lLCBzZWxmLl9pbWFnZV9mZWF0X3NpemVbMF0sIHNlbGYuX2ltYWdlX2ZlYXRfc2l6ZVsxXSwgc2VsZi5fcF9hdHRfZW1iX3NpemVdLAogICAgICAgICMgICAgIG5hbWU9J3BfYXR0X2ZlYXRzX3BsYWNlaG9sZGVyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfZmVlZCA9IG5wLmFyZ21heChzb2Z0bWF4LCBheGlzPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxLCA1MTIsIDE5NikudHJhbnNwb3NlKDAsIDIsIDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxLCAxMDI0LCAxOTYpLnRyYW5zcG9zZSgwLCAyLCAxKSwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfZmVlZCA9IG5wLmFyZ21heChzb2Z0bWF4LCBheGlzPTEpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICBtZWFuX2ZlYXRzX3BsYWNlaG9sZGVyID0gdGYucGxhY2Vob2xkZXIoCiAgICAgICAgICAgIGR0eXBlPXRmLmZsb2F0MzIsIHNoYXBlPVtOb25lLCBzZWxmLl9lbWJlZGRpbmdfc2l6ZV0sCiAgICAgICAgICAgIG5hbWU9J21lYW5fZmVhdHNfcGxhY2Vob2xkZXInKQogICAgICAgIGF0dF9mZWF0c19wbGFjZWhvbGRlciA9IHRmLnBsYWNlaG9sZGVyKAogICAgICAgICAgICBkdHlwZT10Zi5mbG9hdDMyLAogICAgICAgICAgICBzaGFwZT1bTm9uZSwgc2VsZi5fYXR0X3NpemUsIHNlbGYuX2VtYmVkZGluZ19zaXplXSwKICAgICAgICAgICAgbmFtZT0nYXR0X2ZlYXRzX3BsYWNlaG9sZGVyJykKICAgICAgICBwX2F0dF9mZWF0c19wbGFjZWhvbGRlciA9IHRmLnBsYWNlaG9sZGVyKAogICAgICAgICAgICBkdHlwZT10Zi5mbG9hdDMyLAogICAgICAgICAgICBzaGFwZT1bTm9uZSwgc2VsZi5fYXR0X3NpemUsIHNlbGYuX3BfYXR0X2VtYl9zaXplXSwKICAgICAgICAgICAgbmFtZT0ncF9hdHRfZmVhdHNfcGxhY2Vob2xkZXInKQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBfYXR0X2ZlYXRzX2VtYiA9IHRmLnJlc2hhcGUoCiAgICAgICAgICAgICAgICAgICAgcF9hdHRfZmVhdHNfZW1iLCBbLTEsIHNlbGYuX2F0dF9zaXplLCBzZWxmLl9wX2F0dF9lbWJfc2l6ZV0pCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dF9mZWF0c19lbWIgPSB0Zi5yZXNoYXBlKAogICAgICAgICAgICAgICAgICAgIGF0dF9mZWF0c19lbWIsIFstMSwgc2VsZi5fYXR0X3NpemUsIHNlbGYuX2VtYmVkZGluZ19zaXplXSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lYW5fZmVhdHNfZW1iID0gdGYucmVzaGFwZSgKICAgICAgICAgICAgICAgICAgICBtZWFuX2ZlYXRzX2VtYiwgWy0xLCBzZWxmLl9lbWJlZGRpbmdfc2l6ZV0pCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRfc3RhdGUgPSB0Zi5nZXRfdmFyaWFibGUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lYW5fZmVhdHNfZW1iID0gdGYucmVzaGFwZSgKICAgICAgICAgICAgICAgICAgICBtZWFuX2ZlYXRzX2VtYiwgWy0xLCBzZWxmLl9lbWJlZGRpbmdfc2l6ZV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
