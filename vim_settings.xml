@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1561501863149">
+      <file name="/Python Console" timestamp="1561681458921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561441964954">
@@ -48,10 +48,11 @@
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561620547590">
         <mark key="[" line="68" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561678039935">
-        <mark key="]" line="95" column="50" />
-        <mark key="^" line="95" column="50" />
-        <mark key="." line="95" column="50" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1561681607915">
+        <mark key="[" line="134" column="73" />
+        <mark key="]" line="127" column="13" />
+        <mark key="^" line="127" column="13" />
+        <mark key="." line="127" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561622559634">
         <mark key="[" line="39" column="27" />
@@ -59,11 +60,7 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1561222822857">
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="9" />
-        <mark key="." line="36" column="9" />
-      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1561618254164">
         <mark key="[" line="111" column="8" />
         <mark key="]" line="111" column="8" />
@@ -108,7 +105,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -124,8 +121,8 @@
         <entry>2</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
