@@ -66,12 +66,6 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561703777592">
-        <mark key="[" line="319" column="0" />
-        <mark key="]" line="326" column="0" />
-        <mark key="^" line="326" column="0" />
-        <mark key="." line="326" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="318" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
