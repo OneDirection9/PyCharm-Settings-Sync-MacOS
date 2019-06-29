@@ -24,12 +24,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1561758842681">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="140" column="21" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1561758842681" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
         <mark key="[" line="48" column="31" />
         <mark key="]" line="48" column="66" />
@@ -61,12 +56,7 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561758218858">
-        <mark key="[" line="338" column="61" />
-        <mark key="]" line="338" column="76" />
-        <mark key="." line="338" column="76" />
-        <mark key="^" line="338" column="76" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1561782250004" />
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,17 +76,14 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561780727201">
-        <mark key="[" line="24" column="58" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561782275932">
+        <mark key="[" line="24" column="38" />
         <mark key="]" line="24" column="58" />
         <mark key="^" line="24" column="58" />
         <mark key="." line="24" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561766645788">
         <mark key="[" line="43" column="62" />
-        <mark key="]" line="44" column="26" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="44" column="26" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
     </filemarks>
