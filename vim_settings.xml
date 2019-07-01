@@ -27,7 +27,9 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1561758842681" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562006560426">
+        <mark key="[" line="133" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
         <mark key="[" line="48" column="31" />
         <mark key="]" line="48" column="66" />
@@ -46,12 +48,6 @@
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1562003518426">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="95" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
         <mark key="[" line="41" column="16" />
