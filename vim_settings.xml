@@ -66,6 +66,7 @@
         <mark key="." line="34" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_scenenet.cfg" timestamp="1561767045890" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/encoder.py" timestamp="1562002297746" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1561423325182">
         <mark key="[" line="59" column="32" />
         <mark key="]" line="60" column="11" />
