@@ -49,6 +49,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1562019410398">
+        <mark key="[" line="132" column="52" />
+        <mark key="]" line="132" column="44" />
+        <mark key="^" line="132" column="44" />
+        <mark key="." line="132" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="17" />
@@ -94,7 +100,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltZ19mZWF0cyA9IG5ldC5ydW4oCiAgICAgICAgZmVlZF9kaWN0PU5vbmUsCiAgICAgICAgb3V0cHV0cz1bJ21lYW5fZmVhdHNfZW1iJywgJ2F0dF9mZWF0c19lbWInLCAncF9hdHRfZmVhdHNfZW1iJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JkX2lkID0gbnAuYXJnbWF4KHJlc1snd29yZF9pZCddLCBheGlzPTEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -103,33 +109,33 @@
         <text encoding="base64">ICAgICAgICAjIG1lYW5fZmVhdHNfcGxhY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAjICAgICBkdHlwZT10Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMSwgMSwgc2VsZi5fZW1iZWRkaW5nX3NpemVdLAogICAgICAgICMgICAgIG5hbWU9J21lYW5fZmVhdHNfcGxhY2Vob2xkZXInKQogICAgICAgICMgYXR0X2ZlYXRzX3BsYWNlaG9sZGVyID0gdGYucGxhY2Vob2xkZXIoCiAgICAgICAgIyAgICAgZHR5cGU9dGYuZmxvYXQzMiwKICAgICAgICAjICAgICBzaGFwZT1bTm9uZSwgc2VsZi5faW1hZ2VfZmVhdF9zaXplWzBdLCBzZWxmLl9pbWFnZV9mZWF0X3NpemVbMV0sIHNlbGYuX2VtYmVkZGluZ19zaXplXSwKICAgICAgICAjICAgICBuYW1lPSdhdHRfZmVhdHNfcGxhY2Vob2xkZXInKQogICAgICAgICMgcF9hdHRfZmVhdHNfcGxhY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAjICAgICBkdHlwZT10Zi5mbG9hdDMyLAogICAgICAgICMgICAgIHNoYXBlPVtOb25lLCBzZWxmLl9pbWFnZV9mZWF0X3NpemVbMF0sIHNlbGYuX2ltYWdlX2ZlYXRfc2l6ZVsxXSwgc2VsZi5fcF9hdHRfZW1iX3NpemVdLAogICAgICAgICMgICAgIG5hbWU9J3BfYXR0X2ZlYXRzX3BsYWNlaG9sZGVyJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltZ19mZWF0cyA9IG5ldC5ydW4oCiAgICAgICAgZmVlZF9kaWN0PU5vbmUsCiAgICAgICAgb3V0cHV0cz1bJ21lYW5fZmVhdHNfZW1iJywgJ2F0dF9mZWF0c19lbWInLCAncF9hdHRfZmVhdHNfZW1iJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JkX2lkID0gbnAuYXJnbWF4KHJlc1snd29yZF9pZCddLCBheGlzPTEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldC5mb3J3YXJkX3BhcnRpYWwoKQo=</text>
+        <text encoding="base64">ICAgIGltZ19mZWF0cyA9IG5ldC5ydW4oCiAgICAgICAgZmVlZF9kaWN0PU5vbmUsCiAgICAgICAgb3V0cHV0cz1bJ21lYW5fZmVhdHNfZW1iJywgJ2F0dF9mZWF0c19lbWInLCAncF9hdHRfZmVhdHNfZW1iJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWcuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIG5ldC5mb3J3YXJkX3BhcnRpYWwoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpbWcuc2hhcGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldC5ydW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWcuc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXQuY29weV9ibG9iX2Zyb21fcmdiX29yX2dyYXlzY2FsZV9pbWFnZShuZXQuaW5wdXRfbmFtZXMoKVswXSwgaW1nKQo=</text>
+        <text encoding="base64">ICAgIG5ldC5ydW4oKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.reshape(
-                    1, 512, 196, 1).transpose(0, 2, 1, 3)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuZXQuY29weV9ibG9iX2Zyb21fcmdiX29yX2dyYXlzY2FsZV9pbWFnZShuZXQuaW5wdXRfbmFtZXMoKVswXSwgaW1nKQo=</text>
       </register>
       <register name="8" type="4">
         <text>.reshape(
-                    1, 1024, 196, 1).transpose(0, 2, 1, 3)</text>
+                    1, 512, 196, 1).transpose(0, 2, 1, 3)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAxLCA1MTIsIDE5NikudHJhbnNwb3NlKDAsIDIsIDEpCg==</text>
+      <register name="9" type="4">
+        <text>.reshape(
+                    1, 1024, 196, 1).transpose(0, 2, 1, 3)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
