@@ -64,9 +64,7 @@
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/tensorflow/python/ops/rnn_cell_impl.py" timestamp="1561742830447">
-        <mark key="'" line="350" column="32" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" timestamp="1562093428626" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561749019279">
         <mark key="[" line="34" column="63" />
         <mark key="]" line="34" column="69" />
