@@ -9,6 +9,7 @@
       <file name="/a.dummy" timestamp="1561785029131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/setuptools/__init__.py" timestamp="1562125608378" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/eval.cfg" timestamp="1561746486762">
         <mark key="[" line="28" column="95" />
         <mark key="]" line="28" column="94" />
@@ -27,6 +28,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.py" timestamp="1562125861419" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562006560426" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
         <mark key="[" line="48" column="31" />
