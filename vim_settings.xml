@@ -3,10 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1562124437850">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1561785029131">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1562179446177" />
+      <file name="/a.dummy" timestamp="1562179242496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/setuptools/__init__.py" timestamp="1562127563350" />
@@ -25,20 +23,6 @@
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/butd_attention.py" timestamp="1561423396253">
-        <mark key="[" line="303" column="32" />
-        <mark key="]" line="303" column="19" />
-        <mark key="^" line="303" column="19" />
-        <mark key="." line="303" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.py" timestamp="1562128476212" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562006560426" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
         <mark key="[" line="48" column="31" />
         <mark key="]" line="48" column="66" />
@@ -58,7 +42,6 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dumpers.py" timestamp="1562029111430" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1561222822857">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="9" />
@@ -70,9 +53,6 @@
         <mark key="^" line="35" column="88" />
         <mark key="." line="35" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561352472219">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" timestamp="1562093428626" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561749019279">
         <mark key="[" line="34" column="63" />
@@ -80,8 +60,12 @@
         <mark key="^" line="34" column="69" />
         <mark key="." line="34" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_scenenet.cfg" timestamp="1561767045890" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/encoder.py" timestamp="1562002297746" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/version.py" timestamp="1562179703008">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1561423325182">
         <mark key="[" line="59" column="32" />
         <mark key="]" line="60" column="11" />
@@ -94,14 +78,44 @@
         <mark key="^" line="22" column="58" />
         <mark key="." line="22" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562180060309" />
+      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.cfg" timestamp="1562179193375" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/util.py" timestamp="1562003143827" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
+      <file name="/Python Console" timestamp="1562124437850">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
+        <mark key="[" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/butd_attention.py" timestamp="1561423396253">
+        <mark key="[" line="303" column="32" />
+        <mark key="]" line="303" column="19" />
+        <mark key="^" line="303" column="19" />
+        <mark key="." line="303" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.py" timestamp="1562178883115" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562006560426" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_t.py" timestamp="1562179238992">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dumpers.py" timestamp="1562029111430" />
+      <file name="/Dummy.txt" timestamp="1561352472219">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_scenenet.cfg" timestamp="1561767045890" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/encoder.py" timestamp="1562002297746" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561766645788">
         <mark key="[" line="43" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562177777578">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/requirements.txt" timestamp="1562128420121">
         <mark key="[" line="4" column="11" />
@@ -109,8 +123,6 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/util.py" timestamp="1562003143827" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/__init__.py" timestamp="1562177690263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -124,7 +136,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuYmFja2VuZHMudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -133,31 +145,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuYmFja2VuZHMudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcGFja2FnZXM9ZmluZF9wYWNrYWdlcyhpbmNsdWRlPSgnZm91bmRhdGlvbi4qJywpKSwK</text>
+        <text encoding="base64">VkVSU0lPTiA9ICcwLjAuMGRldicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaCBpbXBvcnQgdGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdoZWxsbyB3b3JsZCcpCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3QoKToK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuYmFja2VuZHMudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
