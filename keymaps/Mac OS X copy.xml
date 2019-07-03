@@ -98,7 +98,7 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
