@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1561877622092">
+      <file name="/Python Console" timestamp="1562124437850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1561785029131">
@@ -87,6 +87,12 @@
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561766645788">
         <mark key="[" line="43" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/requirements.txt" timestamp="1562124527051">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/util.py" timestamp="1562003143827" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
