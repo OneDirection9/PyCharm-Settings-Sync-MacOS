@@ -90,11 +90,11 @@
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561766645788">
         <mark key="[" line="43" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562128469996">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="32" column="29" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562175341315">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
         <mark key="^" line="32" column="29" />
-        <mark key="." line="32" column="29" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/requirements.txt" timestamp="1562128420121">
         <mark key="[" line="4" column="11" />
@@ -112,10 +112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_VERSION</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_VERSION</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIG1lYW5fZmVhdHNfcGxhY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAjICAgICBkdHlwZT10Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMSwgMSwgc2VsZi5fZW1iZWRkaW5nX3NpemVdLAogICAgICAgICMgICAgIG5hbWU9J21lYW5fZmVhdHNfcGxhY2Vob2xkZXInKQogICAgICAgICMgYXR0X2ZlYXRzX3BsYWNlaG9sZGVyID0gdGYucGxhY2Vob2xkZXIoCiAgICAgICAgIyAgICAgZHR5cGU9dGYuZmxvYXQzMiwKICAgICAgICAjICAgICBzaGFwZT1bTm9uZSwgc2VsZi5faW1hZ2VfZmVhdF9zaXplWzBdLCBzZWxmLl9pbWFnZV9mZWF0X3NpemVbMV0sIHNlbGYuX2VtYmVkZGluZ19zaXplXSwKICAgICAgICAjICAgICBuYW1lPSdhdHRfZmVhdHNfcGxhY2Vob2xkZXInKQogICAgICAgICMgcF9hdHRfZmVhdHNfcGxhY2Vob2xkZXIgPSB0Zi5wbGFjZWhvbGRlcigKICAgICAgICAjICAgICBkdHlwZT10Zi5mbG9hdDMyLAogICAgICAgICMgICAgIHNoYXBlPVtOb25lLCBzZWxmLl9pbWFnZV9mZWF0X3NpemVbMF0sIHNlbGYuX2ltYWdlX2ZlYXRfc2l6ZVsxXSwgc2VsZi5fcF9hdHRfZW1iX3NpemVdLAogICAgICAgICMgICAgIG5hbWU9J3BfYXR0X2ZlYXRzX3BsYWNlaG9sZGVyJykK</text>
