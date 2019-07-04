@@ -61,9 +61,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" timestamp="1562196204588">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" timestamp="1562197654868">
         <mark key="'" line="12" column="0" />
+        <mark key="[" line="48" column="46" />
+        <mark key="]" line="48" column="46" />
         <mark key="^" line="48" column="46" />
+        <mark key="." line="48" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/__init__.py" timestamp="1562195462651">
         <mark key="[" line="4" column="0" />
@@ -80,8 +83,11 @@
         <mark key="^" line="22" column="58" />
         <mark key="." line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562195271722">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562197802434">
         <mark key="[" line="22" column="24" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/mmcv/setup.cfg" timestamp="1562179193375" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/util.py" timestamp="1562003143827" />
@@ -117,6 +123,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/handlers.py" timestamp="1562196224806" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562197552140">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_scenenet.cfg" timestamp="1561767045890" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/encoder.py" timestamp="1562002297746" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561766645788">
@@ -131,15 +143,11 @@
       <file name="$USER_HOME$/Documents/my-repositories/foundation/README.md" timestamp="1562196384758">
         <mark key="[" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/parse.py" timestamp="1562196193708">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1561618254164">
-        <mark key="[" line="111" column="8" />
-        <mark key="]" line="111" column="8" />
-        <mark key="." line="111" column="8" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/parse.py" timestamp="1562197710039">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -151,40 +159,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbWF4X251bSA+IDAgYW5kIGNudCA+PSBtYXhfbnVtOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbWF4X251bSA+IDAgYW5kIGNudCA+PSBtYXhfbnVtOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">aW1wb3J0IGZvdW5kYXRpb24K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Zm91bmRhdGlvbi5wKClkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
