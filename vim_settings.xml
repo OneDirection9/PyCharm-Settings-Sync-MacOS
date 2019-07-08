@@ -231,6 +231,12 @@
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562574955551">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tensorflow/ckpt.py" timestamp="1561114554996">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="33" />
@@ -316,11 +322,11 @@
       <jump line="68" column="65" filename="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">X2ZpbGUg</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">X2ZpbGUg</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -329,31 +335,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nID0gY3YyLmltcmVhZChpbWdfZmlsZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oKSkK</text>
+        <text encoding="base64">ZnJvbSB0b3JjaCBpbXBvcnQgbm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VkVSU0lPTiA9ICcwLjAuMGRldicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgo=</text>
+        <text encoding="base64">VkVSU0lPTiA9ICcwLjAuMGRldicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuYmFja2VuZHMudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
