@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1562179242496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,11 +137,11 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562568968722">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="15" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562576061176">
+        <mark key="[" line="22" column="68" />
+        <mark key="]" line="22" column="69" />
+        <mark key="^" line="22" column="68" />
+        <mark key="." line="22" column="69" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dump.py" timestamp="1560261541230">
         <mark key="[" line="105" column="28" />
@@ -197,6 +202,11 @@
         <mark key="]" line="47" column="17" />
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/imageio.py" timestamp="1562576595934">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_t.py" timestamp="1562571874435">
         <mark key="[" line="7" column="0" />
@@ -322,8 +332,8 @@
       <jump line="68" column="65" filename="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">X2ZpbGUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">X2ZpbGUg</text>
@@ -335,31 +345,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1nID0gY3YyLmltcmVhZChpbWdfZmlsZSkK</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaCBpbXBvcnQgbm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nID0gY3YyLmltcmVhZChpbWdfZmlsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oKSkK</text>
+        <text encoding="base64">ZnJvbSB0b3JjaCBpbXBvcnQgbm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VkVSU0lPTiA9ICcwLjAuMGRldicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgo=</text>
+        <text encoding="base64">VkVSU0lPTiA9ICcwLjAuMGRldicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
