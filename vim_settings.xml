@@ -41,6 +41,7 @@
         <mark key="^" line="48" column="66" />
         <mark key="." line="48" column="66" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib-3.1.1-py3.6-macosx-10.7-x86_64.egg/matplotlib/cm.py" timestamp="1562593234150" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/os.py" timestamp="1562578321713" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561108244391">
         <mark key="[" line="55" column="17" />
@@ -118,10 +119,11 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" timestamp="1562585096007">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" timestamp="1562593190724">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1561423325182">
         <mark key="[" line="59" column="32" />
@@ -255,11 +257,11 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/image.py" timestamp="1562584946302">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="27" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/image.py" timestamp="1562593011473">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_v2.py" timestamp="1560396268557">
         <mark key="[" line="63" column="45" />
@@ -391,10 +393,11 @@
       <jump line="350" column="32" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/tensorflow/python/ops/rnn_cell_impl.py" />
       <jump line="68" column="65" filename="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" />
       <jump line="10" column="14" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIHBsdC5SZWN0YW5nbGUK</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -406,31 +409,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIHBsdC5SZWN0YW5nbGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpc2luc3RhbmNlKHgsIG5wLm5kYXJyYXkpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCByYW5kb20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGlzX25wX2FycmF5KHgpOgo=</text>
+        <text encoding="base64">ICAgIHJhbmRvbS5yYW5kb20oKWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVmYXVsdDogTm9uZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc2luc3RhbmNlKHgsIG5wLm5kYXJyYXkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAubWlzYyBpbXBvcnQgaXNfc3RyCg==</text>
+        <text encoding="base64">ZGVmIGlzX25wX2FycmF5KHgpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAucGF0aCBpbXBvcnQgY2hlY2tfZmlsZV9leGlzdAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
