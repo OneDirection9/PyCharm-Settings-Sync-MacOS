@@ -19,7 +19,7 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1562179242496">
+      <file name="/a.dummy" timestamp="1562656715592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/__init__.py" timestamp="1562177637188">
@@ -34,10 +34,20 @@
         <mark key="^" line="28" column="94" />
         <mark key="." line="28" column="94" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/image.py" timestamp="1562657061921">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562649929848" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562656707850">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/bottom-up_env-setup.sh" timestamp="1561011765094">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
@@ -158,7 +168,7 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/misc.py" timestamp="1562590776393">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/misc.py" timestamp="1562656870420">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -324,10 +334,11 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/imageio.py" timestamp="1562594672153">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/imageio.py" timestamp="1562656764083">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/.gitignore" timestamp="1561126430667">
         <mark key="[" line="6" column="6" />
@@ -335,12 +346,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1562578822531">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="55" />
-        <mark key="^" line="23" column="55" />
-        <mark key="." line="23" column="55" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1562656878580">
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="25" column="55" />
+        <mark key="^" line="25" column="55" />
+        <mark key="." line="25" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_100_rois.cfg" timestamp="1560759756372">
         <mark key="[" line="23" column="25" />
@@ -405,26 +416,11 @@
       <jump line="16" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>class Colormap(object):
-
-    def __init__(self, name):
-        from matplotlib import pyplot as plt
-        plt.Rectangle
-        self._cmap = plt.get_cmap(name)
-
-    def __call__(self, X, alpha=None, bytes=False, order='rgb'):
-
-class Colorss(object):
-
-    def __init__(self, color_type):
-        if color_type == 'cmap':
-            pass
-        elif color_type == 'from_list':
-            pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">b3VuZGF0aW9uLnV0aWxzIA==</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -432,7 +428,25 @@ class Colorss(object):
       <register name="0" type="4">
         <text>'color order should either be `rgb` or `bgt`'</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnV0aWxzIGltcG9ydCBtaXNjCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIDIwMTctcHJlc2VudCwgRmFjZWJvb2ssIEluYy4KIwojIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwojIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KIyBZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YgdGhlIExpY2Vuc2UgYXQKIwojICAgICBodHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjAKIwojIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKIyBkaXN0cmlidXRlZCB1bmRlciB0aGUgTGljZW5zZSBpcyBkaXN0cmlidXRlZCBvbiBhbiAiQVMgSVMiIEJBU0lTLAojIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgojIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKIyBsaW1pdGF0aW9ucyB1bmRlciB0aGUgTGljZW5zZS4KIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>class Colormap(object):
 
     def __init__(self, name):
@@ -450,29 +464,11 @@ class Colorss(object):
         elif color_type == 'from_list':
             pass</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbG9ybWFwID0gcGx0LmdldF9jbWFwKCd0YWIyMGInKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB5dGVzdC5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGRACg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZ2JfZmxvYXRfY29sb3I6Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
+        <text encoding="base64">ICAgIHB5dGVzdC5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
