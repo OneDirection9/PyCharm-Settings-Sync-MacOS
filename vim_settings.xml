@@ -3,16 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualization.py" timestamp="1562642828110">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="67" />
-        <mark key="." line="13" column="67" />
-        <mark key="^" line="13" column="67" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1562644314777">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualization.py" timestamp="1562645772039">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1562179242496">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/__init__.py" timestamp="1562177637188">
         <mark key="[" line="0" column="0" />
@@ -26,11 +35,13 @@
         <mark key="^" line="28" column="94" />
         <mark key="." line="28" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562642800209">
-        <mark key="[" line="116" column="18" />
-        <mark key="]" line="116" column="13" />
-        <mark key="." line="116" column="13" />
-        <mark key="^" line="116" column="13" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562645374638">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/bottom-up_env-setup.sh" timestamp="1561011765094">
         <mark key="[" line="5" column="16" />
@@ -57,6 +68,9 @@
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
+        <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1562031587563">
         <mark key="[" line="87" column="38" />
@@ -185,6 +199,12 @@
         <mark key="^" line="1187" column="41" />
         <mark key="." line="1187" column="41" />
       </file>
+      <file name="/Python Console" timestamp="1562645644498">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
+        <mark key="[" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecords.py" timestamp="1561016083461">
         <mark key="'" line="44" column="29" />
         <mark key="[" line="5" column="0" />
@@ -276,10 +296,14 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562640396232">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
+      <file name="/Dummy.txt" timestamp="1561352472219">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562644616076">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tensorflow/ckpt.py" timestamp="1561114554996">
         <mark key="[" line="27" column="18" />
@@ -387,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi5jb2xvcnMuTGlzdGVkQ29sb3JtYXAK</text>
+        <text encoding="base64">ICAgIHBsdC5zYXZlZmlnKGZpbGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -399,31 +423,31 @@
         <text>'color order should either be `rgb` or `bgt`'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi5jb2xvcnMuTGlzdGVkQ29sb3JtYXAK</text>
+        <text encoding="base64">ICAgIHBsdC5zYXZlZmlnKGZpbGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBjb2xvcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ICAgIGZpZyA9IGF4Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZy5zZXRfZnJhbWVvbihGYWxzZSkKCiAgICBmaWcuc2F2ZWZpZyhmaWxlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHBsb3RfY29sb3JfbGlzdChjb2xvcl9saXN0KToKICAgICIiIlBsb3RzIGNvbG9yIGxpc3QuIiIiCiAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdCBhcyBwbHQKCiAgICBjbXAgPSBjb2xvcnMuTGlzdGVkQ29sb3JtYXAoY29sb3JfbGlzdCkKCiAgICBhID0gbnAub3V0ZXIobnAub25lcygxMCksIG5wLmFyYW5nZSgwLCAxLCAwLjAwMSkpCiAgICBwbHQuZmlndXJlKGZpZ3NpemU9KDIuNSwgMC41KSkKICAgIHBsdC5zdWJwbG90c19hZGp1c3QodG9wPTAuOTUsIGJvdHRvbT0wLjA1LCBsZWZ0PTAuMDEsIHJpZ2h0PTAuOTkpCiAgICBwbHQuc3VicGxvdCgxMTEpCiAgICBwbHQuYXhpcygnb2ZmJykKICAgIHBsdC5pbXNob3coYSwgYXNwZWN0PSdhdXRvJywgY21wPWNtcCwgb3JpZ2luPSdsb3dlcicpCiAgICBwbHQuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgIGZpbGUgPSBvc3AuYWJzcGF0aCgnLi9vdXRwdXRzL2NvbG9yX2xpc3QucG5nJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsdC50ZXh0KDAuNSwgMC41LCBuYW1lLAogICAgICAgICAgICAgdmVydGljYWxhbGlnbm1lbnQ9J2NlbnRlcicsIGhvcml6b250YWxhbGlnbm1lbnQ9J2NlbnRlcicsCiAgICAgICAgICAgICBmb250c2l6ZT0xMiwgdHJhbnNmb3JtPXBsdC5nY2EoKS50cmFuc0F4ZXMpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcy5wYXRoIGFzIG9zcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZpZy5zZXRfZnJhbWVvbihGYWxzZSkKICAgIGltcG9ydCBvcy5wYXRoIGFzIG9zcAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
