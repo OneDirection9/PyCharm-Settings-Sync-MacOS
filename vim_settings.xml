@@ -9,11 +9,10 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualization.py" timestamp="1562645772039">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="19" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualization.py" timestamp="1562649031951">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
         <mark key="[" line="137" column="0" />
@@ -38,11 +37,7 @@
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562645374638">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562649929848" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/bottom-up_env-setup.sh" timestamp="1561011765094">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="16" />
@@ -121,11 +116,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" timestamp="1562584586733">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="63" column="21" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="63" column="21" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" timestamp="1562648154480">
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bbox_from_tsv.py" timestamp="1561013750686">
         <mark key="[" line="39" column="29" />
@@ -410,11 +405,26 @@
       <jump line="16" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBsdC5zYXZlZmlnKGZpbGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>class Colormap(object):
+
+    def __init__(self, name):
+        from matplotlib import pyplot as plt
+        plt.Rectangle
+        self._cmap = plt.get_cmap(name)
+
+    def __call__(self, X, alpha=None, bytes=False, order='rgb'):
+
+class Colorss(object):
+
+    def __init__(self, color_type):
+        if color_type == 'cmap':
+            pass
+        elif color_type == 'from_list':
+            pass</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -422,32 +432,47 @@
       <register name="0" type="4">
         <text>'color order should either be `rgb` or `bgt`'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5zYXZlZmlnKGZpbGUpCg==</text>
+      <register name="1" type="4">
+        <text>class Colormap(object):
+
+    def __init__(self, name):
+        from matplotlib import pyplot as plt
+        plt.Rectangle
+        self._cmap = plt.get_cmap(name)
+
+    def __call__(self, X, alpha=None, bytes=False, order='rgb'):
+
+class Colorss(object):
+
+    def __init__(self, color_type):
+        if color_type == 'cmap':
+            pass
+        elif color_type == 'from_list':
+            pass</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9ybWFwID0gcGx0LmdldF9jbWFwKCd0YWIyMGInKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpZyA9IGF4Lgo=</text>
+        <text encoding="base64">ICAgIHB5dGVzdC5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpZy5zZXRfZnJhbWVvbihGYWxzZSkKCiAgICBmaWcuc2F2ZWZpZyhmaWxlKQo=</text>
+        <text encoding="base64">ZGRACg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBvc3AuYWJzcGF0aCgnLi9vdXRwdXRzL2NvbG9yX2xpc3QucG5nJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcy5wYXRoIGFzIG9zcAo=</text>
+        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZy5zZXRfZnJhbWVvbihGYWxzZSkKICAgIGltcG9ydCBvcy5wYXRoIGFzIG9zcAo=</text>
+        <text encoding="base64">ICAgICAgICByZ2JfZmxvYXRfY29sb3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
