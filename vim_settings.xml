@@ -9,10 +9,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualization.py" timestamp="1562649031951">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualization.py" timestamp="1562660167748">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
         <mark key="[" line="137" column="0" />
@@ -416,11 +417,11 @@
       <jump line="16" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3VuZGF0aW9uLnV0aWxzIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
