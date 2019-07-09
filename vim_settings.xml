@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualization.py" timestamp="1562642828110">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -20,10 +26,11 @@
         <mark key="^" line="28" column="94" />
         <mark key="." line="28" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562595838782">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/colormap.py" timestamp="1562642800209">
+        <mark key="[" line="116" column="18" />
+        <mark key="]" line="116" column="13" />
+        <mark key="." line="116" column="13" />
+        <mark key="^" line="116" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/bottom-up_env-setup.sh" timestamp="1561011765094">
         <mark key="[" line="5" column="16" />
@@ -191,6 +198,7 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib-3.1.1-py3.6-macosx-10.7-x86_64.egg/matplotlib/colors.py" timestamp="1562639782342" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1561086082413">
         <mark key="[" line="23" column="64" />
         <mark key="]" line="23" column="63" />
@@ -268,11 +276,10 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562595386946">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562640396232">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tensorflow/ckpt.py" timestamp="1561114554996">
         <mark key="[" line="27" column="18" />
@@ -380,43 +387,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">bWF0cGxvdGxpYi5jb2xvcnMuTGlzdGVkQ29sb3JtYXAK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
+      <register name="0" type="4">
+        <text>'color order should either be `rgb` or `bgt`'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">bWF0cGxvdGxpYi5jb2xvcnMuTGlzdGVkQ29sb3JtYXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3YyLklNUkVBRF8K</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBjb2xvcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LmdldF9jbWFwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsdC5SZWN0YW5nbGUK</text>
+        <text encoding="base64">ZGVmIHBsb3RfY29sb3JfbGlzdChjb2xvcl9saXN0KToKICAgICIiIlBsb3RzIGNvbG9yIGxpc3QuIiIiCiAgICBmcm9tIG1hdHBsb3RsaWIgaW1wb3J0IHB5cGxvdCBhcyBwbHQKCiAgICBjbXAgPSBjb2xvcnMuTGlzdGVkQ29sb3JtYXAoY29sb3JfbGlzdCkKCiAgICBhID0gbnAub3V0ZXIobnAub25lcygxMCksIG5wLmFyYW5nZSgwLCAxLCAwLjAwMSkpCiAgICBwbHQuZmlndXJlKGZpZ3NpemU9KDIuNSwgMC41KSkKICAgIHBsdC5zdWJwbG90c19hZGp1c3QodG9wPTAuOTUsIGJvdHRvbT0wLjA1LCBsZWZ0PTAuMDEsIHJpZ2h0PTAuOTkpCiAgICBwbHQuc3VicGxvdCgxMTEpCiAgICBwbHQuYXhpcygnb2ZmJykKICAgIHBsdC5pbXNob3coYSwgYXNwZWN0PSdhdXRvJywgY21wPWNtcCwgb3JpZ2luPSdsb3dlcicpCiAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByYW5kb20K</text>
+        <text encoding="base64">ICAgIHBsdC50ZXh0KDAuNSwgMC41LCBuYW1lLAogICAgICAgICAgICAgdmVydGljYWxhbGlnbm1lbnQ9J2NlbnRlcicsIGhvcml6b250YWxhbGlnbm1lbnQ9J2NlbnRlcicsCiAgICAgICAgICAgICBmb250c2l6ZT0xMiwgdHJhbnNmb3JtPXBsdC5nY2EoKS50cmFuc0F4ZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJhbmRvbS5yYW5kb20oKWRkCg==</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -458,6 +465,7 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry>we</entry>
+        <entry>;;;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
