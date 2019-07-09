@@ -15,12 +15,7 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/build_cnn.py" timestamp="1561010278076">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1562656715592">
+      <file name="/a.dummy" timestamp="1562674268714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/__init__.py" timestamp="1562177637188">
@@ -35,11 +30,11 @@
         <mark key="^" line="28" column="94" />
         <mark key="." line="28" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/image.py" timestamp="1562667093046">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/image.py" timestamp="1562676953822">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="62" column="67" />
+        <mark key="^" line="62" column="67" />
+        <mark key="." line="62" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
         <mark key="[" line="3" column="0" />
@@ -121,6 +116,12 @@
         <mark key="." line="34" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/vocabulary.py" timestamp="1561122719461" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/image.py" timestamp="1562674703879">
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/version.py" timestamp="1562179703008">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -169,10 +170,11 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/misc.py" timestamp="1562656870420">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/misc.py" timestamp="1562674719120">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/bottom-up_env-setup.sh" timestamp="1561010866458">
         <mark key="[" line="3" column="1" />
@@ -205,7 +207,7 @@
         <mark key="^" line="1187" column="41" />
         <mark key="." line="1187" column="41" />
       </file>
-      <file name="/Python Console" timestamp="1562645644498">
+      <file name="/Python Console" timestamp="1562676246601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
@@ -255,11 +257,6 @@
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/imageio.py" timestamp="1562576595934">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/imageio.py" timestamp="1562590829855">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="23" />
@@ -305,11 +302,11 @@
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562644616076">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562675725979">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tensorflow/ckpt.py" timestamp="1561114554996">
         <mark key="[" line="27" column="18" />
@@ -347,12 +344,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1562656878580">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1562675424488">
         <mark key="'" line="14" column="14" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="25" column="55" />
-        <mark key="^" line="25" column="55" />
-        <mark key="." line="25" column="55" />
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="61" />
+        <mark key="." line="9" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_100_rois.cfg" timestamp="1560759756372">
         <mark key="[" line="23" column="25" />
@@ -417,11 +414,11 @@
       <jump line="16" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -430,46 +427,31 @@
         <text>'color order should either be `rgb` or `bgt`'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBheAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnV0aWxzIGltcG9ydCBtaXNjCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIDIwMTctcHJlc2VudCwgRmFjZWJvb2ssIEluYy4KIwojIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwojIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KIyBZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YgdGhlIExpY2Vuc2UgYXQKIwojICAgICBodHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjAKIwojIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKIyBkaXN0cmlidXRlZCB1bmRlciB0aGUgTGljZW5zZSBpcyBkaXN0cmlidXRlZCBvbiBhbiAiQVMgSVMiIEJBU0lTLAojIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgojIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKIyBsaW1pdGF0aW9ucyB1bmRlciB0aGUgTGljZW5zZS4KIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGF4Lmltc2hvdyhpbWcsIGNtYXA9Y21hcCkgICMgZXhwZWN0IGFuIGltYWdlIGluIFJHQiBvcmRlcgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>class Colormap(object):
-
-    def __init__(self, name):
-        from matplotlib import pyplot as plt
-        plt.Rectangle
-        self._cmap = plt.get_cmap(name)
-
-    def __call__(self, X, alpha=None, bytes=False, order='rgb'):
-
-class Colorss(object):
-
-    def __init__(self, color_type):
-        if color_type == 'cmap':
-            pass
-        elif color_type == 'from_list':
-            pass</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNtYXAgPSBwbHQuZ2V0X2NtYXAoJ2dyYXknKSBpZiBpbWcubmRpbSA9PSAyIGVsc2UgTm9uZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbWcgPSBpbWdbOiwgOiwgOjotMV0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGltZy5uZGltID09IDM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbG9ybWFwID0gcGx0LmdldF9jbWFwKCd0YWIyMGInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB5dGVzdC5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBheCA9IGZpZy5hZGRfc3VicGxvdCgxLCAxLCAxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
