@@ -4,7 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1562179446177" />
-      <file name="$USER_HOME$/Documents/repositories/mmcv/mmcv/visualization/image.py" timestamp="1562200585459" />
       <file name="/a.dummy" timestamp="1562179242496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,16 +20,9 @@
         <mark key="^" line="28" column="94" />
         <mark key="." line="28" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/image.py" timestamp="1562200833542">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/mmcv/mmcv/image/io.py" timestamp="1562201160057" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
         <mark key="[" line="48" column="31" />
         <mark key="]" line="48" column="66" />
@@ -69,16 +61,6 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" timestamp="1562197654868">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="46" />
-        <mark key="^" line="48" column="46" />
-        <mark key="." line="48" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/__init__.py" timestamp="1562195462651">
-        <mark key="[" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1561423325182">
         <mark key="[" line="59" column="32" />
         <mark key="]" line="60" column="11" />
@@ -91,12 +73,7 @@
         <mark key="^" line="22" column="58" />
         <mark key="." line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562200085354">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="9" />
-        <mark key="^" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562180060309" />
       <file name="$USER_HOME$/Documents/repositories/mmcv/setup.cfg" timestamp="1562179193375" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/util.py" timestamp="1562003143827" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
@@ -118,7 +95,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.py" timestamp="1562199189066" />
+      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.py" timestamp="1562178883115" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562006560426" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_t.py" timestamp="1562179238992">
         <mark key="[" line="3" column="0" />
@@ -129,16 +106,6 @@
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dumpers.py" timestamp="1562029111430" />
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/handlers.py" timestamp="1562196224806" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562197552140">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/utils.py" timestamp="1562200611628">
-        <mark key="[" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_scenenet.cfg" timestamp="1561767045890" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/encoder.py" timestamp="1562002297746" />
@@ -151,59 +118,48 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/README.md" timestamp="1562196384758">
-        <mark key="[" line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/parse.py" timestamp="1562197710039">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="33" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="318" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
       <jump line="350" column="32" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/tensorflow/python/ops/rnn_cell_impl.py" />
       <jump line="68" column="65" filename="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHBsb3RfaW1nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'matplotlib==3.1.1'</text>
+        <text>i</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHBsb3RfaW1nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbWF4X251bSA+IDAgYW5kIGNudCA+PSBtYXhfbnVtOgo=</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3ZlcnNpb24oKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGZvdW5kYXRpb24K</text>
+        <text encoding="base64">VkVSU0lPTiA9ICcwLjAuMGRldicK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm91bmRhdGlvbi5wKClkZAo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBwcmludF9mdW5jdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBkaXZpc2lvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuYmFja2VuZHMudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ZnJvbSAudG9yY2gudGVzdCBpbXBvcnQgcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
