@@ -15,7 +15,7 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1562674268714">
+      <file name="/a.dummy" timestamp="1562741181472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/__init__.py" timestamp="1562177637188">
@@ -50,13 +50,13 @@
         <mark key="^" line="44" column="2" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1562741149144">
         <mark key="[" line="48" column="31" />
         <mark key="]" line="48" column="66" />
         <mark key="^" line="48" column="66" />
         <mark key="." line="48" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561108244391">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1562741232215">
         <mark key="[" line="55" column="17" />
         <mark key="]" line="55" column="51" />
         <mark key="^" line="55" column="51" />
@@ -209,6 +209,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
         <mark key="[" line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1562742029984">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="54" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecords.py" timestamp="1561016083461">
         <mark key="'" line="44" column="29" />
         <mark key="[" line="5" column="0" />
@@ -315,6 +321,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/metrics/eval.py" timestamp="1562741794386">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/datagen_roi_100.cfg" timestamp="1560759899628">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="23" column="28" />
@@ -404,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByZWQgPSBqc29uLmxvYWQob3BlbignJykpCiAgICBsYW5ndWFnZV9ldmFsKHByZWQsICcuLycsICcnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text># serialize to temporary json file. Sigh, COCO API...</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -416,31 +428,31 @@
         <text>'color order should either be `rgb` or `bgt`'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHByZWQgPSBqc29uLmxvYWQob3BlbignJykpCiAgICBsYW5ndWFnZV9ldmFsKHByZWQsICcuLycsICcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhc3QgaW1wb3J0IGxpdGVyYWxfZXZhbAo=</text>
+        <text encoding="base64">ICAgIGNhY2hlX21ldHJpYyA9IG9zLnBhdGguam9pbigKICAgICAgICBjaGVja3BvaW50X2RpciwgJ2NhcHRpb25fZXZhbF97fS5qc29uJy5mb3JtYXQoZm9ybWF0X3RpbWUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2NvY29fbnVtX3NhbXBsZXMgPSAxMTMyODcgKiA1Cg==</text>
+        <text encoding="base64">ICAgIGNhY2hlX21ldHJpYyA9IG9zLnBhdGguam9pbigKICAgICAgICBjaGVja3BvaW50X2RpciwgJ2NhcHRpb25fZXZhbF97fS5qc29uJy5mb3JtYXQoZm9ybWF0X3RpbWUpKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYWluX251bV9zYW1wbGVzID0gdHJhaW5fY29jb19udW1fc2FtcGxlcyArIHRyYWluX2F4X251bV9zYW1wbGVzCg==</text>
+        <text encoding="base64">ICAgICMgc2VyaWFsaXplIHRvIHRlbXBvcmFyeSBqc29uIGZpbGUuIFNpZ2gsIENPQ08gQVBJLi4uCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZmlsdGVyIHJlc3VsdHMgdG8gb25seSB0aG9zZSBpbiBhbm5fZmlsZQogICAgcHJlZHNfZmlsdCA9IFtwIGZvciBwIGluIHByZWRzIGlmIHBbJ2ltYWdlX2lkJ10gaW4gdmFsaWRzXQogICAgcHJpbnQoJ3VzaW5nICVkLyVkIHByZWRpY3Rpb25zJyAlIChsZW4ocHJlZHNfZmlsdCksIGxlbihwcmVkcykpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoKS5zdWJzZXQobmFtZSwgcXVlcnk9cXVlcnkpCg==</text>
+        <text encoding="base64">ICAgIGNvY28gPSBDT0NPKGFubl9maWxlKQogICAgdmFsaWRzID0gY29jby5nZXRJbWdJZHMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdWJzZXQoc2VsZiwgbmFtZSwgKiwgcXVlcnk9Tm9uZSk6CiAgICAgICAgICAgIHNlbGYuX3BhcnNlX3F1ZXJ5KHF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgIGVuY29kZXIuRkxPQVRfUkVQUiA9IGxhbWJkYSBvOiBmb3JtYXQobywgJy4zZicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBxdWVyeSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgIGFubl9maWxlID0gZ2V0X2Fzc2V0KGFubl9maWxlKS5hdXRvZmV0Y2goKS5hc19wb3NpeCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
