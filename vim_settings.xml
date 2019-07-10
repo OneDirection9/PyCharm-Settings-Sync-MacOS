@@ -56,8 +56,6 @@
         <mark key="^" line="48" column="66" />
         <mark key="." line="48" column="66" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib-3.1.1-py3.6-macosx-10.7-x86_64.egg/matplotlib/cm.py" timestamp="1562593234150" />
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/os.py" timestamp="1562578321713" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1561108244391">
         <mark key="[" line="55" column="17" />
         <mark key="]" line="55" column="51" />
@@ -115,7 +113,6 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/vocabulary.py" timestamp="1561122719461" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/image.py" timestamp="1562674703879">
         <mark key="[" line="39" column="42" />
         <mark key="]" line="39" column="32" />
@@ -139,12 +136,6 @@
         <mark key="]" line="39" column="3" />
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" timestamp="1562593190724">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1561423325182">
         <mark key="[" line="59" column="32" />
@@ -200,7 +191,6 @@
         <mark key="^" line="105" column="27" />
         <mark key="." line="105" column="27" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
       <file name="$USER_HOME$/Documents/simcloud/Setup/simcloud_setup.sh" timestamp="1560844263568">
         <mark key="[" line="214" column="0" />
         <mark key="]" line="214" column="3" />
@@ -213,7 +203,7 @@
         <mark key="^" line="1187" column="41" />
         <mark key="." line="1187" column="41" />
       </file>
-      <file name="/Python Console" timestamp="1562676246601">
+      <file name="/Python Console" timestamp="1562739317705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
@@ -232,7 +222,6 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib-3.1.1-py3.6-macosx-10.7-x86_64.egg/matplotlib/colors.py" timestamp="1562639782342" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1561086082413">
         <mark key="[" line="23" column="64" />
         <mark key="]" line="23" column="63" />
@@ -251,7 +240,6 @@
         <mark key="." line="231" column="14" />
         <mark key="^" line="231" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562006560426" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecord.py" timestamp="1561008730059">
         <mark key="[" line="47" column="17" />
         <mark key="]" line="47" column="17" />
