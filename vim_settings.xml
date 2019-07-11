@@ -267,7 +267,7 @@
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562814386114">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562818720292">
         <mark key="[" line="228" column="59" />
         <mark key="]" line="229" column="40" />
         <mark key="^" line="229" column="40" />
@@ -309,11 +309,11 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562814712491">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="276" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562819194294">
+        <mark key="[" line="350" column="50" />
+        <mark key="]" line="318" column="0" />
+        <mark key="." line="318" column="0" />
+        <mark key="^" line="334" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tsv.py" timestamp="1561009556578">
         <mark key="[" line="58" column="43" />
@@ -347,6 +347,12 @@
         <mark key="]" line="4" column="33" />
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/ImageCaption_v2/model/Attention_t_sc.py" timestamp="1562818867161">
+        <mark key="[" line="409" column="0" />
+        <mark key="]" line="409" column="0" />
+        <mark key="." line="409" column="0" />
+        <mark key="^" line="394" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/metrics/eval.py" timestamp="1562741794386">
         <mark key="[" line="14" column="5" />
@@ -447,10 +453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50X29uY2UoCiAgICAgICAgICAgICctLWJlYW0tc2l6ZScsIGRlc3Q9J2JlYW1fc2l6ZScsIHR5cGU9aW50LCBkZWZhdWx0PTEpCg==</text>
+        <text encoding="base64">ICAgICAgICB0Zi5ubi5sb2dfc29mdG1heAo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
@@ -459,31 +465,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkX2lkLCB3b3JkX3Byb2IgPSBzZWxmLmdlbmVyYXRlX2NhcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGVtYmVkZGluZ19tYXRyaXgsIG1lYW5fZmVhdHNfZW1iLCBhdHRfZmVhdHNfZW1iLAogICAgICAgICAgICAgICAgICAgICAgICBwX2F0dF9mZWF0c19lbWIsIGF0dF9sc3RtLCBsYW5nX2xzdG0sIGxzdG1fc2NvcGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50X29uY2UoCiAgICAgICAgICAgICctLWJlYW0tc2l6ZScsIGRlc3Q9J2JlYW1fc2l6ZScsIHR5cGU9aW50LCBkZWZhdWx0PTEpCg==</text>
+        <text encoding="base64">ICAgICAgICB0Zi5ubi5sb2dfc29mdG1heAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjeHQgPSBzZXFfZW1iZWRkaW5nc1s6LCB0LCA6XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlucHV0X3NlcXMgPSB0Zi5yZXNoYXBlKGlucHV0X3NlcXMsIFstMV0pCiAgICAgICAgIyBpbnB1dF9zZXFzX29uZV9ob3QgPSB0Zi5vbmVfaG90KAogICAgICAgICMgICAgIGlucHV0X3NlcXMsIGRlcHRoPXNlbGYuX3ZvY2FiX3NpemUsIGR0eXBlPXRmLmZsb2F0MzIpCiAgICAgICAgIyBzZXFfZW1iZWRkaW5ncyA9IHRmLm1hdG11bChpbnB1dF9zZXFzX29uZV9ob3QsIGVtYmVkZGluZ19tYXRyaXgpCiAgICAgICAgIyBzZXFfZW1iZWRkaW5ncyA9IHRmLnJlc2hhcGUoCiAgICAgICAgIyAgICAgc2VxX2VtYmVkZGluZ3MsCiAgICAgICAgIyAgICAgWy0xLCBzZWxmLl9tYXhfY2FwdGlvbl9sZW4gKyAxLCBzZWxmLl9lbWJlZGRpbmdfc2l6ZV0pCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICN4dCA9IHRmLm5uLmVtYmVkZGluZ19sb29rdXAoZW1iZWRkaW5nX21hdHJpeCwgaW5pdF9pdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhdHRfcmVzID0gdGYubWF0bXVsKHRmLmV4cGFuZF9kaW1zKGF0dF93ZWlnaHRzLCBheGlzPTEpLCBhdHRfZmVhdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICN4dCA9IHRmLmdhdGhlcihlbWJlZGRpbmdfbWF0cml4LCBpdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICN4dCA9IHRmLnNsaWNlKGVtYmVkZGluZ19tYXRyaXhfLCBpbml0X2l0LCB0Zi50b19pbnQ2NCh0Zi5tdWx0aXBseSh0Zi5vbmVzKFtiYXRjaF9zaXplLF0pLCBwYXJhbXNbJ2VtYmVkZGluZ19zaXplJ10pKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICN4dCA9IHRmLnJlc2hhcGUoeHQsIFstMSwgcGFyYW1zWydlbWJlZGRpbmdfc2l6ZSddXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICN4dCA9IHRmLmRpdih4dCwgcGFyYW1zWydybm5fZHJvcG91dF9rZWVwX3Byb2InXSkgKiB4dF9iaW5hcnlfdGVuc29yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICNsYW5nX291dHB1dCA9IHRmLmRpdihsYW5nX291dHB1dCwgcGFyYW1zWydybm5fZHJvcG91dF9rZWVwX3Byb2InXSkgKiBsYW5nX2JpbmFyeV90ZW5zb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhcHRpb24gPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICNwcmVkX3dvcmRfcCA9IHRmLnJlZHVjZV9tYXgobGFuZ19sb2dfc29mdG1heCwgYXhpcz0xKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3h0ID0gdGYubm4uZW1iZWRkaW5nX2xvb2t1cChlbWJlZGRpbmdfbWF0cml4LCBwcmVkX3dvcmRfaW5kKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JkX3Byb2JzID0gdGYuc3RhY2sod29yZF9wcm9icywgYXhpcz0xLCBuYW1lPSd3b3JkX3Byb2JzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeHQgPSBwcmVkX3dvcmRfaW5kX29uZWhvdF9yZXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
