@@ -62,11 +62,11 @@
         <mark key="^" line="48" column="66" />
         <mark key="." line="48" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_ax_coco_resnet_v2.cfg" timestamp="1562833649487">
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="60" column="39" />
-        <mark key="." line="60" column="39" />
-        <mark key="^" line="60" column="39" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_ax_coco_resnet_v2.cfg" timestamp="1562835258953">
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+        <mark key="^" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/metrics/pycocoevalcap/cider/cider.py" timestamp="1562744121800">
         <mark key="[" line="9" column="6" />
@@ -225,6 +225,9 @@
         <mark key="]" line="1187" column="41" />
         <mark key="^" line="1187" column="41" />
         <mark key="." line="1187" column="41" />
+      </file>
+      <file name="/Python Console" timestamp="1562835673507">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
         <mark key="[" line="2" column="37" />
@@ -473,8 +476,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/transforms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS1lMmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
