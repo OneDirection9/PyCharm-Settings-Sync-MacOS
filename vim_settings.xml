@@ -3,11 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1562179446177" />
+      <file name="/Python Console" timestamp="1562124437850">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
+        <mark key="[" line="2" column="37" />
+      </file>
       <file name="/a.dummy" timestamp="1562179242496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/setuptools/__init__.py" timestamp="1562127563350" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/__init__.py" timestamp="1562177637188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -20,68 +24,14 @@
         <mark key="^" line="28" column="94" />
         <mark key="." line="28" column="94" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/image.py" timestamp="1562200833542">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
         <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
-        <mark key="[" line="48" column="31" />
-        <mark key="]" line="48" column="66" />
-        <mark key="^" line="48" column="66" />
-        <mark key="." line="48" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_coco_scenenet.sh" timestamp="1561767346274">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1562031587563" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="17" />
-        <mark key="^" line="41" column="17" />
-        <mark key="." line="41" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso2.py" timestamp="1562031949813">
-        <mark key="[" line="35" column="85" />
-        <mark key="]" line="35" column="88" />
-        <mark key="^" line="35" column="88" />
-        <mark key="." line="35" column="88" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" timestamp="1562093428626" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561749019279">
-        <mark key="[" line="34" column="63" />
-        <mark key="]" line="34" column="69" />
-        <mark key="^" line="34" column="69" />
-        <mark key="." line="34" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/version.py" timestamp="1562179703008">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1561423325182">
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="60" column="11" />
-        <mark key="^" line="60" column="11" />
-        <mark key="." line="60" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561782275932">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="58" />
-        <mark key="^" line="22" column="58" />
-        <mark key="." line="22" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562180060309" />
-      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.cfg" timestamp="1562179193375" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/util.py" timestamp="1562003143827" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
-      <file name="/Python Console" timestamp="1562124437850">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
-        <mark key="[" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/butd_attention.py" timestamp="1561423396253">
         <mark key="[" line="303" column="32" />
@@ -95,28 +45,105 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/mmcv/setup.py" timestamp="1562178883115" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562006560426" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/processors.py" timestamp="1561502362498">
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="66" />
+        <mark key="^" line="48" column="66" />
+        <mark key="." line="48" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_t.py" timestamp="1562179238992">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dumpers.py" timestamp="1562029111430" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_coco_scenenet.sh" timestamp="1561767346274">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="17" />
+        <mark key="^" line="41" column="17" />
+        <mark key="." line="41" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso2.py" timestamp="1562031949813">
+        <mark key="[" line="35" column="85" />
+        <mark key="]" line="35" column="88" />
+        <mark key="^" line="35" column="88" />
+        <mark key="." line="35" column="88" />
+      </file>
       <file name="/Dummy.txt" timestamp="1561352472219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_scenenet.cfg" timestamp="1561767045890" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/encoder.py" timestamp="1562002297746" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562197552140">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/utils.py" timestamp="1562200611628">
+        <mark key="[" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561749019279">
+        <mark key="[" line="34" column="63" />
+        <mark key="]" line="34" column="69" />
+        <mark key="^" line="34" column="69" />
+        <mark key="." line="34" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/version.py" timestamp="1562179703008">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/io.py" timestamp="1562197654868">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="48" column="46" />
+        <mark key="]" line="48" column="46" />
+        <mark key="^" line="48" column="46" />
+        <mark key="." line="48" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/__init__.py" timestamp="1562195462651">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1561423325182">
+        <mark key="[" line="59" column="32" />
+        <mark key="]" line="60" column="11" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561782275932">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="58" />
+        <mark key="^" line="22" column="58" />
+        <mark key="." line="22" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561766645788">
         <mark key="[" line="43" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562180060309">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="22" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/requirements.txt" timestamp="1562128420121">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="11" />
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/README.md" timestamp="1562196384758">
+        <mark key="[" line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/fileio/parse.py" timestamp="1562197710039">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="33" />
       </file>
     </filemarks>
     <jumps>
