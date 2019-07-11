@@ -146,6 +146,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_ax_coco_resnet_v2_bolt.cfg" timestamp="1562859480318" />
     </filemarks>
     <jumps>
       <jump line="318" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
