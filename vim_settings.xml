@@ -148,11 +148,11 @@
         <mark key="." line="60" column="11" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/train.py" timestamp="1562913235697" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1562931203551">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1562938355804">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="10" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bboxes_from_tsv.py" timestamp="1561013173622">
         <mark key="[" line="17" column="13" />
@@ -314,12 +314,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562937118676">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562938312617">
         <mark key="'" line="434" column="60" />
-        <mark key="[" line="497" column="80" />
-        <mark key="]" line="497" column="85" />
-        <mark key="." line="497" column="85" />
-        <mark key="^" line="497" column="85" />
+        <mark key="[" line="447" column="45" />
+        <mark key="]" line="400" column="70" />
+        <mark key="." line="400" column="70" />
+        <mark key="^" line="400" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tsv.py" timestamp="1561009556578">
         <mark key="[" line="58" column="43" />
@@ -474,14 +474,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># UNK id is 1 in vocabulary
-                lang_prob_left, _, lang_prob_right = tf.split(
-                    lang_prob, axis=1,
-                    num_or_size_splits=[1, 1, self._vocab_size - 2])
-                new_unk_prob = tf.zeros(
-                    (self._batch_size, 1), dtype=tf.float32)
-                lang_prob = tf.concat(
-                    [lang_prob_left, new_unk_prob, lang_prob_right], axis=1)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
