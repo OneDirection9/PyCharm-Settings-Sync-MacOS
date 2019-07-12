@@ -180,6 +180,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/deployment.py" timestamp="1562902814825">
+        <mark key="'" line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/bottom-up_env-setup.sh" timestamp="1561010866458">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="2" />
@@ -246,8 +249,8 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1561086082413">
-        <mark key="[" line="23" column="64" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1562902122148">
+        <mark key="[" line="25" column="0" />
         <mark key="]" line="23" column="63" />
         <mark key="." line="23" column="63" />
         <mark key="^" line="23" column="63" />
@@ -270,11 +273,11 @@
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562846392329">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="^" line="205" column="40" />
-        <mark key="." line="204" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562900850030">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="1" />
+        <mark key="^" line="136" column="30" />
+        <mark key="." line="104" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/imageio.py" timestamp="1562590829855">
         <mark key="[" line="12" column="11" />
@@ -282,7 +285,7 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2_finetune.cfg" timestamp="1562832558701">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2_finetune.cfg" timestamp="1562901189565">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="60" column="12" />
         <mark key="^" line="60" column="12" />
@@ -324,11 +327,8 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562837638877">
-        <mark key="[" line="370" column="69" />
-        <mark key="]" line="467" column="31" />
-        <mark key="." line="467" column="31" />
-        <mark key="^" line="467" column="31" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562901800848">
+        <mark key="'" line="397" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tsv.py" timestamp="1561009556578">
         <mark key="[" line="58" column="43" />
@@ -399,8 +399,17 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/transforms.py" timestamp="1562813072225">
-        <mark key="'" line="31" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_ax_coco_resnet_v2_finetune.sh" timestamp="1562901784994">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_ax_coco_resnet_v2_finetune.cfg" timestamp="1562901663535">
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="71" column="16" />
+        <mark key="^" line="71" column="16" />
+        <mark key="." line="71" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/eval.sh" timestamp="1561126217955">
         <mark key="[" line="0" column="19" />
@@ -444,12 +453,8 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1562844114054">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1562900691591">
         <mark key="'" line="49" column="24" />
-        <mark key="[" line="81" column="69" />
-        <mark key="]" line="82" column="44" />
-        <mark key="^" line="82" column="44" />
-        <mark key="." line="82" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -460,46 +465,60 @@
       <jump line="16" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/cv/visualization/colormap.py" />
       <jump line="50" column="24" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" />
       <jump line="31" column="0" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/transforms.py" />
+      <jump line="397" column="29" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
+      <jump line="19" column="39" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/deployment.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gdGVuc29yZmxvdy5jb250cmliIGltcG9ydCBzZXEyc2VxCiAgICAgICAgICAgICAgICBzZXEyc2VxLkJlYW1TZWFyY2hEZWNvZGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>={
+                'lstm/embed_feed:0': in_feed,
+                'lstm/att_state_feed:0': att_state,
+                'lstm/lang_state_feed:0': lang_state,
+                'lstm/mean_feats_placeholder:0': mean_feats,
+                'lstm/att_feats_placeholder:0': att_feats,
+                'lstm/p_att_feats_placeholder:0': p_att_feats}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>kwargs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkX2lkLCB3b3JkX3Byb2IgPSBzZWxmLmdlbmVyYXRlX2NhcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIGVtYmVkZGluZ19tYXRyaXgsIG1lYW5fZmVhdHNfZW1iLCBhdHRfZmVhdHNfZW1iLAogICAgICAgICAgICAgICAgICAgICAgICBwX2F0dF9mZWF0c19lbWIsIGF0dF9sc3RtLCBsYW5nX2xzdG0sIGxzdG1fc2NvcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVlZF9kaWN0PXsKICAgICAgICAgICAgICAgICdsc3RtL2VtYmVkX2ZlZWQ6MCc6IGVtYmVkX2ZlZWQsCiAgICAgICAgICAgICAgICAnbHN0bS9hdHRfc3RhdGVfZmVlZDowJzogYXR0X3N0YXRlLAogICAgICAgICAgICAgICAgJ2xzdG0vbGFuZ19zdGF0ZV9mZWVkOjAnOiBsYW5nX3N0YXRlLAogICAgICAgICAgICAgICAgJ2xzdG0vbWVhbl9mZWF0c19wbGFjZWhvbGRlcjowJzogbWVhbl9mZWF0cywKICAgICAgICAgICAgICAgICdsc3RtL2F0dF9mZWF0c19wbGFjZWhvbGRlcjowJzogYXR0X2ZlYXRzLAogICAgICAgICAgICAgICAgJ2xzdG0vcF9hdHRfZmVhdHNfcGxhY2Vob2xkZXI6MCc6IHBfYXR0X2ZlYXRzfSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gdGVuc29yZmxvdy5jb250cmliIGltcG9ydCBzZXEyc2VxCiAgICAgICAgICAgICAgICBzZXEyc2VxLkJlYW1TZWFyY2hEZWNvZGVyCg==</text>
+      <register name="1" type="4">
+        <text>={
+                'lstm/embed_feed:0': in_feed,
+                'lstm/att_state_feed:0': att_state,
+                'lstm/lang_state_feed:0': lang_state,
+                'lstm/mean_feats_placeholder:0': mean_feats,
+                'lstm/att_feats_placeholder:0': att_feats,
+                'lstm/p_att_feats_placeholder:0': p_att_feats}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCB0ZW5zb3JmbG93IGFzIHRmMmRkCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xzdG0vZW1iZWRfZmVlZDowJzogZW1iZWRfZmVlZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhbmdfcHJvYl9sZWZ0ID0gdGYuc2xpY2UoCiAgICAgICAgICAgICAgICAgICAgbGFuZ19wcm9iLCBbMCwgMF0sIFtzZWxmLl9iYXRjaF9zaXplLCAxXSkKICAgICAgICAgICAgICAgIGxhbmdfcHJvYl9yaWdodCA9IHRmLnNsaWNlKAogICAgICAgICAgICAgICAgICAgIGxhbmdfcHJvYiwgWzAsIDJdLAogICAgICAgICAgICAgICAgICAgIFtzZWxmLl9iYXRjaF9zaXplLCBzZWxmLl92b2NhYl9zaXplIC0gMl0pCg==</text>
+        <text encoding="base64">ICAgICAgICBmZWVkX2RpY3QgPSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS1lMmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS12YWxpZGF0aW9uLXNldCA9IGRhdGFzZXQ6Ly9BWENhcHRpb24vdmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHh0ID0gdGYucGxhY2Vob2xkZXIoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS1lMmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gdGVuc29yZmxvdy5jb250cmliIGltcG9ydCBzZXEyc2VxCiAgICAgICAgICAgICAgICBzZXEyc2VxLkJlYW1TZWFyY2hEZWNvZGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltYWdlX2lkcywgaW5wdXRfaW1hZ2VzLCBlbWJlZGRpbmdfbWF0cml4LCBhdHRfc3RhdGVzLCBcCiAgICAgICAgIyBsYW5nX3N0YXRlcywgbWVhbl9mZWF0cywgYXR0X2ZlYXRzLCBwX2F0dF9mZWF0cyA9IHNlbGYuaW5pdGlhbF9zdGVwKHNlc3MpCiAgICAgICAgIwogICAgICAgICMgYmF0Y2hfc2l6ZSA9IG1lYW5fZmVhdHMuc2hhcGVbMF0KICAgICAgICAjIGlucHV0X2ZlZWQgPSBucC5mdWxsKFtiYXRjaF9zaXplLCBdLCBzZWxmLnZvY2FidWxhcnkuc3RhcnRfaWQpCiAgICAgICAgIyBlbWJlZF9mZWVkID0gZW1iZWRkaW5nX21hdHJpeFtpbnB1dF9mZWVkLCA6XQogICAgICAgICMgY2FwdGlvbnMgPSBbXQogICAgICAgICMgZm9yIF8gaW4gcmFuZ2Uoc2VsZi5tYXhfY2FwdGlvbl9sZW4pOgogICAgICAgICMgICAgIHNvZnRtYXgsIGF0dF9zdGF0ZXMsIGxhbmdfc3RhdGVzLCBtZXRhZGF0YSA9IHNlbGYuaW5mZXJlbmNlX3N0ZXAoCiAgICAgICAgIyAgICAgICAgIHNlc3MsIGVtYmVkX2ZlZWQsIGF0dF9zdGF0ZXMsIGxhbmdfc3RhdGVzLAogICAgICAgICMgICAgICAgICBtZWFuX2ZlYXRzLCBhdHRfZmVhdHMsIHBfYXR0X2ZlYXRzKQogICAgICAgICMKICAgICAgICAjICAgICBpbnB1dF9mZWVkID0gbnAuYXJnbWF4KHNvZnRtYXgsIGF4aXM9MSkKICAgICAgICAjICAgICBlbWJlZF9mZWVkID0gZW1iZWRkaW5nX21hdHJpeFtpbnB1dF9mZWVkLCA6XQogICAgICAgICMgICAgIGNhcHRpb25zLmFwcGVuZChpbnB1dF9mZWVkKQogICAgICAgICMgY2FwdGlvbnMgPSBucC5zdGFjayhjYXB0aW9ucywgYXhpcz0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCB0ZW5zb3JmbG93IGFzIHRmMmRkCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4dCA9IHRmLm5uLmVtYmVkZGluZ19sb29rdXAoZW1iZWRkaW5nX21hdHJpeCwgaXRfZmVlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhbmdfcHJvYl9sZWZ0ID0gdGYuc2xpY2UoCiAgICAgICAgICAgICAgICAgICAgbGFuZ19wcm9iLCBbMCwgMF0sIFtzZWxmLl9iYXRjaF9zaXplLCAxXSkKICAgICAgICAgICAgICAgIGxhbmdfcHJvYl9yaWdodCA9IHRmLnNsaWNlKAogICAgICAgICAgICAgICAgICAgIGxhbmdfcHJvYiwgWzAsIDJdLAogICAgICAgICAgICAgICAgICAgIFtzZWxmLl9iYXRjaF9zaXplLCBzZWxmLl92b2NhYl9zaXplIC0gMl0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
