@@ -40,6 +40,12 @@
         <mark key="]" line="59" column="1" />
         <mark key="." line="59" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tmp.py" timestamp="1563006380205">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_coco_scenenet.sh" timestamp="1561767346274">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="13" />
@@ -155,9 +161,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/AutoConvert.py" timestamp="1562970958797">
-        <mark key="[" line="155" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/utils.py" timestamp="1562200611628">
         <mark key="[" line="2" column="37" />
