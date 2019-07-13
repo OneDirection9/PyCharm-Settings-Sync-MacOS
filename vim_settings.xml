@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1562999503933">
+      <file name="/a.dummy" timestamp="1563009755638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tensorflow/import_pb_to_tensorboard.py" timestamp="1562970956752" />
@@ -40,23 +40,24 @@
         <mark key="]" line="59" column="1" />
         <mark key="." line="59" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tmp.py" timestamp="1563006380205">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="17" column="54" />
-        <mark key="^" line="17" column="54" />
-        <mark key="." line="17" column="54" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_espresso_net.py" timestamp="1563010453406">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tmp.py" timestamp="1563009328740" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_coco_scenenet.sh" timestamp="1561767346274">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1562984613004">
-        <mark key="[" line="149" column="41" />
-        <mark key="]" line="151" column="32" />
-        <mark key="." line="151" column="32" />
-        <mark key="^" line="151" column="32" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563008636618">
+        <mark key="[" line="108" column="32" />
+        <mark key="]" line="108" column="32" />
+        <mark key="." line="108" column="32" />
+        <mark key="^" line="108" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
         <mark key="[" line="41" column="16" />
@@ -93,10 +94,10 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1562992008587">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1563008410273">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
-        <mark key="^" line="23" column="58" />
+        <mark key="^" line="22" column="58" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1562180060309">
@@ -105,9 +106,9 @@
         <mark key="^" line="22" column="9" />
         <mark key="." line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1562978609605" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1563009387738" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_ax_coco_resnet_v2_bolt.cfg" timestamp="1562859480318" />
-      <file name="/Python Console" timestamp="1562981943068">
+      <file name="/Python Console" timestamp="1563009348064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
@@ -143,8 +144,11 @@
         <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dumpers.py" timestamp="1562992611617" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/integrate_embedding_matrix.py" timestamp="1563004333404">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/integrate_embedding_matrix.py" timestamp="1563009641887">
+        <mark key="[" line="17" column="65" />
+        <mark key="]" line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="19" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1563004997015">
         <mark key="'" line="360" column="54" />
@@ -153,7 +157,7 @@
         <mark key="." line="454" column="36" />
         <mark key="^" line="454" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562975362613">
+      <file name="/Dummy.txt" timestamp="1563009337071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562197552140">
@@ -202,11 +206,11 @@
       <jump line="360" column="54" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>keep_dims</text>
@@ -215,31 +219,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0tZW1iZWRkaW5nLWZpbGUnLCBkZXN0PSdlbWJlZGRpbmdfZmlsZScsIHJlcXVpcmVkPVRydWUsCiAgICAgICAgaGVscD0ndGhlIGVtYmVkZGluZyBmaWxlIHRoYXQgY29udGFpbnMgYSAyRCBhcnJheSwgZS5nLiAxNTAwMCAqIDEwMjQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnLS1lbWJlZGRpbmctZmlsZScsIGRlc3Q9J2VtYmVkZGluZ19maWxlJywgcmVxdWlyZWQ9VHJ1ZSwKICAgICAgICBoZWxwPSd0aGUgZW1iZWRkaW5nIGZpbGUgdGhhdCBjb250YWlucyBhIDJEIGFycmF5LCBlLmcuIDE1MDAwICogMTAyNCcpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2IgPSBweWVzcHJlc3NvLlNlcXVlbnRpYWxCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0tZW1iZWRkaW5nLWZpbGUnLCBkZXN0PSdlbWJlZGRpbmdfZmlsZScsIHJlcXVpcmVkPVRydWUsCiAgICAgICAgaGVscD0nJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2IuYWRkKCdiYXRjaF9tYXRtdWwnLCBib3R0b209WydpbnB1dDEnLCAnaW5wdXQyJ10sIHRvcD0nb3V0cHV0JykK</text>
+        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQob3JpZ2luYWxfbmV0LmxheWVycygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV0ID0gc2IuYnVpbGRfd2l0aF9zaGFwZXNfY3B1KGlucHV0MT0oMTAsIDE5NiwgNTEyKSwgaW5wdXQyPSgxMCwgNTEyLCAxKSkK</text>
+        <text encoding="base64">LS1lMmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBvcmlnaW5hbF9uZXQuaW5zZXJ0X25ldHdvcmsobmV0LCAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSA9IG5ldC5ydW4oZmVlZF9kaWN0PW5wLmFzYXJyYXkoWzAuXSksIG91dHB1dHM9Wydsc3RtL2VtYmVkX2ZlZWQnXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -262,6 +266,7 @@
         <entry>a</entry>
         <entry>wq</entry>
         <entry>s</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
