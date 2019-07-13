@@ -125,11 +125,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562996759979">
-        <mark key="[" line="127" column="22" />
-        <mark key="]" line="129" column="38" />
-        <mark key="^" line="129" column="38" />
-        <mark key="." line="129" column="38" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1563000904402">
+        <mark key="[" line="151" column="19" />
+        <mark key="]" line="153" column="20" />
+        <mark key="^" line="153" column="20" />
+        <mark key="." line="153" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_t.py" timestamp="1562179238992">
         <mark key="[" line="3" column="0" />
@@ -179,6 +179,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563001863086">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="49" column="68" />
+        <mark key="^" line="49" column="68" />
+        <mark key="." line="49" column="68" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="318" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" />
@@ -192,7 +198,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ3cnKSBhcyBmOgo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -204,33 +210,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ3cnKSBhcyBmOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbF9zZW50ZW5jZXMgPSBbXQogICAgICAgIGZvciBzIGluIHJhbmdlKGNhcHRpb25zLnNoYXBlWzBdKToKICAgICAgICAgICAgZmluYWxfc2VudGVuY2VzLmFwcGVuZChbc2VsZi52b2NhYnVsYXJ5LnN0YXJ0X2lkXSkKICAgICAgICAgICAgZm9yIHcgaW4gcmFuZ2UoY2FwdGlvbnMuc2hhcGVbMV0pOgogICAgICAgICAgICAgICAgZmluYWxfc2VudGVuY2VzWy0xXS5hcHBlbmQoY2FwdGlvbnNbcywgd10pCiAgICAgICAgICAgICAgICBpZiBjYXB0aW9uc1tzLCB3XSA9PSBzZWxmLnZvY2FidWxhcnkuZW5kX2lkOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgY2FwdGlvbnMgPSBbQ2FwdGlvbihzZW50ZW5jZSwgTm9uZSwgTm9uZSwgMC4wKQogICAgICAgICAgICAgICAgICAgIGZvciBzZW50ZW5jZSBpbiBmaW5hbF9zZW50ZW5jZXNdCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ob3NwLmpvaW4oc2VsZi5ldmFsX2RpciwgJ2V2YWwue30uZW1iZWRkaW5nLm5weScuZm9ybWF0KHN1ZmZpeCkpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS1lMmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYW5nX3Byb2IgPSB0Zi5pZGVudGl0eSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhzZWxmLmV2YWxfZGlyLCBleGlzdF9vaz1UcnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd29yZF9pZHMsIHdvcmRfcHJvYnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd29yZF9pZHMsIGVhY2hfd29yZF9wcm9icwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbF9zZW50ZW5jZXMgPSBbXQogICAgICAgIGZvciBzIGluIHJhbmdlKGNhcHRpb25zLnNoYXBlWzBdKToKICAgICAgICAgICAgZmluYWxfc2VudGVuY2VzLmFwcGVuZChbc2VsZi52b2NhYnVsYXJ5LnN0YXJ0X2lkXSkKICAgICAgICAgICAgZm9yIHcgaW4gcmFuZ2UoY2FwdGlvbnMuc2hhcGVbMV0pOgogICAgICAgICAgICAgICAgZmluYWxfc2VudGVuY2VzWy0xXS5hcHBlbmQoY2FwdGlvbnNbcywgd10pCiAgICAgICAgICAgICAgICBpZiBjYXB0aW9uc1tzLCB3XSA9PSBzZWxmLnZvY2FidWxhcnkuZW5kX2lkOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgY2FwdGlvbnMgPSBbQ2FwdGlvbihzZW50ZW5jZSwgTm9uZSwgTm9uZSwgMC4wKQogICAgICAgICAgICAgICAgICAgIGZvciBzZW50ZW5jZSBpbiBmaW5hbF9zZW50ZW5jZXNdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCd3b3JkX2VtYmVkZGluZycpOgogICAgICAgICAgICBlbWJlZGRpbmdfbWF0cml4ID0gdGYuZ2V0X3ZhcmlhYmxlKAogICAgICAgICAgICAgICAgbmFtZT0nd29yZF9lbWInLAogICAgICAgICAgICAgICAgc2hhcGU9W3NlbGYuX3ZvY2FiX3NpemUsIHNlbGYuX2VtYmVkZGluZ19zaXplXSwKICAgICAgICAgICAgICAgIGluaXRpYWxpemVyPU5vbmUpCg==</text>
+        <text encoding="base64">LS1lMmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5zLnVwZGF0ZSh7CiAgICAgICAgICAgICdtZWFuX2ZlYXRzJzogbWVhbl9mZWF0cywKICAgICAgICAgICAgJ2F0dF9mZWF0cyc6IGF0dF9mZWF0cywKICAgICAgICAgICAgJ3BfYXR0X2ZlYXRzJzogcF9hdHRfZmVhdHMsCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBsYW5nX3Byb2IgPSB0Zi5pZGVudGl0eSgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>mean_feats = tf.identity(mean_feats, name='mean_feats')
-        att_feats = tf.identity(att_feats, name='att_feats')
-        p_att_feats = tf.identity(p_att_feats, name='p_att_feats')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd29yZF9pZHMsIHdvcmRfcHJvYnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
