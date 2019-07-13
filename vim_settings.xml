@@ -125,10 +125,9 @@
         <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/misc/caption_generator.py" timestamp="1562975975438">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="164" column="31" />
-        <mark key="^" line="164" column="31" />
-        <mark key="." line="164" column="31" />
+        <mark key="]" line="162" column="31" />
+        <mark key="^" line="162" column="31" />
+        <mark key="." line="162" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_t.py" timestamp="1562179238992">
         <mark key="[" line="3" column="0" />
@@ -136,10 +135,11 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562984940229">
-        <mark key="[" line="491" column="43" />
-        <mark key="]" line="491" column="43" />
-        <mark key="." line="491" column="43" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1562987329270">
+        <mark key="[" line="492" column="54" />
+        <mark key="]" line="492" column="88" />
+        <mark key="^" line="492" column="88" />
+        <mark key="." line="492" column="88" />
       </file>
       <file name="/Dummy.txt" timestamp="1562975362613">
         <mark key="[" line="0" column="0" />
@@ -183,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_placeholder</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_placeholder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
