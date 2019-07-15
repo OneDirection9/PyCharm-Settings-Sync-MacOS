@@ -15,6 +15,9 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
+      <file name="/a.dummy" timestamp="1562741181472">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/__init__.py" timestamp="1562177637188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -32,6 +35,9 @@
         <mark key="]" line="58" column="58" />
         <mark key="^" line="58" column="58" />
         <mark key="." line="58" column="58" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/metrics/pycocoevalcap/bleu/bleu.py" timestamp="1562744128798">
         <mark key="[" line="10" column="6" />
@@ -68,6 +74,9 @@
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
+        <mark key="[" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1562813347059">
         <mark key="[" line="125" column="19" />
@@ -217,6 +226,12 @@
         <mark key="^" line="1187" column="41" />
         <mark key="." line="1187" column="41" />
       </file>
+      <file name="/Python Console" timestamp="1563170307096">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
+        <mark key="[" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/metrics/pycocoevalcap/eval.py" timestamp="1562744049149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -320,6 +335,9 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1562830143677">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1562913553246">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="11" />
@@ -369,11 +387,11 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_net.py" timestamp="1563166443449">
-        <mark key="[" line="22" column="64" />
-        <mark key="]" line="22" column="59" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="22" column="59" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_net.py" timestamp="1563170317727">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="91" column="57" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/.gitignore" timestamp="1561126430667">
         <mark key="[" line="6" column="6" />
@@ -473,10 +491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGluZGV4ID0K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>add_summary_value</text>
@@ -485,38 +503,31 @@
         <text encoding="base64">LS1jbm4tbW9kZWwgPSByZXNuZXRfdjJfMTAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluZGV4ID0K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluX2JvdHRvbV9uYW1lID0gJ2luX3dvcmRfaWQnCiAgICBpbl90b3BfbmFtZSA9ICdlbWJlZF9mZWVkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWxfbmV0LnNldF90cmFuc2Zvcm1fYnlfbmFtZShhcmdzLnRvcF9uYW1lLCB0cmFuc2Zvcm1fcGFyYW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib2x0LnNlbmRfbWV0cmljcyhuZXdfbWV0cmljcykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT1hcmdzLmlubmVyX3Byb2R1Y3RuYW1lLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY2twdF9maWxlIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZT1hcmdzLmlubmVyX3Byb2R1Y3RuYW1lLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldCwgYXJncy5lbWJlZGRpbmdfZmlsZSwgYXJncy5pbm5lcl9wcm9kdWN0X2xheWVyX25hbWUsCiAgICAgICAgICAgICAgICBhcmdzLmJvdHRvbV9uYW1lLCBhcmdzLnRvcF9uYW1lLCBhcmdzLnBsYWNlaG9sZGVyX25hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNrcHRfZmlsZSA9IHBhcmFtc1snY2hlY2twb2ludCddCg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF9uZXQsIGVtYmVkZGluZ19maWxlLCBsYXllcl9uYW1lPSd3b3JkX2VtYmVkZGluZycsCiAgICAgICAgYm90dG9tX25hbWU9J2luX3dvcmRfaWQnLCB0b3BfbmFtZT0nZW1iZWRfZmVlZCcsIHBsYWNlaG9sZGVyX25hbWU9J2xzdG0vZW1iZWQnKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY2twdF9maWxlIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text># UNK id is 1 in vocabulary
-                lang_prob_left, _, lang_prob_right = tf.split(
-                    lang_prob, axis=1,
-                    num_or_size_splits=[1, 1, self._vocab_size - 2])
-                new_unk_prob = tf.zeros(
-                    (self._batch_size, 1), dtype=tf.float32)
-                lang_prob = tf.concat(
-                    [lang_prob_left, new_unk_prob, lang_prob_right], axis=1)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGlmIHRvcF9uYW1lIGluIG9yaWdpbmFsX25ldC5ibG9iX25hbWVzKCk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigne306IGFscmVhZHkgaW4gb3JpZ2luYWwgbmV0Jy5mb3JtYXQodG9wX25hbWUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
