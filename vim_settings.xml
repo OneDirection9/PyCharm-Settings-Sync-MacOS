@@ -169,10 +169,11 @@
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/utils.py" timestamp="1562200611628">
         <mark key="[" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_net.py" timestamp="1563097574505">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_net.py" timestamp="1563201765883">
         <mark key="[" line="37" column="44" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/experiments/e2e_ax_coco/export/lib_model_opt.espresso.net" timestamp="1562980588583" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/cvmlflow/layers.py" timestamp="1561766645788">
