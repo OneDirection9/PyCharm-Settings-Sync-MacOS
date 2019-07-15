@@ -369,6 +369,12 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_net.py" timestamp="1563162782530">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="42" column="23" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/.gitignore" timestamp="1561126430667">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="8" column="11" />
@@ -467,7 +473,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib2x0LnNlbmRfbWV0cmljcyhuZXdfbWV0cmljcykK</text>
+        <text encoding="base64">ICAgIGluZGV4ID0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -479,24 +485,30 @@
         <text encoding="base64">LS1jbm4tbW9kZWwgPSByZXNuZXRfdjJfMTAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib2x0LnNlbmRfbWV0cmljcyhuZXdfbWV0cmljcykK</text>
+        <text encoding="base64">ICAgIGluZGV4ID0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIGluX2JvdHRvbV9uYW1lID0gJ2luX3dvcmRfaWQnCiAgICBpbl90b3BfbmFtZSA9ICdlbWJlZF9mZWVkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY2twdF9maWxlIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2x0LnNlbmRfbWV0cmljcyhuZXdfbWV0cmljcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNrcHRfZmlsZSA9IHBhcmFtc1snY2hlY2twb2ludCddCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgY2twdF9maWxlIGlzIE5vbmU6Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNrcHRfZmlsZSA9IHBhcmFtc1snY2hlY2twb2ludCddCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY2twdF9maWxlIGlzIE5vbmU6Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text># UNK id is 1 in vocabulary
                 lang_prob_left, _, lang_prob_right = tf.split(
                     lang_prob, axis=1,
@@ -505,12 +517,6 @@
                     (self._batch_size, 1), dtype=tf.float32)
                 lang_prob = tf.concat(
                     [lang_prob_left, new_unk_prob, lang_prob_right], axis=1)</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4dCA9IHRmLnJlc2hhcGUoeHQsIFstMSwgc2VsZi5fdm9jYWJfc2l6ZV0pCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHh0ID0gdGYuYXJnbWF4KHh0LCBheGlzPTEpCiAgICAgICAgIyB4dCA9IHRmLm5uLmVtYmVkZGluZ19sb29rdXAoZW1iZWRkaW5nX21hdHJpeCwgeHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
