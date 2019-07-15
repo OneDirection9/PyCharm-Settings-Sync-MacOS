@@ -381,9 +381,6 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/transforms.py" timestamp="1562813072225">
-        <mark key="'" line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_ax_coco_resnet_v2_finetune.sh" timestamp="1562901784994">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="42" />
@@ -438,8 +435,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1562917239672">
-        <mark key="'" line="116" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563155613357">
+        <mark key="'" line="120" column="22" />
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="54" column="17" />
+        <mark key="^" line="54" column="17" />
+        <mark key="." line="54" column="17" />
       </file>
     </filemarks>
     <jumps>
