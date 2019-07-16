@@ -51,11 +51,11 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563184826412">
-        <mark key="[" line="125" column="19" />
-        <mark key="]" line="126" column="24" />
-        <mark key="." line="126" column="24" />
-        <mark key="^" line="126" column="24" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563261241434">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="86" column="7" />
+        <mark key="." line="86" column="7" />
+        <mark key="^" line="86" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1560755953357">
         <mark key="[" line="33" column="44" />
@@ -81,11 +81,11 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet.cfg" timestamp="1563248855055">
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="19" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet.cfg" timestamp="1563259955356">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="43" column="19" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1562938355804">
         <mark key="[" line="23" column="9" />
@@ -155,11 +155,10 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563257068856">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563259626777">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
         <mark key="[" line="0" column="19" />
@@ -362,11 +361,11 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1563249517181">
-        <mark key="[" line="59" column="32" />
-        <mark key="]" line="60" column="11" />
-        <mark key="^" line="60" column="11" />
-        <mark key="." line="60" column="11" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/caption.py" timestamp="1563259042128">
+        <mark key="[" line="61" column="53" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/train.py" timestamp="1563183352352" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bboxes_from_tsv.py" timestamp="1561013173622">
@@ -551,44 +550,44 @@
       <jump line="37" column="23" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/rewire.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBjbWQgPSAnZXNwcmVzc290b29sIG8ge30gLS1jdXN0b21fb3B0aW1pemF0aW9ucyBmaW5kX3NoYXJlZF93ZWlnaHRzIC1vIHt9Jy5mb3JtYXQoCiAgICAgICAgICAgIG9yaWdpbmFsX25ldCwgc2hhcmVkX25ldCkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCgogICAgICAgICMgRGVsZXRlIGludGVybWVkaWF0ZSBtb2RlbHMgdG8gc2F2ZSBkaXNrIHNpbmNlIGl0IGlzIGF0IGxlYXN0IDMuMUdCCiAgICAgICAgY21kMiA9ICdybSAtciB7fSonLmZvcm1hdChvc3Auam9pbihhcmdzLnJlc291cmNlX2RpciwgJ2VuZF90b19lbmQuZXNwcmVzc28uJykpCiAgICAgICAgc3VicHJvY2Vzcy5ydW4oY21kMiwgc2hlbGw9VHJ1ZSwgY2hlY2s9VHJ1ZSkKCiAgICAgICAgY21kMyA9ICdybSAtciB7fSonLmZvcm1hdChvc3Auam9pbihhcmdzLnJlc291cmNlX2RpciwgJ2VuZF90b19lbmRfb3B0LmVzcHJlc3NvLicpKQogICAgICAgIHN1YnByb2Nlc3MucnVuKGNtZDMsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCiAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICBwcmludCgne306IHt9Jy5mb3JtYXQodHlwZShlKS5fX25hbWVfXywgZSkpCiAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>CaptionSample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWJlZGRpbmdfZmlsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>'rm -r {}'.format(osp.join(args.resource_dir, 'end_to_end'))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBjbWQgPSAnZXNwcmVzc290b29sIG8ge30gLS1jdXN0b21fb3B0aW1pemF0aW9ucyBmaW5kX3NoYXJlZF93ZWlnaHRzIC1vIHt9Jy5mb3JtYXQoCiAgICAgICAgICAgIG9yaWdpbmFsX25ldCwgc2hhcmVkX25ldCkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCgogICAgICAgICMgRGVsZXRlIGludGVybWVkaWF0ZSBtb2RlbHMgdG8gc2F2ZSBkaXNrIHNpbmNlIGl0IGlzIGF0IGxlYXN0IDMuMUdCCiAgICAgICAgY21kMiA9ICdybSAtciB7fSonLmZvcm1hdChvc3Auam9pbihhcmdzLnJlc291cmNlX2RpciwgJ2VuZF90b19lbmQuZXNwcmVzc28uJykpCiAgICAgICAgc3VicHJvY2Vzcy5ydW4oY21kMiwgc2hlbGw9VHJ1ZSwgY2hlY2s9VHJ1ZSkKCiAgICAgICAgY21kMyA9ICdybSAtciB7fSonLmZvcm1hdChvc3Auam9pbihhcmdzLnJlc291cmNlX2RpciwgJ2VuZF90b19lbmRfb3B0LmVzcHJlc3NvLicpKQogICAgICAgIHN1YnByb2Nlc3MucnVuKGNtZDMsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCiAgICBleGNlcHQgc3VicHJvY2Vzcy5DYWxsZWRQcm9jZXNzRXJyb3IgYXMgZToKICAgICAgICBwcmludCgne306IHt9Jy5mb3JtYXQodHlwZShlKS5fX25hbWVfXywgZSkpCiAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByZW9jZXNzX2VuZF90b19lbmQob3JpZ2luYWxfZmlsZSwgc2F2ZV9maWxlKToKICAgIGltcG9ydCBzdWJwcm9jZXNzCiAgICAKICAgIHRyeToKICAgICAgICBjbWQgPSAnZXNwcmVzc290b29sIG8ge30gLS1jdXN0b21fb3B0aW1pemF0aW9ucyBmaW5kX3NoYXJlZF93ZWlnaHRzIC1vIHt9Jy5mb3JtYXQoCiAgICAgICAgICAgIG9yaWdpbmFsX2ZpbGUsIHNhdmVfZmlsZSkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">CmRlZiBwcmVvY2Vzc19lbmRfdG9fZW5kKG9yaWdpbmFsX2ZpbGUsIHNhdmVfZmlsZSk6CiAgICBpbXBvcnQgc3VicHJvY2VzcwoKICAgIHRyeToKICAgICAgICBjbWQgPSAnZXNwcmVzc290b29sIG8ge30gLS1jdXN0b21fb3B0aW1pemF0aW9ucyBmaW5kX3NoYXJlZF93ZWlnaHRzIC1vIHt9Jy5mb3JtYXQoCiAgICAgICAgICAgIG9yaWdpbmFsX2ZpbGUsIHNhdmVfZmlsZSkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS1maW5ldHVuZSA9IGNrcHQrYmxvYmJ5LW1yMzovL1Zpc3VhbENhcHRpb25pbmcvY2hlY2twb2ludC9wbnNfYWxsX2Jhc2VsaW5lX2ZpbmV0dW5lQ05OL21vZGVsLmNrcHQtMjIwODI1Ci0tcmVzdW1lLWluY2x1ZGUtc2NvcGVzID0gcmVzbmV0LioKLS1yZXN1bWUtZXhjbHVkZS1zY29wZXMgPSByZXNuZXQuKkFkYW0uKgotLWV4Y2x1ZGUtdHJhaW4tc2NvcGUgPSByZXNuZXQuKgotLWV4Y2x1ZGUtdXBkYXRlcy1zY29wZXMgPSByZXNuZXQuKgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS1ldmFsLWRpciA9IC4vZXhwZXJpbWVudHMvZTJlX2F4X2NvY28vdHJhaW4vZXZhbAo=</text>
+        <text encoding="base64">LS12YWxpZGF0aW9uLXByZXByb2Nlc3NpbmcgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAtLXRyYWluLXNldCA9IGRhdGFzZXQ6Ly9BWENhcHRpb24vdHJhaW4K</text>
+        <text encoding="base64">LS10cmFpbi1wcmVwcm9jZXNzaW5nID0gQ2FwdGlvblNhbXBsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hc3NldF9wYXRoID0gJ21yMzovL1Zpc3VhbENhcHRpb25pbmcvdHJhaW5fdGZyZWNvcmQvJwo=</text>
+        <text encoding="base64">LS10cmFpbi1wcmVwcm9jZXNzaW5nID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS12YWxpZGF0aW9uLXByZXByb2Nlc3NpbmcgPSBDYXB0aW9uU2FtcGxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
