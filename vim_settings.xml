@@ -132,11 +132,11 @@
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1563252135671">
-        <mark key="[" line="0" column="112" />
-        <mark key="]" line="0" column="112" />
-        <mark key="^" line="0" column="112" />
-        <mark key="." line="0" column="112" />
+      <file name="/Python Console" timestamp="1563256825399">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/metrics/pycocoevalcap/rouge/rouge.py" timestamp="1562744147460">
         <mark key="[" line="10" column="0" />
@@ -155,11 +155,11 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1562913461999">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563257068856">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
         <mark key="[" line="0" column="19" />
@@ -552,10 +552,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWJlZGRpbmdfZmlsZVw+</text>
