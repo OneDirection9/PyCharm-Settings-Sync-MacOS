@@ -87,11 +87,11 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet.cfg" timestamp="1563242159514">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="37" column="55" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet.cfg" timestamp="1563243021495">
+        <mark key="[" line="72" column="51" />
+        <mark key="]" line="72" column="43" />
+        <mark key="." line="72" column="43" />
+        <mark key="^" line="72" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1562938355804">
         <mark key="[" line="23" column="9" />
@@ -317,7 +317,7 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1562832661063">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1563242995147">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="61" column="12" />
         <mark key="^" line="61" column="12" />
@@ -567,7 +567,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS1ldmFsLWRpciA9IC4vZXhwZXJpbWVudHMvZTJlX2F4X2NvY28vdHJhaW4vZXZhbAo=</text>
+        <text encoding="base64">LS1maW5ldHVuZSA9IGNrcHQrYmxvYmJ5LW1yMzovL1Zpc3VhbENhcHRpb25pbmcvY2hlY2twb2ludC9wbnNfYWxsX2Jhc2VsaW5lX2ZpbmV0dW5lQ05OL21vZGVsLmNrcHQtMjIwODI1Ci0tcmVzdW1lLWluY2x1ZGUtc2NvcGVzID0gcmVzbmV0LioKLS1yZXN1bWUtZXhjbHVkZS1zY29wZXMgPSByZXNuZXQuKkFkYW0uKgotLWV4Y2x1ZGUtdHJhaW4tc2NvcGUgPSByZXNuZXQuKgotLWV4Y2x1ZGUtdXBkYXRlcy1zY29wZXMgPSByZXNuZXQuKgo=</text>
       </register>
       <register name="-" type="4">
         <text>ncaptions_val2014.json</text>
@@ -579,31 +579,31 @@
         <text>'rm -r {}'.format(osp.join(args.resource_dir, 'end_to_end'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS1ldmFsLWRpciA9IC4vZXhwZXJpbWVudHMvZTJlX2F4X2NvY28vdHJhaW4vZXZhbAo=</text>
+        <text encoding="base64">LS1maW5ldHVuZSA9IGNrcHQrYmxvYmJ5LW1yMzovL1Zpc3VhbENhcHRpb25pbmcvY2hlY2twb2ludC9wbnNfYWxsX2Jhc2VsaW5lX2ZpbmV0dW5lQ05OL21vZGVsLmNrcHQtMjIwODI1Ci0tcmVzdW1lLWluY2x1ZGUtc2NvcGVzID0gcmVzbmV0LioKLS1yZXN1bWUtZXhjbHVkZS1zY29wZXMgPSByZXNuZXQuKkFkYW0uKgotLWV4Y2x1ZGUtdHJhaW4tc2NvcGUgPSByZXNuZXQuKgotLWV4Y2x1ZGUtdXBkYXRlcy1zY29wZXMgPSByZXNuZXQuKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAtLXRyYWluLXNldCA9IGRhdGFzZXQ6Ly9BWENhcHRpb24vdHJhaW4K</text>
+        <text encoding="base64">LS1ldmFsLWRpciA9IC4vZXhwZXJpbWVudHMvZTJlX2F4X2NvY28vdHJhaW4vZXZhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hc3NldF9wYXRoID0gJ21yMzovL1Zpc3VhbENhcHRpb25pbmcvdHJhaW5fdGZyZWNvcmQvJwo=</text>
+        <text encoding="base64">IyAtLXRyYWluLXNldCA9IGRhdGFzZXQ6Ly9BWENhcHRpb24vdHJhaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hc3NldF9wYXRoID0gJ21yMzovL1Zpc3VhbENhcHRpb25pbmcvdHJhaW5fdGZyZWNvcmQvJwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlZmxvdy51dGlsIGltcG9ydCBsb2FkX2FuZF9yb3RhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0tZTJlJywgZGVzdD0nZTJlJywgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICBoZWxwPSdpZiBUcnVlLCB1c2UgZW5kLXRvLWVuZCwgb3RoZXJ3aXNlIHVzZSB0d28tc3RhZ2UgbW9kZWwgdG8gZG8gIHByZWRpY3QuJykK</text>
+        <text encoding="base64">ZnJvbSBjb3JlZmxvdy51dGlsIGltcG9ydCBsb2FkX2FuZF9yb3RhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0tZTJlJywgZGVzdD0nZTJlJywgYWN0aW9uPSdzdG9yZV90cnVlJywKICAgICAgICBoZWxwPSdpZiBUcnVlLCB1c2UgZW5kLXRvLWVuZCwgb3RoZXJ3aXNlIHVzZSB0d28tc3RhZ2UgbW9kZWwgdG8gZG8gIHByZWRpY3QuJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldF9maWxlID0gb3NwLmpvaW4oKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
