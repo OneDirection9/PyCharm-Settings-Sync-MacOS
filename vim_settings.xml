@@ -76,6 +76,12 @@
         <mark key="^" line="35" column="88" />
         <mark key="." line="35" column="88" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" timestamp="1563360573080">
+        <mark key="'" line="8" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/version.py" timestamp="1562179703008">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -159,11 +165,11 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563353815335">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="42" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563362103715">
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="4" column="73" />
+        <mark key="." line="4" column="73" />
+        <mark key="^" line="4" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
         <mark key="[" line="0" column="19" />
@@ -231,12 +237,6 @@
         <mark key="]" line="23" column="28" />
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_net.py" timestamp="1563171879907">
-        <mark key="'" line="42" column="85" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/.gitignore" timestamp="1561126430667">
         <mark key="[" line="6" column="6" />
@@ -457,11 +457,11 @@
         <mark key="^" line="165" column="25" />
         <mark key="." line="165" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1563325052175">
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="^" line="332" column="40" />
-        <mark key="." line="331" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1563360479736">
+        <mark key="[" line="435" column="0" />
+        <mark key="]" line="435" column="0" />
+        <mark key="^" line="434" column="66" />
+        <mark key="." line="435" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/tsv.py" timestamp="1561009556578">
         <mark key="[" line="58" column="43" />
@@ -527,11 +527,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563349365191">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563361403576">
         <mark key="'" line="64" column="33" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="131" column="0" />
+        <mark key="[" line="151" column="38" />
+        <mark key="]" line="153" column="78" />
+        <mark key="." line="153" column="78" />
+        <mark key="^" line="153" column="78" />
       </file>
     </filemarks>
     <jumps>
@@ -572,10 +573,13 @@
       <jump line="168" column="61" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
       <jump line="24" column="32" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
       <jump line="71" column="33" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" />
+      <jump line="40" column="56" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" />
+      <jump line="74" column="8" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">YSA9IGdldF9hc3NldCgKICAgICdzM3ppcDovL1Zpc3VhbENhcHRpb25pbmcvaW1hZ2VzL2NvY29fZXZhbDUwMDBfbnB5LnppcCcpLmF1dG9mZXRjaCgpLmFzX3Bvc2l4KCkKcHJpbnQoYSkK</text>
       </register>
       <register name="-" type="4">
         <text>experiments</text>
@@ -584,34 +588,55 @@
         <text>custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5jb2Rlcl9maWxlID0gb3NwLmpvaW4oYXJncy5yZXNvdXJjZV9kaXIsICdlbmNvZGVyX29wdC5lc3ByZXNzby5uZXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXNbJ2ltYWdlJ10gPSBmZWF0dXJlc1snaW1hZ2UnXSAqIDIgLSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">YSA9IGdldF9hc3NldCgKICAgICdzM3ppcDovL1Zpc3VhbENhcHRpb25pbmcvaW1hZ2VzL2NvY29fZXZhbDUwMDBfbnB5LnppcCcpLmF1dG9mZXRjaCgpLmFzX3Bvc2l4KCkKcHJpbnQoYSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>import json
+from lib.validators.metrics.pycocotools.coco import COCO
+
+full_json = '/Users/Warmer/.coreflow/data/blobby-mr3/VisualCaptioning/annotation/captions_val2014.json'
+full = COCO(full_json)
+
+part_json = './data/kar_split/kar_val.json'
+part = json.load(open(part_json))
+
+valid_ids = [int(ann['image_id']) for ann in part]
+
+res = {
+    'images': [],
+    'annotations': []
+}
+
+for img_id in valid_ids:
+    res['images'].extend(full.loadImgs(img_id))
+    ann_ids = full.getAnnIds(img_id)
+    res['annotations'].extend(full.loadAnns(ann_ids))
+
+json.dump(res, open('kar_val_ann.json', 'w'))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd0eXBlJzogJ2NhcHRpb25zJywK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnY2hlY2twb2ludCBpdGVyYXRpb25zOiB7fScuZm9ybWF0KHNlbGYuY2twdF9pdGVyKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICd0eXBlJzogJ2NhcHRpb25zJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXNbJ2ltYWdlJ10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdsaWNlbnNlcyc6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9pbWFnZXMgPSB0Zi5zdWJ0cmFjdCh0Zi5tdWx0aXBseShpbnB1dF9pbWFnZXMsIDIpLCAxLCBuYW1lPSdpbnB1dF9pbWFnZXMnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdpbmZvJzogeydkZXNjcmlwdGlvbic6ICdDT0NPIEthciBldmFsIDUwMDAgYW5ub3RhdGlvbid9LAo=</text>
+        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVsbCA9IENPQ08oZnVsbF9qc29uKQo=</text>
+        <text encoding="base64">ICAgICd0eXBlJzogJ2NhcHRpb25zJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24KCndpdGggb3BlbigncmVzLmpzb24nLCAncicpIGFzIGY6CiAgICByZXMgPSBqc29uLmxvYWQoZikKCnRmX3Jlc19maWxlID0gJy4vZXhwZXJpbWVudHMvZTJlX2F4X2NvY28vZXZhbF9jb2NvL2V2YWwuMTEzMjgwLmNhcHRpb25fZmlsdC5qc29uJwp3aXRoIG9wZW4odGZfcmVzX2ZpbGUsICdyJykgYXMgZjoKICAgIHRmX3JlcyA9IGpzb24ubG9hZChmKQoKZm9yIGEgaW4gcmVzOgogICAgcHJpbnQoJ2VzcHJlc3NvOiB7fScuZm9ybWF0KGFbJ2NhcHRpb24nXSkpCiAgICBpZiAnVU5LJyBpbiBhWydjYXB0aW9uJ106CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcgogICAgZm9yIGIgaW4gdGZfcmVzOgogICAgICAgIGlmIGJbJ2ltYWdlX2lkJ10gPT0gYVsnaW1hZ2VfaWQnXToKICAgICAgICAgICAgcHJpbnQoJ3RmICAgcmVzOiB7fScuZm9ybWF0KGJbJ2NhcHRpb24nXSkpCg==</text>
+        <text encoding="base64">ICAgICd0eXBlJzogJ2NhcHRpb25zJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
