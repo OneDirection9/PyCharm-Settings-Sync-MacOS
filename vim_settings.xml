@@ -15,7 +15,7 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/eval.cfg" timestamp="1563328115449">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/eval.cfg" timestamp="1563330922393">
         <mark key="[" line="28" column="122" />
         <mark key="]" line="28" column="104" />
         <mark key="^" line="28" column="104" />
@@ -185,6 +185,12 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/caption_eval.py" timestamp="1563329429687">
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/resnet/resnet_v2.py" timestamp="1560396268557">
         <mark key="[" line="63" column="45" />
         <mark key="]" line="63" column="5" />
@@ -276,11 +282,11 @@
         <mark key="^" line="58" column="58" />
         <mark key="." line="58" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1563242995147">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="12" />
-        <mark key="^" line="61" column="12" />
-        <mark key="." line="61" column="12" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2.cfg" timestamp="1563331045609">
+        <mark key="[" line="70" column="38" />
+        <mark key="]" line="70" column="42" />
+        <mark key="^" line="70" column="42" />
+        <mark key="." line="70" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_coco_scenenet.sh" timestamp="1561767346274">
         <mark key="[" line="0" column="19" />
@@ -307,10 +313,10 @@
         <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1563247507963">
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="69" column="26" />
-        <mark key="." line="69" column="26" />
-        <mark key="^" line="69" column="26" />
+        <mark key="[" line="68" column="34" />
+        <mark key="]" line="68" column="26" />
+        <mark key="." line="68" column="26" />
+        <mark key="^" line="68" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/__init__.py" timestamp="1562851894148">
         <mark key="[" line="5" column="0" />
@@ -342,7 +348,7 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/train.py" timestamp="1563183352352" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/train.py" timestamp="1563329745400" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bboxes_from_tsv.py" timestamp="1561013173622">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="19" column="13" />
@@ -489,12 +495,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563244077957">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="47" column="47" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563331001083">
+        <mark key="'" line="62" column="33" />
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="43" column="58" />
+        <mark key="^" line="43" column="58" />
+        <mark key="." line="43" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -534,13 +540,14 @@
       <jump line="90" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
       <jump line="168" column="61" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
       <jump line="24" column="32" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
+      <jump line="71" column="33" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID4gMTA6CiAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGNrcHRfZmlsZSA9IHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KHBhcmFtc1snY2hlY2twb2ludF9kaXInXSkKICAgICAgICAgICAgc2VsZi5ja3B0X2RpciA9IHBhcmFtc1snY2hlY2twb2ludF9kaXInXQogICAgICAgICAgICBzZWxmLmNrcHRfaXRlciA9IGNrcHRfZmlsZS5zcGxpdCgnLScpWy0xXQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ3t9OiB7fScuZm9ybWF0KHR5cGUoZSkuX19uYW1lX18sIGUpKQogICAgICAgICAgICBzZWxmLmNrcHRfZGlyID0gTW9kZWxDaGVja3BvaW50LmdldCgKICAgICAgICAgICAgICAgIHBhcmFtc1snY2hlY2twb2ludCddKS5hdXRvZmV0Y2goKS5fbG9jYWxfcGF0aC5hc19wb3NpeCgpCiAgICAgICAgICAgIHNlbGYuY2twdF9pdGVyID0gcGFyYW1zWydjaGVja3BvaW50J10uc3BsaXQoJy0nKVstMV0K</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
@@ -549,31 +556,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZW5jb2Rlcl9maWxlID0gb3NwLmpvaW4oYXJncy5yZXNvdXJjZV9kaXIsICdlbmNvZGVyX29wdC5lc3ByZXNzby5uZXQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID4gMTA6CiAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGNrcHRfZmlsZSA9IHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KHBhcmFtc1snY2hlY2twb2ludF9kaXInXSkKICAgICAgICAgICAgc2VsZi5ja3B0X2RpciA9IHBhcmFtc1snY2hlY2twb2ludF9kaXInXQogICAgICAgICAgICBzZWxmLmNrcHRfaXRlciA9IGNrcHRfZmlsZS5zcGxpdCgnLScpWy0xXQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ3t9OiB7fScuZm9ybWF0KHR5cGUoZSkuX19uYW1lX18sIGUpKQogICAgICAgICAgICBzZWxmLmNrcHRfZGlyID0gTW9kZWxDaGVja3BvaW50LmdldCgKICAgICAgICAgICAgICAgIHBhcmFtc1snY2hlY2twb2ludCddKS5hdXRvZmV0Y2goKS5fbG9jYWxfcGF0aC5hc19wb3NpeCgpCiAgICAgICAgICAgIHNlbGYuY2twdF9pdGVyID0gcGFyYW1zWydjaGVja3BvaW50J10uc3BsaXQoJy0nKVstMV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0taW1hZ2UtZGlyJywgZGVzdD0naW1hZ2VfZGlyJywgdHlwZT1zdHIsCiAgICAgICAgZGVmYXVsdD0nbXIzOi8vVmlzdWFsQ2FwdGlvbmluZy9pbWFnZXMvY29jb19ldmFsNTAwMF9ucHkvJywKICAgICAgICBoZWxwPSdwYXRoIHRvIGltYWdlIGZpbGVzJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgJy0tdm9jYWItZmlsZScsIGRlc3Q9J3ZvY2FiX2ZpbGUnLCB0eXBlPXN0ciwKICAgICAgICBkZWZhdWx0PSdtcjM6Ly9WaXN1YWxDYXB0aW9uaW5nL2Fubm90YXRpb24va2FyX3RyYWluL3ZvY2FiLmpzb24nLAogICAgICAgIGhlbHA9J3BhdGggdG8gdm9jYWJ1bGFyeSBmaWxlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2twdF9kaXIgPQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGVmIF9nZXRfY2twdF9pdGVyX2Zyb21fZGlyKGNrcHRfZGlyKToKICAgICAgICAgICAgY2twdCA9IHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KGNrcHRfZGlyKQogICAgICAgICAgICBja3B0X2l0ZXIgPSBja3B0LnNwbGl0KCctJylbLTFdCiAgICAgICAgICAgIHJldHVybiBja3B0X2l0ZXIKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0hBUkVEX05BTUUgPSAndW5yb2xsaW5nX3NoYXJlZC5lc3ByZXNzby5uZXQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2twdF9pdGVyID0gX2dldF9ja3B0X2l0ZXJfZnJvbV9kaXIoY2twdF9kaXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbWdfaWQgbm90IGluICg2NzY2MCwgMzQzMTk4LCAzNTQzMDcsIDEwODc1OCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2twdF9pdGVyID0gY2twdF9maWxlLnNwbGl0KCctJylbLTFdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2twdF9maWxlID0gdGYudHJhaW4ubGF0ZXN0X2NoZWNrcG9pbnQoY2twdF9kaXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbWdfaWQgIT0gNTQ1MjM1Ogo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgX3BhcnNlX2NrcHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxhbmdfcHJvYl9sZWZ0LCBfLCBsYW5nX3Byb2JfcmlnaHQgPSB0Zi5zcGxpdCgKICAgICAgICAjICAgICBsYW5nX3Byb2IsIGF4aXM9MSwKICAgICAgICAjICAgICBudW1fb3Jfc2l6ZV9zcGxpdHM9WzEsIDEsIHNlbGYuX3ZvY2FiX3NpemUgLSAyXSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2twdF9kaXIsIGNrcHRfaXRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
