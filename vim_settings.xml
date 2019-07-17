@@ -59,13 +59,6 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563205956878">
-        <mark key="'" line="213" column="1" />
-        <mark key="[" line="98" column="34" />
-        <mark key="]" line="98" column="50" />
-        <mark key="." line="98" column="50" />
-        <mark key="^" line="98" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/light.cfg" timestamp="1561744842585">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="17" />
@@ -167,10 +160,10 @@
         <mark key="." line="19" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/models/top_down_attention.py" timestamp="1563202684277">
-        <mark key="'" line="360" column="54" />
-        <mark key="]" line="368" column="17" />
-        <mark key="." line="368" column="17" />
-        <mark key="^" line="368" column="17" />
+        <mark key="'" line="357" column="54" />
+        <mark key="]" line="365" column="17" />
+        <mark key="." line="365" column="17" />
+        <mark key="^" line="365" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1563202217641">
         <mark key="[" line="0" column="0" />
