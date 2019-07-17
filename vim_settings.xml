@@ -51,12 +51,12 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563336627020">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563344159308">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="21" column="17" />
+        <mark key="]" line="108" column="49" />
+        <mark key="." line="108" column="49" />
+        <mark key="^" line="108" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1560755953357">
         <mark key="[" line="33" column="44" />
@@ -495,12 +495,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563335425865">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563344785520">
         <mark key="'" line="65" column="33" />
-        <mark key="[" line="75" column="23" />
-        <mark key="]" line="75" column="27" />
-        <mark key="^" line="75" column="27" />
-        <mark key="." line="75" column="27" />
+        <mark key="[" line="151" column="13" />
+        <mark key="]" line="151" column="18" />
+        <mark key="^" line="151" column="18" />
+        <mark key="." line="151" column="18" />
       </file>
     </filemarks>
     <jumps>
