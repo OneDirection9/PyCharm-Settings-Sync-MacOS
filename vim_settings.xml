@@ -147,11 +147,11 @@
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1563350105859">
+      <file name="/Python Console" timestamp="1563441322044">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1563333559691">
         <mark key="[" line="58" column="50" />
@@ -165,7 +165,7 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563438465935">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563441178241">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
@@ -578,11 +578,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2Zhc3NldGxpYi5zdG9yYWdlLlppcEFyY2hpdmVDb250ZXh0KHVybCkK</text>
+      <register name="&quot;" type="4">
+        <text>get_asset('s3://Visual')</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get_asset('s3://Visual')</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
