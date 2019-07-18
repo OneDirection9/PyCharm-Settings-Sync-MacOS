@@ -165,11 +165,11 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563362103715">
-        <mark key="[" line="4" column="76" />
-        <mark key="]" line="4" column="73" />
-        <mark key="." line="4" column="73" />
-        <mark key="^" line="4" column="73" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563434991446">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
         <mark key="[" line="0" column="19" />
@@ -579,7 +579,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YSA9IGdldF9hc3NldCgKICAgICdzM3ppcDovL1Zpc3VhbENhcHRpb25pbmcvaW1hZ2VzL2NvY29fZXZhbDUwMDBfbnB5LnppcCcpLmF1dG9mZXRjaCgpLmFzX3Bvc2l4KCkKcHJpbnQoYSkK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="-" type="4">
         <text>experiments</text>
@@ -591,9 +591,18 @@
         <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXNbJ2ltYWdlJ10gPSBmZWF0dXJlc1snaW1hZ2UnXSAqIDIgLSAxCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bnAuc3VtKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">YSA9IGdldF9hc3NldCgKICAgICdzM3ppcDovL1Zpc3VhbENhcHRpb25pbmcvaW1hZ2VzL2NvY29fZXZhbDUwMDBfbnB5LnppcCcpLmF1dG9mZXRjaCgpLmFzX3Bvc2l4KCkKcHJpbnQoYSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>import json
 from lib.validators.metrics.pycocotools.coco import COCO
 
@@ -617,26 +626,17 @@ for img_id in valid_ids:
 
 json.dump(res, open('kar_val_ann.json', 'w'))</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnY2hlY2twb2ludCBpdGVyYXRpb25zOiB7fScuZm9ybWF0KHNlbGYuY2twdF9pdGVyKSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXNbJ2ltYWdlJ10K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbnB1dF9pbWFnZXMgPSB0Zi5zdWJ0cmFjdCh0Zi5tdWx0aXBseShpbnB1dF9pbWFnZXMsIDIpLCAxLCBuYW1lPSdpbnB1dF9pbWFnZXMnKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICd0eXBlJzogJ2NhcHRpb25zJywK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICd0eXBlJzogJ2NhcHRpb25zJywK</text>
+        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
