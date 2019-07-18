@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563356204945">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563437603688">
         <mark key="'" line="24" column="32" />
-        <mark key="[" line="87" column="86" />
-        <mark key="]" line="88" column="31" />
-        <mark key="." line="88" column="31" />
-        <mark key="^" line="88" column="31" />
+        <mark key="[" line="88" column="40" />
+        <mark key="]" line="88" column="25" />
+        <mark key="." line="88" column="25" />
+        <mark key="^" line="88" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1560755953357">
         <mark key="[" line="33" column="44" />
@@ -165,11 +165,11 @@
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563434991446">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563438465935">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
         <mark key="[" line="0" column="19" />
@@ -579,64 +579,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Y2Zhc3NldGxpYi5zdG9yYWdlLlppcEFyY2hpdmVDb250ZXh0KHVybCkK</text>
       </register>
       <register name="-" type="4">
-        <text>experiments</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXNbJ2ltYWdlJ10gPSBmZWF0dXJlc1snaW1hZ2UnXSAqIDIgLSAxCg==</text>
+        <text encoding="base64">ICAgICd6aXA6czM6Ly9WaXN1YWxDYXB0aW9uaW5nL2ltYWdlcy9jb2NvX2V2YWw1MDAwX25weS56aXAjaW1nX25weS8nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Y2Zhc3NldGxpYi5zdG9yYWdlLlppcEFyY2hpdmVDb250ZXh0KHVybCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICd6aXA6czM6Ly9WaXN1YWxDYXB0aW9uaW5nL2ltYWdlcy9jb2NvX2V2YWw1MDAwX25weS56aXAjaW1nX25weS8nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnAuc3VtKCkK</text>
+        <text encoding="base64">emYgPSBjZmFzc2V0bGliLnN0b3JhZ2UuWmlwT2JqZWN0U3RvcmUoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YSA9IGdldF9hc3NldCgKICAgICdzM3ppcDovL1Zpc3VhbENhcHRpb25pbmcvaW1hZ2VzL2NvY29fZXZhbDUwMDBfbnB5LnppcCcpLmF1dG9mZXRjaCgpLmFzX3Bvc2l4KCkKcHJpbnQoYSkK</text>
+        <text encoding="base64">ZnJvbSBjZmFzc2V0bGliIGltcG9ydCBBc3NldExpc3QK</text>
       </register>
-      <register name="5" type="4">
-        <text>import json
-from lib.validators.metrics.pycocotools.coco import COCO
-
-full_json = '/Users/Warmer/.coreflow/data/blobby-mr3/VisualCaptioning/annotation/captions_val2014.json'
-full = COCO(full_json)
-
-part_json = './data/kar_split/kar_val.json'
-part = json.load(open(part_json))
-
-valid_ids = [int(ann['image_id']) for ann in part]
-
-res = {
-    'images': [],
-    'annotations': []
-}
-
-for img_id in valid_ids:
-    res['images'].extend(full.loadImgs(img_id))
-    ann_ids = full.getAnnIds(img_id)
-    res['annotations'].extend(full.loadAnns(ann_ids))
-
-json.dump(res, open('kar_val_ann.json', 'w'))</text>
+      <register name="5" type="2">
+        <text encoding="base64">CmEgPSBBc3NldExpc3QuZ2V0KCd6aXA6bXIzOi8vVmlzdWFsQ2FwdGlvbmluZy9pbWFnZXMvY29jb19ldmFsNTAwMF9ucHkuemlwJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnY2hlY2twb2ludCBpdGVyYXRpb25zOiB7fScuZm9ybWF0KHNlbGYuY2twdF9pdGVyKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXNbJ2ltYWdlJ10K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVuZF90b19lbmRfZGlybmFtZSA9IGt3YXJncy5nZXQoJ2VuZF90b19lbmRfZGlybmFtZScsIEVORF9UT19FTkRfRElSTkFNRSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dF9pbWFnZXMgPSB0Zi5zdWJ0cmFjdCh0Zi5tdWx0aXBseShpbnB1dF9pbWFnZXMsIDIpLCAxLCBuYW1lPSdpbnB1dF9pbWFnZXMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">UmVzdW1lLUhhblpoaXBlbmctaW4td29yay5kb2N4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
