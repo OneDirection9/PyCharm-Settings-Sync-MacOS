@@ -95,11 +95,11 @@
         <mark key="." line="32" column="39" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/export.py" timestamp="1563328223739" />
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet.cfg" timestamp="1563259955356">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="43" column="19" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet.cfg" timestamp="1563444672953">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/res.json" timestamp="1563268525594" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1562938355804">
