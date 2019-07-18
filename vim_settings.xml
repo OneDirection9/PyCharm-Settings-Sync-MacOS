@@ -415,6 +415,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/hooks.py" timestamp="1563455898987" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecord.py" timestamp="1561008730059">
         <mark key="[" line="47" column="17" />
         <mark key="]" line="47" column="17" />
