@@ -25,12 +25,6 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/postpro_captioning.py" timestamp="1563547773977">
-        <mark key="[" line="29" column="35" />
-        <mark key="]" line="35" column="60" />
-        <mark key="^" line="35" column="60" />
-        <mark key="." line="35" column="60" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/torch/test.py" timestamp="1562177263293">
         <mark key="[" line="3" column="0" />
       </file>
@@ -46,6 +40,11 @@
         <mark key="]" line="26" column="39" />
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_ax_coco_resnet_v2.cfg" timestamp="1562992910225">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="1" />
+        <mark key="." line="59" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/edit_espresso_net.py" timestamp="1563029287039">
         <mark key="[" line="20" column="80" />
@@ -74,6 +73,11 @@
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/TensorFlowIO.py" timestamp="1562971897487" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/preprocessings/image.py" timestamp="1562093428626" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/cvbenchworker.py" timestamp="1563553342754">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datasets/datasets.py" timestamp="1561749019279">
         <mark key="[" line="34" column="63" />
         <mark key="]" line="34" column="69" />
@@ -103,7 +107,11 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/cvbench/__init__.py" timestamp="1563551926008" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/cvbench/__init__.py" timestamp="1563554159573">
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
+      </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/cvbench/metrics/captioning.py" timestamp="1563551648766" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/export.cfg" timestamp="1561782275932">
         <mark key="[" line="22" column="38" />
@@ -125,6 +133,7 @@
         <mark key="." line="22" column="9" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/pyespresso/BasicTypes.py" timestamp="1561681157366" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/cvbench/inference.py" timestamp="1563552527690" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_ax_coco_resnet_v2_bolt.cfg" timestamp="1562859480318" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/t.py" timestamp="1562179093275">
         <mark key="[" line="2" column="37" />
@@ -134,10 +143,6 @@
         <mark key="]" line="303" column="19" />
         <mark key="^" line="303" column="19" />
         <mark key="." line="303" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/legacy.py" timestamp="1563004533141">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/light.sh" timestamp="1561622579835">
         <mark key="[" line="0" column="19" />
@@ -157,6 +162,7 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/cvbench/precomputed.py" timestamp="1563552423382" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/nnconvert/backends/espresso/dumpers.py" timestamp="1562029111430" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso/integrate_embedding_matrix.py" timestamp="1563009641887">
         <mark key="[" line="17" column="65" />
@@ -223,8 +229,8 @@
       <jump line="179" column="1" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnYXNkZmFzZGZhZHNmYXNkZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmYnKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -236,31 +242,31 @@
         <text encoding="base64">ICAgIHBhY2thZ2VzPWZpbmRfcGFja2FnZXMoaW5jbHVkZT0oJ2ZvdW5kYXRpb24uKicsKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB3b3JkX2lkID09IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgnYXNkZmFzZGZhZHNmYXNkZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmYnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEgPSAxCiAgICBmb3IgcHJvYiBpbiB3b3JkX3Byb2JzOgogICAgICAgIGEgKj0gcHJvYgogICAgcHJpbnQobnAucG93ZXIoW2FdLCAxIC8gbGVuKHdvcmRfcHJvYnMpKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB3b3JkX2lkID09IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5wLmV4cChucC5sb2cobnAuc3VtKHdvcmRfcHJvYnMpKSAvIGxlbih3b3JkX3Byb2JzKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnc2NvcmUnOiBucC5wb3dlcigpCg==</text>
+        <text encoding="base64">ICAgIGEgPSAxCiAgICBmb3IgcHJvYiBpbiB3b3JkX3Byb2JzOgogICAgICAgIGEgKj0gcHJvYgogICAgcHJpbnQobnAucG93ZXIoW2FdLCAxIC8gbGVuKHdvcmRfcHJvYnMpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjb3JlID0gbnAuZXhwKG5wLnN1bSh3b3JkX3Byb2JzWzppZHhdKSAvIHdvcmRfcHJvYnNbOmlkeF0uc2l6ZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KG5wLmV4cChucC5sb2cobnAuc3VtKHdvcmRfcHJvYnMpKSAvIGxlbih3b3JkX3Byb2JzKSkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGNhcHRpb24sIHNjb3JlID0gW10sIDAKICAgIGZvciB3b3JkX2lkIGluIHdvcmRfaWRzOgogICAgICAgIGlmIHdvcmRfaWQgPT0gdm9jYWIuZW5kX2lkOgogICAgICAgICAgICBicmVhawogICAgICAgIGNhcHRpb24uYXBwZW5kKHZvY2FiLmlkX3RvX3dvcmQod29yZF9pZCkpCiAgICAgICAgc2NvcmUgKz0gd29yZF9wcm9icw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnc2NvcmUnOiBucC5wb3dlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvcmRfaWRzID0gd29yZF9pZHMuYXN0eXBlKG5wLmludDMyKS50b2xpc3QoKQo=</text>
+        <text encoding="base64">ICAgIHNjb3JlID0gbnAuZXhwKG5wLnN1bSh3b3JkX3Byb2JzWzppZHhdKSAvIHdvcmRfcHJvYnNbOmlkeF0uc2l6ZSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRfaWRzKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGNhcHRpb24sIHNjb3JlID0gW10sIDAKICAgIGZvciB3b3JkX2lkIGluIHdvcmRfaWRzOgogICAgICAgIGlmIHdvcmRfaWQgPT0gdm9jYWIuZW5kX2lkOgogICAgICAgICAgICBicmVhawogICAgICAgIGNhcHRpb24uYXBwZW5kKHZvY2FiLmlkX3RvX3dvcmQod29yZF9pZCkpCiAgICAgICAgc2NvcmUgKz0gd29yZF9wcm9icw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
