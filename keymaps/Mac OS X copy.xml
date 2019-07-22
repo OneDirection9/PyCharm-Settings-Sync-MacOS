@@ -132,8 +132,18 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift meta j" />
