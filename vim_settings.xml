@@ -146,18 +146,18 @@
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/cvbench_create_dataset.py" timestamp="1563773222797">
         <mark key="^" line="81" column="40" />
       </file>
-      <file name="/Python Console" timestamp="1563535444268">
+      <file name="/Python Console" timestamp="1563793166447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="61" />
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563789829217">
-        <mark key="'" line="64" column="37" />
-        <mark key="[" line="85" column="33" />
-        <mark key="]" line="85" column="32" />
-        <mark key="^" line="85" column="32" />
-        <mark key="." line="85" column="32" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563794109606">
+        <mark key="'" line="32" column="34" />
+        <mark key="[" line="115" column="51" />
+        <mark key="]" line="117" column="23" />
+        <mark key="^" line="117" column="23" />
+        <mark key="." line="117" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1563333559691">
         <mark key="[" line="58" column="50" />
@@ -590,49 +590,51 @@
       <jump line="8" column="0" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/cfassetlib/__init__.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
       <jump line="62" column="37" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
+      <jump line="32" column="34" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>unrolling</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>unrolling</text>
       </register>
       <register name="/" type="4">
         <text>opt.espresso.net</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">4pSc4pSA4pSAIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBmaW5kX3NoYXJlZF93ZWlnaHRzKHNlbGYsIGRlc3RfZmlsZT1Ob25lKToKICAgICAgICBkZXN0X2ZpbGUgPSBkZXN0X2ZpbGUgb3Igc2VsZi5fdW5yb2xsaW5nLnJlcGxhY2UoJy5lc3ByZXNzbycsICdfc2hhcmVkLmVzcHJlc3NvJykKICAgICAgICBpZiBvc3AuaXNmaWxlKGRlc3RfZmlsZSk6CiAgICAgICAgICAgIHByaW50KCd7fTogYWxyZWFkeSBleGlzdHMnLmZvcm1hdChkZXN0X2ZpbGUpKQogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgY21kID0gJ2VzcHJlc3NvdG9vbCBvIHt9IC0tY3VzdG9tX29wdGltaXphdGlvbnMgZmluZF9zaGFyZWRfd2VpZ2h0cyAtbyB7fScuZm9ybWF0KAogICAgICAgICAgICBzZWxmLl91bnJvbGxpbmcsIGRlc3RfZmlsZSkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0X2ZpbGUgPSBzZWxmLl9lMmVfb3B0LnJlcGxhY2UoJ19vcHQuZXNwcmVzc28nLCAnX3NoYXJlZC5lc3ByZXNzbycpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZW1vdmVfb3JpZ2luYWw6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfcmVtb3ZlX29yaWdpbmFsX25ldChzZWxmKToKICAgICAgICAjIERlbGV0ZSBpbnRlcm1lZGlhdGUgbW9kZWxzIHRvIHNhdmUgZGlzayBzaW5jZSBpdCBpcyBhdCBsZWFzdCAzLjFHQgogICAgICAgIHRyeToKICAgICAgICAgICAgY21kID0gJ3JtIHt9KicuZm9ybWF0KHNlbGYuX3Vucm9sbGluZ1s6LTNdKQogICAgICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yIGFzIGU6CiAgICAgICAgICAgIHByaW50KCd7fToge30nLmZvcm1hdCh0eXBlKGUpLl9fbmFtZV9fLCBlKSkKCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjbWQgPSAncm0ge30qJy5mb3JtYXQoc2VsZi5fZTJlX29wdFs6LTNdKQogICAgICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yIGFzIGU6CiAgICAgICAgICAgIHByaW50KCd7fToge30nLmZvcm1hdCh0eXBlKGUpLl9fbmFtZV9fLCBlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZWRfbmV0ID0gc2VsZi5fZTJlLnJlcGxhY2UoJy5lc3ByZXNzbycsICdfc2hhcmVkLmVzcHJlc3NvJykK</text>
+        <text encoding="base64">Y2xhc3MgRXNwcmVzc29DYXB0aW9uaW5nKG9iamVjdCk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5ldF9maWxlKToKICAgICAgICBzZWxmLl9uZXRfZmlsZSA9IG5ldF9maWxlCgogICAgZGVmIGZpbmRfc2hhcmVkX3dlaWdodHMoc2VsZiwgZGVzdF9maWxlPU5vbmUpOgogICAgICAgIGRlc3RfZmlsZSA9IGRlc3RfZmlsZSBvciBzZWxmLl9uZXRfZmlsZS5yZXBsYWNlKCcuZXNwcmVzc28nLCAnX3NoYXJlZC5lc3ByZXNzbycpCiAgICAgICAgaWYgb3NwLmlzZmlsZShkZXN0X2ZpbGUpOgogICAgICAgICAgICBwcmludCgne306IGFscmVhZHkgZXhpc3RzJy5mb3JtYXQoZGVzdF9maWxlKSkKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGNtZCA9ICdlc3ByZXNzb3Rvb2wgbyB7fSAtLWN1c3RvbV9vcHRpbWl6YXRpb25zIGZpbmRfc2hhcmVkX3dlaWdodHMgLW8ge30nLmZvcm1hdCgKICAgICAgICAgICAgc2VsZi5fbmV0X2ZpbGUsIGRlc3RfZmlsZSkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZWRfbmV0ID0gb3NwLmpvaW4oc2VsZi5fZTJlX2RpciwnX3NoYXJlZC5lc3ByZXNzby5uZXQnKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfcmVtb3ZlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF9uZXQgPSBvc3Auam9pbihzZWxmLl9lMmVfZGlyLCBzZWxmLl9lMmVfbmFtZSArICcuZXNwcmVzc28ubmV0JykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90d29fc3RhZ2VfZm9sZGVyID0gJ3R3b19zdGFnZScKICAgICAgICBzZWxmLl9lbmNvZGVyX25hbWUgPSAnZW5jb2RlcicKICAgICAgICBzZWxmLl9kZWNvZGVyX25hbWUgPSAnZGVjb2RlcicKICAgICAgICBzZWxmLl90d29fc3RhZ2VfZGlyID0gb3NwLmpvaW4oc2VsZi5fcmVzb3VyY2VfZGlyLCBzZWxmLl90d29fc3RhZ2VfZm9sZGVyKQoK</text>
+        <text encoding="base64">ICAgICAgICBkZXN0X2ZpbGUgPSBzZWxmLl9lMmVfb3B0LnJlcGxhY2UoJ19vcHQuZXNwcmVzc28nLCAnX3NoYXJlZC5lc3ByZXNzbycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWNvZGVyID0gb3NwLmpvaW4oc2VsZi5fdHdvX3N0YWdlX2RpciwgJ2RlY29kZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9lMmVfZm9sZGVyID0gJ2VuZF90b19lbmQnCiAgICAgICAgc2VsZi5fZTJlX25hbWUgPSAndW5yb2xsaW5nJwogICAgICAgIHNlbGYuX2UyZV9kaXIgPSBvc3Auam9pbihzZWxmLl9yZXNvdXJjZV9kaXIsIHNlbGYuX2UyZV9mb2xkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaGFyZWRfbmV0ID0gc2VsZi5fZTJlLnJlcGxhY2UoJy5lc3ByZXNzbycsICdfc2hhcmVkLmVzcHJlc3NvJykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>w2</text>
       </register>
     </registers>
     <search>
@@ -683,8 +685,8 @@
         <entry>noh</entry>
         <entry>:w</entry>
         <entry>wq</entry>
-        <entry>w2</entry>
         <entry>w</entry>
+        <entry>w2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
