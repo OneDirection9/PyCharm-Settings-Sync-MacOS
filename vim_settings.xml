@@ -185,7 +185,7 @@
         <mark key="." line="812" column="25" />
         <mark key="^" line="812" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2_finetune.cfg" timestamp="1562901189565">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_coco_resnet_v2_finetune.cfg" timestamp="1563763309441">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="60" column="12" />
         <mark key="^" line="60" column="12" />
@@ -422,6 +422,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/scripts/train_pns_resnet_finetune.sh" timestamp="1563763483301">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/read_tfrecord.py" timestamp="1561008730059">
         <mark key="[" line="47" column="17" />
         <mark key="]" line="47" column="17" />
@@ -528,11 +534,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet_finetune.cfg" timestamp="1563762720000">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="56" column="40" />
-        <mark key="^" line="56" column="40" />
-        <mark key="." line="56" column="40" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet_finetune.cfg" timestamp="1563763417390">
+        <mark key="'" line="10" column="17" />
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="16" />
+        <mark key="." line="67" column="16" />
+        <mark key="^" line="67" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563508488907">
         <mark key="'" line="11" column="17" />
@@ -586,15 +593,11 @@
       <jump line="9" column="20" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" />
       <jump line="11" column="17" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" />
       <jump line="17" column="18" filename="$USER_HOME$/Documents/my-repositories/image_caption/lib/cvml_utils/cvbench.py" />
+      <jump line="10" column="17" filename="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet_finetune.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>def main():
-    compute([2, 3, 4, 5, 6], [0.5, 0.6, 0.7, 0.8, 0.9])
-
-
-if __name__ == '__main__':
-    main()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS1yZXN1bWUtZXhjbHVkZS1zY29wZXMgPSByZXNuZXQuKkFkYW0uKgotLWZpbmV0dW5lID0gbXIzOi8vVmlzdWFsQ2FwdGlvbmluZy9jbm5fY2hlY2twb2ludC9yZXNuZXRfdjJfMTAxLmNrcHQKLS1yZXN1bWUtaW5jbHVkZS1zY29wZXMgPSByZXNuZXQuKgotLWV4Y2x1ZGUtdHJhaW4tc2NvcGUgPSByZXNuZXQuKgotLWV4Y2x1ZGUtdXBkYXRlcy1zY29wZXMgPSByZXNuZXQuKgo=</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -605,7 +608,10 @@ if __name__ == '__main__':
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9lbmNvZGVyX3N0ZW0gPSAnZW5jb2RlcicK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">LS1yZXN1bWUtZXhjbHVkZS1zY29wZXMgPSByZXNuZXQuKkFkYW0uKgotLWZpbmV0dW5lID0gbXIzOi8vVmlzdWFsQ2FwdGlvbmluZy9jbm5fY2hlY2twb2ludC9yZXNuZXRfdjJfMTAxLmNrcHQKLS1yZXN1bWUtaW5jbHVkZS1zY29wZXMgPSByZXNuZXQuKgotLWV4Y2x1ZGUtdHJhaW4tc2NvcGUgPSByZXNuZXQuKgotLWV4Y2x1ZGUtdXBkYXRlcy1zY29wZXMgPSByZXNuZXQuKgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>def main():
     compute([2, 3, 4, 5, 6], [0.5, 0.6, 0.7, 0.8, 0.9])
 
@@ -613,32 +619,29 @@ if __name__ == '__main__':
 if __name__ == '__main__':
     main()</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZXMK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZnJvbSAuLm1pc2Mudm9jYWJ1bGFyeSBpbXBvcnQgVm9jYWJ1bGFyeQpmcm9tIC4udmFsaWRhdG9ycy5tZXRyaWNzLnB5Y29jb3Rvb2xzLmNvY28gaW1wb3J0IENPQ08KCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjb3JlID0gcG93KHNjb3JlLCkK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9icy5hcHBlbmQod29yZF9wcm9ic1tpXSkK</text>
+        <text encoding="base64">ICAgIHNjb3JlID0gcG93KHNjb3JlLCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgICAgICBwcm9icy5hcHBlbmQod29yZF9wcm9ic1tpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcKCmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -687,9 +690,9 @@ if __name__ == '__main__':
         <entry>201:206%/lstm_batch_size/self._batch_size/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry>:w</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
