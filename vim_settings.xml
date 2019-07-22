@@ -60,12 +60,8 @@
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563788630310">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="94" column="32" />
-        <mark key="]" line="94" column="31" />
-        <mark key="." line="94" column="31" />
-        <mark key="^" line="94" column="31" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563797244589">
+        <mark key="'" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/datagen/encoders.py" timestamp="1560755953357">
         <mark key="[" line="33" column="44" />
@@ -152,12 +148,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563794109606">
-        <mark key="'" line="32" column="34" />
-        <mark key="[" line="115" column="51" />
-        <mark key="]" line="117" column="23" />
-        <mark key="^" line="117" column="23" />
-        <mark key="." line="117" column="23" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563797867069">
+        <mark key="'" line="36" column="34" />
+        <mark key="[" line="129" column="40" />
+        <mark key="]" line="131" column="15" />
+        <mark key="^" line="131" column="15" />
+        <mark key="." line="131" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1563333559691">
         <mark key="[" line="58" column="50" />
@@ -594,47 +590,62 @@
       <jump line="32" column="34" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>unrolling</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIGltZ19maWxlKToKICAgICAgICBpbWdfZGF0YSA9IG5wLmxvYWQoaW1nX2ZpbGUpCiAgICAgICAgaW1nX2RhdGEgPSBucC50cmFuc3Bvc2UoaW1nX2RhdGEsIGF4ZXM9KDAsIDMsIDEsIDIpKQogICAgICAgIHJldHVybiBpbWdfZGF0YQo=</text>
       </register>
       <register name="-" type="4">
-        <text>unrolling</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>opt.espresso.net</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaW5kX3NoYXJlZF93ZWlnaHRzKHNlbGYsIGRlc3RfZmlsZT1Ob25lKToKICAgICAgICBkZXN0X2ZpbGUgPSBkZXN0X2ZpbGUgb3Igc2VsZi5fdW5yb2xsaW5nLnJlcGxhY2UoJy5lc3ByZXNzbycsICdfc2hhcmVkLmVzcHJlc3NvJykKICAgICAgICBpZiBvc3AuaXNmaWxlKGRlc3RfZmlsZSk6CiAgICAgICAgICAgIHByaW50KCd7fTogYWxyZWFkeSBleGlzdHMnLmZvcm1hdChkZXN0X2ZpbGUpKQogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgY21kID0gJ2VzcHJlc3NvdG9vbCBvIHt9IC0tY3VzdG9tX29wdGltaXphdGlvbnMgZmluZF9zaGFyZWRfd2VpZ2h0cyAtbyB7fScuZm9ybWF0KAogICAgICAgICAgICBzZWxmLl91bnJvbGxpbmcsIGRlc3RfZmlsZSkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfZGF0YSA9IG5wLmxvYWQoaW1nX2ZpbGUpCiAgICAgICAgaW1nX2RhdGEgPSBucC50cmFuc3Bvc2UoaW1nX2RhdGEsIGF4ZXM9KDAsIDMsIDEsIDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZW1vdmVfb3JpZ2luYWw6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkKHNlbGYsIGltZ19maWxlKToKICAgICAgICBpbWdfZGF0YSA9IG5wLmxvYWQoaW1nX2ZpbGUpCiAgICAgICAgaW1nX2RhdGEgPSBucC50cmFuc3Bvc2UoaW1nX2RhdGEsIGF4ZXM9KDAsIDMsIDEsIDIpKQogICAgICAgIHJldHVybiBpbWdfZGF0YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcmVtb3ZlX29yaWdpbmFsX25ldChzZWxmKToKICAgICAgICAjIERlbGV0ZSBpbnRlcm1lZGlhdGUgbW9kZWxzIHRvIHNhdmUgZGlzayBzaW5jZSBpdCBpcyBhdCBsZWFzdCAzLjFHQgogICAgICAgIHRyeToKICAgICAgICAgICAgY21kID0gJ3JtIHt9KicuZm9ybWF0KHNlbGYuX3Vucm9sbGluZ1s6LTNdKQogICAgICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yIGFzIGU6CiAgICAgICAgICAgIHByaW50KCd7fToge30nLmZvcm1hdCh0eXBlKGUpLl9fbmFtZV9fLCBlKSkKCiAgICAgICAgdHJ5OgogICAgICAgICAgICBjbWQgPSAncm0ge30qJy5mb3JtYXQoc2VsZi5fZTJlX29wdFs6LTNdKQogICAgICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCiAgICAgICAgZXhjZXB0IHN1YnByb2Nlc3MuQ2FsbGVkUHJvY2Vzc0Vycm9yIGFzIGU6CiAgICAgICAgICAgIHByaW50KCd7fToge30nLmZvcm1hdCh0eXBlKGUpLl9fbmFtZV9fLCBlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nX2RhdGEgPSBzZWxmLmxvYWQoaW1nX2ZpbGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgRXNwcmVzc29DYXB0aW9uaW5nKG9iamVjdCk6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG5ldF9maWxlKToKICAgICAgICBzZWxmLl9uZXRfZmlsZSA9IG5ldF9maWxlCgogICAgZGVmIGZpbmRfc2hhcmVkX3dlaWdodHMoc2VsZiwgZGVzdF9maWxlPU5vbmUpOgogICAgICAgIGRlc3RfZmlsZSA9IGRlc3RfZmlsZSBvciBzZWxmLl9uZXRfZmlsZS5yZXBsYWNlKCcuZXNwcmVzc28nLCAnX3NoYXJlZC5lc3ByZXNzbycpCiAgICAgICAgaWYgb3NwLmlzZmlsZShkZXN0X2ZpbGUpOgogICAgICAgICAgICBwcmludCgne306IGFscmVhZHkgZXhpc3RzJy5mb3JtYXQoZGVzdF9maWxlKSkKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGNtZCA9ICdlc3ByZXNzb3Rvb2wgbyB7fSAtLWN1c3RvbV9vcHRpbWl6YXRpb25zIGZpbmRfc2hhcmVkX3dlaWdodHMgLW8ge30nLmZvcm1hdCgKICAgICAgICAgICAgc2VsZi5fbmV0X2ZpbGUsIGRlc3RfZmlsZSkKICAgICAgICBzdWJwcm9jZXNzLnJ1bihjbWQsIHNoZWxsPVRydWUsIGNoZWNrPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSBQSUwuSW1hZ2Uub3BlbihpbWdfZmlsZSkKICAgICAgICBpbWcgPSBpbWcucmVzaXplKCg0NDgsIDQ0OCksIFBJTC5JbWFnZS5BTlRJQUxJQVMpCiAgICAgICAgaW1nID0gbnAuYXJyYXkoaW1nKQoKICAgICAgICAjIGltZ19kYXRhID0gbnAubG9hZChpbWdfZmlsZSkKICAgICAgICAjIGltZ19kYXRhID0gbnAudHJhbnNwb3NlKGltZ19kYXRhLCBheGVzPSgwLCAzLCAxLCAyKSkKICAgICAgICAjIHByaW50KCd7fToge30nLmZvcm1hdChpLCBpbWdfaWQpKQoKICAgICAgICBuZXRfZmlsZSA9IG9zcC5qb2luKGFyZ3MucmVzb3VyY2VfZGlyLCAnZW5kX3RvX2VuZC91bnJvbGxpbmdfc2hhcmVkLmVzcHJlc3NvLm5ldCcpCiAgICAgICAgbmV0ID0gcHllc3ByZXNzby5OZXQobmV0X2ZpbGUpCiAgICAgICAgbmV0LmNvcHlfYmxvYl9mcm9tX3JnYl9vcl9ncmF5c2NhbGVfaW1hZ2UoJ2ltYWdlJywgaW1nKQogICAgICAgIG5ldC5mb3J3YXJkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcmVtb3ZlCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgd29yZF9pZHMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b2NhYl9maWxlID0gZ2V0X2Fzc2V0KHZvY2FiX2ZpbGUpLmF1dG9mZXRjaCgpLmFzX3Bvc2l4KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0X2ZpbGUgPSBzZWxmLl9lMmVfb3B0LnJlcGxhY2UoJ19vcHQuZXNwcmVzc28nLCAnX3NoYXJlZC5lc3ByZXNzbycpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>class EspressoCaptioning(object):
+
+    def __init__(self, unrolling=None, encoder=None, decoder=None):
+        self._unrolling = unrolling
+        self._encoder = encoder
+        self._decoder = decoder
+
+    def find_shared_weights(self, dest_file=None):
+        dest_file = dest_file or self._unrolling.replace('.espresso', '_shared.espresso')
+        if osp.isfile(dest_file):
+            print('{}: already exists'.format(dest_file))
+            return
+
+        cmd = 'espressotool o {} --custom_optimizations find_shared_weights -o {}'.format(
+            self._unrolling, dest_file)
+        subprocess.run(cmd, shell=True, check=True)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZWRfbmV0ID0gc2VsZi5fZTJlLnJlcGxhY2UoJy5lc3ByZXNzbycsICdfc2hhcmVkLmVzcHJlc3NvJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl91bnJvbGxpbmcgPSBuZXRfZmlsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w2</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -685,8 +696,8 @@
         <entry>noh</entry>
         <entry>:w</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>w2</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
