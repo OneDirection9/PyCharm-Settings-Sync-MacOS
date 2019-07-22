@@ -534,12 +534,12 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet_finetune.cfg" timestamp="1563763417390">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/cfgs/train_pns_resnet_finetune.cfg" timestamp="1563766049744">
         <mark key="'" line="10" column="17" />
-        <mark key="[" line="67" column="17" />
-        <mark key="]" line="67" column="16" />
-        <mark key="." line="67" column="16" />
-        <mark key="^" line="67" column="16" />
+        <mark key="[" line="58" column="121" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/hooks.py" timestamp="1563508488907">
         <mark key="'" line="11" column="17" />
@@ -641,7 +641,7 @@ if __name__ == '__main__':
         <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -691,8 +691,8 @@ if __name__ == '__main__':
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
