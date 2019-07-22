@@ -152,12 +152,12 @@
         <mark key="^" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563788847637">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563789829217">
         <mark key="'" line="64" column="37" />
-        <mark key="[" line="74" column="42" />
-        <mark key="]" line="75" column="80" />
-        <mark key="^" line="75" column="80" />
-        <mark key="." line="75" column="80" />
+        <mark key="[" line="85" column="33" />
+        <mark key="]" line="85" column="32" />
+        <mark key="^" line="85" column="32" />
+        <mark key="." line="85" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1563333559691">
         <mark key="[" line="58" column="50" />
