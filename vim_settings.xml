@@ -87,7 +87,7 @@
       <file name="$USER_HOME$/Documents/my-repositories/Deep_Learning_Project_Template/demo.py" timestamp="1560752947434">
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563802150802">
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/espresso.py" timestamp="1563848952851">
         <mark key="'" line="8" column="20" />
         <mark key="[" line="103" column="47" />
         <mark key="]" line="103" column="47" />
@@ -286,12 +286,12 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563801993022">
-        <mark key="'" line="36" column="34" />
-        <mark key="[" line="169" column="68" />
-        <mark key="]" line="169" column="86" />
-        <mark key="." line="169" column="86" />
-        <mark key="^" line="169" column="86" />
+      <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" timestamp="1563849085827">
+        <mark key="'" line="170" column="48" />
+        <mark key="[" line="209" column="69" />
+        <mark key="]" line="211" column="19" />
+        <mark key="." line="211" column="19" />
+        <mark key="^" line="211" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/lib/validators/coco_eval.py" timestamp="1563333559691">
         <mark key="[" line="58" column="50" />
@@ -591,13 +591,14 @@
       <jump line="62" column="37" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
       <jump line="32" column="34" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
+      <jump line="169" column="48" filename="$USER_HOME$/Documents/my-repositories/image_caption/tools/cvml/espresso.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlubmVyX3Byb2R1Y3QgYXJndW1lbnRzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>opt.espresso.net</text>
@@ -606,31 +607,31 @@
         <text encoding="base64">ICAgICAgICBpbWdfZGF0YSA9IG5wLmxvYWQoaW1nX2ZpbGUpCiAgICAgICAgaW1nX2RhdGEgPSBucC50cmFuc3Bvc2UoaW1nX2RhdGEsIGF4ZXM9KDAsIDMsIDEsIDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBzZWxmLnBvc3RfcHJvY2Vzcyh3b3JkX2lkcywgd29yZF9wcm9icykK</text>
+        <text encoding="base64">ICAgICAgICAjIGlubmVyX3Byb2R1Y3QgYXJndW1lbnRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSB3b3JkX2lkcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBvbGRfaW5wdXRfbmFtZSBub3QgaW4gb3JpZ2luYWxfbmV0LmJsb2JfbmFtZXMoKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigne306IG5vIHN1Y2ggYmxvYiBpbiBvcmlnaW5hbCBuZXQnLmZvcm1hdChvbGRfaW5wdXRfbmFtZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsICk6CgogICAgICAgIGltZ19maWxlbmFtZXMgPSBvcy5saXN0ZGlyKGltZ19kaXIpCiAgICAgICAgZ2VuZXJhdGUKCiAgICAgICAgZm9yIGksIGltZ19maWxlbmFtZSBpbiBlbnVtZXJhdGUoaW1nX2ZpbGVuYW1lcyk6CiAgICAgICAgICAgIGltZ19maWxlID0gb3NwLmpvaW4oaW1nX2RpciwgaW1nX2ZpbGVuYW1lKQogICAgICAgICAgICBpbWdfZGF0YSA9IG5wLmxvYWQoaW1nX2ZpbGUpCiAgICAgICAgICAgIGltZ19kYXRhID0gbnAudHJhbnNwb3NlKGltZ19kYXRhLCBheGVzPSgwLCAzLCAxLCAyKSkKCiAgICAgICAgICAgIHdvcmRfaWRzLCB3b3JkX3Byb2JzID0gc2VsZi5mb3J3YXJkX3NpbmdsZShpbWdfZGF0YSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hbm5fZmlsZSA9IGdldF9hc3NldChhbm5fZmlsZSkuYXV0b2ZldGNoKCkuYXNfcG9zaXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBhbm5fZmlsZT0nbXIzOi8vVmlzdWFsQ2FwdGlvbmluZy9hbm5vdGF0aW9uL2NhcHRpb25zX3ZhbDIwMTQuanNvbicsCg==</text>
+        <text encoding="base64">ICAgICAgICBvcCA9IGt3YXJncy5nZXQoJ29wJywgJ3dvcmRfZW1iZWRkaW5nJykKICAgICAgICBib3R0b20gPSBrd2FyZ3MuZ2V0KCdib3R0b20nLCAnaW5fd29yZF9pZCcpCiAgICAgICAgdG9wID0ga3dhcmdzLmdldCgndG9wJywgJ2VtYmVkX2ZlZWQnKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgbm9uX3plcm9faWR4ZXMgPSBucC53aGVyZSh3b3JkX2lkcyA9PSBzZWxmLl92b2NhYi5lbmRfaWQpWzBdCiAgICAgICAgaWR4ID0gbm9uX3plcm9faWR4ZXNbMF0gaWYgbm9uX3plcm9faWR4ZXMgPiAwIGVsc2UgLTEKICAgICAgICB2YWxpZF93b3JkcyA9IFtzZWxmLl92b2NhYi5pZF90b193b3JkKHdvcmRfaWQpIGZvciB3b3JkX2lkIGluIHdvcmRfaWRzWzppZHhdXQogICAgICAgIHdvcmRfcHJvYnMgPSB3b3JkX3Byb2JzWzppZHhdCgo=</text>
+        <text encoding="base64">ICAgICAgICBvcF9uYW1lID0ga3dhcmdzLmdldCgnb3BfbmFtZScsICd3b3JkX2VtYmVkZGluZycpCiAgICAgICAgYm90dG9tX25hbWUgPSBrd2FyZ3MuZ2V0KCdib3R0b21fbmFtZScsICdpbl93b3JkX2lkJykKICAgICAgICB0b3BfbmFtZSA9IGt3YXJncy5nZXQoJ3RvcF9uYW1lJywgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd29yZF9pZHMuc2l6ZSA9PSB3b3JkX3Byb2JzLnNpemUKICAgICAgICBhc3NlcnQgd29yZF9pZHMuc2l6ZSA9PSBzZWxmLl9tYXhfY2FwdGlvbl9sZW4gKyAxCgo=</text>
+        <text encoding="base64">ICAgICAgICBvcF9uYW1lID0ga3dhcmdzLmdldCgnb3BfbmFtZScsICd3b3JkX2VtYmVkZGluZycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4od29yZF9pZHMpICE9IGxlbih3b3JkX3Byb2JzKSAhPSBzZWxmLl9tYXhfY2FwdGlvbl9sZW4gKyAxOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdsZW5ndGggb2Ygd29yZCBpZHMgc2hvdWxkIGJlIHt9JykK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
