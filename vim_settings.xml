@@ -387,6 +387,12 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/coreflow/shotflow/configs/export_retina.cfg" timestamp="1563933782179">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/tools/vis_bbox_from_tsv.py" timestamp="1561013750686">
         <mark key="[" line="39" column="29" />
         <mark key="]" line="39" column="3" />
