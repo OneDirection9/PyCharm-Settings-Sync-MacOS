@@ -311,6 +311,7 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/coreflow/shotflow/dataset.py" timestamp="1563935016435" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/backends/__init__.py" timestamp="1562177637188">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -351,6 +352,7 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="41" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/coreflow/shotflow/configs/train_retinanet_jazzkon.cfg" timestamp="1563934903854" />
       <file name="$USER_HOME$/Documents/my-repositories/image_caption/requirements.txt" timestamp="1560942164911">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="1" column="3" />
