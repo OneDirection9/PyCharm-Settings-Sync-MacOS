@@ -114,7 +114,7 @@
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift meta comma" />
@@ -189,4 +189,5 @@
     <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="up" />
   </action>
   <action id="ViewSource" />
+  <action id="context.save" />
 </keymap>
