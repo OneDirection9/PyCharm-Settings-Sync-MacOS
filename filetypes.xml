@@ -5,8 +5,6 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="adsfadf" type="PLAIN_TEXT" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="ann" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
