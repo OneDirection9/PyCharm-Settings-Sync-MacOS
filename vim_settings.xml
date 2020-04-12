@@ -139,17 +139,18 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/colormap.py" timestamp="1586680429992">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/hook.py" timestamp="1586705027353" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/colormap.py" timestamp="1586705638183">
+        <mark key="[" line="138" column="17" />
+        <mark key="]" line="138" column="22" />
+        <mark key="^" line="138" column="22" />
+        <mark key="." line="138" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1586679196583">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="26" />
-        <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="26" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1586705017557">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/__init__.py" timestamp="1586671912916">
         <mark key="[" line="2" column="5" />
@@ -169,11 +170,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586571756586">
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1586679674332">
         <mark key="[" line="21" column="64" />
         <mark key="]" line="21" column="67" />
@@ -181,11 +177,11 @@
         <mark key="." line="21" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/train_ax_coco_scenenet_transformer.cfg" timestamp="1586702531686" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1586671434863">
-        <mark key="[" line="29" column="93" />
-        <mark key="]" line="30" column="11" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="30" column="11" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1586705000916">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/bess/eval_transformer.yaml" timestamp="1586702732700">
         <mark key="[" line="1" column="24" />
@@ -199,12 +195,12 @@
         <mark key="^" line="90" column="13" />
         <mark key="." line="90" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586675980866">
-        <mark key="'" line="75" column="17" />
-        <mark key="[" line="22" column="102" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586705030146">
+        <mark key="'" line="78" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1586674561638">
         <mark key="[" line="11" column="0" />
@@ -218,10 +214,11 @@
         <mark key="^" line="367" column="26" />
         <mark key="." line="367" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586568984696">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586704986885">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -330,7 +327,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpemUgPSAxMDAKICAgIEgsIFcgPSAxMCwgMTAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -339,34 +336,34 @@
         <text>after_train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQodGltZWl0LnRpbWVpdCgiTm9PcFRyYW5zZm9ybS5hcHBseV9pbWFnZSh4KSIsIGdsb2JhbHM9Z2xvYmFscygpLCBudW1iZXI9MTAwMDApKQo=</text>
+        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgcmdiOiBXaGV0aGVyIHRvIHJldHVybiBSR0IgY29sb3JzIG9yIEJHUiBjb2xvcnMuCiAgICAgICAgbWF4aW11bTogRWl0aGVyIDEgb3IgMjU1LgoKICAgIFJldHVybnM6CiAgICAgICAgQSBmbG9hdDMyIGFycmF5IG9mIE54MyBjb2xvcnMsIGluIHJhbmdlIFswLCAxXSBvciBbMCwgMjU1XS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpemUgPSAxMDAKICAgIEgsIFcgPSAxMCwgMTAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmbXQ6IG9uCg==</text>
+        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgcmdiIChib29sKTogd2hldGhlciB0byByZXR1cm4gUkdCIGNvbG9ycyBvciBCR1IgY29sb3JzLgogICAgICAgIG1heGltdW0gKGludCk6IGVpdGhlciAyNTUgb3IgMQoKICAgIFJldHVybnM6CiAgICAgICAgbmRhcnJheTogYSB2ZWN0b3Igb2YgMyBudW1iZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBtYXhpbXVtIGluIFsyNTUsIDFdLCAnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmbXQ6IG9mZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiIiCkFuIGF3ZXNvbWUgY29sb3JtYXAgZm9yIHJlYWxseSBuZWF0IHZpc3VhbGl6YXRpb25zLgpDb3BpZWQgZnJvbSBEZXRlY3Ryb24sIGFuZCByZW1vdmVkIGdyYXkgY29sb3JzLgoiIiIK</text>
+        <text encoding="base64">IyBmbXQ6IG9uCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
+        <text encoding="base64">IyBmbXQ6IG9mZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2tpcF9nbG9iID0gKi9fX2luaXRfXy5weQo=</text>
+        <text encoding="base64">IiIiCkFuIGF3ZXNvbWUgY29sb3JtYXAgZm9yIHJlYWxseSBuZWF0IHZpc3VhbGl6YXRpb25zLgpDb3BpZWQgZnJvbSBEZXRlY3Ryb24sIGFuZCByZW1vdmVkIGdyYXkgY29sb3JzLgoiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCB0cmFuc2Zvcm1zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
