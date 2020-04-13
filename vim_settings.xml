@@ -202,10 +202,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586753447191">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586753535206">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1586674561638">
         <mark key="[" line="11" column="0" />
@@ -214,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="19" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/datasets/dataset.py" />
       <jump line="113" column="10" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="116" column="17" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
@@ -314,6 +315,7 @@
       <jump line="400" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="525" column="56" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="29" column="20" filename="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" />
+      <jump line="32" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
