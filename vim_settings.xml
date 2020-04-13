@@ -127,10 +127,14 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586791134233">
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+      <file name="/Python Console" timestamp="1586792727145">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586793232555">
+        <mark key="[" line="330" column="43" />
+        <mark key="]" line="330" column="47" />
+        <mark key="." line="330" column="46" />
+        <mark key="^" line="330" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/train_ax_coco_scenenet_transformer.cfg" timestamp="1586702531686" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1586705000916">
@@ -146,11 +150,19 @@
         <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1586780857754" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586791977434">
-        <mark key="[" line="78" column="51" />
-        <mark key="]" line="78" column="42" />
-        <mark key="^" line="78" column="42" />
-        <mark key="." line="78" column="41" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586792851809">
+        <mark key="'" line="0" column="32" />
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1586793556862">
+        <mark key="'" line="52" column="49" />
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="82" />
+        <mark key="." line="29" column="81" />
+        <mark key="^" line="29" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/eval_transformer_ax.cfg" timestamp="1586702595247">
         <mark key="[" line="24" column="21" />
@@ -158,11 +170,11 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/hook.py" timestamp="1586781917807">
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="41" column="32" />
-        <mark key="." line="45" column="31" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/hook.py" timestamp="1586793092072">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="38" />
+        <mark key="^" line="45" column="38" />
+        <mark key="." line="45" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/colormap.py" timestamp="1586751202818">
         <mark key="[" line="124" column="78" />
@@ -214,11 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="10" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="118" column="28" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="17" column="41" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="166" column="24" filename="$USER_HOME$/Documents/my-repositories/image-captioning/captioning/datasets/dataset.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/my-repositories/image-captioning/captioning/datasets/dataset.py" />
       <jump line="164" column="8" filename="$USER_HOME$/Documents/my-repositories/image-captioning/captioning/datasets/dataset.py" />
       <jump line="165" column="8" filename="$USER_HOME$/Documents/my-repositories/image-captioning/captioning/datasets/dataset.py" />
       <jump line="4" column="14" filename="$USER_HOME$/Documents/my-repositories/image-captioning/captioning/datasets/dataset.py" />
@@ -314,6 +321,11 @@
       <jump line="61" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="21" column="37" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" />
       <jump line="6" column="36" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" />
+      <jump line="0" column="32" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
+      <jump line="48" column="23" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="3" column="45" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="44" column="39" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="52" column="49" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
