@@ -165,11 +165,11 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586781246184">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="44" column="48" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586785042934">
+        <mark key="[" line="43" column="82" />
+        <mark key="]" line="44" column="81" />
+        <mark key="." line="44" column="80" />
+        <mark key="^" line="44" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1586705017557">
         <mark key="[" line="2" column="24" />
@@ -202,13 +202,10 @@
         <mark key="^" line="25" column="82" />
         <mark key="." line="25" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586781186300">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="87" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586785640945">
+        <mark key="[" line="153" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586778202258" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586784989944" />
     </filemarks>
     <jumps>
       <jump line="113" column="10" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
@@ -315,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -328,22 +325,22 @@
         <text encoding="base64">cHJpbnQodGltZWl0LnRpbWVpdCgiVmlzdWFsaXplcih4KS5zYXZlKCd0bXAucG5nJykiLCBnbG9iYWxzPWdsb2JhbHMoKSwgbnVtYmVyPTEwMCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VmlzdWFsaXplcih4KS5zYXZlKCd0bXAucG5nJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IE5vT3BUcmFuc2Zvcm0KZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IFRyYW5zZm9ybQoKCmNsYXNzIE5vKFRyYW5zZm9ybSk6CgogICAgZGVmIGFwcGx5X2ltYWdlKHNlbGYsIGltYWdlOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgIHJldHVybiBpbWFnZQo=</text>
+        <text encoding="base64">VmlzdWFsaXplcih4KS5zYXZlKCd0bXAucG5nJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQodGltZWl0LnRpbWVpdCgiTm9PcFRyYW5zZm9ybSgpLmFwcGx5X2ltYWdlKHgpIiwgZ2xvYmFscz1nbG9iYWxzKCksIG51bWJlcj0xMDAwMCkpCnByaW50KHRpbWVpdC50aW1laXQoIk5vKCkuYXBwbHlfaW1hZ2UoeCkiLCBnbG9iYWxzPWdsb2JhbHMoKSwgbnVtYmVyPTEwMDAwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IE5vT3BUcmFuc2Zvcm0KZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IFRyYW5zZm9ybQoKCmNsYXNzIE5vKFRyYW5zZm9ybSk6CgogICAgZGVmIGFwcGx5X2ltYWdlKHNlbGYsIGltYWdlOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgIHJldHVybiBpbWFnZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodGltZWl0LnRpbWVpdCgiTm9PcFRyYW5zZm9ybSgpLmFwcGx5X2ltYWdlKHgpIiwgZ2xvYmFscz1nbG9iYWxzKCksIG51bWJlcj0xMDAwMCkpCnByaW50KHRpbWVpdC50aW1laXQoIk5vKCkuYXBwbHlfaW1hZ2UoeCkiLCBnbG9iYWxzPWdsb2JhbHMoKSwgbnVtYmVyPTEwMDAwKSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,7 +349,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdG9yY2h2aXNpb24udHJhbnNmb3Jtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
