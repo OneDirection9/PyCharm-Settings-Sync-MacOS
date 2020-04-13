@@ -127,6 +127,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586791134233">
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="0" />
+        <mark key="." line="318" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/train_ax_coco_scenenet_transformer.cfg" timestamp="1586702531686" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1586705000916">
         <mark key="[" line="0" column="0" />
@@ -141,11 +146,11 @@
         <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1586780857754" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586704986885">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586791977434">
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="78" column="42" />
+        <mark key="^" line="78" column="42" />
+        <mark key="." line="78" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/eval_transformer_ax.cfg" timestamp="1586702595247">
         <mark key="[" line="24" column="21" />
@@ -165,11 +170,11 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586785042934">
-        <mark key="[" line="43" column="82" />
-        <mark key="]" line="44" column="81" />
-        <mark key="." line="44" column="80" />
-        <mark key="^" line="44" column="81" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586787986207">
+        <mark key="[" line="40" column="58" />
+        <mark key="]" line="40" column="58" />
+        <mark key="." line="40" column="57" />
+        <mark key="^" line="40" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1586705017557">
         <mark key="[" line="2" column="24" />
@@ -183,34 +188,32 @@
         <mark key="^" line="25" column="35" />
         <mark key="." line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1586679674332">
-        <mark key="[" line="21" column="64" />
-        <mark key="]" line="21" column="67" />
-        <mark key="^" line="21" column="67" />
-        <mark key="." line="21" column="67" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1586791391533">
+        <mark key="'" line="21" column="37" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="46" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="21" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/log.py" timestamp="1586678289131">
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="90" column="13" />
-        <mark key="^" line="90" column="13" />
-        <mark key="." line="90" column="13" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586791816968">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586781885806">
-        <mark key="'" line="81" column="17" />
-        <mark key="[" line="25" column="91" />
-        <mark key="]" line="25" column="82" />
-        <mark key="^" line="25" column="82" />
-        <mark key="." line="25" column="81" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586790528628">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="233" column="23" />
+        <mark key="]" line="233" column="23" />
+        <mark key="." line="233" column="22" />
+        <mark key="^" line="233" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586785640945">
-        <mark key="[" line="153" column="9" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586790367952">
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586784989944" />
     </filemarks>
     <jumps>
-      <jump line="113" column="10" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="116" column="17" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="4" column="10" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="118" column="28" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="17" column="41" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
@@ -302,51 +305,54 @@
       <jump line="54" column="31" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
       <jump line="4" column="32" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
       <jump line="30" column="39" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
-      <jump line="21" column="63" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" />
       <jump line="400" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="525" column="56" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="29" column="20" filename="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" />
       <jump line="32" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="160" column="17" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="21" column="37" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" />
+      <jump line="6" column="36" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHR5cGluZyBpbXBvcnQgTGlzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>after_train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQodGltZWl0LnRpbWVpdCgiVmlzdWFsaXplcih4KS5zYXZlKCd0bXAucG5nJykiLCBnbG9iYWxzPWdsb2JhbHMoKSwgbnVtYmVyPTEwMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnIChtYXRwbG90bGliLnB5cGxvdC5maWd1cmUpOiB0b3AgbGV2ZWwgY29udGFpbmVyIGZvciBhbGwgdGhlIGltYWdlIHBsb3QgZWxlbWVudHMuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHR5cGluZyBpbXBvcnQgTGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0W10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VmlzdWFsaXplcih4KS5zYXZlKCd0bXAucG5nJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIG1hdHBsb3RsaWIucGF0Y2hlcyBpbXBvcnQgIENpcmNsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IE5vT3BUcmFuc2Zvcm0KZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IFRyYW5zZm9ybQoKCmNsYXNzIE5vKFRyYW5zZm9ybSk6CgogICAgZGVmIGFwcGx5X2ltYWdlKHNlbGYsIGltYWdlOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgIHJldHVybiBpbWFnZQo=</text>
+        <text encoding="base64">ICAgICAgICB4LCB5ID0gY2lyY2xlX2Nvb3JkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQodGltZWl0LnRpbWVpdCgiTm9PcFRyYW5zZm9ybSgpLmFwcGx5X2ltYWdlKHgpIiwgZ2xvYmFscz1nbG9iYWxzKCksIG51bWJlcj0xMDAwMCkpCnByaW50KHRpbWVpdC50aW1laXQoIk5vKCkuYXBwbHlfaW1hZ2UoeCkiLCBnbG9iYWxzPWdsb2JhbHMoKSwgbnVtYmVyPTEwMDAwKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5vdXRwdXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5vdXRwdXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
