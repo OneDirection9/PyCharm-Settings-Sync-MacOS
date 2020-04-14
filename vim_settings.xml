@@ -38,7 +38,6 @@
         <entry>w2</entry>
         <entry>we</entry>
         <entry>2</entry>
-        <entry>e</entry>
         <entry>W</entry>
         <entry>s</entry>
         <entry>%s/destination/save_dir</entry>
@@ -48,6 +47,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -133,17 +133,15 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/pyplot.py" timestamp="1586857822369" />
+      <file name="/a.dummy" timestamp="1586862674842">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586849976344">
         <mark key="[" line="330" column="43" />
         <mark key="]" line="330" column="47" />
         <mark key="." line="330" column="46" />
         <mark key="^" line="330" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1586705000916">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1586780857754" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/colors.py" timestamp="1586793706373">
@@ -169,30 +167,20 @@
         <mark key="^" line="45" column="38" />
         <mark key="." line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/colormap.py" timestamp="1586751202818">
-        <mark key="[" line="124" column="78" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="125" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586857675367">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1586705017557">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="23" />
-      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/axes/_axes.py" timestamp="1586857938636" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/t.py" timestamp="1586848942358">
         <mark key="[" line="13" column="103" />
         <mark key="]" line="13" column="102" />
         <mark key="^" line="13" column="102" />
         <mark key="." line="13" column="101" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/text.py" timestamp="1586860739521" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1586791391533">
         <mark key="'" line="21" column="37" />
         <mark key="[" line="21" column="38" />
@@ -206,12 +194,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586857772356">
-        <mark key="'" line="237" column="0" />
-        <mark key="[" line="240" column="27" />
-        <mark key="]" line="240" column="36" />
-        <mark key="^" line="240" column="36" />
-        <mark key="." line="240" column="35" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586863574743">
+        <mark key="'" line="503" column="92" />
+        <mark key="[" line="439" column="0" />
+        <mark key="]" line="439" column="0" />
+        <mark key="^" line="433" column="57" />
+        <mark key="." line="439" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/.style.yapf" timestamp="1586849163100">
         <mark key="[" line="0" column="0" />
@@ -225,16 +213,12 @@
         <mark key="^" line="219" column="11" />
         <mark key="." line="219" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586851969576">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586859946971">
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="96" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/datasets/dataset.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/datasets/dataset.py" />
-      <jump line="249" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
@@ -331,46 +315,19 @@
       <jump line="288" column="66" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="237" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="496" column="83" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="20" column="5" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="388" column="35" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="509" column="92" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>style = CreatePEP8Style()
-style['DEDENT_CLOSING_BRACKETS'] = True
-style['SPACES_BEFORE_COMMENT'] = 2
-
-style['INDENT_CLOSING_BRACKETS'] = False
-style['SPLIT_PENALTY_AFTER_OPENING_BRACKET'] = 0
-style['SPLIT_PENALTY_BEFORE_IF_EXPR'] = 30
-style['SPLIT_PENALTY_FOR_ADDED_LINE_SPLIT'] = 30
-
-def CreateGoogleStyle():
-  &quot;&quot;&quot;Create the Google formatting style.&quot;&quot;&quot;
-  style = CreatePEP8Style()
-  style['I18N_COMMENT'] = r'#\..*'
-  style['I18N_FUNCTION_CALL'] = ['N_', '_']
-  style['SPACE_BETWEEN_ENDING_COMMA_AND_CLOSING_BRACKET'] = False
-  style['SPLIT_BEFORE_DICT_SET_GENERATOR'] = False
-  style['SPLIT_COMPLEX_COMPREHENSION'] = True
-  style['SPLIT_PENALTY_COMPREHENSION'] = 2100
-  return style
-
-
-def CreateChromiumStyle():
-  &quot;&quot;&quot;Create the Chromium formatting style.&quot;&quot;&quot;
-  style = CreateGoogleStyle()
-  style['ALLOW_MULTILINE_DICTIONARY_KEYS'] = True
-  style['ALLOW_SPLIT_BEFORE_DEFAULT_OR_NAMED_ASSIGNS'] = False
-  style['INDENT_DICTIONARY_VALUE'] = True
-  style['INDENT_WIDTH'] = 2
-  style['SPLIT_BEFORE_BITWISE_OPERATOR'] = True
-  style['SPLIT_BEFORE_DOT'] = True
-  style['SPLIT_BEFORE_EXPRESSION_AFTER_OPENING_PAREN'] = True
-  return style</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Numeric</text>
       </register>
       <register name="/" type="4">
         <text>after_train</text>
@@ -379,62 +336,31 @@ def CreateChromiumStyle():
         <text encoding="base64">ICAgICAgICAgICAgZmlnIChtYXRwbG90bGliLnB5cGxvdC5maWd1cmUpOiB0b3AgbGV2ZWwgY29udGFpbmVyIGZvciBhbGwgdGhlIGltYWdlIHBsb3QgZWxlbWVudHMuCg==</text>
       </register>
       <register name="1" type="2">
-        <text>style = CreatePEP8Style()
-style['DEDENT_CLOSING_BRACKETS'] = True
-style['SPACES_BEFORE_COMMENT'] = 2
-
-style['INDENT_CLOSING_BRACKETS'] = False
-style['SPLIT_PENALTY_AFTER_OPENING_BRACKET'] = 0
-style['SPLIT_PENALTY_BEFORE_IF_EXPR'] = 30
-style['SPLIT_PENALTY_FOR_ADDED_LINE_SPLIT'] = 30
-
-def CreateGoogleStyle():
-  &quot;&quot;&quot;Create the Google formatting style.&quot;&quot;&quot;
-  style = CreatePEP8Style()
-  style['I18N_COMMENT'] = r'#\..*'
-  style['I18N_FUNCTION_CALL'] = ['N_', '_']
-  style['SPACE_BETWEEN_ENDING_COMMA_AND_CLOSING_BRACKET'] = False
-  style['SPLIT_BEFORE_DICT_SET_GENERATOR'] = False
-  style['SPLIT_COMPLEX_COMPREHENSION'] = True
-  style['SPLIT_PENALTY_COMPREHENSION'] = 2100
-  return style
-
-
-def CreateChromiumStyle():
-  &quot;&quot;&quot;Create the Chromium formatting style.&quot;&quot;&quot;
-  style = CreateGoogleStyle()
-  style['ALLOW_MULTILINE_DICTIONARY_KEYS'] = True
-  style['ALLOW_SPLIT_BEFORE_DEFAULT_OR_NAMED_ASSIGNS'] = False
-  style['INDENT_DICTIONARY_VALUE'] = True
-  style['INDENT_WIDTH'] = 2
-  style['SPLIT_BEFORE_BITWISE_OPERATOR'] = True
-  style['SPLIT_BEFORE_DOT'] = True
-  style['SPLIT_BEFORE_EXPRESSION_AFTER_OPENING_PAREN'] = True
-  return style</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3BsaXRfYmVmb3JlX2RvdCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5vdXRwdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3R5bGVbJ1NQTElUX0JFRk9SRV9MT0dJQ0FMX09QRVJBVE9SJ10gPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfY29sb3IgPSBzZWxmLl9jaGFuZ2VfY29sb3JfYnJpZ2h0bmVzcyhlZGdlX2NvbG9yLCBicmlnaHRuZXNzX2ZhY3Rvcj0wLjcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3R5bGVbJ1NQTElUX0JFRk9SRV9CSVRXSVNFX09QRVJBVE9SJ10gPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfY29sb3IgPSBzZWxmLl9jaGFuZ2VfY29sb3JfYnJpZ2h0bmVzcyhlZGdlX2NvbG9yLCBicmlnaHRuZXNzX2ZhY3Rvcj0wLjcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdHlsZVsnU1BMSVRfQkVGT1JFX0xPR0lDQUxfT1BFUkFUT1InXSA9IEZhbHNlCg==</text>
+        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgb3V0cHV0IChWaXNJbWFnZSk6IGltYWdlIG9iamVjdCB3aXRoIGJveCBkcmF3bi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdHlsZVsnU1BMSVRfQkVGT1JFX0JJVFdJU0VfT1BFUkFUT1InXSA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxwaGEgKGZsb2F0KTogYmxlbmRpbmcgZWZmaWNpZW50LiBTbWFsbGVyIHZhbHVlcyBsZWFkIHRvIG1vcmUgdHJhbnNwYXJlbnQgbWFza3MuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3BsaXRfYmVmb3JlX2JpdHdpc2Vfb3BlcmF0b3IgPSBGYWxzZQo=</text>
+        <text encoding="base64">VCA9IFR5cGVWYXIoJ1QnLCBmbG9hdCwgaW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdHlsZVsnSU5ERU5UX0RJQ1RJT05BUllfVkFMVUUnXSA9IFRydWUK</text>
+        <text encoding="base64">Um90YXRlZEJveENvb3JkaW5hdGUgPSBUdXBsZVtmbG9hdCwgZmxvYXQsIGZsb2F0LCBmbG9hdCwgZmxvYXRdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3R5bGVbJ0lOREVOVF9ESUNUSU9OQVJZX1ZBTFVFJ10gPSBUcnVlCg==</text>
+        <text encoding="base64">Qm94Q29vcmRpbmF0ZSA9IFR1cGxlW2Zsb2F0LCBmbG9hdCwgZmxvYXQsIGZsb2F0XQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
