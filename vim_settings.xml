@@ -143,7 +143,6 @@
         <mark key="." line="330" column="46" />
         <mark key="^" line="330" column="47" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1586780857754" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/colors.py" timestamp="1586793706373">
         <mark key="'" line="1537" column="26" />
       </file>
@@ -167,11 +166,11 @@
         <mark key="^" line="45" column="38" />
         <mark key="." line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586857675367">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="58" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586880381391">
+        <mark key="[" line="42" column="52" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/axes/_axes.py" timestamp="1586857938636" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/t.py" timestamp="1586848942358">
@@ -181,6 +180,7 @@
         <mark key="." line="13" column="101" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/text.py" timestamp="1586860739521" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/data/instances_val2014_demo.json" timestamp="1586880193581" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1586791391533">
         <mark key="'" line="21" column="37" />
         <mark key="[" line="21" column="38" />
@@ -194,12 +194,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586877424587">
-        <mark key="'" line="536" column="92" />
-        <mark key="[" line="564" column="18" />
-        <mark key="]" line="564" column="87" />
-        <mark key="." line="564" column="86" />
-        <mark key="^" line="564" column="87" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586880711918">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="479" column="90" />
+        <mark key="]" line="479" column="86" />
+        <mark key="." line="479" column="85" />
+        <mark key="^" line="479" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/.style.yapf" timestamp="1586849163100">
         <mark key="[" line="0" column="0" />
@@ -213,15 +213,13 @@
         <mark key="^" line="219" column="11" />
         <mark key="." line="219" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586877248579">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586881058155">
         <mark key="'" line="290" column="25" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="96" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="60" column="67" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="9" column="38" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption.py" />
@@ -299,7 +297,6 @@
       <jump line="400" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="525" column="56" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="29" column="20" filename="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" />
-      <jump line="32" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="160" column="17" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="21" column="37" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" />
@@ -320,12 +317,15 @@
       <jump line="388" column="35" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="509" column="92" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="290" column="25" filename="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="507" column="54" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -334,34 +334,34 @@
         <text>after_train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnIChtYXRwbG90bGliLnB5cGxvdC5maWd1cmUpOiB0b3AgbGV2ZWwgY29udGFpbmVyIGZvciBhbGwgdGhlIGltYWdlIHBsb3QgZWxlbWVudHMuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfY3JlYXRlX2dyYXlzY2FsZV9pbWFnZShzZWxmLCBtYXNrPU5vbmUpOgogICAgICAgICIiIgogICAgICAgIENyZWF0ZSBhIGdyYXlzY2FsZSB2ZXJzaW9uIG9mIHRoZSBvcmlnaW5hbCBpbWFnZS4gVGhlIGNvbG9ycyBpbiBtYXNrZWQgYXJlYSwgaWYgZ2l2ZW4sIHdpbGwgYmUga2VwdC4KICAgICAgICAiIiIKICAgICAgICBpbWFnZV9idyA9IHNlbGYuaW1hZ2UuYXN0eXBlKCdmNCcpLm1lYW4oYXhpcz0yKQogICAgICAgIGltYWdlX2J3ID0gbnAuc3RhY2soW2ltYWdlX2J3XSAqIDMsIGF4aXM9MikKICAgICAgICBpZiBtYXNrIGlzIG5vdCBOb25lOgogICAgICAgICAgICBpbWFnZV9id1ttYXNrXSA9IHNlbGYuaW1hZ2VbbWFza10KICAgICAgICByZXR1cm4gaW1hZ2VfYncK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogTVBMQ29sb3IgPSAnZycsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnN0YW5jZV9tb2RlID0gaW5zdGFuY2VfbW9kZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogTVBMQ29sb3IgPSAnZycsCg==</text>
+        <text encoding="base64">CkB1bmlxdWUKY2xhc3MgQ29sb3JNb2RlKEVudW0pOgogICAgIiIiCiAgICBFbnVtIG9mIGRpZmZlcmVudCBjb2xvciBtb2RlcyB0byB1c2UgZm9yIGluc3RhbmNlIHZpc3VhbGl6YXRpb25zLgoKICAgIEF0dHJpYnV0ZXM6CiAgICAgICAgSU1BR0U6IFBpY2tzIGEgcmFuZG9tIGNvbG9yIGZvciBldmVyeSBpbnN0YW5jZSBhbmQgb3ZlcmxheSBzZWdtZW50YXRpb25zIHdpdGggbG93IG9wYWNpdHkuCiAgICAgICAgU0VHTUVOVEFUSU9OOiBMZXQgaW5zdGFuY2VzIG9mIHRoZSBzYW1lIGNhdGVnb3J5IGhhdmUgc2ltaWxhciBjb2xvcnMKICAgICAgICAgICAgKGZyb20gbWV0YWRhdGEudGhpbmdfY29sb3JzKSwgYW5kIG92ZXJsYXkgdGhlbSB3aXRoIGhpZ2ggb3BhY2l0eS4gVGhpcyBwcm92aWRlcyBtb3JlCiAgICAgICAgICAgIGF0dGVudGlvbiBvbiB0aGUgcXVhbGl0eSBvZiBzZWdtZW50YXRpb24uCiAgICAgICAgSU1BR0VfQlc6IHNhbWUgYXMgSU1BR0UsIGJ1dCBjb252ZXJ0IGFsbCBhcmVhcyB3aXRob3V0IG1hc2tzIHRvIGdyYXktc2NhbGUuIE9ubHkgYXZhaWxhYmxlCiAgICAgICAgICAgIGZvciBkcmF3aW5nIHBlci1pbnN0YW5jZSBtYXNrIHByZWRpY3Rpb25zLgogICAgIiIiCgogICAgSU1BR0UgPSAwCiAgICBTRUdNRU5UQVRJT04gPSAxCiAgICBJTUFHRV9CVyA9IDIKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAqLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZgogICAgICAgIG5wLnVuaXF1ZShiaW5hcnlfbWFzaykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IENvbG9yIG9mIHRoZSB0ZXh0LiBSZWZlciB0byBgbWF0cGxvdGxpYi5jb2xvcnNgIGZvciBmdWxsIGxpc3Qgb2YgZm9ybWF0cyB0aGF0IGFyZQogICAgICAgICAgICAgICAgYWNjZXB0ZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpbWFnZS5uZGltICE9IDMgb3IgaW1hZ2Uuc2hhcGVbLTFdICE9IDM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2ltYWdlIHNob3VsZCBiZSBvZiBzaGFwZSBIeFd4My4gR290IHt9Jy5mb3JtYXQoaW1hZ2Uuc2hhcGUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogTVBMQ29sb3IgPSAnZycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yCiAgICAgICAgaWYgY29sb3IgaXMgTm9uZToKICAgICAgICAgICAgY29sb3IgPSByYW5kb21fY29sb3IocmdiPVRydWUsIG1heGltdW09MSkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmF4LmFkZF9wYXRjaChwb2x5Z29uKQo=</text>
+        <text encoding="base64">ICAgICAgICAqLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgb3V0cHV0IChWaXNJbWFnZSk6IGltYWdlIG9iamVjdCB3aXRoIHBvbHlnb24gZHJhd24uCg==</text>
+        <text encoding="base64">ICAgIGRlZiBkcmF3X3BvbHlnb24oCiAgICAgICAgc2VsZiwKICAgICAgICBzZWdtZW50OiBucC5uZGFycmF5LAogICAgICAgIGNvbG9yOiBNUExDb2xvciwKICAgICAgICBlZGdlX2NvbG9yOiBPcHRpb25hbFtNUExDb2xvcl0gPSBOb25lLAogICAgICAgIGFscGhhOiBmbG9hdCA9IDAuNQogICAgKToKICAgICAgICAiIiIKICAgICAgICBBcmdzOgogICAgICAgICAgICBzZWdtZW50OiBBIG51bXB5IGFycmF5IG9mIHNoYXBlIE54MiwgY29udGFpbmluZyBhbGwgdGhlIHBvaW50cyBpbiB0aGUgcG9seWdvbi4KICAgICAgICAgICAgY29sb3I6IENvbG9yIG9mIHRoZSBwb2x5Z29uLiBSZWZlciB0byBgbWF0cGxvdGxpYi5jb2xvcnNgIGZvciBhIGZ1bGwgbGlzdCBvZiBmb3JtYXRzCiAgICAgICAgICAgICAgICB0aGF0IGFyZSBhY2NlcHRlZC4KICAgICAgICAgICAgZWRnZV9jb2xvcjogQ29sb3Igb2YgdGhlIHBvbHlnb24gZWRnZXMuIFJlZmVyIHRvIGBtYXRwbG90bGliLmNvbG9yc2AgZm9yIGEgZnVsbCBsaXN0IG9mCiAgICAgICAgICAgICAgICBmb3JtYXRzIHRoYXQgYXJlIGFjY2VwdGVkLiBJZiBub3QgcHJvdmlkZWQsIGEgZGFya2VyIHNoYWRlIG9mIHRoZSBwb2x5Z29uIGNvbG9yIHdpbGwKICAgICAgICAgICAgICAgIGJlIHVzZWQgaW5zdGVhZC4KICAgICAgICAgICAgYWxwaGE6IEJsZW5kaW5nIGVmZmljaWVudC4gU21hbGxlciB2YWx1ZXMgbGVhZCB0byBtb3JlIHRyYW5zcGFyZW50IG1hc2tzLgogICAgICAgICIiIgogICAgICAgIGlmIGVkZ2VfY29sb3IgaXMgTm9uZToKICAgICAgICAgICAgIyBtYWtlIGVkZ2UgY29sb3IgZGFya2VyIHRoYW4gdGhlIHBvbHlnb24gY29sb3IKICAgICAgICAgICAgaWYgYWxwaGEgPiAwLjg6CiAgICAgICAgICAgICAgICBlZGdlX2NvbG9yID0gc2VsZi5fY2hhbmdlX2NvbG9yX2JyaWdodG5lc3MoY29sb3IsIGJyaWdodG5lc3NfZmFjdG9yPS0wLjcpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBlZGdlX2NvbG9yID0gY29sb3IKICAgICAgICBlZGdlX2NvbG9yID0gbXBsYy50b19yZ2IoZWRnZV9jb2xvcikgKyAoMSwpCgogICAgICAgIHNlbGYuYXguYWRkX3BhdGNoKAogICAgICAgICAgICBtcGwucGF0Y2hlcy5Qb2x5Z29uKAogICAgICAgICAgICAgICAgc2VnbWVudCwKICAgICAgICAgICAgICAgIGZpbGw9VHJ1ZSwKICAgICAgICAgICAgICAgIGZhY2Vjb2xvcj1tcGxjLnRvX3JnYihjb2xvcikgKyAoYWxwaGEsKSwKICAgICAgICAgICAgICAgIGVkZ2Vjb2xvcj1lZGdlX2NvbG9yLAogICAgICAgICAgICAgICAgbGluZXdpZHRoPW1heChzZWxmLl9kZWZhdWx0X2ZvbnRfc2l6ZSAvLyAxNSAqIHNlbGYuc2NhbGUsIDEpLAogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
