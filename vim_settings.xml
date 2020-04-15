@@ -143,7 +143,7 @@
       <file name="/a.dummy" timestamp="1586875915225">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586849976344">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586961892122">
         <mark key="[" line="330" column="43" />
         <mark key="]" line="330" column="47" />
         <mark key="." line="330" column="46" />
@@ -158,18 +158,10 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1586793556862">
-        <mark key="'" line="52" column="49" />
-        <mark key="[" line="29" column="68" />
-        <mark key="]" line="29" column="82" />
-        <mark key="." line="29" column="81" />
-        <mark key="^" line="29" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/hook.py" timestamp="1586793092072">
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="45" column="38" />
-        <mark key="^" line="45" column="38" />
-        <mark key="." line="45" column="37" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/samplers/__init__.py" timestamp="1586962651267">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586949837462">
         <mark key="[" line="51" column="11" />
@@ -191,7 +183,7 @@
         <mark key="^" line="3554" column="10" />
         <mark key="." line="3554" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586950485733">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586961935542">
         <mark key="'" line="250" column="36" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="26" />
@@ -203,12 +195,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586950487465">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586962129704">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="131" column="41" />
+        <mark key="[" line="157" column="52" />
+        <mark key="]" line="157" column="51" />
+        <mark key="." line="157" column="50" />
+        <mark key="^" line="157" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1586914932849">
         <mark key="'" line="525" column="56" />
@@ -221,6 +213,11 @@
         <mark key="'" line="290" column="25" />
         <mark key="[" line="1132" column="26" />
         <mark key="]" line="228" column="96" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/__init__.py" timestamp="1586963117142">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -329,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCiMgTW9kaWZpZWQgYnk6IFpoaXBlbmcgSGFuCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBlbmdpbmUsIGlvLCB0cmFuc2Zvcm1zLCB1dGlscwo=</text>
       </register>
       <register name="-" type="4">
         <text>img_ids</text>
@@ -341,31 +338,31 @@
         <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCiMgTW9kaWZpZWQgYnk6IFpoaXBlbmcgSGFuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfaWRzID0gc29ydGVkKGMuZ2V0SW1nSWRzKCkpCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBlbmdpbmUsIGlvLCB0cmFuc2Zvcm1zLCB1dGlscwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSAuZ3JvdXBlZF9iYXRjaF9zYW1wbGVyIGltcG9ydCAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGVyc29uIGluIGNhdF9pbmZvX2xpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICAgMSAtIGxhYmVsZWQgYnV0IG5vdCB2aXNpYmxlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzb24gPSBjLmdldENhdElkcygncGVyc29uJykKICAgICAgICBmb3IgY2F0X2luZm8gaW4gY2F0X2luZm9fbGlzdDoK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfaWRzID0gc29ydGVkKGMuZ2V0SW1nSWRzKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY2F0X2luZm8gaW4gY2F0X2luZm9fbGlzdDoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NrZWxldG9uJyBpbiBjYXRfaW5mbzoK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGVyc29uIGluIGNhdF9pbmZvX2xpc3Q6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNfa2V5cG9pbnQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJzb24gPSBjLmdldENhdElkcygncGVyc29uJykKICAgICAgICBmb3IgY2F0X2luZm8gaW4gY2F0X2luZm9fbGlzdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXBvaW50X2Nvbm5lY3Rpb25fcnVsZXMgPSBba3AwLCBrcDEsIHR1cGxlKHJhbmRvbV9jb2xvcihyZ2I9VHJ1ZSwgbWF4aW11bT0xKSkKICAgICAgICAgICAgICAgIGZvciBrcDAsIGtwMSBpbiBjYXRfaW5mb1snc2tlbGV0b24nXV0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2F0X2luZm8gaW4gY2F0X2luZm9fbGlzdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX3RlbXBsYXRlOiBzdHIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ3NrZWxldG9uJyBpbiBjYXRfaW5mbzoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
