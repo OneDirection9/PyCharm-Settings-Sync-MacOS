@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>seed</entry>
         <entry>ckpt</entry>
         <entry>print</entry>
         <entry>logger</entry>
@@ -27,6 +26,7 @@
         <entry>utils</entry>
         <entry>after_train</entry>
         <entry encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</entry>
+        <entry encoding="base64">XDxfTEFSR0VfTUFTS19BUkVBX1RIUkVTSFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -191,24 +191,23 @@
         <mark key="^" line="3554" column="10" />
         <mark key="." line="3554" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586917365965">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="32" />
-        <mark key="." line="25" column="31" />
-        <mark key="^" line="25" column="32" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586920377156">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/.style.yapf" timestamp="1586849163100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586917376945">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586918095456">
         <mark key="'" line="7" column="65" />
-        <mark key="[" line="40" column="48" />
-        <mark key="]" line="40" column="66" />
-        <mark key="." line="40" column="65" />
-        <mark key="^" line="40" column="66" />
+        <mark key="[" line="40" column="66" />
+        <mark key="]" line="40" column="69" />
+        <mark key="." line="40" column="68" />
+        <mark key="^" line="40" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1586914932849">
         <mark key="'" line="525" column="56" />
@@ -217,14 +216,13 @@
         <mark key="^" line="219" column="11" />
         <mark key="." line="219" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586916829527">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586919373470">
         <mark key="'" line="290" column="25" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="96" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="24" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_head.py" />
       <jump line="30" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/pooler.py" />
       <jump line="25" column="35" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
       <jump line="14" column="26" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
@@ -321,51 +319,52 @@
       <jump line="537" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="4" column="20" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="384" column="24" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="42" column="56" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="7" column="65" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
+      <jump line="276" column="9" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlZGdlX2NvbG9yKQogICAgICAgIHByaW50KGNvbG9yKQo=</text>
+        <text encoding="base64">X0tFWVBPSU5UX1RIUkVTSE9MRCA9IDAuMDUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</text>
+        <text encoding="base64">XDxfTEFSR0VfTUFTS19BUkVBX1RIUkVTSFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShzZWdtZW50LCBucC5uZGFycmF5KToKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCdzZWdtZW50IHNob3VsZCBiZSBucC5uZGFycmF5LiBHb3Qge30nLmZvcm1hdCh0eXBlKHNlZ21lbnQpKSkKICAgICAgICBpZiBzZWdtZW50Lm5kaW0gIT0gMiBvciBzZWdtZW50LnNoYXBlWzFdICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ3NlZ21lbnQgc2hvdWxkIGJlIG9mIHNoYXBlIE54Mi4gR290IHt9Jy5mb3JtYXQoc2VnbWVudC5zaGFwZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlZGdlX2NvbG9yKQogICAgICAgIHByaW50KGNvbG9yKQo=</text>
+        <text encoding="base64">X0tFWVBPSU5UX1RIUkVTSE9MRCA9IDAuMDUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmVhX3RocmVzaG9sZCBpcyBOb25lOgogICAgICAgICAgICBhcmVhX3RocmVzaG9sZCA9IDQwOTYK</text>
+        <text encoding="base64">X0xBUkdFX01BU0tfQVJFQV9USFJFU0ggPSAxMjAwMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlZGdlX2NvbG9yKQo=</text>
+        <text encoding="base64">X1NNQUxMX09CSkVDVF9BUkVBX1RIUkVTSCA9IDEwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIEdlbmVyaWNNYXNrKG9iamVjdCk6CiAgICAiIiIKICAgIEF0dHJpYnV0ZToKICAgICAgICBwb2x5Z29ucyAobGlzdFtuZGFycmF5XSk6IFBvbHlnb25zIGZvciB0aGlzIG1hc2suIEVhY2ggbmRhcnJheSBoYXMgZm9ybWF0IFt4LCB5LCB4LCB5LCAuLi5dLgogICAgICAgIG1hc2sgKG5kYXJyYXkpOiBBIGJpbmFyeSBtYXNrLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hc2tfb3JfcG9seWdvbnM6IFVuaW9uW2RpY3QsIGxpc3QsIG5wLm5kYXJyYXldLCBoZWlnaHQ6IGludCwgd2lkdGg6IGludCk6CiAgICAgICAgc2VsZi5fbWFzayA9IHNlbGYuX3BvbHlnb25zID0gc2VsZi5faGFzX2hvbGVzID0gTm9uZQogICAgICAgIHNlbGYuaGVpZ2h0ID0gaGVpZ2h0CiAgICAgICAgc2VsZi53aWR0aCA9IHdpZHRoCgogICAgICAgIG0gPSBtYXNrX29yX3BvbHlnb25zCiAgICAgICAgaWYgaXNpbnN0YW5jZShtLCBkaWN0KToKICAgICAgICAgICAgIyBSTEVzCiAgICAgICAgICAgIGFzc2VydCAnY291bnRzJyBpbiBtIGFuZCAnc2l6ZScgaW4gbQogICAgICAgICAgICBpZiBpc2luc3RhbmNlKG1bJ2NvdW50cyddLCBsaXN0KTogICMgdW5jb21wcmVzc2VkIFJMRXMKICAgICAgICAgICAgICAgIGgsIHcgPSBtWydzaXplJ10KICAgICAgICAgICAgICAgIGFzc2VydCBoID09IGhlaWdodCBhbmQgdyA9PSB3aWR0aAogICAgICAgICAgICAgICAgbSA9IG1hc2tfdXRpbC5mclB5T2JqZWN0cyhtLCBoLCB3KQogICAgICAgICAgICBzZWxmLl9tYXNrID0gbWFza191dGlsLmRlY29kZShtKVs6LCA6XQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShtLCBsaXN0KToKICAgICAgICAgICAgIyBsaXN0W25kYXJyYXldCiAgICAgICAgICAgIHNlbGYuX3BvbHlnb25zID0gW25wLmFzYXJyYXkoeCkucmVzaGFwZSgtMSkgZm9yIHggaW4gbV0KICAgICAgICBlbGlmIGlzaW5zdGFuY2UobSwgbnAubmRhcnJheSk6CiAgICAgICAgICAgICMgYXNzdW1lZCB0byBiZSBhIGJpbmFyeSBtYXNrCiAgICAgICAgICAgIGlmIG0ubmRpbSAhPSAyIG9yIG0uc2hhcGUgIT0gKGhlaWdodCwgd2lkdGgpOgogICAgICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigKICAgICAgICAgICAgICAgICAgICAnbWFzayBzaG91bGQgYmUgb2Ygc2hhcGUge314e30uIEdvdCB7fScuZm9ybWF0KGhlaWdodCwgd2lkdGgsIG0uc2hhcGUpCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIHNlbGYuX21hc2sgPSBtLmFzdHlwZSgndWludDgnKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ0dlbmVyaWNNYXNrIGNhbm5vdCBoYW5kbGUgb2JqZWN0IHt9IG9mIHR5cGUge30nLmZvcm1hdChtLCB0eXBlKG0pKSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBtYXNrKHNlbGYpOgogICAgICAgIGlmIHNlbGYuX21hc2sgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5fbWFzayA9IHNlbGYucG9seWdvbnNfdG9fbWFzayhzZWxmLl9wb2x5Z29ucykKICAgICAgICByZXR1cm4gc2VsZi5fbWFzawoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHBvbHlnb25zKHNlbGYpOgogICAgICAgIGlmIHNlbGYuX3BvbHlnb25zIGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYuX3BvbHlnb25zLCBzZWxmLl9oYXNfaG9sZXMgPSBzZWxmLm1hc2tfdG9fcG9seWdvbnMoc2VsZi5fbWFzaykKICAgICAgICByZXR1cm4gc2VsZi5fcG9seWdvbnMKCiAgICBAcHJvcGVydHkKICAgIGRlZiBoYXNfaG9sZXMoc2VsZik6CiAgICAgICAgaWYgc2VsZi5faGFzX2hvbGVzIGlzIE5vbmU6CiAgICAgICAgICAgIGlmIHNlbGYuX21hc2sgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBzZWxmLl9wb2x5Z29ucywgc2VsZi5faGFzX2hvbGVzID0gc2VsZi5tYXNrX3RvX3BvbHlnb25zKHNlbGYuX21hc2spCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzZWxmLl9oYXNfaG9sZXMgPSBGYWxzZSAgIyBpZiBvcmlnaW5hbCBmb3JtYXQgaXMgcG9seWdvbiwgZG9lcyBub3QgaGF2ZSBob2xlcwogICAgICAgIHJldHVybiBzZWxmLl9oYXNfaG9sZXMKCiAgICBkZWYgbWFza190b19wb2x5Z29ucyhzZWxmLCBtYXNrKToKICAgICAgICAjIGN2Mi5SRVRSX0NDT01QIGZsYWcgcmV0cmlldmVzIGFsbCB0aGUgY29udG91cnMgYW5kIGFycmFuZ2VzIHRoZW0gdG8gYSAyLWxldmVsCiAgICAgICAgIyBoaWVyYXJjaHkuIEV4dGVybmFsIGNvbnRvdXJzIChib3VuZGFyeSkgb2YgdGhlIG9iamVjdCBhcmUgcGxhY2VkIGluIGhpZXJhcmNoeS0xLgogICAgICAgICMgSW50ZXJuYWwgY29udG91cnMgKGhvbGVzKSBhcmUgcGxhY2VkIGluIGhpZXJhcmNoeS0yLgogICAgICAgICMgY3YyLkNIQUlOX0FQUFJPWF9OT05FIGZsYWcgZ2V0cyB2ZXJ0aWNlcyBvZiBwb2x5Z29ucyBmcm9tIGNvbnRvdXJzLgogICAgICAgIG1hc2sgPSBucC5hc2NvbnRpZ3VvdXNhcnJheShtYXNrKSAgIyBzb21lIHZlcnNpb25zIG9mIGN2MiBkb2VzIG5vdCBzdXBwb3J0IGluY29udGlndW91cyBhcnIKICAgICAgICByZXMgPSBjdjIuZmluZENvbnRvdXJzKG1hc2suYXN0eXBlKCd1aW50OCcpLCBjdjIuUkVUUl9DQ09NUCwgY3YyLkNIQUlOX0FQUFJPWF9OT05FKQogICAgICAgIGhpZXJhcmNoeSA9IHJlc1stMV0KICAgICAgICBpZiBoaWVyYXJjaHkgaXMgTm9uZTogICMgZW1wdHkgbWFzawogICAgICAgICAgICByZXR1cm4gW10sIEZhbHNlCiAgICAgICAgaGFzX2hvbGVzID0gKGhpZXJhcmNoeS5yZXNoYXBlKC0xLCA0KVs6LCAzXSA+PSAwKS5zdW0oKSA+IDAKICAgICAgICByZXMgPSByZXNbLTJdCiAgICAgICAgcmVzID0gW3guZmxhdHRlbigpIGZvciB4IGluIHJlc10KICAgICAgICByZXMgPSBbeCBmb3IgeCBpbiByZXMgaWYgbGVuKHgpID49IDZdCiAgICAgICAgcmV0dXJuIHJlcywgaGFzX2hvbGVzCgogICAgZGVmIHBvbHlnb25zX3RvX21hc2soc2VsZiwgcG9seWdvbnMpOgogICAgICAgIHJsZSA9IG1hc2tfdXRpbC5mclB5T2JqZWN0cyhwb2x5Z29ucywgc2VsZi5oZWlnaHQsIHNlbGYud2lkdGgpCiAgICAgICAgcmxlID0gbWFza191dGlsLm1lcmdlKHJsZSkKICAgICAgICByZXR1cm4gbWFza191dGlsLmRlY29kZShybGUpWzosIDpdCgogICAgZGVmIGFyZWEoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYubWFzay5zdW0oKQoKICAgIGRlZiBiYm94KHNlbGYpOgogICAgICAgIHAgPSBtYXNrX3V0aWwuZnJQeU9iamVjdHMoc2VsZi5wb2x5Z29ucywgc2VsZi5oZWlnaHQsIHNlbGYud2lkdGgpCiAgICAgICAgcCA9IG1hc2tfdXRpbC5tZXJnZShwKQogICAgICAgIGJib3ggPSBtYXNrX3V0aWwudG9CYm94KHApCiAgICAgICAgYmJveFsyXSArPSBiYm94WzBdCiAgICAgICAgYmJveFszXSArPSBiYm94WzFdCiAgICAgICAgcmV0dXJuIGJib3gKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxwaGE6IEJsZW5kaW5nIGVmZmljaWVudC4gU21hbGxlciB2YWx1ZXMgbGVhZCB0byBtb3JlIHRyYW5zcGFyZW50IG1hc2tzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluc3RfYW5uID0gb3NwLmpvaW4oc2VsZi5kYXRhX3Jvb3QsICdpbnN0YW5jZXNfdmFsMjAxNF9kZW1vLmpzb24nKQo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbDogT3B0aW9uYWxbc3RyXSA9IE5vbmUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJlYV90aHJlc2hvbGQ6IEEgY29ubmVjdGVkIGNvbXBvbmVudCBzbWFsbCB0aGFuIHRoaXMgd2lsbCBub3QgYmUgc2hvd24uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWRnZV9jb2xvcjogY29sb3Igb2YgdGhlIHBvbHlnb24gZWRnZXMuIFJlZmVyIHRvIGBtYXRwbG90bGliLmNvbG9yc2AgZm9yIGEgZnVsbCBsaXN0IG9mCiAgICAgICAgICAgICAgICBmb3JtYXRzIHRoYXQgYXJlIGFjY2VwdGVkLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX3RocmVzaG9sZDogaW50ID0gNDA5NiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -374,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</last-search>
+      <last-search encoding="base64">XDxfTEFSR0VfTUFTS19BUkVBX1RIUkVTSFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfTEFSR0VfTUFTS19BUkVBX1RIUkVTSFw+</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
