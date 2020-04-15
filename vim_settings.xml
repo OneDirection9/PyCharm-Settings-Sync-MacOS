@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja3BvaW50XD4=</entry>
         <entry>seed</entry>
         <entry>ckpt</entry>
         <entry>print</entry>
@@ -27,6 +26,7 @@
         <entry>ipdb</entry>
         <entry>utils</entry>
         <entry>after_train</entry>
+        <entry encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -127,6 +127,12 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/data/person_keypoints_val2014_demo.json" timestamp="1586915369411">
+        <mark key="[" line="3296" column="10" />
+        <mark key="]" line="3296" column="10" />
+        <mark key="^" line="3296" column="10" />
+        <mark key="." line="3296" column="9" />
+      </file>
       <file name="/Python Console" timestamp="1586846425668">
         <mark key="[" line="0" column="60" />
         <mark key="]" line="0" column="6" />
@@ -146,12 +152,11 @@
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/colors.py" timestamp="1586793706373">
         <mark key="'" line="1537" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586792851809">
-        <mark key="'" line="0" column="32" />
-        <mark key="[" line="78" column="33" />
-        <mark key="]" line="78" column="33" />
-        <mark key="^" line="78" column="33" />
-        <mark key="." line="78" column="32" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/__init__.py" timestamp="1586916957156">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1586793556862">
         <mark key="'" line="52" column="49" />
@@ -180,51 +185,45 @@
         <mark key="." line="13" column="101" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/text.py" timestamp="1586860739521" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/data/instances_val2014_demo.json" timestamp="1586880193581" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1586791391533">
-        <mark key="'" line="21" column="37" />
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="46" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="21" column="45" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/data/instances_val2014_demo.json" timestamp="1586915353813">
+        <mark key="[" line="3554" column="10" />
+        <mark key="]" line="3554" column="10" />
+        <mark key="^" line="3554" column="10" />
+        <mark key="." line="3554" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586791816968">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586913305341">
-        <mark key="'" line="537" column="8" />
-        <mark key="[" line="577" column="37" />
-        <mark key="]" line="577" column="38" />
-        <mark key="^" line="582" column="98" />
-        <mark key="." line="577" column="38" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586917365965">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/.style.yapf" timestamp="1586849163100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1586850706466">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586917376945">
+        <mark key="'" line="7" column="65" />
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="40" column="66" />
+        <mark key="." line="40" column="65" />
+        <mark key="^" line="40" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1586914932849">
         <mark key="'" line="525" column="56" />
-        <mark key="[" line="219" column="27" />
+        <mark key="[" line="1" column="15" />
         <mark key="]" line="219" column="11" />
         <mark key="^" line="219" column="11" />
         <mark key="." line="219" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586912510988">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586916829527">
         <mark key="'" line="290" column="25" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="96" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/modules.py" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
-      <jump line="162" column="30" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
-      <jump line="222" column="27" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
       <jump line="51" column="24" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_head.py" />
       <jump line="30" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/pooler.py" />
       <jump line="25" column="35" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
@@ -320,48 +319,53 @@
       <jump line="467" column="43" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="557" column="38" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="537" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
+      <jump line="384" column="24" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="42" column="56" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
+      <jump line="7" column="65" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRyYXcgbGluZXMgZnJvbSBub3NlIHRvIG1pZC1zaG91bGRlciBhbmQgbWlkLXNob3VsZGVyIHRvIG1pZC1oaXAKICAgICAgICAjIE5vdGUgdGhhdCB0aGlzIHN0cmF0ZWd5IGlzIHNwZWNpZmljIHRvIHBlcnNvbiBrZXlwb2ludHMuCiAgICAgICAgIyBGb3Igb3RoZXIga2V5cG9pbnRzLCBpdCBzaG91bGQganVzdCBkbyBub3RoaW5nCiAgICAgICAgdHJ5OgogICAgICAgICAgICBsc194LCBsc195ID0gdmlzaWJsZVsibGVmdF9zaG91bGRlciJdCiAgICAgICAgICAgIHJzX3gsIHJzX3kgPSB2aXNpYmxlWyJyaWdodF9zaG91bGRlciJdCiAgICAgICAgICAgIG1pZF9zaG91bGRlcl94LCBtaWRfc2hvdWxkZXJfeSA9IChsc194ICsgcnNfeCkgLyAyLCAobHNfeSArIHJzX3kpIC8gMgogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgcGFzcwogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgZHJhdyBsaW5lIGZyb20gbm9zZSB0byBtaWQtc2hvdWxkZXIKICAgICAgICAgICAgbm9zZV94LCBub3NlX3kgPSB2aXNpYmxlLmdldCgibm9zZSIsIChOb25lLCBOb25lKSkKICAgICAgICAgICAgaWYgbm9zZV94IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgc2VsZi5kcmF3X2xpbmUoW25vc2VfeCwgbWlkX3Nob3VsZGVyX3hdLCBbbm9zZV95LCBtaWRfc2hvdWxkZXJfeV0sIGNvbG9yPV9SRUQpCgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAjIGRyYXcgbGluZSBmcm9tIG1pZC1zaG91bGRlciB0byBtaWQtaGlwCiAgICAgICAgICAgICAgICBsaF94LCBsaF95ID0gdmlzaWJsZVsibGVmdF9oaXAiXQogICAgICAgICAgICAgICAgcmhfeCwgcmhfeSA9IHZpc2libGVbInJpZ2h0X2hpcCJdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1pZF9oaXBfeCwgbWlkX2hpcF95ID0gKGxoX3ggKyByaF94KSAvIDIsIChsaF95ICsgcmhfeSkgLyAyCiAgICAgICAgICAgICAgICBzZWxmLmRyYXdfbGluZShbbWlkX2hpcF94LCBtaWRfc2hvdWxkZXJfeF0sIFttaWRfaGlwX3ksIG1pZF9zaG91bGRlcl95XSwgY29sb3I9X1JFRCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlZGdlX2NvbG9yKQogICAgICAgIHByaW50KGNvbG9yKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>after_train</text>
+        <text encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRyYXcgbGluZXMgZnJvbSBub3NlIHRvIG1pZC1zaG91bGRlciBhbmQgbWlkLXNob3VsZGVyIHRvIG1pZC1oaXAKICAgICAgICAjIE5vdGUgdGhhdCB0aGlzIHN0cmF0ZWd5IGlzIHNwZWNpZmljIHRvIHBlcnNvbiBrZXlwb2ludHMuCiAgICAgICAgIyBGb3Igb3RoZXIga2V5cG9pbnRzLCBpdCBzaG91bGQganVzdCBkbyBub3RoaW5nCiAgICAgICAgdHJ5OgogICAgICAgICAgICBsc194LCBsc195ID0gdmlzaWJsZVsibGVmdF9zaG91bGRlciJdCiAgICAgICAgICAgIHJzX3gsIHJzX3kgPSB2aXNpYmxlWyJyaWdodF9zaG91bGRlciJdCiAgICAgICAgICAgIG1pZF9zaG91bGRlcl94LCBtaWRfc2hvdWxkZXJfeSA9IChsc194ICsgcnNfeCkgLyAyLCAobHNfeSArIHJzX3kpIC8gMgogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgcGFzcwogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgZHJhdyBsaW5lIGZyb20gbm9zZSB0byBtaWQtc2hvdWxkZXIKICAgICAgICAgICAgbm9zZV94LCBub3NlX3kgPSB2aXNpYmxlLmdldCgibm9zZSIsIChOb25lLCBOb25lKSkKICAgICAgICAgICAgaWYgbm9zZV94IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgc2VsZi5kcmF3X2xpbmUoW25vc2VfeCwgbWlkX3Nob3VsZGVyX3hdLCBbbm9zZV95LCBtaWRfc2hvdWxkZXJfeV0sIGNvbG9yPV9SRUQpCgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAjIGRyYXcgbGluZSBmcm9tIG1pZC1zaG91bGRlciB0byBtaWQtaGlwCiAgICAgICAgICAgICAgICBsaF94LCBsaF95ID0gdmlzaWJsZVsibGVmdF9oaXAiXQogICAgICAgICAgICAgICAgcmhfeCwgcmhfeSA9IHZpc2libGVbInJpZ2h0X2hpcCJdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1pZF9oaXBfeCwgbWlkX2hpcF95ID0gKGxoX3ggKyByaF94KSAvIDIsIChsaF95ICsgcmhfeSkgLyAyCiAgICAgICAgICAgICAgICBzZWxmLmRyYXdfbGluZShbbWlkX2hpcF94LCBtaWRfc2hvdWxkZXJfeF0sIFttaWRfaGlwX3ksIG1pZF9zaG91bGRlcl95XSwgY29sb3I9X1JFRCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlZGdlX2NvbG9yKQogICAgICAgIHByaW50KGNvbG9yKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5vdXRwdXQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcmVhX3RocmVzaG9sZCBpcyBOb25lOgogICAgICAgICAgICBhcmVhX3RocmVzaG9sZCA9IDQwOTYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvciA9IHR1cGxlKHggLyAyNTUuMCBmb3IgeCBpbiBjb2xvcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlZGdlX2NvbG9yKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1ldGFkYXRhLmdldCgia2V5cG9pbnRfY29ubmVjdGlvbl9ydWxlcyIpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlwb2ludF9uYW1lcyA9IHNlbGYubWV0YWRhdGEuZ2V0KCJrZXlwb2ludF9uYW1lcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgb3V0cHV0IChWaXNJbWFnZSk6IGltYWdlIG9iamVjdCB3aXRoIHZpc3VhbGl6YXRpb25zLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluc3RfYW5uID0gb3NwLmpvaW4oc2VsZi5kYXRhX3Jvb3QsICdpbnN0YW5jZXNfdmFsMjAxNF9kZW1vLmpzb24nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X09GRl9XSElURSA9ICgxLjAsIDEuMCwgMjQwLjAgLyAyNTUpCl9CTEFDSyA9ICgwLCAwLCAwKQpfUkVEID0gKDEuMCwgMCwgMCkK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -370,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>after_train</last-search>
+      <last-search encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</last-search>
       <last-offset />
-      <last-pattern>after_train</last-pattern>
+      <last-pattern encoding="base64">XDxfU01BTExfT0JKRUNUX0FSRUFfVEhSRVNIXD4=</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
