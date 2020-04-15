@@ -191,10 +191,10 @@
         <mark key="^" line="3554" column="10" />
         <mark key="." line="3554" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586949574921">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586950485733">
         <mark key="'" line="250" column="36" />
-        <mark key="[" line="74" column="11" />
-        <mark key="]" line="76" column="60" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
         <mark key="^" line="76" column="60" />
         <mark key="." line="76" column="59" />
       </file>
@@ -203,12 +203,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586950405651">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="128" column="41" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586950487465">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="131" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1586914932849">
         <mark key="'" line="525" column="56" />
@@ -311,7 +311,6 @@
       <jump line="25" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
-      <jump line="20" column="32" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="48" column="17" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="248" column="36" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
@@ -324,12 +323,13 @@
       <jump line="119" column="61" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="174" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfaWRzID0gc29ydGVkKGMuZ2V0SW1nSWRzKCkpCg==</text>
+        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCiMgTW9kaWZpZWQgYnk6IFpoaXBlbmcgSGFuCg==</text>
       </register>
       <register name="-" type="4">
         <text>img_ids</text>
@@ -338,7 +338,7 @@
         <text encoding="base64">XDxfTEFSR0VfTUFTS19BUkVBX1RIUkVTSFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgIHYuZHJhd19iaW5hcnlfbWFzayhzZWdtZW50YXRpb24sIGNvbG9yPWNvbG9yLCBsYWJlbD1sYWJlbCkK</text>
+        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAojCiMgTW9kaWZpZWQgYnk6IFpoaXBlbmcgSGFuCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbWdfaWRzID0gc29ydGVkKGMuZ2V0SW1nSWRzKCkpCg==</text>
