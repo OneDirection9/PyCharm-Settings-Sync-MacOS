@@ -194,12 +194,12 @@
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586880711918">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="479" column="90" />
-        <mark key="]" line="479" column="86" />
-        <mark key="." line="479" column="85" />
-        <mark key="^" line="479" column="86" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586913305341">
+        <mark key="'" line="537" column="8" />
+        <mark key="[" line="577" column="37" />
+        <mark key="]" line="577" column="38" />
+        <mark key="^" line="582" column="98" />
+        <mark key="." line="577" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/.style.yapf" timestamp="1586849163100">
         <mark key="[" line="0" column="0" />
@@ -213,20 +213,13 @@
         <mark key="^" line="219" column="11" />
         <mark key="." line="219" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586881058155">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" timestamp="1586912510988">
         <mark key="'" line="290" column="25" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="96" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="60" column="67" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="9" column="38" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/Documents/my-repositories/image-captioning/captioning/datasets/dataset.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/modules.py" />
       <jump line="153" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
       <jump line="162" column="30" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
@@ -320,12 +313,19 @@
       <jump line="151" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="507" column="54" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="523" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="467" column="43" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="557" column="38" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="537" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgbGluZXMgZnJvbSBub3NlIHRvIG1pZC1zaG91bGRlciBhbmQgbWlkLXNob3VsZGVyIHRvIG1pZC1oaXAKICAgICAgICAjIE5vdGUgdGhhdCB0aGlzIHN0cmF0ZWd5IGlzIHNwZWNpZmljIHRvIHBlcnNvbiBrZXlwb2ludHMuCiAgICAgICAgIyBGb3Igb3RoZXIga2V5cG9pbnRzLCBpdCBzaG91bGQganVzdCBkbyBub3RoaW5nCiAgICAgICAgdHJ5OgogICAgICAgICAgICBsc194LCBsc195ID0gdmlzaWJsZVsibGVmdF9zaG91bGRlciJdCiAgICAgICAgICAgIHJzX3gsIHJzX3kgPSB2aXNpYmxlWyJyaWdodF9zaG91bGRlciJdCiAgICAgICAgICAgIG1pZF9zaG91bGRlcl94LCBtaWRfc2hvdWxkZXJfeSA9IChsc194ICsgcnNfeCkgLyAyLCAobHNfeSArIHJzX3kpIC8gMgogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgcGFzcwogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgZHJhdyBsaW5lIGZyb20gbm9zZSB0byBtaWQtc2hvdWxkZXIKICAgICAgICAgICAgbm9zZV94LCBub3NlX3kgPSB2aXNpYmxlLmdldCgibm9zZSIsIChOb25lLCBOb25lKSkKICAgICAgICAgICAgaWYgbm9zZV94IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgc2VsZi5kcmF3X2xpbmUoW25vc2VfeCwgbWlkX3Nob3VsZGVyX3hdLCBbbm9zZV95LCBtaWRfc2hvdWxkZXJfeV0sIGNvbG9yPV9SRUQpCgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAjIGRyYXcgbGluZSBmcm9tIG1pZC1zaG91bGRlciB0byBtaWQtaGlwCiAgICAgICAgICAgICAgICBsaF94LCBsaF95ID0gdmlzaWJsZVsibGVmdF9oaXAiXQogICAgICAgICAgICAgICAgcmhfeCwgcmhfeSA9IHZpc2libGVbInJpZ2h0X2hpcCJdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1pZF9oaXBfeCwgbWlkX2hpcF95ID0gKGxoX3ggKyByaF94KSAvIDIsIChsaF95ICsgcmhfeSkgLyAyCiAgICAgICAgICAgICAgICBzZWxmLmRyYXdfbGluZShbbWlkX2hpcF94LCBtaWRfc2hvdWxkZXJfeF0sIFttaWRfaGlwX3ksIG1pZF9zaG91bGRlcl95XSwgY29sb3I9X1JFRCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -337,31 +337,31 @@
         <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRyYXcgbGluZXMgZnJvbSBub3NlIHRvIG1pZC1zaG91bGRlciBhbmQgbWlkLXNob3VsZGVyIHRvIG1pZC1oaXAKICAgICAgICAjIE5vdGUgdGhhdCB0aGlzIHN0cmF0ZWd5IGlzIHNwZWNpZmljIHRvIHBlcnNvbiBrZXlwb2ludHMuCiAgICAgICAgIyBGb3Igb3RoZXIga2V5cG9pbnRzLCBpdCBzaG91bGQganVzdCBkbyBub3RoaW5nCiAgICAgICAgdHJ5OgogICAgICAgICAgICBsc194LCBsc195ID0gdmlzaWJsZVsibGVmdF9zaG91bGRlciJdCiAgICAgICAgICAgIHJzX3gsIHJzX3kgPSB2aXNpYmxlWyJyaWdodF9zaG91bGRlciJdCiAgICAgICAgICAgIG1pZF9zaG91bGRlcl94LCBtaWRfc2hvdWxkZXJfeSA9IChsc194ICsgcnNfeCkgLyAyLCAobHNfeSArIHJzX3kpIC8gMgogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgcGFzcwogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgZHJhdyBsaW5lIGZyb20gbm9zZSB0byBtaWQtc2hvdWxkZXIKICAgICAgICAgICAgbm9zZV94LCBub3NlX3kgPSB2aXNpYmxlLmdldCgibm9zZSIsIChOb25lLCBOb25lKSkKICAgICAgICAgICAgaWYgbm9zZV94IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgc2VsZi5kcmF3X2xpbmUoW25vc2VfeCwgbWlkX3Nob3VsZGVyX3hdLCBbbm9zZV95LCBtaWRfc2hvdWxkZXJfeV0sIGNvbG9yPV9SRUQpCgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAjIGRyYXcgbGluZSBmcm9tIG1pZC1zaG91bGRlciB0byBtaWQtaGlwCiAgICAgICAgICAgICAgICBsaF94LCBsaF95ID0gdmlzaWJsZVsibGVmdF9oaXAiXQogICAgICAgICAgICAgICAgcmhfeCwgcmhfeSA9IHZpc2libGVbInJpZ2h0X2hpcCJdCiAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1pZF9oaXBfeCwgbWlkX2hpcF95ID0gKGxoX3ggKyByaF94KSAvIDIsIChsaF95ICsgcmhfeSkgLyAyCiAgICAgICAgICAgICAgICBzZWxmLmRyYXdfbGluZShbbWlkX2hpcF94LCBtaWRfc2hvdWxkZXJfeF0sIFttaWRfaGlwX3ksIG1pZF9zaG91bGRlcl95XSwgY29sb3I9X1JFRCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5vdXRwdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnN0YW5jZV9tb2RlID0gaW5zdGFuY2VfbW9kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvciA9IHR1cGxlKHggLyAyNTUuMCBmb3IgeCBpbiBjb2xvcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkB1bmlxdWUKY2xhc3MgQ29sb3JNb2RlKEVudW0pOgogICAgIiIiCiAgICBFbnVtIG9mIGRpZmZlcmVudCBjb2xvciBtb2RlcyB0byB1c2UgZm9yIGluc3RhbmNlIHZpc3VhbGl6YXRpb25zLgoKICAgIEF0dHJpYnV0ZXM6CiAgICAgICAgSU1BR0U6IFBpY2tzIGEgcmFuZG9tIGNvbG9yIGZvciBldmVyeSBpbnN0YW5jZSBhbmQgb3ZlcmxheSBzZWdtZW50YXRpb25zIHdpdGggbG93IG9wYWNpdHkuCiAgICAgICAgU0VHTUVOVEFUSU9OOiBMZXQgaW5zdGFuY2VzIG9mIHRoZSBzYW1lIGNhdGVnb3J5IGhhdmUgc2ltaWxhciBjb2xvcnMKICAgICAgICAgICAgKGZyb20gbWV0YWRhdGEudGhpbmdfY29sb3JzKSwgYW5kIG92ZXJsYXkgdGhlbSB3aXRoIGhpZ2ggb3BhY2l0eS4gVGhpcyBwcm92aWRlcyBtb3JlCiAgICAgICAgICAgIGF0dGVudGlvbiBvbiB0aGUgcXVhbGl0eSBvZiBzZWdtZW50YXRpb24uCiAgICAgICAgSU1BR0VfQlc6IHNhbWUgYXMgSU1BR0UsIGJ1dCBjb252ZXJ0IGFsbCBhcmVhcyB3aXRob3V0IG1hc2tzIHRvIGdyYXktc2NhbGUuIE9ubHkgYXZhaWxhYmxlCiAgICAgICAgICAgIGZvciBkcmF3aW5nIHBlci1pbnN0YW5jZSBtYXNrIHByZWRpY3Rpb25zLgogICAgIiIiCgogICAgSU1BR0UgPSAwCiAgICBTRUdNRU5UQVRJT04gPSAxCiAgICBJTUFHRV9CVyA9IDIKCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLm1ldGFkYXRhLmdldCgia2V5cG9pbnRfY29ubmVjdGlvbl9ydWxlcyIpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZgogICAgICAgIG5wLnVuaXF1ZShiaW5hcnlfbWFzaykK</text>
+        <text encoding="base64">ICAgICAgICBrZXlwb2ludF9uYW1lcyA9IHNlbGYubWV0YWRhdGEuZ2V0KCJrZXlwb2ludF9uYW1lcyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbWFnZS5uZGltICE9IDMgb3IgaW1hZ2Uuc2hhcGVbLTFdICE9IDM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2ltYWdlIHNob3VsZCBiZSBvZiBzaGFwZSBIeFd4My4gR290IHt9Jy5mb3JtYXQoaW1hZ2Uuc2hhcGUpKQo=</text>
+        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgb3V0cHV0IChWaXNJbWFnZSk6IGltYWdlIG9iamVjdCB3aXRoIHZpc3VhbGl6YXRpb25zLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yCiAgICAgICAgaWYgY29sb3IgaXMgTm9uZToKICAgICAgICAgICAgY29sb3IgPSByYW5kb21fY29sb3IocmdiPVRydWUsIG1heGltdW09MSkKCg==</text>
+        <text encoding="base64">X09GRl9XSElURSA9ICgxLjAsIDEuMCwgMjQwLjAgLyAyNTUpCl9CTEFDSyA9ICgwLCAwLCAwKQpfUkVEID0gKDEuMCwgMCwgMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAqLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShiaW5hcnlfbWFzaywgbnAubmRhcnJheSk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignYmluYXJ5X21hc2sgc2hvdWxkIGJlIG5wLm5kYXJyYXkuIEdvdCB7fScuZm9ybWF0KHR5cGUoYmluYXJ5X21hc2spKSkKICAgICAgICBpZiBiaW5hcnlfbWFzay5uZGltICE9IDI6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2JpbmFyeV9tYXNrIHNob3VsZCBiZSAyRC4gR290IHt9Jy5mb3JtYXQoYmluYXJ5X21hc2submRpbSkpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBkcmF3X3BvbHlnb24oCiAgICAgICAgc2VsZiwKICAgICAgICBzZWdtZW50OiBucC5uZGFycmF5LAogICAgICAgIGNvbG9yOiBNUExDb2xvciwKICAgICAgICBlZGdlX2NvbG9yOiBPcHRpb25hbFtNUExDb2xvcl0gPSBOb25lLAogICAgICAgIGFscGhhOiBmbG9hdCA9IDAuNQogICAgKToKICAgICAgICAiIiIKICAgICAgICBBcmdzOgogICAgICAgICAgICBzZWdtZW50OiBBIG51bXB5IGFycmF5IG9mIHNoYXBlIE54MiwgY29udGFpbmluZyBhbGwgdGhlIHBvaW50cyBpbiB0aGUgcG9seWdvbi4KICAgICAgICAgICAgY29sb3I6IENvbG9yIG9mIHRoZSBwb2x5Z29uLiBSZWZlciB0byBgbWF0cGxvdGxpYi5jb2xvcnNgIGZvciBhIGZ1bGwgbGlzdCBvZiBmb3JtYXRzCiAgICAgICAgICAgICAgICB0aGF0IGFyZSBhY2NlcHRlZC4KICAgICAgICAgICAgZWRnZV9jb2xvcjogQ29sb3Igb2YgdGhlIHBvbHlnb24gZWRnZXMuIFJlZmVyIHRvIGBtYXRwbG90bGliLmNvbG9yc2AgZm9yIGEgZnVsbCBsaXN0IG9mCiAgICAgICAgICAgICAgICBmb3JtYXRzIHRoYXQgYXJlIGFjY2VwdGVkLiBJZiBub3QgcHJvdmlkZWQsIGEgZGFya2VyIHNoYWRlIG9mIHRoZSBwb2x5Z29uIGNvbG9yIHdpbGwKICAgICAgICAgICAgICAgIGJlIHVzZWQgaW5zdGVhZC4KICAgICAgICAgICAgYWxwaGE6IEJsZW5kaW5nIGVmZmljaWVudC4gU21hbGxlciB2YWx1ZXMgbGVhZCB0byBtb3JlIHRyYW5zcGFyZW50IG1hc2tzLgogICAgICAgICIiIgogICAgICAgIGlmIGVkZ2VfY29sb3IgaXMgTm9uZToKICAgICAgICAgICAgIyBtYWtlIGVkZ2UgY29sb3IgZGFya2VyIHRoYW4gdGhlIHBvbHlnb24gY29sb3IKICAgICAgICAgICAgaWYgYWxwaGEgPiAwLjg6CiAgICAgICAgICAgICAgICBlZGdlX2NvbG9yID0gc2VsZi5fY2hhbmdlX2NvbG9yX2JyaWdodG5lc3MoY29sb3IsIGJyaWdodG5lc3NfZmFjdG9yPS0wLjcpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBlZGdlX2NvbG9yID0gY29sb3IKICAgICAgICBlZGdlX2NvbG9yID0gbXBsYy50b19yZ2IoZWRnZV9jb2xvcikgKyAoMSwpCgogICAgICAgIHNlbGYuYXguYWRkX3BhdGNoKAogICAgICAgICAgICBtcGwucGF0Y2hlcy5Qb2x5Z29uKAogICAgICAgICAgICAgICAgc2VnbWVudCwKICAgICAgICAgICAgICAgIGZpbGw9VHJ1ZSwKICAgICAgICAgICAgICAgIGZhY2Vjb2xvcj1tcGxjLnRvX3JnYihjb2xvcikgKyAoYWxwaGEsKSwKICAgICAgICAgICAgICAgIGVkZ2Vjb2xvcj1lZGdlX2NvbG9yLAogICAgICAgICAgICAgICAgbGluZXdpZHRoPW1heChzZWxmLl9kZWZhdWx0X2ZvbnRfc2l6ZSAvLyAxNSAqIHNlbGYuc2NhbGUsIDEpLAogICAgICAgICAgICApCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
