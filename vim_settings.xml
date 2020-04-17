@@ -145,12 +145,12 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1587093500293">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1587095143093">
         <mark key="'" line="26" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="38" />
+        <mark key="[" line="137" column="6" />
+        <mark key="]" line="137" column="5" />
+        <mark key="." line="137" column="4" />
+        <mark key="^" line="137" column="5" />
       </file>
       <file name="/Python Console" timestamp="1587008651176">
         <mark key="[" line="0" column="0" />
@@ -329,7 +329,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">cHJpbnQoU29sdXRpb24oKS5zZWFyY2goWzEsIDIsIDMsIDRdLCAzKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -341,31 +341,31 @@
         <text encoding="base64">ICAgIGlmIG1heGltdW0gbm90IGluICgxLCAyNTUpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ21heGltdW0gc2hvdWxkIGJlIDEgb3IgMjU1LiBHb3Qge30nLmZvcm1hdChtYXhpbXVtKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">cHJpbnQoU29sdXRpb24oKS5zZWFyY2goWzEsIDIsIDMsIDRdLCAzKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uIGltcG9ydCBpbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW8ubG9hZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uIGltcG9ydCBpbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgeWFwZjogZW5hYmxlCg==</text>
+        <text encoding="base64">aW8ubG9hZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09BTEVTQ0VfQlJBQ0tFVFMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB5YXBmOiBlbmFibGUK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgeWFwZjogZW5hYmxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
