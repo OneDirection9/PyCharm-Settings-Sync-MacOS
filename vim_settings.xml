@@ -145,10 +145,12 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1587007614860">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1587091764356">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="98" column="56" />
+        <mark key="]" line="99" column="12" />
+        <mark key="." line="99" column="11" />
+        <mark key="^" line="99" column="12" />
       </file>
       <file name="/Python Console" timestamp="1587008651176">
         <mark key="[" line="0" column="0" />
@@ -222,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="10" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="116" column="17" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="4" column="10" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
@@ -322,6 +323,7 @@
       <jump line="525" column="56" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="29" column="20" filename="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" />
       <jump line="32" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
