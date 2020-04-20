@@ -129,11 +129,35 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/.pre-commit-config.yaml" timestamp="1586676874860">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="4" />
+      <file name="/Python Console" timestamp="1587008651176">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/cloze_test_val__spring2016 - cloze_test_ALL_val.csv" timestamp="1587363328846" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1586705000916">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/image-captioning/bess/eval_transformer.yaml" timestamp="1586702732700">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/spacy/__init__.py" timestamp="1587363001900" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/text_utils.py" timestamp="1587364833145">
+        <mark key="'" line="40" column="21" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="90" column="30" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586704986885">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/eval_transformer_ax.cfg" timestamp="1586702595247">
         <mark key="[" line="24" column="21" />
@@ -150,26 +174,11 @@
       <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1587108448415">
         <mark key="'" line="35" column="31" />
       </file>
-      <file name="/Python Console" timestamp="1587008651176">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1586705017557">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="24" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/eval_transformer_coco.cfg" timestamp="1586702565694">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="35" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="25" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/path.py" timestamp="1586679674332">
-        <mark key="[" line="21" column="64" />
-        <mark key="]" line="21" column="67" />
-        <mark key="^" line="21" column="67" />
-        <mark key="." line="21" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1587355083585">
         <mark key="[" line="9" column="36" />
@@ -177,26 +186,13 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1586705000916">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" timestamp="1587364362857">
+        <mark key="'" line="318" column="0" />
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image-captioning/bess/eval_transformer.yaml" timestamp="1586702732700">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" timestamp="1587361833555" />
       <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/ROCStories__spring2016 - ROCStories_spring2016.csv" timestamp="1587361765759" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/log.py" timestamp="1586678289131">
-        <mark key="[" line="47" column="30" />
-        <mark key="]" line="90" column="13" />
-        <mark key="^" line="90" column="13" />
-        <mark key="." line="90" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586705030146">
         <mark key="'" line="78" column="17" />
         <mark key="[" line="0" column="0" />
@@ -211,10 +207,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1586674561638">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/datasets.py" timestamp="1587363786549">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="26" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1587104003207">
         <mark key="'" line="142" column="12" />
@@ -223,22 +220,13 @@
         <mark key="." line="186" column="12" />
         <mark key="^" line="185" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586704986885">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/utils.py" timestamp="1587364100598">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="20" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/datasets/dataset.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/datasets/dataset.py" />
-      <jump line="249" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="116" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="60" column="67" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="9" column="38" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption.py" />
@@ -331,12 +319,20 @@
       <jump line="39" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="142" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" />
+      <jump line="40" column="21" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/text_utils.py" />
+      <jump line="315" column="4" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
+      <jump line="296" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
+      <jump line="300" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
+      <jump line="304" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
+      <jump line="356" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
+      <jump line="318" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -348,31 +344,31 @@
         <text encoding="base64">ICAgIGlmIG1heGltdW0gbm90IGluICgxLCAyNTUpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ21heGltdW0gc2hvdWxkIGJlIDEgb3IgMjU1LiBHb3Qge30nLmZvcm1hdChtYXhpbXVtKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCgogICAgICAgICAgICAgICAgc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIFNvbHV0aW9uOgoKICAgIGRlZiBtaW5FYXRpbmdTcGVlZChzZWxmLCBwaWxlczogTGlzdFtpbnRdLCBIOiBpbnQpIC0+IGludDoKICAgICAgICBtYXhWYWwgPSAxCiAgICAgICAgZm9yIHBpbGUgaW4gcGlsZXM6CiAgICAgICAgICAgIG1heFZhbCA9IG1heChtYXhWYWwsIHBpbGUpCgogICAgICAgICMg6YCf5bqm5pyA5bCP55qE5pe25YCZ77yM6ICX5pe25pyA6ZW/CiAgICAgICAgbGVmdCA9IDEKICAgICAgICAjIOmAn+W6puacgOWkp+eahOaXtuWAme+8jOiAl+aXtuacgOefrQogICAgICAgIHJpZ2h0ID0gbWF4VmFsCgogICAgICAgIHdoaWxlIGxlZnQgPCByaWdodDoKICAgICAgICAgICAgbWlkID0gbGVmdCArIChyaWdodCAtIGxlZnQpIC8vIDIKCiAgICAgICAgICAgIGlmIHNlbGYuY2FsY3VsYXRlU3VtKHBpbGVzLCBtaWQpID4gSDoKICAgICAgICAgICAgICAgICMg6ICX5pe25aSq5aSa77yM6K+05piO6YCf5bqm5aSq5oWi5LqG77yM5LiL5LiA6L2u5pCc57Si5Yy66Ze05ZyoCiAgICAgICAgICAgICAgICAjIFttaWQgKyAxLCByaWdodF0KICAgICAgICAgICAgICAgIGxlZnQgPSBtaWQgKyAxCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByaWdodCA9IG1pZAogICAgICAgIHJldHVybiBsZWZ0CgogICAgZGVmIGNhbGN1bGF0ZVN1bShzZWxmLCBwaWxlczogTGlzdFtpbnRdLCBzcGVlZDogaW50KSAtPiBpbnQ6CiAgICAgICAgIiIi5aaC5p6c6L+U5Zue55qE5bCP5pe25pWw5Lil5qC85aSn5LqOIEjvvIzlsLHkuI3nrKblkIjpopjmhI8KCiAgICAgICAgQXJnczoKICAgICAgICAgICAgcGlsZXM6CiAgICAgICAgICAgIHNwZWVkOgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICDpnIDopoHnmoTlsI/ml7bmlbAKICAgICAgICAiIiIKICAgICAgICBzdW0gPSAwCiAgICAgICAgZm9yIHBpbGUgaW4gcGlsZXM6CiAgICAgICAgICAgICMg5LiK5Y+W5pW05Y+v5Lul6L+Z5qC35YaZCiAgICAgICAgICAgIHN1bSArPSAocGlsZSArIHNwZWVkIC0gMSkgLy8gc3BlZWQKICAgICAgICByZXR1cm4gc3VtCg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgQXJnczoKICAgICAgICAgICAgcGlsZXM6CiAgICAgICAgICAgIHNwZWVkOgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAobGVmdCA8IHJpZ2h0KSB7CiAgICAgICAgaW50IG1pZCA9IGxlZnQgKyAocmlnaHQgLSBsZWZ0KSAvIDI7CgogICAgICAgIGlmIChjYWxjdWxhdGVTdW0ocGlsZXMsIG1pZCkgPiBIKSB7CiAgICAgICAgLy8g6ICX5pe25aSq5aSa77yM6K+05piO6YCf5bqm5aSq5oWi5LqG77yM5LiL5LiA6L2u5pCc57Si5Yy66Ze05ZyoCiAgICAgICAgLy9bbWlkICsgMSwgcmlnaHRdCiAgICAgICAgbGVmdCA9IG1pZCArIDE7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICByaWdodCA9IG1pZDsKICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBsZWZ0OwoKICAgIH0K</text>
+        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCgogICAgICAgICAgICAgICAgc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
