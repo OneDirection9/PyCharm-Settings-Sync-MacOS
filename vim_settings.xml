@@ -159,12 +159,6 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/__init__.py" timestamp="1586671912916">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/eval_transformer_coco.cfg" timestamp="1586702565694">
         <mark key="[" line="25" column="35" />
         <mark key="]" line="25" column="35" />
@@ -195,6 +189,8 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" timestamp="1587361833555" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/ROCStories__spring2016 - ROCStories_spring2016.csv" timestamp="1587361765759" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/log.py" timestamp="1586678289131">
         <mark key="[" line="47" column="30" />
         <mark key="]" line="90" column="13" />
@@ -235,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/datasets/dataset.py" />
       <jump line="75" column="20" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="31" column="4" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/utils/misc.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/datasets/dataset.py" />
@@ -335,6 +330,7 @@
       <jump line="172" column="46" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="142" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
