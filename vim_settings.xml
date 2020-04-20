@@ -146,12 +146,11 @@
         <mark key="." line="1" column="32" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/spacy/__init__.py" timestamp="1587363001900" />
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/text_utils.py" timestamp="1587364833145">
-        <mark key="'" line="40" column="21" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="90" column="30" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/text_utils.py" timestamp="1587365040919">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="88" column="30" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1586704986885">
         <mark key="[" line="0" column="0" />
@@ -186,11 +185,11 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" timestamp="1587364362857">
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" timestamp="1587366424319">
         <mark key="'" line="318" column="0" />
-        <mark key="[" line="365" column="0" />
-        <mark key="]" line="365" column="0" />
-        <mark key="." line="365" column="0" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/ROCStories__spring2016 - ROCStories_spring2016.csv" timestamp="1587361765759" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586705030146">
@@ -220,7 +219,7 @@
         <mark key="." line="186" column="12" />
         <mark key="^" line="185" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/utils.py" timestamp="1587364100598">
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/utils.py" timestamp="1587364928553">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -332,7 +331,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -344,31 +343,31 @@
         <text encoding="base64">ICAgIGlmIG1heGltdW0gbm90IGluICgxLCAyNTUpOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ21heGltdW0gc2hvdWxkIGJlIDEgb3IgMjU1LiBHb3Qge30nLmZvcm1hdChtYXhpbXVtKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiAK</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCgogICAgICAgICAgICAgICAgc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
