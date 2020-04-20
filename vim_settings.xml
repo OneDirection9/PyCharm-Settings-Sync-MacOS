@@ -48,8 +48,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -158,12 +158,6 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/image-captioning/cfgs/eval_transformer_ax.cfg" timestamp="1586702595247">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="21" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="24" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/colormap.py" timestamp="1586751202818">
         <mark key="[" line="124" column="78" />
         <mark key="]" line="125" column="0" />
@@ -185,11 +179,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" timestamp="1587366424319">
-        <mark key="'" line="318" column="0" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" timestamp="1587368470499">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="164" column="43" />
+        <mark key="]" line="166" column="18" />
+        <mark key="." line="166" column="17" />
+        <mark key="^" line="166" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/ROCStories__spring2016 - ROCStories_spring2016.csv" timestamp="1587361765759" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586705030146">
@@ -219,14 +214,14 @@
         <mark key="." line="186" column="12" />
         <mark key="^" line="185" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/utils.py" timestamp="1587364928553">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/utils.py" timestamp="1587367869265">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/transformer.py" timestamp="1587368046850" />
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="60" column="67" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
       <jump line="9" column="38" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
@@ -326,6 +321,7 @@
       <jump line="304" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
       <jump line="356" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
       <jump line="318" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
+      <jump line="168" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,28 +342,28 @@
         <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiAK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKCnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICAgICAgICAgICAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
