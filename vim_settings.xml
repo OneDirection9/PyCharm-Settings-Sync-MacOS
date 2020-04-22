@@ -142,11 +142,11 @@
         <mark key="." line="91" column="11" />
         <mark key="^" line="91" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/mscoco.py" timestamp="1587541170598">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="207" column="42" />
-        <mark key="^" line="207" column="42" />
-        <mark key="." line="207" column="41" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/mscoco.py" timestamp="1587542217169">
+        <mark key="[" line="180" column="3" />
+        <mark key="]" line="180" column="3" />
+        <mark key="^" line="180" column="3" />
+        <mark key="." line="180" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/__init__.py" timestamp="1587539716141">
         <mark key="[" line="0" column="0" />
