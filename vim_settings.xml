@@ -123,44 +123,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1587103600171">
-        <mark key="'" line="29" column="20" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1587008651176">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/cloze_test_val__spring2016 - cloze_test_ALL_val.csv" timestamp="1587363328846" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1587535067719">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="12" />
         <mark key="^" line="110" column="70" />
         <mark key="." line="109" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/anchor_generator.py" timestamp="1587535823226" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/spacy/__init__.py" timestamp="1587363001900" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/mscoco.py" timestamp="1587537679628">
-        <mark key="[" line="209" column="40" />
-        <mark key="]" line="209" column="36" />
-        <mark key="^" line="209" column="36" />
-        <mark key="." line="209" column="35" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/anchor_generator.py" timestamp="1587539819965">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/text_utils.py" timestamp="1587365040919">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="88" column="30" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/__init__.py" timestamp="1587539716141">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/colormap.py" timestamp="1586751202818">
-        <mark key="[" line="124" column="78" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="125" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1587539724038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1587108448415">
-        <mark key="'" line="35" column="31" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/setup.py" timestamp="1587538724239">
+        <mark key="[" line="7" column="76" />
+        <mark key="]" line="7" column="68" />
+        <mark key="^" line="7" column="68" />
+        <mark key="." line="7" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/visualizer.py" timestamp="1587537457471" />
       <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1587455256240">
@@ -175,45 +164,18 @@
         <mark key="." line="166" column="17" />
         <mark key="^" line="166" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/ROCStories__spring2016 - ROCStories_spring2016.csv" timestamp="1587361765759" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1586705030146">
-        <mark key="'" line="78" column="17" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/utils/sampler.py" timestamp="1587539707515">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586753535206">
-        <mark key="'" line="34" column="16" />
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="37" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/box_head.py" timestamp="1587539459554">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/datasets.py" timestamp="1587363786549">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="26" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1587104003207">
-        <mark key="'" line="142" column="12" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="12" />
-        <mark key="." line="186" column="12" />
-        <mark key="^" line="185" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/repositories/finetune-transformer-lm/utils.py" timestamp="1587367869265">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/transformer.py" timestamp="1587368046850" />
     </filemarks>
     <jumps>
-      <jump line="9" column="38" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/hook.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption_generator.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/validators/caption.py" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/my-repositories/image-captioning/captioning/datasets/dataset.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/modules.py" />
@@ -311,15 +273,18 @@
       <jump line="318" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
       <jump line="168" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
       <jump line="100" column="39" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_head.py" />
+      <jump line="53" column="44" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/utils/matcher.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/anchor_generator.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/anchor_generator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBfYE1TQ09DTyBkYXRhc2V0YDoKICAgIGh0dHA6Ly9jb2NvZGF0YXNldC5vcmcvI2hvbWUK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">ICMgKEssIEIrMSk=</text>
       </register>
       <register name="/" type="4">
         <text>COCO</text>
@@ -328,31 +293,31 @@
         <text encoding="base64">ICAgICAgICAgICAgVGhlIGNvb3JkaW5hdGVzIGFyZSBub3QgcGl4ZWwgaW5kaWNlcy4gQ29vcmRpbmF0ZXMgaW5zaWRlIGFuIGltYWdlIG9mIHNoYXBlIChILCBXKSBhcmUKICAgICAgICAgICAgaW4gcmFuZ2UgWzAsIEhdIG9yIFswLCBXXS4gVGhpcyBmdW5jdGlvbiBzaG91bGQgY29ycmVjdGx5IHRyYW5zZm9ybSBjb29yZGluYXRlcyBvdXRzaWRlCiAgICAgICAgICAgIHRoZSBpbWFnZSBhcyB3ZWxsLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBfYE1TQ09DTyBkYXRhc2V0YDoKICAgIGh0dHA6Ly9jb2NvZGF0YXNldC5vcmcvI2hvbWUK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQ09DT0RhdGFzZXQoKQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBhbmNob3JzLmFwcGVuZCgKICAgICAgICAgICAgICAgIChzaGlmdHMudmlldygtMSwgMSwgNCkgKyBiYXNlX2FuY2hvcnNfaS52aWV3KDEsIC0xLCA0KSkucmVzaGFwZSgtMSwgNCkKICAgICAgICAgICAgKQo+Pj4+Pj4+IDY2MTcwZWU5Y2Y0NWY0ZGRhYzE3M2U5MjRkZWQ2MmJhYTZmYmJmZjEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQ09DT0RhdGFzZXQoKQo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIGFuY2hvcnMgPSBbY29weS5kZWVwY29weShhbmNob3JzX292ZXJfYWxsX2ZlYXR1cmVfbWFwKQogICAgICAgICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UobnVtX2ltYWdlcyldCj4+Pj4+Pj4gNjYxNzBlZTljZjQ1ZjRkZGFjMTczZTkyNGRlZDYyYmFhNmZiYmZmMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhpcwogICAgICAgICAgICBUaGlzIGZ1bmN0aW9uIHNob3VsZCBjb3JyZWN0bHkgdHJhbnNmb3JtIGNvb3JkaW5hdGVzIG91dHNpZGUgdGhlIGltYWdlIGFzIHdlbGwuCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhlIGNvb3JkaW5hdGVzIGFyZSBub3QgcGl4ZWwgaW5kaWNlcy4gQ29vcmRpbmF0ZXMgb24gYW4gaW1hZ2Ugb2Ygc2hhcGUgKEgsIFcpIGFyZSBpbgogICAgICAgICAgICByYW5nZSBbMCwgSF0gb3IgWzAsIFddLgo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBzdHJpZGUgKiBzZWxmLl9vZmZzZXQsIGdyaWRfdyAqIHN0cmlkZSwgc3RlcD1zdHJpZGUsIGR0eXBlPXRvcmNoLmZsb2F0MzIsCiAgICAgICAgICAgIGRldmljZT1kZXZpY2UKICAgICAgICApCiAgICAgICAgc2hpZnRzX3kgPSB0b3JjaC5hcmFuZ2UoCiAgICAgICAgICAgIHN0cmlkZSAqIHNlbGYuX29mZnNldCwgZ3JpZF9oICogc3RyaWRlLCBzdGVwPXN0cmlkZSwgZHR5cGU9dG9yY2guZmxvYXQzMiwKPj4+Pj4+PiA2NjE3MGVlOWNmNDVmNGRkYWMxNzNlOTI0ZGVkNjJiYWE2ZmJiZmYxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobnAubGluYWxnLmVpZyhucC5hcnJheShbWzMsIDJdLCBbMiwgMl1dKSkpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJlYSA9IHNpemUqKjIuMAo=</text>
       </register>
       <register name="8" type="2">
-        <text>tf.train.AdamOptimizer</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
