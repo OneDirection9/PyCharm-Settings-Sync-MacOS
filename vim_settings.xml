@@ -28,6 +28,7 @@
         <entry>utils</entry>
         <entry>after_train</entry>
         <entry>COCO</entry>
+        <entry>noh</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -145,8 +146,8 @@
       <file name="/Python Console" timestamp="1587626080225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1587699664171">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1587702519052">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1587630010643">
         <mark key="[" line="14" column="0" />
@@ -181,17 +182,17 @@
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/utils/data/dataset.py" timestamp="1587699304634">
         <mark key="'" line="46" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" timestamp="1587699657150">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="40" />
-        <mark key="^" line="7" column="41" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" timestamp="1587703510518">
+        <mark key="'" line="211" column="83" />
+        <mark key="[" line="211" column="83" />
+        <mark key="]" line="211" column="83" />
+        <mark key="." line="211" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/mscoco.py" timestamp="1587699841179">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/mscoco.py" timestamp="1587702999110">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/utils/sampler.py" timestamp="1587539707515">
         <mark key="[" line="0" column="0" />
@@ -203,11 +204,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1587699798528">
-        <mark key="[" line="5" column="71" />
-        <mark key="]" line="5" column="71" />
-        <mark key="^" line="5" column="72" />
-        <mark key="." line="5" column="71" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1587702258801">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1587626126084">
         <mark key="'" line="32" column="18" />
@@ -224,11 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/pooler.py" />
-      <jump line="25" column="35" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
-      <jump line="14" column="26" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
-      <jump line="62" column="4" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
-      <jump line="29" column="73" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
       <jump line="11" column="28" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/log.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/log.py" />
       <jump line="55" column="27" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" />
@@ -324,48 +320,53 @@
       <jump line="188" column="13" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/_metadata.py" />
       <jump line="172" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/_metadata.py" />
       <jump line="46" column="6" filename="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/utils/data/dataset.py" />
+      <jump line="214" column="39" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
+      <jump line="234" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
+      <jump line="239" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
+      <jump line="211" column="83" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhIGltcG9ydCBEYXRhc2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>COCO</text>
+        <text>noh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl90aGluZ19jbGFzc2VzID0gW2tbJ25hbWUnXSBmb3IgayBpbiBDT0NPX0NBVEVHT1JJRVMgaWYga1snaXN0aGluZyddID09IDFdCiAgICAgICAgc2VsZi5fdGhpbmdfY29sb3JzID0gW2tbJ2NvbG9yJ10gZm9yIGsgaW4gQ09DT19DQVRFR09SSUVTIGlmIGtbJ2lzdGhpbmcnXSA9PSAxXQogICAgICAgIGFzc2VydCBzZWxmLl90aGluZ19jbGFzc2VzID09IDgwLCBsZW4oc2VsZi5fdGhpbmdfY2xhc3NlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhIGltcG9ydCBEYXRhc2V0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuLnJlZ2lzdHJ5IGltcG9ydCBNZXRhZGF0YVN0YXNoCg==</text>
+        <text encoding="base64">ICAgIFByb3BlcnRpZXMgYXJlIGBOb25lYCBieSBkZWZhdWx0LCB0aGF0IHdlIGNhbiB1c2UgaXQgdG8gZG8gbW9yZSBjaGVjawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdNZXRhZGF0YScsCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsnVmlzaW9uRGF0YXNldCcsICdLZXlQb2ludERhdGFzZXQnXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIFZpc2lvbkRhdGFzZXQoZGF0YS5EYXRhc2V0KToKICAgICIiIkJhc2UgZGF0YXNldCB3aXRoIG5lY2Vzc2FyeSBpbnNwZWN0aW9uLgoKICAgIEFyZ3M6CiAgICAgICAgcm9vdCAoc3RyKTogVGhlIHJvb3QgcGF0aCBvZiBkYXRhc2V0LgogICAgICAgIGFubl9maWxlIChzdHIpOiBUaGUgYW5ub3RhdGlvbnMgZmlsZS4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCByb290LCBhbm5fZmlsZSk6CiAgICAgICAgZmRuLnV0aWxzLmNoZWNrX2Rpcl9leGlzdChyb290KQogICAgICAgIGZkbi51dGlscy5jaGVja19maWxlX2V4aXN0KGFubl9maWxlKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGNsYXNzZXMoc2VsZik6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG51bV9jbGFzc2VzKHNlbGYpOgogICAgICAgIHJldHVybiBsZW4oc2VsZi5jbGFzc2VzKQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGFzcGVjdF9yYXRpb19mbGFnKHNlbGYpOgogICAgICAgICIiIkZsYWdzIGFjY29yZGluZyB0byBpbWFnZSBhc3BlY3QgcmF0aW8uCgogICAgICAgIEltYWdlcyB3aXRoIGFzcGVjdCByYXRpbyBncmVhdGVyIHRoYW4gMSB3aWxsIGJlIHNldCBhcyBncm91cCAxLCBvdGhlcndpc2UgZ3JvdXAgMC4KICAgICAgICBUaGlzIGZsYWcgaXMgdXNlZCB0byBzYW1wbGUgaW1hZ2VzIGZyb20gZGF0YXNldChzKSB0aGF0IGhhdmUgc2ltaWxhciBhc3BlY3QKICAgICAgICByYXRpb3MuIFRoaXMgZmVhdHVyZSBpcyBjcml0aWNhbCBmb3Igc2F2aW5nIG1lbW9yeSAoYW5kIG1ha2VzIHRyYWluaW5nIHNsaWdodGx5CiAgICAgICAgZmFzdGVyKS4gQXNwZWN0IHJhdGlvIGlzIHRoZSB3aWR0aCB0byB0aGUgaGVpZ2h0LgogICAgICAgICIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBkZWYgX19nZXRpdGVtX18oc2VsZiwgaW5kZXgpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBkZWYgX19sZW5fXyhzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgoKY2xhc3MgS2V5UG9pbnREYXRhc2V0KFZpc2lvbkRhdGFzZXQpOgogICAgIiIiQmFzZSBkYXRhc2V0IGZvciBLZXlQb2ludCBkZXRlY3Rpb24uIiIiCgogICAgQHByb3BlcnR5CiAgICBkZWYgam9pbnRzKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBAcHJvcGVydHkKICAgIGRlZiBudW1fam9pbnRzKHNlbGYpOgogICAgICAgIHJldHVybiBsZW4oc2VsZi5qb2ludHMpCgogICAgQHByb3BlcnR5CiAgICBkZWYgc2tlbGV0b24oc2VsZik6CiAgICAgICAgIiIiQ29ubmVjdGlvbnMgYmV0d2VlbiBqb2ludHMgZm9yIHZpc3VhbGl6YXRpb24uIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGpvaW50X3BhaXJzKHNlbGYpOgogICAgICAgICIiIkpvaW50IHBhaXJzIHdoaWNoIGRlZmluZXMgdGhlIHBhaXJzIG9mIGpvaW50cyB0byBiZSBzd2FwcGVkIHdoZW4gdGhlIGltYWdlIGlzCiAgICAgICAgZmxpcHBlZCBob3Jpem9udGFsbHkuICIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IiIiCkJ1aWx0aW4gbWV0YWRhdGEKIiIiCgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdNZXRhZGF0YVN0YXNoJywK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIE1ldGFkYXRhU3Rhc2goUmVnaXN0cnkpOgogICAgIiIiUmVnaXN0cnkgZm9yIG1ldGFkYXRhLiIiIgogICAgcGFzcwoKCmNsYXNzIE1ldGFkYXRhKG9iamVjdCk6CiAgICAiIiJNZXRhZGF0YSBvZiBkYXRhc2V0IHdoaWNoIGlzIHVzZWZ1bCBpbiBldmFsdWF0aW9uLCB2aXN1YWxpemF0aW9uIG9yIGxvZ2dpbmcuIiIiCgogICAgQHByb3BlcnR5CiAgICBkZWYgdGhpbmdfY2xhc3NlcyhzZWxmKSAtPiBOb1JldHVybjoKICAgICAgICAiIiJUaGluZyBjbGFzcyBuYW1lcy4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgQHByb3BlcnR5CiAgICBkZWYgdGhpbmdfY29sb3JzKHNlbGYpIC0+IE5vUmV0dXJuOgogICAgICAgICIiIlZpc3VhbGl6YXRpb24gY29sb3JzIG9mIGVhY2ggdGhpbmcgY2xhc3Nlcy4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgQHByb3BlcnR5CiAgICBkZWYgc3R1ZmZfY2xhc3NlcyhzZWxmKSAtPiBOb1JldHVybjoKICAgICAgICAiIiJTdHVmZiBjbGFzcyBuYW1lcy4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgQHByb3BlcnR5CiAgICBkZWYgc3R1ZmZfY29sb3JzKHNlbGYpIC0+IE5vUmV0dXJuOgogICAgICAgICIiIlZpc3VhbGl6YXRpb24gY29sb3JzIG9mIGVhY2ggc3R1ZmYgY2xhc3Nlcy4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgQHByb3BlcnR5CiAgICBkZWYga2V5cG9pbnRfbmFtZXMoc2VsZikgLT4gTm9SZXR1cm46CiAgICAgICAgIiIiS2V5cG9pbnQgbmFtZXMuIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGtleXBvaW50X2ZsaXBfbWFwKHNlbGYpIC0+IE5vUmV0dXJuOgogICAgICAgICIiIlBhaXJzIG9mIGtleXBvaW50cyB0aGF0IHNob3VsZCBiZSBleGNoYW5nZWQgdW5kZXIgaG9yaXpvbnRhbCBmbGlwcGluZy4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgQHByb3BlcnR5CiAgICBkZWYga2V5cG9pbnRfY29ubmVjdGlvbl9ydWxlcyhzZWxmKSAtPiBOb1JldHVybjoKICAgICAgICAiIiJSdWxlcyBmb3IgcGFpcnMgb2Yga2V5cG9pbnRzIHRvIGRyYXcgYSBsaW5lIGJldHdlZW4sIGFuZCB0aGUgbGluZSBjb2xvciB0byB1c2UuIiIiCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgTWV0YWRhdGFTdGFzaChSZWdpc3RyeSk6CiAgICAiIiJSZWdpc3RyeSBmb3IgbWV0YWRhdGEuIiIiCiAgICBwYXNzCgoKY2xhc3MgTWV0YWRhdGEob2JqZWN0KToKICAgICIiIk1ldGFkYXRhIG9mIGRhdGFzZXQgd2hpY2ggaXMgdXNlZnVsIGluIGV2YWx1YXRpb24sIHZpc3VhbGl6YXRpb24gb3IgbG9nZ2luZy4iIiIKCiAgICBAcHJvcGVydHkKICAgIGRlZiB0aGluZ19jbGFzc2VzKHNlbGYpIC0+IE5vUmV0dXJuOgogICAgICAgICIiIlRoaW5nIGNsYXNzIG5hbWVzLiIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBAcHJvcGVydHkKICAgIGRlZiB0aGluZ19jb2xvcnMoc2VsZikgLT4gTm9SZXR1cm46CiAgICAgICAgIiIiVmlzdWFsaXphdGlvbiBjb2xvcnMgb2YgZWFjaCB0aGluZyBjbGFzc2VzLiIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzdHVmZl9jbGFzc2VzKHNlbGYpIC0+IE5vUmV0dXJuOgogICAgICAgICIiIlN0dWZmIGNsYXNzIG5hbWVzLiIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzdHVmZl9jb2xvcnMoc2VsZikgLT4gTm9SZXR1cm46CiAgICAgICAgIiIiVmlzdWFsaXphdGlvbiBjb2xvcnMgb2YgZWFjaCBzdHVmZiBjbGFzc2VzLiIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBAcHJvcGVydHkKICAgIGRlZiBrZXlwb2ludF9uYW1lcyhzZWxmKSAtPiBOb1JldHVybjoKICAgICAgICAiIiJLZXlwb2ludCBuYW1lcy4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgogICAgQHByb3BlcnR5CiAgICBkZWYga2V5cG9pbnRfZmxpcF9tYXAoc2VsZikgLT4gTm9SZXR1cm46CiAgICAgICAgIiIiUGFpcnMgb2Yga2V5cG9pbnRzIHRoYXQgc2hvdWxkIGJlIGV4Y2hhbmdlZCB1bmRlciBob3Jpem9udGFsIGZsaXBwaW5nLiIiIgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKCiAgICBAcHJvcGVydHkKICAgIGRlZiBrZXlwb2ludF9jb25uZWN0aW9uX3J1bGVzKHNlbGYpIC0+IE5vUmV0dXJuOgogICAgICAgICIiIlJ1bGVzIGZvciBwYWlycyBvZiBrZXlwb2ludHMgdG8gZHJhdyBhIGxpbmUgYmV0d2VlbiwgYW5kIHRoZSBsaW5lIGNvbG9yIHRvIHVzZS4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCgo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -374,13 +375,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>COCO</last-search>
+      <last-search>noh</last-search>
       <last-offset />
-      <last-pattern>COCO</last-pattern>
+      <last-pattern>noh</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
