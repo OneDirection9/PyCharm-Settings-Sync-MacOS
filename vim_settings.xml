@@ -121,37 +121,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1586851698718">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="28" column="30" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/samplers/__init__.py" timestamp="1586962651267">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/data/person_keypoints_val2014_demo.json" timestamp="1586948500085">
         <mark key="[" line="3296" column="10" />
         <mark key="]" line="3296" column="10" />
         <mark key="^" line="3296" column="10" />
         <mark key="." line="3296" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586949837462">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="54" column="19" />
-        <mark key="." line="54" column="18" />
-        <mark key="^" line="54" column="19" />
-      </file>
       <file name="/a.dummy" timestamp="1586875915225">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/data/instances_val2014_demo.json" timestamp="1586915353813">
-        <mark key="[" line="3554" column="10" />
-        <mark key="]" line="3554" column="10" />
-        <mark key="^" line="3554" column="10" />
-        <mark key="." line="3554" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1586961892122">
         <mark key="[" line="330" column="43" />
@@ -165,6 +142,29 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/__init__.py" timestamp="1586916957156">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/samplers/__init__.py" timestamp="1586962651267">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1586949837462">
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="54" column="18" />
+        <mark key="^" line="54" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/data/instances_val2014_demo.json" timestamp="1586915353813">
+        <mark key="[" line="3554" column="10" />
+        <mark key="]" line="3554" column="10" />
+        <mark key="^" line="3554" column="10" />
+        <mark key="." line="3554" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" timestamp="1586961935542">
         <mark key="'" line="250" column="36" />
         <mark key="[" line="0" column="0" />
@@ -172,23 +172,12 @@
         <mark key="^" line="76" column="60" />
         <mark key="." line="76" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/.style.yapf" timestamp="1586849163100">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" timestamp="1586962129704">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="157" column="52" />
         <mark key="]" line="157" column="51" />
         <mark key="." line="157" column="50" />
         <mark key="^" line="157" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/__init__.py" timestamp="1586916957156">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1586914932849">
         <mark key="'" line="525" column="56" />
