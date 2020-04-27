@@ -128,21 +128,16 @@
       <file name="/Python Console" timestamp="1587706999649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1587705474205">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1587709045615">
         <mark key="[" line="372" column="84" />
         <mark key="]" line="372" column="91" />
         <mark key="^" line="372" column="91" />
         <mark key="." line="372" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1587719715539">
-        <mark key="'" line="44" column="18" />
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="63" column="18" />
-        <mark key="^" line="63" column="18" />
-        <mark key="." line="63" column="17" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1587719724692">
+        <mark key="[" line="78" column="20" />
+        <mark key="]" line="78" column="20" />
+        <mark key="." line="78" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" timestamp="1587719599823">
         <mark key="'" line="5" column="35" />
@@ -163,6 +158,13 @@
         <mark key="]" line="14" column="27" />
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1587958165712">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/setup.py" timestamp="1587708274028">
         <mark key="[" line="27" column="17" />
@@ -311,10 +313,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>noh</text>
