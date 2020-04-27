@@ -131,20 +131,17 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/fvcore/fvcore/common/timer.py" timestamp="1587708668150" />
-      <file name="/Python Console" timestamp="1587706999649">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1587961976001">
         <mark key="[" line="258" column="52" />
         <mark key="]" line="258" column="53" />
         <mark key="." line="258" column="52" />
         <mark key="^" line="258" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1587963917334">
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="67" column="46" />
-        <mark key="^" line="67" column="46" />
-        <mark key="." line="67" column="45" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1587967714821">
+        <mark key="[" line="71" column="52" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" timestamp="1587719599823">
         <mark key="'" line="5" column="35" />
@@ -175,6 +172,12 @@
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_timer.py" timestamp="1587709564493">
         <mark key="'" line="41" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1587967751801">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/visualizer.py" timestamp="1587962588883">
         <mark key="[" line="516" column="11" />
@@ -320,7 +323,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHB5Y29jb3Rvb2xzLmNvY28gaW1wb3J0IENPQ08K</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -332,31 +335,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3X2gsIG5ld193OiBOZXcgaW1hZ2Ugc2l6ZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHB5Y29jb3Rvb2xzLmNvY28gaW1wb3J0IENPQ08K</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfbG9hZF9jYXRlZ29yaWVzX2ludG9fbWV0YWRhdGEoc2VsZiwgY29jb19hcGkpOgogICAgICAgICIiIgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGNvY29fYXBpOgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHB5Y29jb3Rvb2xzLmNvY28gaW1wb3J0IENPQ08K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBfbG9hZF9jYXRlZ29yaWVzX2ludG9fbWV0YWRhdGEoc2VsZiwgY29jb19hcGkpOgogICAgICAgICIiIgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGNvY29fYXBpOgogICAgICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3BhY2VfYmV0d2Vlbl9lbmRpbmdfY29tbWFfYW5kX2Nsb3NpbmdfYnJhY2tldCA9IEZhbHNlCg==</text>
+        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9ucyBpbmNsdWRlcyBgbmVhcmVzdGAsIGBsaW5lYXJgICgzRC1vbmx5KSwKICAgICAgICAgICAgICAgIGBiaWxpbmVhcmAsIGBiaWN1YmljYCAoNEQtb25seSksIGFuZCBgYXJlYWAuIERldGFpbHMgY2FuIGJlIGZvdW5kIGluOgogICAgICAgICAgICAgICAgaHR0cHM6Ly9weXRvcmNoLm9yZy9kb2NzL3N0YWJsZS9ubi5mdW5jdGlvbmFsLmh0bWwK</text>
+        <text encoding="base64">c3BhY2VfYmV0d2Vlbl9lbmRpbmdfY29tbWFfYW5kX2Nsb3NpbmdfYnJhY2tldCA9IEZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGBiaWxpbmVhcmAsIGBiaWN1YmljYCAoNEQtb25seSksIGFuZCBgYXJlYWAuIERldGFpbHMgY2FuIGJlIGZvdW5kIGluOgogICAgICAgICAgICAgICAgaHR0cHM6Ly9weXRvcmNoLm9yZy9kb2NzL3N0YWJsZS9ubi5mdW5jdGlvbmFsLmh0bWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9ucyBpbmNsdWRlcyBgbmVhcmVzdGAsIGBsaW5lYXJgICgzRC1vbmx5KSwKICAgICAgICAgICAgICAgIGBiaWxpbmVhcmAsIGBiaWN1YmljYCAoNEQtb25seSksIGFuZCBgYXJlYWAuIERldGFpbHMgY2FuIGJlIGZvdW5kIGluOgogICAgICAgICAgICAgICAgaHR0cHM6Ly9weXRvcmNoLm9yZy9kb2NzL3N0YWJsZS9ubi5mdW5jdGlvbmFsLmh0bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBBbm90aGVyIGF0dHJpYnV0ZXMgdGhpbmdfZGF0YXNldF9pZF90b19jb250aWd1b3VzX2lkIGFuZCBzdHVmZl9kYXRhc2V0X2lkX3RvX2NvbnRpZ3VvdXNfaWQgd2lsbCAKICAgIGJlIGFkZGVkIHdoZW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGBiaWxpbmVhcmAsIGBiaWN1YmljYCAoNEQtb25seSksIGFuZCBgYXJlYWAuIERldGFpbHMgY2FuIGJlIGZvdW5kIGluOgogICAgICAgICAgICAgICAgaHR0cHM6Ly9weXRvcmNoLm9yZy9kb2NzL3N0YWJsZS9ubi5mdW5jdGlvbmFsLmh0bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiB0aGluZ19kYXRhc2V0X2lkX3RvX2NvbnRpZ3VvdXNfaWQoc2VsZikgLT4gRGljdFtpbnQsIGludF06CiAgICAgICAgIiIiRGF0YXNldCBpZCB0byBjb250aWd1b3VzIGlkLCBzaG91bGQgYmUgc2V0IGluIGEgVmlzaW9uRGF0YXNldCBjbGFzcy4iIiIKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">CiAgICBBbm90aGVyIGF0dHJpYnV0ZXMgdGhpbmdfZGF0YXNldF9pZF90b19jb250aWd1b3VzX2lkIGFuZCBzdHVmZl9kYXRhc2V0X2lkX3RvX2NvbnRpZ3VvdXNfaWQgd2lsbCAKICAgIGJlIGFkZGVkIHdoZW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
