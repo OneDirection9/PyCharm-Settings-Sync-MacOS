@@ -139,18 +139,13 @@
         <mark key="." line="258" column="52" />
         <mark key="^" line="258" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588054108436">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="84" />
-        <mark key="^" line="14" column="84" />
-        <mark key="." line="14" column="83" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588056379713">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1588055583062">
-        <mark key="[" line="121" column="60" />
-        <mark key="]" line="121" column="62" />
-        <mark key="^" line="121" column="62" />
-        <mark key="." line="121" column="61" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1588055583062" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/builtin_meta.py" timestamp="1588047304585">
         <mark key="[" line="166" column="33" />
         <mark key="]" line="175" column="1" />
@@ -320,10 +315,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgbWV0YWRhdGEpOgogICAgICAgIHNlbGYuX21ldGFkYXRhID0gbWV0YWRhdGEK</text>
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IFRyYW5zZm9ybSBhcyBfVHJhbnNmb3JtCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>_Transform</text>
       </register>
       <register name="/" type="4">
         <text>noh</text>
@@ -332,31 +327,31 @@
         <text encoding="base64">ICAgICdDT0NPUGVyc29uTWV0YWRhdGEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgbWV0YWRhdGEpOgogICAgICAgIHNlbGYuX21ldGFkYXRhID0gbWV0YWRhdGEK</text>
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMgaW1wb3J0IFRyYW5zZm9ybSBhcyBfVHJhbnNmb3JtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBhcHBseV9pbWFnZShzZWxmLCBpbWFnZTogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBkZWYgYXBwbHlfaW1hZ2Uoc2VsZiwgaW1hZ2U6IG5wLm5kYXJyYXkpIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgoKICAgIGRlZiBhcHBseV9jb29yZHMoc2VsZiwgY29vcmRzOiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBhCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgbWV0YWRhdGEpOgogICAgICAgIHNlbGYuX21ldGFkYXRhID0gbWV0YWRhdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBhcHBseV9pbWFnZShzZWxmLCBpbWFnZTogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGRlZiBhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXRlcnRvb2xzLnByb2R1Y3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aXRlcnRvb2xzLnppcF9sb25nZXN0KCkK</text>
+        <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">aXRlcnRvb2xzLnByb2R1Y3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
