@@ -200,13 +200,14 @@
       <file name="/" timestamp="1587970270367">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/models/detection/faster_rcnn.py" timestamp="1588128497844" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" timestamp="1587978574484" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/common.py" timestamp="1588051830849">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/common.py" timestamp="1588128550411">
         <mark key="'" line="3" column="10" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="24" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="23" column="24" />
+        <mark key="[" line="70" column="95" />
+        <mark key="]" line="71" column="16" />
+        <mark key="^" line="71" column="16" />
+        <mark key="." line="71" column="15" />
       </file>
     </filemarks>
     <jumps>
