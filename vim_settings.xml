@@ -158,19 +158,6 @@
         <mark key="." line="221" column="32" />
         <mark key="^" line="221" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" timestamp="1587993952843">
-        <mark key="'" line="135" column="19" />
-        <mark key="[" line="278" column="20" />
-        <mark key="]" line="278" column="20" />
-        <mark key="." line="278" column="19" />
-        <mark key="^" line="278" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1587918528917">
-        <mark key="[" line="62" column="38" />
-        <mark key="]" line="62" column="32" />
-        <mark key="." line="62" column="31" />
-        <mark key="^" line="62" column="32" />
-      </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1588085696082" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" timestamp="1587914621887">
         <mark key="[" line="5" column="43" />
@@ -183,12 +170,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/common.py" timestamp="1588120101892">
-        <mark key="[" line="107" column="33" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="108" column="0" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1588085552770">
         <mark key="'" line="104" column="23" />
@@ -203,10 +184,31 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/__init__.py" timestamp="1586963117142">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588166811279">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/inspect.py" timestamp="1588166766103" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" timestamp="1587993952843">
+        <mark key="'" line="135" column="19" />
+        <mark key="[" line="278" column="20" />
+        <mark key="]" line="278" column="20" />
+        <mark key="." line="278" column="19" />
+        <mark key="^" line="278" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1587918528917">
+        <mark key="[" line="62" column="38" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="31" />
+        <mark key="^" line="62" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/common.py" timestamp="1588120101892">
+        <mark key="[" line="107" column="33" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/registry.py" timestamp="1587637265600">
         <mark key="[" line="3" column="0" />
@@ -219,12 +221,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="22" column="14" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588165780409">
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="46" />
-        <mark key="." line="32" column="45" />
-        <mark key="^" line="32" column="46" />
       </file>
     </filemarks>
     <jumps>
