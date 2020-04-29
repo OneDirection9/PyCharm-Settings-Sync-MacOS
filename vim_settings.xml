@@ -182,6 +182,12 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588175095203">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="11" />
+      </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/inspect.py" timestamp="1588166766103" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" timestamp="1587993952843">
         <mark key="'" line="135" column="19" />
