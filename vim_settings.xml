@@ -136,11 +136,11 @@
       <file name="/Python Console" timestamp="1588143441017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588221462964">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="26" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588222644862">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1588144696405">
         <mark key="'" line="168" column="27" />
