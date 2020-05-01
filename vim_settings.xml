@@ -150,12 +150,11 @@
         <mark key="^" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/coreflow/coreflow/datagen/processors.py" timestamp="1588175916979" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588258348279">
-        <mark key="'" line="92" column="28" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588258497877">
+        <mark key="'" line="52" column="11" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/filter.py" timestamp="1588256195775" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/datagen/processors.py" timestamp="1588176484322" />
@@ -168,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="49" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
       <jump line="0" column="0" filename="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/colors.py" />
       <jump line="1537" column="26" filename="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/matplotlib/colors.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
@@ -268,6 +266,7 @@
       <jump line="104" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" />
       <jump line="25" column="54" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" />
       <jump line="94" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" />
+      <jump line="53" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
