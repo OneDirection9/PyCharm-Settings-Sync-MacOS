@@ -156,12 +156,12 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588319483004">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588320292806">
         <mark key="'" line="55" column="11" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="55" />
+        <mark key="[" line="28" column="105" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filter.py" timestamp="1588317532102">
         <mark key="'" line="88" column="0" />
