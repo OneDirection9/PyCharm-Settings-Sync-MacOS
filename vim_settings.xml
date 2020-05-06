@@ -137,6 +137,12 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="44" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/converter.py" timestamp="1588740381636">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588736591316">
         <mark key="'" line="16" column="44" />
         <mark key="[" line="118" column="35" />
@@ -164,13 +170,6 @@
         <mark key="]" line="124" column="39" />
         <mark key="^" line="124" column="39" />
         <mark key="." line="124" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588231965344">
-        <mark key="'" line="34" column="53" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/utils/comm.py" timestamp="1588738904622">
         <mark key="'" line="157" column="11" />
@@ -200,7 +199,7 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/deprecated.py" timestamp="1588735638032" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/grouped_batch_sampler.py" timestamp="1588736556103">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/grouped_batch_sampler.py" timestamp="1588739666454">
         <mark key="[" line="44" column="36" />
         <mark key="]" line="44" column="43" />
         <mark key="." line="44" column="42" />
