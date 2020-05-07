@@ -143,12 +143,12 @@
         <mark key="^" line="11" column="73" />
         <mark key="." line="11" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588736591316">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588834814179">
         <mark key="'" line="16" column="44" />
-        <mark key="[" line="118" column="35" />
-        <mark key="]" line="118" column="35" />
-        <mark key="^" line="118" column="35" />
-        <mark key="." line="118" column="34" />
+        <mark key="[" line="74" column="14" />
+        <mark key="]" line="74" column="20" />
+        <mark key="^" line="74" column="20" />
+        <mark key="." line="74" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/compose.py" timestamp="1588234641755">
         <mark key="[" line="35" column="13" />
