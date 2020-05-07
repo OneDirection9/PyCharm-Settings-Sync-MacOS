@@ -137,11 +137,10 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/converter.py" timestamp="1588744474203">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="73" />
-        <mark key="^" line="11" column="73" />
-        <mark key="." line="11" column="72" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/converter.py" timestamp="1588834938859">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588834814179">
         <mark key="'" line="16" column="44" />
@@ -149,6 +148,13 @@
         <mark key="]" line="74" column="20" />
         <mark key="^" line="74" column="20" />
         <mark key="." line="74" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1588837412922">
+        <mark key="'" line="176" column="27" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/compose.py" timestamp="1588234641755">
         <mark key="[" line="35" column="13" />
@@ -162,7 +168,6 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/transforms.py" timestamp="1588234536107" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1588735662325">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="124" column="38" />
@@ -170,18 +175,18 @@
         <mark key="^" line="124" column="39" />
         <mark key="." line="124" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588835888644">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="96" column="22" />
+        <mark key="." line="96" column="21" />
+        <mark key="^" line="96" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/utils/comm.py" timestamp="1588738904622">
         <mark key="'" line="157" column="11" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="3" />
         <mark key="^" line="264" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1588233555078">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="3" column="67" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/utils/data/distributed.py" timestamp="1588739510635" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/__init__.py" timestamp="1588734359196">
@@ -204,6 +209,12 @@
         <mark key="." line="44" column="42" />
         <mark key="^" line="44" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1588837727990">
+        <mark key="[" line="31" column="67" />
+        <mark key="]" line="32" column="58" />
+        <mark key="^" line="32" column="58" />
+        <mark key="." line="32" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1588736682391">
         <mark key="[" line="30" column="65" />
         <mark key="]" line="30" column="20" />
@@ -219,9 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
-      <jump line="296" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
-      <jump line="300" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
       <jump line="304" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
       <jump line="356" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
       <jump line="318" column="0" filename="$USER_HOME$/Documents/repositories/finetune-transformer-lm/train.py" />
@@ -319,48 +327,51 @@
       <jump line="45" column="25" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/distributed_sampler.py" />
+      <jump line="244" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="198" column="60" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="175" column="27" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuYmFzZSBpbXBvcnQg</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSB0cmFuc2Zvcm1zLmFwcGx5X2ltYWdlKGltZ19od19yYW5kb20pCiAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Generator</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX2FmdGVyID0gbGVuKGV4YW1wbGVzKQoKICAgICAgICAgICAgaWYgbnVtX2JlZm9yZSAhPSBudW1fYWZ0ZXI6CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnUmVtb3ZlZCB7fSBleGFtcGxlcyB3aXRoIHt9Jy5mb3JtYXQobnVtX2JlZm9yZSAtIG51bV9hZnRlciwgcHBsKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQuU2NhbGVUcmFuc2Zvcm0oMCwgMCwgMCwgMCwgJ2JpbGluZWFyJyksCiAgICAgICAgICAgICAgICBULkNyb3BUcmFuc2Zvcm0oMCwgMCwgMSwgMSksCiAgICAgICAgICAgICAgICBULkhGbGlwVHJhbnNmb3JtKDMpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuYmFzZSBpbXBvcnQg</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSB0cmFuc2Zvcm1zLmFwcGx5X2ltYWdlKGltZ19od19yYW5kb20pCiAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2FtcGxlci5kaQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zID0gVC5UcmFuc2Zvcm1MaXN0KAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICBULlNjYWxlVHJhbnNmb3JtKDAsIDAsIDAsIDAsICdiaWxpbmVhcicpLAogICAgICAgICAgICAgICAgVC5Dcm9wVHJhbnNmb3JtKDAsIDAsIDEsIDEpLAogICAgICAgICAgICAgICAgVC5IRmxpcFRyYW5zZm9ybSgzKSwKICAgICAgICAgICAgXQogICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29jbyA9IENPQ09JbnN0YW5jZShqc29uX2ZpbGVzWzBdLCBpbWFnZV9yb290c1swXSwKICAgICAgICAgICAgICAgICAgICBtZXRhZGF0YT1NZXRhZGF0YVN0YXNoLmdldChtZXRhZGF0YXNbMF0pKCkpLmdldF9leGFtcGxlcygpCmZvciBpdGVtIGluIGNvY286CiAgICBmb3IgYW5uIGluIGl0ZW1bJ2Fubm90YXRpb25zJ106CiAgICAgICAgaWYgaXNpbnN0YW5jZShhbm5bJ3NlZ21lbnRhdGlvbiddLCBkaWN0KToKICAgICAgICAgICAgcHJpbnQoaXRlbVsnaW1hZ2VfaWQnXSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIFJlcGVhdEZhY3RvclRyYWluaW5nU2FtcGxlcihTYW1wbGVyKToKICAgICIiIgogICAgU2ltaWxhciB0byBUcmFpbmluZ1NhbXBsZXIsIGJ1dCBzdWl0YWJsZSBmb3IgdHJhaW5pbmcgb24gY2xhc3MgaW1iYWxhbmNlZCBkYXRhc2V0cwogICAgbGlrZSBMVklTLiBJbiBlYWNoIGVwb2NoLCBhbiBpbWFnZSBtYXkgYXBwZWFyIG11bHRpcGxlIHRpbWVzIGJhc2VkIG9uIGl0cyAicmVwZWF0CiAgICBmYWN0b3IiLiBUaGUgcmVwZWF0IGZhY3RvciBmb3IgYW4gaW1hZ2UgaXMgYSBmdW5jdGlvbiBvZiB0aGUgZnJlcXVlbmN5IHRoZSByYXJlc3QKICAgIGNhdGVnb3J5IGxhYmVsZWQgaW4gdGhhdCBpbWFnZS4gVGhlICJmcmVxdWVuY3kgb2YgY2F0ZWdvcnkgYyIgaW4gWzAsIDFdIGlzIGRlZmluZWQKICAgIGFzIHRoZSBmcmFjdGlvbiBvZiBpbWFnZXMgaW4gdGhlIHRyYWluaW5nIHNldCAod2l0aG91dCByZXBlYXRzKSBpbiB3aGljaCBjYXRlZ29yeSBjCiAgICBhcHBlYXJzLgoKICAgIFNlZSA6cGFwZXI6YGx2aXNgICg+PSB2MikgQXBwZW5kaXggQi4yLgogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGRhdGFzZXRfZGljdHMsIHJlcGVhdF90aHJlc2gsIHNodWZmbGU9VHJ1ZSwgc2VlZD1Ob25lKToKICAgICAgICAiIiIKICAgICAgICBBcmdzOgogICAgICAgICAgICBkYXRhc2V0X2RpY3RzIChsaXN0W2RpY3RdKTogYW5ub3RhdGlvbnMgaW4gRGV0ZWN0cm9uMiBkYXRhc2V0IGZvcm1hdC4KICAgICAgICAgICAgcmVwZWF0X3RocmVzaCAoZmxvYXQpOiBmcmVxdWVuY3kgdGhyZXNob2xkIGJlbG93IHdoaWNoIGRhdGEgaXMgcmVwZWF0ZWQuCiAgICAgICAgICAgIHNodWZmbGUgKGJvb2wpOiB3aGV0aGVyIHRvIHNodWZmbGUgdGhlIGluZGljZXMgb3Igbm90CiAgICAgICAgICAgIHNlZWQgKGludCk6IHRoZSBpbml0aWFsIHNlZWQgb2YgdGhlIHNodWZmbGUuIE11c3QgYmUgdGhlIHNhbWUKICAgICAgICAgICAgICAgIGFjcm9zcyBhbGwgd29ya2Vycy4gSWYgTm9uZSwgd2lsbCB1c2UgYSByYW5kb20gc2VlZCBzaGFyZWQKICAgICAgICAgICAgICAgIGFtb25nIHdvcmtlcnMgKHJlcXVpcmUgc3luY2hyb25pemF0aW9uIGFtb25nIGFsbCB3b3JrZXJzKS4KICAgICAgICAiIiIKICAgICAgICBzZWxmLl9zaHVmZmxlID0gc2h1ZmZsZQogICAgICAgIGlmIHNlZWQgaXMgTm9uZToKICAgICAgICAgICAgc2VlZCA9IGNvbW0uc2hhcmVkX3JhbmRvbV9zZWVkKCkKICAgICAgICBzZWxmLl9zZWVkID0gaW50KHNlZWQpCgogICAgICAgIHNlbGYuX3JhbmsgPSBjb21tLmdldF9yYW5rKCkKICAgICAgICBzZWxmLl93b3JsZF9zaXplID0gY29tbS5nZXRfd29ybGRfc2l6ZSgpCgogICAgICAgICMgR2V0IGZyYWN0aW9uYWwgcmVwZWF0IGZhY3RvcnMgYW5kIHNwbGl0IGludG8gd2hvbGUgbnVtYmVyIChfaW50X3BhcnQpCiAgICAgICAgIyBhbmQgZnJhY3Rpb25hbCAoX2ZyYWNfcGFydCkgcGFydHMuCiAgICAgICAgcmVwX2ZhY3RvcnMgPSBzZWxmLl9nZXRfcmVwZWF0X2ZhY3RvcnMoZGF0YXNldF9kaWN0cywgcmVwZWF0X3RocmVzaCkKICAgICAgICBzZWxmLl9pbnRfcGFydCA9IHRvcmNoLnRydW5jKHJlcF9mYWN0b3JzKQogICAgICAgIHNlbGYuX2ZyYWNfcGFydCA9IHJlcF9mYWN0b3JzIC0gc2VsZi5faW50X3BhcnQKCiAgICBkZWYgX2dldF9yZXBlYXRfZmFjdG9ycyhzZWxmLCBkYXRhc2V0X2RpY3RzLCByZXBlYXRfdGhyZXNoKToKICAgICAgICAiIiIKICAgICAgICBDb21wdXRlIChmcmFjdGlvbmFsKSBwZXItaW1hZ2UgcmVwZWF0IGZhY3RvcnMuCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIFNlZSBfX2luaXRfXy4KCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgdG9yY2guVGVuc29yOiB0aGUgaS10aCBlbGVtZW50IGlzIHRoZSByZXBlYXQgZmFjdG9yIGZvciB0aGUgZGF0YXNldCBpbWFnZQogICAgICAgICAgICAgICAgYXQgaW5kZXggaS4KICAgICAgICAiIiIKICAgICAgICAjIDEuIEZvciBlYWNoIGNhdGVnb3J5IGMsIGNvbXB1dGUgdGhlIGZyYWN0aW9uIG9mIGltYWdlcyB0aGF0IGNvbnRhaW4gaXQ6IGYoYykKICAgICAgICBjYXRlZ29yeV9mcmVxID0gZGVmYXVsdGRpY3QoaW50KQogICAgICAgIGZvciBkYXRhc2V0X2RpY3QgaW4gZGF0YXNldF9kaWN0czogICMgRm9yIGVhY2ggaW1hZ2UgKHdpdGhvdXQgcmVwZWF0cykKICAgICAgICAgICAgY2F0X2lkcyA9IHthbm5bImNhdGVnb3J5X2lkIl0gZm9yIGFubiBpbiBkYXRhc2V0X2RpY3RbImFubm90YXRpb25zIl19CiAgICAgICAgICAgIGZvciBjYXRfaWQgaW4gY2F0X2lkczoKICAgICAgICAgICAgICAgIGNhdGVnb3J5X2ZyZXFbY2F0X2lkXSArPSAxCiAgICAgICAgbnVtX2ltYWdlcyA9IGxlbihkYXRhc2V0X2RpY3RzKQogICAgICAgIGZvciBrLCB2IGluIGNhdGVnb3J5X2ZyZXEuaXRlbXMoKToKICAgICAgICAgICAgY2F0ZWdvcnlfZnJlcVtrXSA9IHYgLyBudW1faW1hZ2VzCgogICAgICAgICMgMi4gRm9yIGVhY2ggY2F0ZWdvcnkgYywgY29tcHV0ZSB0aGUgY2F0ZWdvcnktbGV2ZWwgcmVwZWF0IGZhY3RvcjoKICAgICAgICAjICAgIHIoYykgPSBtYXgoMSwgc3FydCh0IC8gZihjKSkpCiAgICAgICAgY2F0ZWdvcnlfcmVwID0gewogICAgICAgICAgICBjYXRfaWQ6IG1heCgxLjAsIG1hdGguc3FydChyZXBlYXRfdGhyZXNoIC8gY2F0X2ZyZXEpKQogICAgICAgICAgICBmb3IgY2F0X2lkLCBjYXRfZnJlcSBpbiBjYXRlZ29yeV9mcmVxLml0ZW1zKCkKICAgICAgICB9CgogICAgICAgICMgMy4gRm9yIGVhY2ggaW1hZ2UgSSwgY29tcHV0ZSB0aGUgaW1hZ2UtbGV2ZWwgcmVwZWF0IGZhY3RvcjoKICAgICAgICAjICAgIHIoSSkgPSBtYXhfe2MgaW4gSX0gcihjKQogICAgICAgIHJlcF9mYWN0b3JzID0gW10KICAgICAgICBmb3IgZGF0YXNldF9kaWN0IGluIGRhdGFzZXRfZGljdHM6CiAgICAgICAgICAgIGNhdF9pZHMgPSB7YW5uWyJjYXRlZ29yeV9pZCJdIGZvciBhbm4gaW4gZGF0YXNldF9kaWN0WyJhbm5vdGF0aW9ucyJdfQogICAgICAgICAgICByZXBfZmFjdG9yID0gbWF4KHtjYXRlZ29yeV9yZXBbY2F0X2lkXSBmb3IgY2F0X2lkIGluIGNhdF9pZHN9KQogICAgICAgICAgICByZXBfZmFjdG9ycy5hcHBlbmQocmVwX2ZhY3RvcikKCiAgICAgICAgcmV0dXJuIHRvcmNoLnRlbnNvcihyZXBfZmFjdG9ycywgZHR5cGU9dG9yY2guZmxvYXQzMikKCiAgICBkZWYgX2dldF9lcG9jaF9pbmRpY2VzKHNlbGYsIGdlbmVyYXRvcik6CiAgICAgICAgIiIiCiAgICAgICAgQ3JlYXRlIGEgbGlzdCBvZiBkYXRhc2V0IGluZGljZXMgKHdpdGggcmVwZWF0cykgdG8gdXNlIGZvciBvbmUgZXBvY2guCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIGdlbmVyYXRvciAodG9yY2guR2VuZXJhdG9yKTogcHNldWRvIHJhbmRvbSBudW1iZXIgZ2VuZXJhdG9yIHVzZWQgZm9yCiAgICAgICAgICAgICAgICBzdG9jaGFzdGljIHJvdW5kaW5nLgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICB0b3JjaC5UZW5zb3I6IGxpc3Qgb2YgZGF0YXNldCBpbmRpY2VzIHRvIHVzZSBpbiBvbmUgZXBvY2guIEVhY2ggaW5kZXgKICAgICAgICAgICAgICAgIGlzIHJlcGVhdGVkIGJhc2VkIG9uIGl0cyBjYWxjdWxhdGVkIHJlcGVhdCBmYWN0b3IuCiAgICAgICAgIiIiCiAgICAgICAgIyBTaW5jZSByZXBlYXQgZmFjdG9ycyBhcmUgZnJhY3Rpb25hbCwgd2UgdXNlIHN0b2NoYXN0aWMgcm91bmRpbmcgc28KICAgICAgICAjIHRoYXQgdGhlIHRhcmdldCByZXBlYXQgZmFjdG9yIGlzIGFjaGlldmVkIGluIGV4cGVjdGF0aW9uIG92ZXIgdGhlCiAgICAgICAgIyBjb3Vyc2Ugb2YgdHJhaW5pbmcKICAgICAgICByYW5kcyA9IHRvcmNoLnJhbmQobGVuKHNlbGYuX2ZyYWNfcGFydCksIGdlbmVyYXRvcj1nZW5lcmF0b3IpCiAgICAgICAgcmVwX2ZhY3RvcnMgPSBzZWxmLl9pbnRfcGFydCArIChyYW5kcyA8IHNlbGYuX2ZyYWNfcGFydCkuZmxvYXQoKQogICAgICAgICMgQ29uc3RydWN0IGEgbGlzdCBvZiBpbmRpY2VzIGluIHdoaWNoIHdlIHJlcGVhdCBpbWFnZXMgYXMgc3BlY2lmaWVkCiAgICAgICAgaW5kaWNlcyA9IFtdCiAgICAgICAgZm9yIGRhdGFzZXRfaW5kZXgsIHJlcF9mYWN0b3IgaW4gZW51bWVyYXRlKHJlcF9mYWN0b3JzKToKICAgICAgICAgICAgaW5kaWNlcy5leHRlbmQoW2RhdGFzZXRfaW5kZXhdICogaW50KHJlcF9mYWN0b3IuaXRlbSgpKSkKICAgICAgICByZXR1cm4gdG9yY2gudGVuc29yKGluZGljZXMsIGR0eXBlPXRvcmNoLmludDY0KQoKICAgIGRlZiBfX2l0ZXJfXyhzZWxmKToKICAgICAgICBzdGFydCA9IHNlbGYuX3JhbmsKICAgICAgICB5aWVsZCBmcm9tIGl0ZXJ0b29scy5pc2xpY2Uoc2VsZi5faW5maW5pdGVfaW5kaWNlcygpLCBzdGFydCwgTm9uZSwgc2VsZi5fd29ybGRfc2l6ZSkKCiAgICBkZWYgX2luZmluaXRlX2luZGljZXMoc2VsZik6CiAgICAgICAgZyA9IHRvcmNoLkdlbmVyYXRvcigpCiAgICAgICAgZy5tYW51YWxfc2VlZChzZWxmLl9zZWVkKQogICAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICAgICMgU2FtcGxlIGluZGljZXMgd2l0aCByZXBlYXRzIGRldGVybWluZWQgYnkgc3RvY2hhc3RpYyByb3VuZGluZzsgZWFjaAogICAgICAgICAgICAjICJlcG9jaCIgbWF5IGhhdmUgYSBzbGlnaHRseSBkaWZmZXJlbnQgc2l6ZSBkdWUgdG8gdGhlIHJvdW5kaW5nLgogICAgICAgICAgICBpbmRpY2VzID0gc2VsZi5fZ2V0X2Vwb2NoX2luZGljZXMoZykKICAgICAgICAgICAgaWYgc2VsZi5fc2h1ZmZsZToKICAgICAgICAgICAgICAgIHJhbmRwZXJtID0gdG9yY2gucmFuZHBlcm0obGVuKGluZGljZXMpLCBnZW5lcmF0b3I9ZykKICAgICAgICAgICAgICAgIHlpZWxkIGZyb20gaW5kaWNlc1tyYW5kcGVybV0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHlpZWxkIGZyb20gaW5kaWNlcwoKCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text>from . import utils</text>
+        <text encoding="base64">ICAgICAgICBoLCB3ID0gMTAsIDEwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IiIiClRoaXMgZmlsZSBjb250YWlucyBwcmltaXRpdmVzIGZvciBtdWx0aS1ncHUgY29tbXVuaWNhdGlvbi4KVGhpcyBpcyB1c2VmdWwgd2hlbiBkb2luZyBkaXN0cmlidXRlZCB0cmFpbmluZy4KIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0RXF1YWwodHJhbnNmb3Jtcy5hcHBseV9pbnQoMyksIDIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQuTm9PcFRyYW5zZm9ybQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfYXBwbHkoc2VsZiwgeDogX1QsIG1ldGg6IHN0cikgLT4gX1Q6CiAgICAgICAgIiIiCiAgICAgICAgQXBwbHkgdGhlIHRyYW5zZm9ybXMgb24gdGhlIGlucHV0LgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIHg6IGlucHV0IHRvIGFwcGx5IHRoZSB0cmFuc2Zvcm0gb3BlcmF0aW9ucy4KICAgICAgICAgICAgbWV0aCAoc3RyKTogbWV0aC4KICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICB4OiBhZnRlciBhcHBseSB0aGUgdHJhbnNmb3JtYXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgZm9yIHQgaW4gc2VsZi50cmFuc2Zvcm1zOgogICAgICAgICAgICB4ID0gZ2V0YXR0cih0LCBtZXRoKSh4KQogICAgICAgIHJldHVybiB4Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
