@@ -31,6 +31,7 @@
         <entry encoding="base64">XDxhbm5vdGF0aW9uc1w+</entry>
         <entry>min_keypoints_per_image</entry>
         <entry>;</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -52,8 +53,9 @@
         <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
         <entry>:w</entry>
         <entry>s</entry>
-        <entry>noh</entry>
         <entry>w\</entry>
+        <entry>%s/ //g</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -127,7 +129,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1588925906439">
+      <file name="/Python Console" timestamp="1588927513768">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1588927576468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/converter.py" timestamp="1588905700146" />
@@ -141,43 +146,53 @@
         <mark key="." line="110" column="40" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1588924244016">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1588928910093">
         <mark key="'" line="176" column="27" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="340" column="0" />
+        <mark key="[" line="334" column="67" />
+        <mark key="]" line="334" column="36" />
+        <mark key="^" line="334" column="36" />
+        <mark key="." line="334" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588924143744">
-        <mark key="[" line="37" column="69" />
-        <mark key="]" line="37" column="78" />
-        <mark key="." line="37" column="77" />
-        <mark key="^" line="37" column="78" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588928812449">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/Arthur/myparsing.py" timestamp="1588924968690" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/converter.py" timestamp="1588744358150">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/msg2.txt" timestamp="1588927750614">
+        <mark key="'" line="0" column="191" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" timestamp="1588925903328">
-        <mark key="[" line="98" column="26" />
-        <mark key="]" line="98" column="24" />
-        <mark key="." line="98" column="23" />
-        <mark key="^" line="98" column="24" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1588928598981">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="16" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="187" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1588915539084">
-        <mark key="[" line="124" column="38" />
-        <mark key="]" line="124" column="38" />
-        <mark key="^" line="124" column="38" />
-        <mark key="." line="124" column="37" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" timestamp="1588927879891">
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="58" />
+        <mark key="." line="48" column="57" />
+        <mark key="^" line="48" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588921773297">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="30" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="32" column="29" />
+      <file name="$USER_HOME$/anaconda3/lib/python3.6/site-packages/pyparsing.py" timestamp="1588927659165" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1588928615418">
+        <mark key="'" line="82" column="48" />
+        <mark key="[" line="124" column="39" />
+        <mark key="]" line="124" column="48" />
+        <mark key="^" line="124" column="48" />
+        <mark key="." line="124" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588928629114">
+        <mark key="'" line="37" column="36" />
+        <mark key="[" line="37" column="35" />
+        <mark key="]" line="37" column="37" />
+        <mark key="^" line="37" column="37" />
+        <mark key="." line="37" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/visualizer.py" timestamp="1588843927635" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/filter.py" timestamp="1588924088985">
@@ -187,28 +202,12 @@
         <mark key="^" line="42" column="49" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/grouped_batch_sampler.py" timestamp="1588739666454">
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="42" />
-        <mark key="^" line="44" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" timestamp="1588843872835" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/pyparsing.py" timestamp="1588921265177">
         <mark key="'" line="5069" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1588837774264">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="50" />
-        <mark key="^" line="20" column="50" />
-        <mark key="." line="20" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1588924207972">
-        <mark key="'" line="34" column="70" />
-        <mark key="[" line="54" column="45" />
-        <mark key="]" line="54" column="45" />
-        <mark key="^" line="54" column="45" />
-        <mark key="." line="54" column="44" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1588929254539">
+        <mark key="'" line="87" column="0" />
+        <mark key="^" line="84" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1588921357676">
         <mark key="'" line="3" column="46" />
@@ -219,10 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="18" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="20" column="19" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
-      <jump line="188" column="13" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/_metadata.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/_metadata.py" />
       <jump line="46" column="6" filename="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/utils/data/dataset.py" />
       <jump line="214" column="39" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
       <jump line="234" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
@@ -319,48 +314,52 @@
       <jump line="5069" column="30" filename="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/pyparsing.py" />
       <jump line="30" column="39" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="33" column="70" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
+      <jump line="0" column="191" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/msg2.txt" />
+      <jump line="82" column="48" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" />
+      <jump line="37" column="36" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Y2xhc3MgUmFuZG9tRmxpcChUcmFuc2Zvcm1HZW4pOgogICAgIiIiCiAgICBGbGlwIHRoZSBpbWFnZSBob3Jpem9udGFsbHkgb3IgdmVydGljYWxseSB3aXRoIHRoZSBnaXZlbiBwcm9iYWJpbGl0eS4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcm9iPTAuNSwgKiwgaG9yaXpvbnRhbD1UcnVlLCB2ZXJ0aWNhbD1GYWxzZSk6CiAgICAgICAgIiIiCiAgICAgICAgQXJnczoKICAgICAgICAgICAgcHJvYiAoZmxvYXQpOiBwcm9iYWJpbGl0eSBvZiBmbGlwLgogICAgICAgICAgICBob3Jpem9udGFsIChib29sZWFuKTogd2hldGhlciB0byBhcHBseSBob3Jpem9udGFsIGZsaXBwaW5nCiAgICAgICAgICAgIHZlcnRpY2FsIChib29sZWFuKTogd2hldGhlciB0byBhcHBseSB2ZXJ0aWNhbCBmbGlwcGluZwogICAgICAgICIiIgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQoKICAgICAgICBpZiBob3Jpem9udGFsIGFuZCB2ZXJ0aWNhbDoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiQ2Fubm90IGRvIGJvdGggaG9yaXogYW5kIHZlcnQuIFBsZWFzZSB1c2UgdHdvIEZsaXAgaW5zdGVhZC4iKQogICAgICAgIGlmIG5vdCBob3Jpem9udGFsIGFuZCBub3QgdmVydGljYWw6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkF0IGxlYXN0IG9uZSBvZiBob3JpeiBvciB2ZXJ0IGhhcyB0byBiZSBUcnVlISIpCiAgICAgICAgc2VsZi5faW5pdChsb2NhbHMoKSkKCiAgICBkZWYgZ2V0X3RyYW5zZm9ybShzZWxmLCBpbWcpOgogICAgICAgIGgsIHcgPSBpbWcuc2hhcGVbOjJdCiAgICAgICAgZG8gPSBzZWxmLl9yYW5kX3JhbmdlKCkgPCBzZWxmLnByb2IKICAgICAgICBpZiBkbzoKICAgICAgICAgICAgaWYgc2VsZi5ob3Jpem9udGFsOgogICAgICAgICAgICAgICAgcmV0dXJuIEhGbGlwVHJhbnNmb3JtKHcpCiAgICAgICAgICAgIGVsaWYgc2VsZi52ZXJ0aWNhbDoKICAgICAgICAgICAgICAgIHJldHVybiBWRmxpcFRyYW5zZm9ybShoKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBOb09wVHJhbnNmb3JtKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFQuU2NhbGVUcmFuc2Zvcm0oMCwgMCwgMCwgMCwgJ2JpbGluZWFyJyksCiAgICAgICAgICAgICAgICBULkNyb3BUcmFuc2Zvcm0oMCwgMCwgMSwgMSksCiAgICAgICAgICAgICAgICBULkhGbGlwVHJhbnNmb3JtKDMpLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgMC4wIDw9IHByb2IgPD0gMS4wOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdwcm9iIG11c3QgYmUgYmV0d2VlbiAwLjAgYW5kIDEuMC4gR290IHt9Jy5mb3JtYXQocHJvYikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Y2xhc3MgUmFuZG9tRmxpcChUcmFuc2Zvcm1HZW4pOgogICAgIiIiCiAgICBGbGlwIHRoZSBpbWFnZSBob3Jpem9udGFsbHkgb3IgdmVydGljYWxseSB3aXRoIHRoZSBnaXZlbiBwcm9iYWJpbGl0eS4KICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcm9iPTAuNSwgKiwgaG9yaXpvbnRhbD1UcnVlLCB2ZXJ0aWNhbD1GYWxzZSk6CiAgICAgICAgIiIiCiAgICAgICAgQXJnczoKICAgICAgICAgICAgcHJvYiAoZmxvYXQpOiBwcm9iYWJpbGl0eSBvZiBmbGlwLgogICAgICAgICAgICBob3Jpem9udGFsIChib29sZWFuKTogd2hldGhlciB0byBhcHBseSBob3Jpem9udGFsIGZsaXBwaW5nCiAgICAgICAgICAgIHZlcnRpY2FsIChib29sZWFuKTogd2hldGhlciB0byBhcHBseSB2ZXJ0aWNhbCBmbGlwcGluZwogICAgICAgICIiIgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQoKICAgICAgICBpZiBob3Jpem9udGFsIGFuZCB2ZXJ0aWNhbDoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiQ2Fubm90IGRvIGJvdGggaG9yaXogYW5kIHZlcnQuIFBsZWFzZSB1c2UgdHdvIEZsaXAgaW5zdGVhZC4iKQogICAgICAgIGlmIG5vdCBob3Jpem9udGFsIGFuZCBub3QgdmVydGljYWw6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkF0IGxlYXN0IG9uZSBvZiBob3JpeiBvciB2ZXJ0IGhhcyB0byBiZSBUcnVlISIpCiAgICAgICAgc2VsZi5faW5pdChsb2NhbHMoKSkKCiAgICBkZWYgZ2V0X3RyYW5zZm9ybShzZWxmLCBpbWcpOgogICAgICAgIGgsIHcgPSBpbWcuc2hhcGVbOjJdCiAgICAgICAgZG8gPSBzZWxmLl9yYW5kX3JhbmdlKCkgPCBzZWxmLnByb2IKICAgICAgICBpZiBkbzoKICAgICAgICAgICAgaWYgc2VsZi5ob3Jpem9udGFsOgogICAgICAgICAgICAgICAgcmV0dXJuIEhGbGlwVHJhbnNmb3JtKHcpCiAgICAgICAgICAgIGVsaWYgc2VsZi52ZXJ0aWNhbDoKICAgICAgICAgICAgICAgIHJldHVybiBWRmxpcFRyYW5zZm9ybShoKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBOb09wVHJhbnNmb3JtKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgX2lzX251bXB5KGNvb3Jkcyk6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcignY29vcmRzIHNob3VsZCBiZSBucC5uZGFycmF5LiBHb3Qge30nLmZvcm1hdCh0eXBlKGNvb3JkcykpKQogICAgICAgIGlmIG5vdCBfaXNfbnVtcHlfY29vcmRzKGNvb3Jkcyk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2Nvb3JkcyBzaG91bGQgYmUgb2Ygc2hhcGUgTngyLiBHb3Qge30nLmZvcm1hdChjb29yZHMuc2hhcGUpKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgX2lzX251bXB5KGltYWdlKToKICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCdpbWFnZSBzaG91bGQgYmUgbnAubmRhcnJheS4gR290IHt9Jy5mb3JtYXQodHlwZShpbWFnZSkpKQogICAgICAgIGlmIG5vdCBfaXNfbnVtcHlfaW1hZ2UoaW1hZ2UpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdpbWFnZSBzaG91bGQgYmUgMkQvM0QuIEdvdCB7fUQnLmZvcm1hdChpbWFnZS5uZGltKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgMC4wIDw9IHByb2IgPD0gMS4wOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90cmFuc2Zvcm0gPSB0cmFuc2Zvcm0K</text>
+        <text encoding="base64">CiAgICAgICAgUmV0dXJuczoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgMC4wIDw9IHByb2IgPD0gMS4wLCBmIlByb2JhYmxpdHkgbXVzdCBiZSBiZXR3ZWVuIDAuMCBhbmQgMS4wIChnaXZlbjoge3Byb2J9KSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGlvbnM6IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZSh0cmFuc2Zvcm0sIChUcmFuc2Zvcm0sIFRyYW5zZm9ybUdlbikpOgogICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoJ3RyYW5zZm9ybSBzaG91bGQgYmUgVHJhbnNmb3JtIG9yIFRyYW5zZm9ybUdlbi4gR290IHt9Jy5mb3JtYXQodHlwZSh0cmFuc2Zvcm0pKSkK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfdHJhbnNmb3JtKHNlbGYsIGltYWdlOiBucC5uZGFycmF5LCBhbm5vdGF0aW9ucykgLT4gVHJhbnNmb3JtOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -369,11 +368,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>;</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
-      <last-replace>#</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
