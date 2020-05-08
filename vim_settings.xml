@@ -211,11 +211,8 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1588917161156">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="38" />
-        <mark key="." line="6" column="37" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1588919548361">
+        <mark key="'" line="388" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1588916729010">
         <mark key="'" line="3" column="46" />
@@ -226,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/anchor_generator.py" />
       <jump line="164" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/anchor_generator.py" />
       <jump line="70" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/anchor_generator.py" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
@@ -326,6 +322,7 @@
       <jump line="2" column="34" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="3" column="46" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="390" column="9" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
