@@ -134,11 +134,8 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/converter.py" timestamp="1588844187791">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="15" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/converter.py" timestamp="1588905682688">
+        <mark key="[" line="28" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588842959150">
         <mark key="'" line="16" column="44" />
