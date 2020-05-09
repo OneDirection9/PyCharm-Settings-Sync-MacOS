@@ -121,6 +121,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" timestamp="1589021455033">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="57" />
+        <mark key="." line="10" column="56" />
+        <mark key="^" line="10" column="57" />
+      </file>
+      <file name="/a.dummy" timestamp="1588317818030">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filter.py" timestamp="1588317532102">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="81" column="13" />
+        <mark key="]" line="81" column="13" />
+        <mark key="^" line="81" column="13" />
+        <mark key="." line="81" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
+        <mark key="'" line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters/base.py" timestamp="1588317466877">
         <mark key="[" line="87" column="24" />
         <mark key="]" line="87" column="22" />
@@ -140,44 +159,27 @@
         <mark key="." line="23" column="54" />
         <mark key="^" line="23" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1588317818030">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1588318127871">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filter.py" timestamp="1588317532102">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="81" column="13" />
-        <mark key="]" line="81" column="13" />
-        <mark key="^" line="81" column="13" />
-        <mark key="." line="81" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/legacy.py" timestamp="1588176448905">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="9" column="20" />
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="0" column="64" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters.py" timestamp="1588317859859">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" timestamp="1588410308115">
-        <mark key="'" line="55" column="11" />
         <mark key="[" line="28" column="105" />
         <mark key="]" line="29" column="8" />
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589020993925">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -286,10 +288,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhhbXBsZXMgPSBjb2NvLmdldF9leGFtcGxlcygpCg==</text>
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMudHJhbnNmb3JtIGltcG9ydCBfaXNfbnVtcHksIF9pc19udW1weV9pbWFnZSwgX2lzX251bXB5X2Nvb3Jkcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>examples</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stuff_dataset_id_to_contiguous_id</text>
@@ -298,31 +300,31 @@
         <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNpZyA9IGluc3BlY3Quc2lnbmF0dXJlKHNlbGYuX19pbml0X18pCiAgICAgICAgICAgIGl0ZW1zID0gW10KICAgICAgICAgICAgZm9yIG5hbWUsIHBhcmFtIGluIHNpZy5wYXJhbWV0ZXJzLml0ZW1zKCk6CiAgICAgICAgICAgICAgICBhc3NlcnQgKAogICAgICAgICAgICAgICAgICAgIHBhcmFtLmtpbmQgIT0gcGFyYW0uVkFSX1BPU0lUSU9OQUwgYW5kIHBhcmFtLmtpbmQgIT0gcGFyYW0uVkFSX0tFWVdPUkQKICAgICAgICAgICAgICAgICksICJUaGUgZGVmYXVsdCBfX3JlcHJfXyBkb2Vzbid0IHN1cHBvcnQgKmFyZ3Mgb3IgKiprd2FyZ3MiCgogICAgICAgICAgICAgICAgYXR0cl9uYW1lID0gJ197fScuZm9ybWF0KG5hbWUpCiAgICAgICAgICAgICAgICBhc3NlcnQgaGFzYXR0cihzZWxmLCBhdHRyX25hbWUpLCAoCiAgICAgICAgICAgICAgICAgICAgJ0F0dHJpYnV0ZSB7fSBub3QgZm91bmQhICcKICAgICAgICAgICAgICAgICAgICAnRGVmYXVsdCBfX3JlcHJfXyBvbmx5IHdvcmtzIGlmIGF0dHJpYnV0ZXMgbWF0Y2ggdGhlIGNvbnN0cnVjdG9yLiAnCiAgICAgICAgICAgICAgICAgICAgJ1RoZSBtYXRjaGVkIGF0dHJpYnV0ZSBuYW1lIGZvciBwYXJhbWV0ZXIgbmFtZSBgYWAgaXMgYF9hYCcuZm9ybWF0KGF0dHJfbmFtZSkKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGF0dHIgPSBnZXRhdHRyKHNlbGYsIGF0dHJfbmFtZSkKICAgICAgICAgICAgICAgIGl0ZW1zLmFwcGVuZCgne309eyFyfScuZm9ybWF0KG5hbWUsIGF0dHIpKQogICAgICAgICAgICByZXR1cm4gJ3t9KHt9KScuZm9ybWF0KHNlbGYuX19jbGFzc19fLl9fbmFtZV9fLCAnLCAnLmpvaW4oaXRlbXMpKQogICAgICAgIGV4Y2VwdCBBc3NlcnRpb25FcnJvcjoKICAgICAgICAgICAgcmV0dXJuIHN1cGVyKCkuX19yZXByX18oKQoKICAgIF9fc3RyX18gPSBfX3JlcHJfXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhhbXBsZXMgPSBjb2NvLmdldF9leGFtcGxlcygpCg==</text>
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLnRyYW5zZm9ybXMudHJhbnNmb3JtIGltcG9ydCBfaXNfbnVtcHksIF9pc19udW1weV9pbWFnZSwgX2lzX251bXB5X2Nvb3Jkcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmRhdGFzZXQgPSBEYXRhc2V0RnJvbUxpc3QoZXhhbXBsZXMsIGNvcHk9RmFsc2UsIHNlcmlhbGl6YXRpb249VHJ1ZSkKZGF0YXNldCA9IE1hcERhdGFzZXQoZGF0YXNldCwgbGFtYmRhIHg6IHgpCgo=</text>
+        <text encoding="base64">ZXhhbXBsZXMgPSBjb2NvLmdldF9leGFtcGxlcygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZm4oaXRlbSk6CiAgICB5aWVsZCBpdGVtCgoKZm9yIGEgaW4gdGVzdF9mbignYScpOgogICAgcHJpbnQoYSkKCgpkZWYgdGVzdF9mbjIoaXRlbSk6CiAgICB0cnk6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZSkKCgpmb3IgYiBpbiB0ZXN0X2ZuMignYScpOgogICAgcHJpbnQoYikKCgpjbGFzcyBUZXN0KFByb2Nlc3Nvcik6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGEsIGIpOgogICAgICAgIHNlbGYuYSA9IGEKICAgICAgICBzZWxmLmIgPSBiCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIGFyZ3MKCgp0ZXN0ID0gVGVzdCgnYScsICdiJykKcHJpbnQodGVzdCkK</text>
+        <text encoding="base64">CmRhdGFzZXQgPSBEYXRhc2V0RnJvbUxpc3QoZXhhbXBsZXMsIGNvcHk9RmFsc2UsIHNlcmlhbGl6YXRpb249VHJ1ZSkKZGF0YXNldCA9IE1hcERhdGFzZXQoZGF0YXNldCwgbGFtYmRhIHg6IHgpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkZXQuZGF0YS5wcm9jZXNzb3JzIGltcG9ydCBQcm9jZXNzb3IK</text>
+        <text encoding="base64">ZGVmIHRlc3RfZm4oaXRlbSk6CiAgICB5aWVsZCBpdGVtCgoKZm9yIGEgaW4gdGVzdF9mbignYScpOgogICAgcHJpbnQoYSkKCgpkZWYgdGVzdF9mbjIoaXRlbSk6CiAgICB0cnk6CiAgICAgICAgcmFpc2UgRXhjZXB0aW9uCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgcHJpbnQoZSkKCgpmb3IgYiBpbiB0ZXN0X2ZuMignYScpOgogICAgcHJpbnQoYikKCgpjbGFzcyBUZXN0KFByb2Nlc3Nvcik6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGEsIGIpOgogICAgICAgIHNlbGYuYSA9IGEKICAgICAgICBzZWxmLmIgPSBiCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIGFyZ3MKCgp0ZXN0ID0gVGVzdCgnYScsICdiJykKcHJpbnQodGVzdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkZXQuZGF0YS5wcm9jZXNzb3JzIGltcG9ydCBQcm9jZXNzb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE5vdGUgdGhhdCBkb24ndCBsb2FkIGltYWdlIGluIHBpcGVsaW5lIHN0ZXAsIGluIG1hcF9mdW5jIGluc3RlYWQuIEJlY2F1c2UgdGhlIGV4YW1wbGVzIHJldHVybmVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBieSBwaXBlbGluZSBhcmUgYWxsIHN0cm9lZCBpbiAK</text>
+        <text encoding="base64">ICAgIE5vdGUgdGhhdCBkb24ndCBsb2FkIGltYWdlIGluIHBpcGVsaW5lIHN0ZXAsIGluIG1hcF9mdW5jIGluc3RlYWQuIEJlY2F1c2UgdGhlIGV4YW1wbGVzIHJldHVybmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBpcGVsaW5lIGlzIHRhc2tlZCB0bwo=</text>
+        <text encoding="base64">ICAgICAgICBieSBwaXBlbGluZSBhcmUgYWxsIHN0cm9lZCBpbiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBQaXBlbGluZSB1c2UgY2FzZXMgYXJlIHRob3NlIG9ubHkgbmVlZCB0byBleGVjdXRlZCBvbmNlIGFmdGVyIGxvYWRpbmcgdGhlIGV4YW1wbGVzLgo=</text>
+        <text encoding="base64">ICAgIFBpcGVsaW5lIGlzIHRhc2tlZCB0bwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
