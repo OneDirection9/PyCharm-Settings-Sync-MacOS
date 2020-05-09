@@ -159,6 +159,7 @@
         <mark key="." line="23" column="54" />
         <mark key="^" line="23" column="55" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1589026149620" />
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/legacy.py" timestamp="1588176448905">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="9" column="20" />
