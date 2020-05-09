@@ -213,12 +213,12 @@
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/pyparsing.py" timestamp="1588921265177">
         <mark key="'" line="5069" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1589002303452">
-        <mark key="'" line="114" column="16" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1589002769986">
+        <mark key="'" line="120" column="16" />
+        <mark key="[" line="127" column="18" />
+        <mark key="]" line="132" column="25" />
+        <mark key="^" line="132" column="25" />
+        <mark key="." line="132" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1588921357676">
         <mark key="'" line="3" column="46" />
