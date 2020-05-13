@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXB0aW9uX2xpc3RcPg==</entry>
-        <entry>destination</entry>
         <entry>vocab-file</entry>
         <entry>dataset</entry>
         <entry>beam</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxzdHVmZl9kYXRhc2V0X2lkX3RvX2NvbnRpZ3VvdXNfaWRcPg==</entry>
         <entry>stuff_dataset_id_to_contiguous_id</entry>
         <entry>build_train</entry>
+        <entry encoding="base64">XDxyYW5kb21fY3JvcF90cmFpblw+</entry>
+        <entry>pysun</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -127,7 +127,7 @@
       <file name="/a.dummy" timestamp="1588317818030">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589375150897">
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589375216519">
         <mark key="[" line="88" column="90" />
         <mark key="]" line="88" column="73" />
         <mark key="^" line="88" column="73" />
@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589374968635">
-        <mark key="'" line="19" column="21" />
-        <mark key="[" line="94" column="52" />
-        <mark key="]" line="94" column="9" />
-        <mark key="." line="94" column="8" />
-        <mark key="^" line="94" column="9" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589375326926">
+        <mark key="'" line="229" column="19" />
+        <mark key="[" line="183" column="54" />
+        <mark key="]" line="183" column="58" />
+        <mark key="." line="183" column="57" />
+        <mark key="^" line="183" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" timestamp="1589375188086">
         <mark key="[" line="46" column="59" />
@@ -195,11 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="496" column="83" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
-      <jump line="20" column="5" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
-      <jump line="388" column="35" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
-      <jump line="509" column="92" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
-      <jump line="290" column="25" filename="$USER_HOME$/Documents/my-repositories/foundation/tmp.py" />
       <jump line="151" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="507" column="54" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
@@ -295,6 +290,11 @@
       <jump line="16" column="27" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="210" column="4" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="19" column="21" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="92" column="3" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="165" column="7" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="51" column="53" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="229" column="19" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +306,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>build_train</text>
+        <text>pysun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGlyX3RvX2xhYmVsID0gWyhjb3Zlcl9kaXIsIDApLCAoc3RlZ29fZGlyLCAxKV0K</text>
@@ -345,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>build_train</last-search>
+      <last-search>pysun</last-search>
       <last-offset />
-      <last-pattern>build_train</last-pattern>
+      <last-pattern>pysun</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
