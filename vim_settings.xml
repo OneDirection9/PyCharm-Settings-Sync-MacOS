@@ -174,7 +174,7 @@
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/transforms.py" timestamp="1589175471110">
         <mark key="'" line="332" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1589189185047">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1589339047066">
         <mark key="'" line="82" column="48" />
         <mark key="[" line="120" column="79" />
         <mark key="]" line="120" column="29" />
