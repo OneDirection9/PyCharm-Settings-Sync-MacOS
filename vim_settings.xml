@@ -162,6 +162,7 @@
         <mark key="." line="87" column="21" />
         <mark key="^" line="87" column="22" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/utils/data/sampler.py" timestamp="1589381457671" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/processors/base.py" timestamp="1588258095262">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="21" />
@@ -176,12 +177,6 @@
         <mark key="^" line="23" column="55" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1589026149620" />
-      <file name="$USER_HOME$/Documents/my-repositories/image-captioning/legacy.py" timestamp="1588176448905">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters.py" timestamp="1588317859859">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="55" column="22" />
