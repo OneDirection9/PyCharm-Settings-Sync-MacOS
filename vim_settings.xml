@@ -143,11 +143,11 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589465720716">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589466716399">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="46" column="10" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589375326926">
         <mark key="'" line="229" column="19" />
@@ -294,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlyX3RvX2xhYmVsID0gWyhjb3Zlcl9kaXIsIDApLCAoc3RlZ29fZGlyLCAxKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text>from skle</text>
+        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hTYW1wbGVyCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyCg==</text>
+        <text>from skle</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2VfZGlyIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hTYW1wbGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5UZW5zb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2VfZGlyIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGMgaW4geDoK</text>
+        <text encoding="base64">ICAgICAgICB0b3JjaC5UZW5zb3IoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1nW3gsIHgsIC4uLl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
