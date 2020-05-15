@@ -233,8 +233,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589528213620">
-        <mark key="'" line="48" column="28" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589533935977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="42" />
+        <mark key="]" line="87" column="69" />
+        <mark key="^" line="87" column="69" />
+        <mark key="." line="87" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_utils.py" timestamp="1589437800144">
         <mark key="[" line="0" column="0" />
@@ -244,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="6" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
-      <jump line="23" column="5" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="237" column="45" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="137" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="259" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
@@ -344,12 +346,14 @@
       <jump line="186" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="208" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="79" column="81" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlLCBjb2xsZWN0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
         <text>mask</text>
@@ -361,31 +365,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2NsYXNzX18uX19uYW1lX18gKyAnKGhlaWdodD17fSknLmZvcm1hdChzZWxmLmhlaWdodCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlLCBjb2xsZWN0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
+        <text encoding="base64">W10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaQo=</text>
+        <text encoding="base64">aW1wb3J0IHJlLCBjb2xsZWN0aW9ucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+        <text encoding="base64">5L2c6ICF77yaTHVrZQrpk77mjqXvvJpodHRwczovL3podWFubGFuLnpoaWh1LmNvbS9wLzg2OTY1NTk1Cuadpea6kO+8muefpeS5jgrokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGV4YW1wbGVbJ2Fubm90YXRpb25zJ10gPSBhbm5vdGF0aW9ucwo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0Cg==</text>
+        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
