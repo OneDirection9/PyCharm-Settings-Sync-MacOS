@@ -143,18 +143,14 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589466716399">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="46" column="10" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589545139505">
+        <mark key="[" line="44" column="63" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589375326926">
-        <mark key="'" line="229" column="19" />
-        <mark key="[" line="183" column="54" />
-        <mark key="]" line="183" column="58" />
-        <mark key="." line="183" column="57" />
-        <mark key="^" line="183" column="58" />
+        <mark key="'" line="231" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" timestamp="1589375188086">
         <mark key="[" line="46" column="59" />
