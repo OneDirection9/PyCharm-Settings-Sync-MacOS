@@ -138,11 +138,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1589511361163">
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="42" />
-        <mark key="^" line="39" column="43" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1589511849134">
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="42" column="72" />
+        <mark key="." line="42" column="71" />
+        <mark key="^" line="42" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" timestamp="1589437738343">
         <mark key="'" line="40" column="0" />
