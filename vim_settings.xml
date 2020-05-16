@@ -143,11 +143,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589545139505">
-        <mark key="[" line="44" column="63" />
-        <mark key="]" line="44" column="15" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="44" column="14" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589617248556">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589375326926">
         <mark key="'" line="231" column="19" />
@@ -185,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="507" column="54" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="523" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
@@ -285,12 +285,13 @@
       <jump line="51" column="53" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="229" column="19" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">c2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -302,31 +303,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlyX3RvX2xhYmVsID0gWyhjb3Zlcl9kaXIsIDApLCAoc3RlZ29fZGlyLCAxKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">c2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
+        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text>from skle</text>
+        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hTYW1wbGVyCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyCg==</text>
+        <text>from skle</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2VfZGlyIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hTYW1wbGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JjaC5UZW5zb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2VfZGlyIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
