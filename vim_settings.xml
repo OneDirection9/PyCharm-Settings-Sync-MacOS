@@ -124,6 +124,7 @@
       <file name="/Python Console" timestamp="1589374894130">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/tensorflow/python/training/learning_rate_decay.py" timestamp="1589617431517" />
       <file name="/a.dummy" timestamp="1588317818030">
         <mark key="[" line="0" column="1" />
       </file>
@@ -143,12 +144,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589617248556">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589618158993">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589375326926">
         <mark key="'" line="231" column="19" />
@@ -166,12 +167,6 @@
         <mark key="^" line="87" column="22" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/utils/data/sampler.py" timestamp="1589381457671" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/processors/base.py" timestamp="1588258095262">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="21" />
-      </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1589026149620" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters.py" timestamp="1588317859859">
         <mark key="[" line="35" column="0" />
