@@ -179,17 +179,16 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589724069280">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="135" column="80" />
-        <mark key="]" line="135" column="80" />
-        <mark key="^" line="130" column="78" />
-        <mark key="." line="135" column="80" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589725374698">
+        <mark key="'" line="122" column="32" />
+        <mark key="[" line="142" column="39" />
+        <mark key="]" line="143" column="9" />
+        <mark key="." line="143" column="8" />
+        <mark key="^" line="143" column="9" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/numpy/lib/arraypad.py" timestamp="1589704416823" />
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="48" column="17" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
@@ -289,12 +288,13 @@
       <jump line="58" column="66" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="136" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="5" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="122" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQobm93X3N0cikK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -306,31 +306,31 @@
         <text encoding="base64">ICAgICAgICBwcm5nID0gbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQ9MTM5MTg3KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bnAuYWxsdHJ1ZQo=</text>
+        <text encoding="base64">cHJpbnQobm93X3N0cikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpbXBvcnQgdGltZWl0Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bm93LnNlCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm5nID0gbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQ9MTM5MTg3KQo=</text>
+        <text encoding="base64">bnAuYWxsdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">IyBpbXBvcnQgdGltZWl0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIdCA9IHN1bShIKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcm5nID0gbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQ9MTM5MTg3KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
