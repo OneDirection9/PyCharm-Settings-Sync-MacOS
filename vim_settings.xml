@@ -124,7 +124,6 @@
       <file name="/Python Console" timestamp="1589374894130">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/tensorflow/python/training/learning_rate_decay.py" timestamp="1589617431517" />
       <file name="/a.dummy" timestamp="1588317818030">
         <mark key="[" line="0" column="1" />
       </file>
@@ -144,12 +143,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589618158993">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589618406197">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589375326926">
         <mark key="'" line="231" column="19" />
@@ -166,18 +165,15 @@
         <mark key="." line="87" column="21" />
         <mark key="^" line="87" column="22" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/utils/data/sampler.py" timestamp="1589381457671" />
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/transforms/functional.py" timestamp="1589026149620" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters.py" timestamp="1588317859859">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589373411798">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="26" column="49" />
-        <mark key="^" line="26" column="49" />
-        <mark key="." line="26" column="48" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589682916665">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="8" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -285,11 +281,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>pysun</text>
@@ -298,31 +294,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlyX3RvX2xhYmVsID0gWyhjb3Zlcl9kaXIsIDApLCAoc3RlZ29fZGlyLCAxKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">dGV4dFsgPSB0ZXh0WzBdLnVwcGVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UK</text>
+        <text encoding="base64">c2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
       </register>
       <register name="6" type="2">
-        <text>from skle</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hTYW1wbGVyCg==</text>
+        <text>from skle</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hTYW1wbGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2VfZGlyIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
