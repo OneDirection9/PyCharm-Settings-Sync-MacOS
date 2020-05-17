@@ -165,20 +165,22 @@
         <mark key="." line="87" column="21" />
         <mark key="^" line="87" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" timestamp="1589698278366">
+        <mark key="'" line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/S_UNIWARD.m" timestamp="1589697730344" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters.py" timestamp="1588317859859">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589684383847">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="8" column="32" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589697723756">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="507" column="54" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="523" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="58" column="4" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
       <jump line="199" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
@@ -277,15 +279,17 @@
       <jump line="154" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="229" column="19" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" />
+      <jump line="228" column="25" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBzdGVnYW5vIGltcG9ydAo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>pysun</text>
@@ -294,31 +298,40 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlyX3RvX2xhYmVsID0gWyhjb3Zlcl9kaXIsIDApLCAoc3RlZ29fZGlyLCAxKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGV4dFsgPSB0ZXh0WzBdLnVwcGVyKCkK</text>
+        <text encoding="base64">ZnJvbSBzdGVnYW5vIGltcG9ydAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGhwZGZfbGlzdCA9IFstMC4wNTQ0MTU4NDIyLCAwLjMxMjg3MTU5MDksIC0wLjY3NTYzMDczNjMsIDAuNTg1MzU0NjgzNywgMC4wMTU4MjkxMDUzLAogICAgICAgICAgICAgICAgIC0wLjI4NDAxNTU0MzAsIC0wLjAwMDQ3MjQ4NDYsIDAuMTI4NzQ3NDI2NiwgMC4wMTczNjkzMDEwLCAtMC4wNDQwODgyNTM5LAogICAgICAgICAgICAgICAgIC0gMC4wMTM5ODEwMjc5LCAwLjAwODc0NjA5NDAsIDAuMDA0ODcwMzUzMCwgLTAuMDAwMzkxNzQwNCwgLTAuMDAwNjc1NDQ5NCwKICAgICAgICAgICAgICAgICAtMC4wMDAxMTc0NzY4XQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UK</text>
+        <text>text = &quot;Leetcode is cl&quot;
+
+words = text.split(' ')
+
+words = sorted(words, key=lambda x: len(x))
+print(words)
+
+text = ' '.join(words)
+text = text[0].upper() + text[1:]
+print(text)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5uZGltYWdlIGltcG9ydCBpbXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWV0cmljcy5yb2NfYXVjX3Njb3JlCg==</text>
+        <text encoding="base64">c2NpcHkuaW1hZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">ZGVmIHRlcm5hcnlfZW50cm9weWYocFAxXywgcE0xXyk6CiAgICBwMCA9IHBQMV8KICAgIHNoYXBlID0gcDAuc2hhcGUKICAgIHAwID0gWzEgLSBwUDFfW2ldW2pdIC0gcE0xX1tpXVtqXSBmb3IgaiBpbiByYW5nZShzaGFwZVsxXSkgZm9yIGkgaW4gcmFuZ2Uoc2hhcGVbMF0pXQogICAgcHRlbXAgPSBucC5jb25jYXRlbmF0ZShbW3AwXSwgW3BQMV9dLCBbcE0xX11dKQogICAgXywgbSwgbiA9IHB0ZW1wLnNoYXBlCiAgICBwID0gbnAucmVzaGFwZShwdGVtcCwgXyAqIG0gKiBuLCAxKQoKICAgIEggPSAoLShwW2ldICogbWF0aC5sb2cocFtpXSkpIGZvciBpIGluIHJhbmdlKF8gKiBtICogbikpCiAgICBIdCA9IHN1bShIKQogICAgcmV0dXJuIEh0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>from skle</text>
+        <text encoding="base64">IyBUT0RPCmRlZiBjYWxfbGFtYmRhKHJob1AxLCByaG9NMSwgbWVzc2FnZV9sZW5ndGgsIG4pOgogICAgbDMgPSAxZSszCiAgICBtMyA9IG1hdGguY2VpbChtZXNzYWdlX2xlbmd0aCkKICAgIGl0ZXJhdGlvbnMgPSAwCiAgICB3aGlsZSBtMyA+IG1lc3NhZ2VfbGVuZ3RoOgogICAgICAgIHBQMSA9IHJob1AxCiAgICAgICAgcE0xID0gcmhvTTEKICAgICAgICBzaGFwZSA9IHBQMS5zaGFwZQogICAgICAgIGwzID0gbDMgKiAyCiAgICAgICAgcFAxID0gWwogICAgICAgICAgICAobWF0aC5leHAoLWwzICogcmhvUDFbaV1bal1ba10pKSAvICgKICAgICAgICAgICAgICAgIDEgKyBtYXRoLmV4cCgtbDMgKiByaG9QMVtpXVtqXVtrXSkgKyBtYXRoLmV4cCgtbDMgKiByaG9NMVtpXVtqXVtrXSkpCiAgICAgICAgICAgIGZvciBrIGluIHJhbmdlKHNoYXBlWzJdKSBmb3IgaiBpbiByYW5nZShzaGFwZVsxXSkgZm9yIGkgaW4gcmFuZ2Uoc2hhcGVbMF0pXSAgIyBsaXN0CiAgICAgICAgcE0xID0gWwogICAgICAgICAgICAobWF0aC5leHAoLWwzICogcmhvTTFbaV1bal1ba10pKSAvICgKICAgICAgICAgICAgICAgIDEgKyBtYXRoLmV4cCgtbDMgKiByaG9QMVtpXVtqXVtrXSkgKyBtYXRoLmV4cCgtbDMgKiByaG9NMVtpXVtqXVtrXSkpCiAgICAgICAgICAgIGZvciBrIGluIHJhbmdlKHNoYXBlWzJdKSBmb3IgaiBpbiByYW5nZShzaGFwZVsxXSkgZm9yIGkgaW4gcmFuZ2Uoc2hhcGVbMF0pXSAgIyBsaXN0CgogICAgICAgIHBQMV9hcnJheSA9IChucC5hcnJheShwUDEpKS5yZXNoYXBlKHNoYXBlWzBdLCBzaGFwZVsxXSwgc2hhcGVbMl0pCiAgICAgICAgcE0xX2FycmF5ID0gKG5wLmFycmF5KHBNMSkpLnJlc2hhcGUoc2hhcGVbMF0sIHNoYXBlWzFdLCBzaGFwZVsyXSkKCiAgICAgICAgbTMgPSB0ZXJuYXJ5X2VudHJvcHlmXzRsaXN0KHBQMSwgcE0xKQogICAgICAgIGl0ZXJhdGlvbnMgPSBpdGVyYXRpb25zICsgMQogICAgICAgIGlmIGl0ZXJhdGlvbnMgPiAxMDoKICAgICAgICAgICAgcmV0dXJuIGwzCgogICAgcmV0dXJuIDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmF0Y2hTYW1wbGVyCg==</text>
+        <text encoding="base64">IyBUT0RPCmRlZiBFbWJlZGRpbmdTaW11bGF0b3IoeCwgcmhvUDEsIHJob00xLCBtLCBmaXhFbWJlZGRpbmdDaGFuZ2VzPUZhbHNlKToKICAgIGNvdmVyX2xlbiA9IGxlbih4WzosIDosIDBdKSAqIGxlbih4WzosIDosIDBdKQogICAgbCA9IGNhbF9sYW1iZGEocmhvUDEsIHJob00xLCBtLCBjb3Zlcl9sZW4pCgogICAgcmFuZENoYW5nZSA9IHJhbmRvbS5yYW5kb20oeC5zaGFwZSkKICAgIHkgPSB4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlyCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQsIGRpdmlzaW9uLCBwcmludF9mdW5jdGlvbgoKZnJvbSBkZXQuZGF0YS5kYXRhc2V0cyBpbXBvcnQgTWV0YWRhdGEKZnJvbSBkZXQuZGF0YS5kYXRhc2V0cy5jb2NvIGltcG9ydCBDT0NPSW5zdGFuY2UKCmEgPSBDT0NPSW5zdGFuY2UoJ2pzb25fZmlsZScsICdpbWFnZV9yb290JykKcHJpbnQoYSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
