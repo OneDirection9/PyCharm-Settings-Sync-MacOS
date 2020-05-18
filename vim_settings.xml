@@ -233,12 +233,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589533935977">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589533952276">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="42" />
-        <mark key="]" line="87" column="69" />
-        <mark key="^" line="87" column="69" />
-        <mark key="." line="87" column="68" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="105" column="10" />
+        <mark key="^" line="105" column="10" />
+        <mark key="." line="105" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_utils.py" timestamp="1589437800144">
         <mark key="[" line="0" column="0" />
