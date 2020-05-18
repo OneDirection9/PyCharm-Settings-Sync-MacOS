@@ -38,6 +38,7 @@
         <entry encoding="base64">XDxDVjJfSU5URVJfQ09ERVNcPg==</entry>
         <entry encoding="base64">XDxQSUxfSU5URVJfQ09ERVNcPg==</entry>
         <entry encoding="base64">XDxTY2FsZVRyYW5zZm9ybVw+</entry>
+        <entry encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -61,10 +62,10 @@
         <entry>call completor#do('doc')</entry>
         <entry>q</entry>
         <entry>lw</entry>
-        <entry>noh</entry>
         <entry>Lw</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -138,22 +139,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1589775668063">
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="27" />
-        <mark key="." line="47" column="27" />
-        <mark key="^" line="48" column="38" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1589788035318">
+        <mark key="'" line="44" column="38" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="44" column="60" />
       </file>
       <file name="/a.dummy" timestamp="1589448609366">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1589784237853">
-        <mark key="[" line="238" column="57" />
-        <mark key="]" line="240" column="18" />
-        <mark key="^" line="240" column="18" />
-        <mark key="." line="240" column="17" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1589787646913">
+        <mark key="'" line="25" column="47" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="91" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1589523337828">
         <mark key="'" line="63" column="41" />
@@ -243,10 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
-      <jump line="228" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
-      <jump line="280" column="77" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="6" column="57" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="292" column="21" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="20" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
@@ -343,48 +342,52 @@
       <jump line="78" column="33" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" />
       <jump line="70" column="30" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="3" column="93" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="106" column="73" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
+      <jump line="125" column="31" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
+      <jump line="25" column="47" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
+      <jump line="44" column="38" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhhbXBsZXMgPSBidWlsZF9weXRvcmNoX2RhdGFzZXQoY2ZnWydkYXRhJ11bJ3RyYWluJ10pCg==</text>
+        <text encoding="base64">CiAgICAgICAgYSA9IFtdCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTY2FsZVRyYW5zZm9ybVw+</text>
+        <text encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2NsYXNzX18uX19uYW1lX18gKyAnKGhlaWdodD17fSknLmZvcm1hdChzZWxmLmhlaWdodCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFzX2hmbGlwIHw9IGlzX2hmbGlwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhhbXBsZXMgPSBidWlsZF9weXRvcmNoX2RhdGFzZXQoY2ZnWydkYXRhJ11bJ3RyYWluJ10pCg==</text>
+        <text encoding="base64">CiAgICAgICAgYSA9IFtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFfY2ZnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhLmluZGV4KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsnbmFtZSc6ICdSYW5kb21WRmxpcCd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB7J25hbWUnOiAnUmFuZG9tSEZsaXAnfSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChoYXNfaGZsaXApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgeyduYW1lJzogJ0V4dGVudFRyYW5zZm9ybScsCiAgICAgICAgICAgICAgICAnc3JjX3JlY3QnOiBbMCwgMCwgMCwgMF0sCiAgICAgICAgICAgICAgICAnb3V0cHV0X3NpemUnOiBbMTAwLCAxMDBdfSwK</text>
+        <text encoding="base64">ICAgIGhhc19oZmxpcCA9IEZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgeyduYW1lJzogJ0V4dGVudFRyYW5zZm9ybScsCiAgICAgICAgICAgICAgICAnc3JjX3JlY3QnOiBbMCwgMCwgMCwgMF0sCiAgICAgICAgICAgICAgICAnb3V0cHV0X3NpemUnOiBbMTAwLCAxMDBdfSwKICAgICAgICAgICAgICAgeyduYW1lJzogJ1JhbmRvbUhGbGlwJ30sCiAgICAgICAgICAgICAgIHsnbmFtZSc6ICdSYW5kb21WRmxpcCd9LAogICAgICAgICAgICAgICB7J25hbWUnOiAnUmVzaXplJywgJ3NoYXBlJzogMTAwfSwKICAgICAgICAgICAgICAgeyduYW1lJzogJ1Jlc2l6ZVNob3J0ZXN0RWRnZScsCiAgICAgICAgICAgICAgICAnc2hvcnQnOiA2MDAsCiAgICAgICAgICAgICAgICAnbWF4X3NpemUnOiAxMDAwLAogICAgICAgICAgICAgICAgJ3NhbXBsZV9zdHlsZSc6ICdyYW5nZSd9LAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uLAo=</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgaGFzX2hmbGlwCiAgICAgICAgaGFzX2hmbGlwIHw9IGlzaW5zdGFuY2UodGZtX2luc3QsIChSYW5kb21IRmxpcCwgSEZsaXBUcmFuc2Zvcm0pKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ2ltYWdlX3Jvb3QnOiAnLi9kYXRhL01TQ09DTy90cmFpbjIwMTQvJywK</text>
+        <text encoding="base64">ICAgIGhhc19oZmxpcCA9IEZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ2ltYWdlX3Jvb3QnOiAnLi9kYXRhL01TQ09DTy90cmFpbjIwMTQvJywK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHRmbV9pbnN0LCAoUmFuZG9tSEZsaXAsIEhGbGlwVHJhbnNmb3JtKSk6CiAgICAgICAgICAgIGlzX2hmbGlwID0gVHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -393,13 +396,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTY2FsZVRyYW5zZm9ybVw+</last-search>
+      <last-search encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTY2FsZVRyYW5zZm9ybVw+</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
