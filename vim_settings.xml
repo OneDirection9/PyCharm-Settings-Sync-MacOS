@@ -121,14 +121,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1589803880111">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1588317818030">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589375216519">
-        <mark key="[" line="88" column="90" />
-        <mark key="]" line="88" column="73" />
-        <mark key="^" line="88" column="73" />
-        <mark key="." line="88" column="72" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589805744522">
+        <mark key="'" line="123" column="15" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filter.py" timestamp="1588317532102">
         <mark key="'" line="88" column="0" />
@@ -140,27 +143,25 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589618406197">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="8" column="14" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="14" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589805355652">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="13" />
+        <mark key="^" line="41" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589375326926">
-        <mark key="'" line="231" column="19" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589807046402">
+        <mark key="'" line="93" column="37" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="153" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" timestamp="1589375188086">
-        <mark key="[" line="46" column="59" />
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="42" />
-        <mark key="^" line="46" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters/base.py" timestamp="1588317466877">
-        <mark key="[" line="87" column="24" />
-        <mark key="]" line="87" column="22" />
-        <mark key="." line="87" column="21" />
-        <mark key="^" line="87" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" timestamp="1589805645357">
+        <mark key="[" line="102" column="48" />
+        <mark key="]" line="102" column="48" />
+        <mark key="^" line="102" column="48" />
+        <mark key="." line="102" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" timestamp="1589721722559">
         <mark key="'" line="205" column="0" />
@@ -175,6 +176,13 @@
         <mark key="^" line="39" column="6" />
         <mark key="." line="39" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/S_UNIWARD.m" timestamp="1589807609476" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/transform.py" timestamp="1589804975150">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="41" column="47" />
+        <mark key="^" line="41" column="47" />
+        <mark key="." line="41" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters.py" timestamp="1588317859859">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="55" column="22" />
@@ -187,15 +195,9 @@
         <mark key="^" line="68" column="51" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/numpy/lib/arraypad.py" timestamp="1589704416823" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/matlab/matlab_speedy.py" timestamp="1589807126210" />
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
-      <jump line="48" column="17" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
-      <jump line="248" column="36" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/visualizer.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
-      <jump line="44" column="45" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
-      <jump line="50" column="22" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="117" column="37" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="136" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="110" column="68" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
@@ -289,48 +291,55 @@
       <jump line="136" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="5" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="122" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="79" column="7" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" />
+      <jump line="10" column="9" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" />
+      <jump line="122" column="15" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" />
+      <jump line="14" column="47" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" />
+      <jump line="93" column="37" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="21" column="42" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQobm93X3N0cikK</text>
+        <text encoding="base64">ICAgIGRldmljZSA9IGltYWdlcy5kZXZpY2UK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pysun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm5nID0gbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQ9MTM5MTg3KQo=</text>
+        <text encoding="base64">ICAgIGVwb2NoX2xlbmd0aCA9IG1hdGguY2VpbChzaXplIC8gYmF0Y2hfc2l6ZSkKCiAgICBsb2dnZXIuaW5mbygnVHJhaW5pbmcgc2V0IGxlbmd0aCBpcyB7fScuZm9ybWF0KHNpemUpKQogICAgbG9nZ2VyLmluZm8oJ1RyYWluaW5nIGVwb2NoIGxlbmd0aCBpcyB7fScuZm9ybWF0KGVwb2NoX2xlbmd0aCkpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobm93X3N0cikK</text>
+        <text encoding="base64">ICAgIGRldmljZSA9IGltYWdlcy5kZXZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjdjIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm93LnNlCg==</text>
+        <text encoding="base64">ICAgIGN2Mi5pbXdyaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">ZnJvbSBzcmMuZGF0YS5kYXRhc2V0IGltcG9ydCBPblRoZUZseQoKZHMgPSBPblRoZUZseSgnLi9kYXRhL0JPU1NfNTEyX0NPVkVSX3RyYWluJykKCmEgPSBkc1swXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnAuYWxsdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHRyYWluX2xvYWRlciwgZXBvY2hfbGVuZ3RoID0gYnVpbGRfdHJhaW5fbG9hZGVyKAogICAgICAgIGFyZ3MudHJhaW5fY292ZXJfZGlyLCBOb25lLCBiYXRjaF9zaXplPTEsCiAgICAgICAgbnVtX3dvcmtlcnM9YXJncy5udW1fd29ya2VycwogICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBpbXBvcnQgdGltZWl0Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVwb2NoX2xlbmd0aCA9IG1hdGguY2VpbChzaXplIC8gYmF0Y2hfc2l6ZSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">ICAgIHRyYW5zZm9ybSA9IHRvcmNodmlzaW9uLnRyYW5zZm9ybXMuQ29tcG9zZShbCiAgICB0cmFuc2Zvcm0gPSB0b3JjaHZpc2lvbi50cmFuc2Zvcm1zLkNvbXBvc2UoWwogICAgICAgIFJhbmRvbVJvdCgpLAogICAgICAgIFJhbmRvbUZsaXAoKSwKICAgICAgICBUb1RlbnNvcigpLAogICAgXSkKICAgIF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm5nID0gbnAucmFuZG9tLlJhbmRvbVN0YXRlKHNlZWQ9MTM5MTg3KQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzYW1wbGVbJ2ltYWdlJ10ubmRpbSA9PSAzOiAgIyBIeFd4Qwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
