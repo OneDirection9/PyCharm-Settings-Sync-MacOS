@@ -179,12 +179,12 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="55" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589728735337">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589728860717">
         <mark key="'" line="122" column="32" />
-        <mark key="[" line="142" column="39" />
-        <mark key="]" line="143" column="9" />
-        <mark key="." line="143" column="8" />
-        <mark key="^" line="143" column="9" />
+        <mark key="[" line="68" column="43" />
+        <mark key="]" line="68" column="51" />
+        <mark key="." line="68" column="50" />
+        <mark key="^" line="68" column="51" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/numpy/lib/arraypad.py" timestamp="1589704416823" />
     </filemarks>
