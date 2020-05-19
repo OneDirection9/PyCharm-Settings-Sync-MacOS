@@ -158,9 +158,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" timestamp="1589794115069">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="212" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" timestamp="1589794174584">
+        <mark key="'" line="113" column="23" />
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="213" column="0" />
+        <mark key="^" line="113" column="24" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1589792164699">
         <mark key="[" line="12" column="36" />
@@ -244,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="301" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="466" column="81" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="75" column="4" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
@@ -344,12 +346,13 @@
       <jump line="44" column="38" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="228" column="44" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="136" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
+      <jump line="113" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkBQaXBlbGluZVJlZ2lzdHJ5LnJlZ2lzdGVyKCdBbm5vdGF0aW9uRmlsdGVyJykKY2xhc3MgQW5ub3RhdGlvbkZpbHRlcihQaXBlbGluZSk6CiAgICAiIiIiIiIK</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -361,31 +364,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaGFzX2hmbGlwIHw9IGlzX2hmbGlwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkBQaXBlbGluZVJlZ2lzdHJ5LnJlZ2lzdGVyKCdBbm5vdGF0aW9uRmlsdGVyJykKY2xhc3MgQW5ub3RhdGlvbkZpbHRlcihQaXBlbGluZSk6CiAgICAiIiIiIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWVzKQogICAgcHJpbnQoaGZsaXBfbWFwKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBucC5hc2FycmF5KFsxXSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGhmbGlwX21hcC51cGRhdGUoe3Y6IGsgZm9yIGssIHYgaW4gaGZsaXBfbWFwLml0ZW1zKCl9KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWVzLCBoZmxpcF9tYXAgPSBtZXRhZGF0YS5nZXQoJ2tleXBvaW50X25hbWVzJyksIG1ldGFkYXRhLmdldCgna2V5cG9pbnRfZmxpcF9tYXAnKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KG5hbWVzKQogICAgcHJpbnQoaGZsaXBfbWFwKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBucC5hc2FycmF5KFsxXSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhmbGlwX21hcC51cGRhdGUoe3Y6IGsgZm9yIGssIHYgaW4gaGZsaXBfbWFwLml0ZW1zKCl9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG5hbWVzLCBoZmxpcF9tYXAgPSBtZXRhZGF0YS5nZXQoJ2tleXBvaW50X25hbWVzJyksIG1ldGFkYXRhLmdldCgna2V5cG9pbnRfZmxpcF9tYXAnKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gX3RmbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgdGZtLCBpc19oZmxpcCA9IF9idWlsZChjZmcpCiAgICAgICAgdGZtcy5hcHBlbmQodGZtKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gX3RmbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNfaGZsaXAgfD0gaXNfaGZsaXAK</text>
+        <text encoding="base64">CiAgICAgICAgdGZtLCBpc19oZmxpcCA9IF9idWlsZChjZmcpCiAgICAgICAgdGZtcy5hcHBlbmQodGZtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
