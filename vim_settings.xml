@@ -235,9 +235,12 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589784231453">
-        <mark key="'" line="3" column="93" />
-        <mark key="^" line="69" column="36" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589870000496">
+        <mark key="'" line="69" column="37" />
+        <mark key="[" line="70" column="6" />
+        <mark key="]" line="72" column="8" />
+        <mark key="^" line="72" column="8" />
+        <mark key="." line="72" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_utils.py" timestamp="1589437800144">
         <mark key="[" line="0" column="0" />
@@ -247,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
       <jump line="466" column="81" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="75" column="4" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="409" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
@@ -347,6 +349,7 @@
       <jump line="228" column="44" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="136" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="113" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" />
+      <jump line="69" column="37" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
