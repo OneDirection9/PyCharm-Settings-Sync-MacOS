@@ -39,6 +39,8 @@
         <entry encoding="base64">XDxQSUxfSU5URVJfQ09ERVNcPg==</entry>
         <entry encoding="base64">XDxTY2FsZVRyYW5zZm9ybVw+</entry>
         <entry encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</entry>
+        <entry>imgNorm</entry>
+        <entry>encoder</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -63,10 +65,10 @@
         <entry>lw</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
-        <entry>noh</entry>
         <entry>we</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,7 +173,7 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/evaluate.py" timestamp="1589951727333" />
+      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/evaluate.py" timestamp="1589955768295" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1589793933528">
         <mark key="'" line="136" column="16" />
         <mark key="[" line="65" column="12" />
@@ -186,11 +188,6 @@
         <mark key="^" line="609" column="8" />
         <mark key="." line="607" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/__init__.py" timestamp="1589439242306">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/utils.py" timestamp="1589791529917">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="32" />
@@ -204,17 +201,19 @@
         <mark key="^" line="162" column="32" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" timestamp="1589438009177">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/legacy.py" timestamp="1589956629508">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/dataloader.py" timestamp="1589955105987" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" timestamp="1589438012578">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/dataloader.py" timestamp="1589957329459" />
+      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/options.py" timestamp="1589956975201">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1589783685615">
         <mark key="'" line="78" column="33" />
@@ -247,11 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="466" column="81" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
-      <jump line="75" column="4" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
-      <jump line="409" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
-      <jump line="63" column="41" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
-      <jump line="675" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" />
       <jump line="128" column="17" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="79" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="67" column="10" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
@@ -347,6 +341,11 @@
       <jump line="136" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="113" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" />
       <jump line="69" column="37" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="18" column="58" filename="$USER_HOME$/Documents/repositories/visdial-diversity/options.py" />
+      <jump line="62" column="26" filename="$USER_HOME$/Documents/repositories/visdial-diversity/options.py" />
+      <jump line="171" column="27" filename="$USER_HOME$/Documents/repositories/visdial-diversity/options.py" />
+      <jump line="173" column="25" filename="$USER_HOME$/Documents/repositories/visdial-diversity/options.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/Documents/repositories/visdial-diversity/options.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -358,7 +357,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</text>
+        <text>encoder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGFzX2hmbGlwIHw9IGlzX2hmbGlwCg==</text>
@@ -391,15 +390,15 @@
         <text encoding="base64">CiAgICAgICAgdGZtLCBpc19oZmxpcCA9IF9idWlsZChjZmcpCiAgICAgICAgdGZtcy5hcHBlbmQodGZtKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</last-search>
+      <last-search>encoder</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlwb2ludF9oZmxpcF9pbmRpY2VzXD4=</last-pattern>
+      <last-pattern>encoder</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
