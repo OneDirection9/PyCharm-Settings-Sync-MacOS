@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1589805355652">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="14" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1590064544063">
+        <mark key="'" line="32" column="44" />
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589810783966">
         <mark key="'" line="93" column="37" />
@@ -198,8 +198,6 @@
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/matlab/matlab_speedy.py" timestamp="1589807126210" />
     </filemarks>
     <jumps>
-      <jump line="117" column="37" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
-      <jump line="136" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="110" column="68" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="119" column="61" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_visualizer.py" />
@@ -298,6 +296,8 @@
       <jump line="93" column="37" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="21" column="42" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" />
+      <jump line="32" column="44" filename="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
