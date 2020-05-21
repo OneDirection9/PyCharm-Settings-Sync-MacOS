@@ -68,8 +68,8 @@
         <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
         <entry>we</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,6 +142,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/infer.py" timestamp="1590042131501">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="63" />
+        <mark key="^" line="6" column="63" />
+        <mark key="." line="6" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1589791705094">
         <mark key="'" line="44" column="38" />
         <mark key="[" line="61" column="52" />
@@ -192,13 +198,6 @@
       <file name="$USER_HOME$/Documents/repositories/visdial-diversity/eval_utils/dialog_generate.py" timestamp="1590032975907">
         <mark key="'" line="542" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/text.py" timestamp="1589527528264">
-        <mark key="'" line="79" column="81" />
-        <mark key="[" line="26" column="91" />
-        <mark key="]" line="26" column="87" />
-        <mark key="^" line="26" column="87" />
-        <mark key="." line="26" column="86" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" timestamp="1590031355990">
         <mark key="'" line="157" column="15" />
         <mark key="[" line="113" column="24" />
@@ -215,7 +214,7 @@
       <file name="$USER_HOME$/Documents/repositories/visdial-diversity/evaluate.py" timestamp="1590031704927" />
       <file name="$USER_HOME$/Documents/repositories/visdial-diversity/dataloader_human_study.py" timestamp="1590031694064" />
       <file name="$USER_HOME$/Documents/repositories/visdial-diversity/utils/utilities.py" timestamp="1590031813907" />
-      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/dataloader.py" timestamp="1590039473979" />
+      <file name="$USER_HOME$/Documents/repositories/visdial-diversity/dataloader.py" timestamp="1590041853554" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1589791360500">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="58" column="76" />
@@ -383,7 +382,7 @@
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
