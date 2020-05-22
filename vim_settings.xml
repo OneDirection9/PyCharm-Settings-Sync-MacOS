@@ -166,7 +166,7 @@
         <mark key="." line="86" column="54" />
         <mark key="^" line="86" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1590130774801">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1590133943815">
         <mark key="'" line="218" column="55" />
         <mark key="[" line="295" column="20" />
         <mark key="]" line="296" column="25" />
@@ -195,11 +195,11 @@
       <file name="/Dummy.txt" timestamp="1590052247875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1590129621635">
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="45" column="12" />
-        <mark key="." line="45" column="11" />
-        <mark key="^" line="45" column="12" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1590133882843">
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="50" column="18" />
+        <mark key="." line="50" column="17" />
+        <mark key="^" line="50" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/grouped_batch_sampler.py" timestamp="1590125449276" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/utils/env.py" timestamp="1590126339874">
