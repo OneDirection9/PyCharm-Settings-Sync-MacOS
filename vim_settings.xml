@@ -128,17 +128,13 @@
         <mark key="." line="136" column="16" />
         <mark key="^" line="136" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1590203417495">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1589803880111">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589805744522">
-        <mark key="'" line="123" column="15" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" timestamp="1588317870906">
-        <mark key="'" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1590064544063">
         <mark key="'" line="32" column="44" />
@@ -146,13 +142,6 @@
         <mark key="]" line="32" column="45" />
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589810783966">
-        <mark key="'" line="93" column="37" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="153" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" timestamp="1589805645357">
         <mark key="[" line="102" column="48" />
@@ -173,7 +162,6 @@
         <mark key="^" line="39" column="6" />
         <mark key="." line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/S_UNIWARD.m" timestamp="1589807609476" />
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/transform.py" timestamp="1589804975150">
         <mark key="[" line="41" column="35" />
         <mark key="]" line="41" column="47" />
@@ -181,10 +169,27 @@
         <mark key="." line="41" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/eval_utils/dialog_generate.py" timestamp="1590199967876" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filters.py" timestamp="1588317859859">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="55" column="22" />
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/numpy/lib/arraypad.py" timestamp="1589704416823" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/matlab/matlab_speedy.py" timestamp="1589807126210" />
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589805744522">
+        <mark key="'" line="123" column="15" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" timestamp="1590203678115">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/train.py" timestamp="1589810783966">
+        <mark key="'" line="93" column="37" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="153" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/STEGO/S_UNIWARD.m" timestamp="1589807609476" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589728860717">
         <mark key="'" line="122" column="32" />
         <mark key="[" line="68" column="43" />
@@ -192,8 +197,6 @@
         <mark key="." line="68" column="50" />
         <mark key="^" line="68" column="51" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/numpy/lib/arraypad.py" timestamp="1589704416823" />
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/matlab/matlab_speedy.py" timestamp="1589807126210" />
     </filemarks>
     <jumps>
       <jump line="209" column="18" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
@@ -300,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IiIiClRoaXMgZmlsZSBjb250YWlucyB0aGUgZGVmYXVsdCBtYXBwaW5nIHRoYXQncyBhcHBsaWVkIHRvIGRhdGFzZXQgZGljdC4KIiJrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>pysun</text>
@@ -313,31 +316,31 @@
         <text encoding="base64">ICAgIGVwb2NoX2xlbmd0aCA9IG1hdGguY2VpbChzaXplIC8gYmF0Y2hfc2l6ZSkKCiAgICBsb2dnZXIuaW5mbygnVHJhaW5pbmcgc2V0IGxlbmd0aCBpcyB7fScuZm9ybWF0KHNpemUpKQogICAgbG9nZ2VyLmluZm8oJ1RyYWluaW5nIGVwb2NoIGxlbmd0aCBpcyB7fScuZm9ybWF0KGVwb2NoX2xlbmd0aCkpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgbWF0cGxvdGxpYi5weXBsCg==</text>
+        <text encoding="base64">IiIiClRoaXMgZmlsZSBjb250YWlucyB0aGUgZGVmYXVsdCBtYXBwaW5nIHRoYXQncyBhcHBsaWVkIHRvIGRhdGFzZXQgZGljdC4KIiJrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluZGV4ID0gYXJncy5pbmRleAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihGZXdLZXlwb2ludHNGaWx0ZXIsIHNlbGYpLl9faW5pdF9fKCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvY2FiID0gVm9jYWJ1bGFyeSh3b3JkMmluZCwgaW5kMndvcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihBbm5vdGF0aW9uUG9wdXAsIHNlbGYpLl9faW5pdF9fKCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwbGl0ID0gYXJncy5zcGxpdAogICAgaW1nX25hbWVzLCB3b3JkMmluZCwgaW5kMndvcmQgPSBsb2FkX2Rvd25sb2FkZWRfanNvbihzcGxpdD1zcGxpdCkKICAgIGltZ19mZWF0cyA9IGxvYWRfZG93bmxvYWRfaW1nX2ZlYXRzKHNwbGl0PXNwbGl0KQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbWF0cGxvdGxpYi5weXBsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRldmljZSA9IGltYWdlcy5kZXZpY2UK</text>
+        <text encoding="base64">ICAgIGluZGV4ID0gYXJncy5pbmRleAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjdjIK</text>
+        <text encoding="base64">ICAgIHZvY2FiID0gVm9jYWJ1bGFyeSh3b3JkMmluZCwgaW5kMndvcmQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN2Mi5pbXdyaQo=</text>
+        <text encoding="base64">ICAgIHNwbGl0ID0gYXJncy5zcGxpdAogICAgaW1nX25hbWVzLCB3b3JkMmluZCwgaW5kMndvcmQgPSBsb2FkX2Rvd25sb2FkZWRfanNvbihzcGxpdD1zcGxpdCkKICAgIGltZ19mZWF0cyA9IGxvYWRfZG93bmxvYWRfaW1nX2ZlYXRzKHNwbGl0PXNwbGl0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuZGF0YS5kYXRhc2V0IGltcG9ydCBPblRoZUZseQoKZHMgPSBPblRoZUZseSgnLi9kYXRhL0JPU1NfNTEyX0NPVkVSX3RyYWluJykKCmEgPSBkc1swXQo=</text>
+        <text encoding="base64">ICAgIGRldmljZSA9IGltYWdlcy5kZXZpY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvYWRlciwgZXBvY2hfbGVuZ3RoID0gYnVpbGRfdHJhaW5fbG9hZGVyKAogICAgICAgIGFyZ3MudHJhaW5fY292ZXJfZGlyLCBOb25lLCBiYXRjaF9zaXplPTEsCiAgICAgICAgbnVtX3dvcmtlcnM9YXJncy5udW1fd29ya2VycwogICAgKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjdjIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
