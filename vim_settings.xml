@@ -180,12 +180,12 @@
         <mark key="^" line="27" column="53" />
         <mark key="." line="55" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1590475398614">
-        <mark key="'" line="277" column="50" />
-        <mark key="[" line="277" column="59" />
-        <mark key="]" line="277" column="51" />
-        <mark key="." line="277" column="50" />
-        <mark key="^" line="277" column="51" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1590479727133">
+        <mark key="'" line="276" column="50" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
+        <mark key="^" line="276" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/rotated_boxes.py" timestamp="1590466823823">
         <mark key="'" line="465" column="23" />
@@ -357,7 +357,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -369,31 +369,31 @@
         <text encoding="base64">ICAgICAgICAtIG5hbWU6IFJlc2l6ZVNob3J0ZXN0RWRnZQogICAgICAgICAgc2hvcnQ6IDgwMAogICAgICAgICAgbWF4X3NpemU6IDEzMzMKICAgICAgICAgIHNhbXBsZV9zdHlsZTogY2hvaWNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dG9yY2guX192ZXJzaW9uX18K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhX2xvYWRlcl9pdGVyID0gaXRlcihzZWxmLl9kYXRhX2xvYWRlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhX2xvYWRlcl9pdGVyID0gaXRlcihzZWxmLl9kYXRhX2xvYWRlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhX2xvYWRlciwgc2VsZi5fZXBvY2hfbGVuZ3RoID0gc2VsZi5idWlsZF90cmFpbl9sb2FkZXIoY2ZnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhX2xvYWRlcl9pdGVyID0gaXRlcihzZWxmLl9kYXRhX2xvYWRlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGJ1aWxkX3RyYWluX2xvYWRlcihjbHMsIGNmZyk6CiAgICAgICAgcmV0dXJuIGJ1aWxkX3RyYWluX2xvYWRlcihjZmdbJ2RhdGFzZXQnXVsndHJhaW4nXSwgY2ZnWydkYXRhbG9hZGVyJ10pCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgYnVpbGRfdGVzdF9sb2FkZXIoY2xzLCBjZmcpOgogICAgICAgIHJldHVybiBidWlsZF90ZXN0X2xvYWRlcihjZmdbJ2RhdGFzZXQnXVsndGVzdCddLCBjZmdbJ2RhdGFsb2FkZXInXSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhX2xvYWRlciwgc2VsZi5fZXBvY2hfbGVuZ3RoID0gc2VsZi5idWlsZF90cmFpbl9sb2FkZXIoY2ZnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVkaWwK</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGJ1aWxkX3RyYWluX2xvYWRlcihjbHMsIGNmZyk6CiAgICAgICAgcmV0dXJuIGJ1aWxkX3RyYWluX2xvYWRlcihjZmdbJ2RhdGFzZXQnXVsndHJhaW4nXSwgY2ZnWydkYXRhbG9hZGVyJ10pCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgYnVpbGRfdGVzdF9sb2FkZXIoY2xzLCBjZmcpOgogICAgICAgIHJldHVybiBidWlsZF90ZXN0X2xvYWRlcihjZmdbJ2RhdGFzZXQnXVsndGVzdCddLCBjZmdbJ2RhdGFsb2FkZXInXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
