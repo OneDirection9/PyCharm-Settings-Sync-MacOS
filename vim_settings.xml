@@ -138,11 +138,12 @@
       <file name="/Python Console" timestamp="1589803880111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590582321124">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" timestamp="1590591624417" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590592080457">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1590064544063">
         <mark key="'" line="32" column="44" />
@@ -177,7 +178,6 @@
         <mark key="." line="41" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/eval_utils/dialog_generate.py" timestamp="1590199967876" />
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/numpy/lib/arraypad.py" timestamp="1589704416823" />
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/matlab/matlab_speedy.py" timestamp="1589807126210" />
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589805744522">
         <mark key="'" line="123" column="15" />
@@ -199,12 +199,12 @@
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/S_UNIWARD.m" timestamp="1589807609476" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1590285830616" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1589728860717">
-        <mark key="'" line="122" column="32" />
-        <mark key="[" line="68" column="43" />
-        <mark key="]" line="68" column="51" />
-        <mark key="." line="68" column="50" />
-        <mark key="^" line="68" column="51" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1590591213837">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="144" column="12" />
+        <mark key="]" line="144" column="41" />
+        <mark key="." line="144" column="40" />
+        <mark key="^" line="144" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -279,7 +279,6 @@
       <jump line="125" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" />
       <jump line="202" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" />
       <jump line="9" column="25" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="22" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="23" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="62" column="24" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
@@ -308,15 +307,16 @@
       <jump line="99" column="94" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="10" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
+      <jump line="22" column="18" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QE1hcHBlclJlZ2lzdHJ5LnJlZ2lzdGVyKCdUcmFuc2Zvcm1BcHBsaWVyJykK</text>
+        <text encoding="base64">ZGVmIHRyYW5zZm9ybV93cmFwcGVyKHRyYW5zZm9ybV9jbHMsICphcmdzLCAqKmt3YXJncyk6CiAgICB0cmFuc2Zvcm0gPSB0cmFuc2Zvcm1fY2xzKCphcmdzLCAqKmt3YXJncykKICAgIHJldHVybiBUcmFuc2Zvcm1BcHBsaWVyKHRyYW5zZm9ybSkKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>ResizeShortestEdge</text>
       </register>
       <register name="/" type="4">
         <text>pysun</text>
@@ -325,31 +325,31 @@
         <text encoding="base64">ICAgIGVwb2NoX2xlbmd0aCA9IG1hdGguY2VpbChzaXplIC8gYmF0Y2hfc2l6ZSkKCiAgICBsb2dnZXIuaW5mbygnVHJhaW5pbmcgc2V0IGxlbmd0aCBpcyB7fScuZm9ybWF0KHNpemUpKQogICAgbG9nZ2VyLmluZm8oJ1RyYWluaW5nIGVwb2NoIGxlbmd0aCBpcyB7fScuZm9ybWF0KGVwb2NoX2xlbmd0aCkpCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QE1hcHBlclJlZ2lzdHJ5LnJlZ2lzdGVyKCdUcmFuc2Zvcm1BcHBsaWVyJykK</text>
+        <text encoding="base64">ZGVmIHRyYW5zZm9ybV93cmFwcGVyKHRyYW5zZm9ybV9jbHMsICphcmdzLCAqKmt3YXJncyk6CiAgICB0cmFuc2Zvcm0gPSB0cmFuc2Zvcm1fY2xzKCphcmdzLCAqKmt3YXJncykKICAgIHJldHVybiBUcmFuc2Zvcm1BcHBsaWVyKHRyYW5zZm9ybSkKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CkBNYXBwZXJSZWdpc3RyeS5yZWdpc3RlcignaGZsaXAnKQpkZWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IAo=</text>
+        <text encoding="base64">IyBwcmludCh0aW1laXQudGltZWl0KCJTX1VOSVdBRUQoJy4vNTM1NS5wbmcnLCAwLjQpIiwgZ2xvYmFscz1nbG9iYWxzKCksIG51bWJlcj0xMCkpCgpmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQoKbm93ID0gZGF0ZXRpbWUubm93KCkKbm93X3N0ciA9IG5vdy5zdHJmdGltZSgnJVkgJW0gJWQgJUggJU0gJVMnKQpwcmludChub3dfc3RyKQpyZXMgPSBzdW0obWFwKGludCwgbm93X3N0ci5zcGxpdCgnICcpKSkKcHJpbnQocmVzKQoKZGF0ZXRpbWUubm93KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QE1hcHBlclJlZ2lzdHJ5LnJlZ2lzdGVyKCdSZXNpemVTaG9ydGVzdEVkZ2UnKQpjbGFzcyBSZXNpemVTaG9ydGVzdEVkZ2Uob2JqZWN0KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzaG9ydD04MDAsIG1heF9zaXplPTEzMzMsIHNhbXBsZV9zdHlsZT0nY2hvaWNlJyk6CiAgICAgICAgc2VsZi50Zm1fZ2VuID0gVC5SZXNpemVTaG9ydGVzdEVkZ2Uoc2hvcnQsIG1heF9zaXplLCBzYW1wbGVfc3R5bGUpCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIGV4YW1wbGU6IERpY3Rbc3RyLCBBbnldKSAtPiBEaWN0W3N0ciwgQW55XToKICAgICAgICB0Zm0gPSBzZWxmLnRmbV9nZW4uZ2V0X3RyYW5zZm9ybShleGFtcGxlWydpbWFnZSddKQogICAgICAgIGV4YW1wbGVbJ2ltYWdlJ10gPSB0Zm0uYXBwbHlfaW1hZ2UoZXhhbXBsZVsnaW1hZ2UnXSkKICAgICAgICBpbWFnZV9zaGFwZSA9IGV4YW1wbGVbJ2ltYWdlJ10uc2hhcGVbOjJdCgogICAgICAgIGlmICdhbm5vdGF0aW9ucycgaW4gZXhhbXBsZToKICAgICAgICAgICAgZXhhbXBsZVsnYW5ub3RhdGlvbnMnXSA9IFsKICAgICAgICAgICAgICAgIHV0aWxzLnRyYW5zZm9ybV9pbnN0YW5jZV9hbm5vdGF0aW9ucyhvYmosIHRmbSwgaW1hZ2Vfc2hhcGUpCiAgICAgICAgICAgICAgICBmb3Igb2JqIGluIGV4YW1wbGVbJ2Fubm90YXRpb25zJ10gaWYgb2JqLmdldCgnaXNjcm93ZCcsIDApID09IDAKICAgICAgICAgICAgXQogICAgICAgIHJldHVybiBleGFtcGxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGV4YW1wbGVbJ2ltYWdlJ10K</text>
+        <text encoding="base64">QE1hcHBlclJlZ2lzdHJ5LnJlZ2lzdGVyKCdUcmFuc2Zvcm1BcHBsaWVyJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYudHJhbnNmb3JtX2dlbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgc2VsZi50cmFuc2Zvcm1zIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBleGFtcGxlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGV4YW1wbGVbJ2ltYWdlJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
