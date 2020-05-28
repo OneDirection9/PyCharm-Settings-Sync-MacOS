@@ -135,15 +135,12 @@
         <mark key="." line="97" column="13" />
         <mark key="^" line="65" column="55" />
       </file>
-      <file name="/Python Console" timestamp="1589803880111">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" timestamp="1590591624417" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590592080457">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="38" />
-        <mark key="." line="31" column="37" />
-        <mark key="^" line="31" column="38" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590671053967">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1590064544063">
         <mark key="'" line="32" column="44" />
@@ -152,33 +149,22 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/meta_arch/rcnn.py" timestamp="1590671100401" />
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" timestamp="1589805645357">
         <mark key="[" line="102" column="48" />
         <mark key="]" line="102" column="48" />
         <mark key="^" line="102" column="48" />
         <mark key="." line="102" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/t.py" timestamp="1589721722559">
-        <mark key="'" line="205" column="0" />
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="57" />
-        <mark key="." line="33" column="56" />
-        <mark key="^" line="33" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/S_UNIWARD.m" timestamp="1589722290884">
-        <mark key="[" line="38" column="96" />
-        <mark key="]" line="39" column="6" />
-        <mark key="^" line="39" column="6" />
-        <mark key="." line="39" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/transform.py" timestamp="1589804975150">
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="41" column="47" />
-        <mark key="^" line="41" column="47" />
-        <mark key="." line="41" column="46" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/image_list.py" timestamp="1590670001408" />
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/eval_utils/dialog_generate.py" timestamp="1590199967876" />
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/matlab/matlab_speedy.py" timestamp="1589807126210" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1590670427674">
+        <mark key="[" line="56" column="32" />
+        <mark key="]" line="56" column="35" />
+        <mark key="^" line="56" column="35" />
+        <mark key="." line="56" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" timestamp="1589805744522">
         <mark key="'" line="123" column="15" />
         <mark key="[" line="132" column="0" />
@@ -208,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
       <jump line="256" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
       <jump line="5" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
       <jump line="260" column="34" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" />
@@ -308,6 +293,7 @@
       <jump line="10" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="84" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="22" column="18" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
