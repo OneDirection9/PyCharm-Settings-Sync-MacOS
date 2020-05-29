@@ -180,7 +180,6 @@
         <mark key="." line="482" column="43" />
         <mark key="^" line="482" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/parse.py" timestamp="1590722817410" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/registry.py" timestamp="1590734035626">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="24" />
@@ -246,6 +245,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1590730600603" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/README.md" timestamp="1590738742721">
+        <mark key="[" line="7" column="56" />
+        <mark key="]" line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="7" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1590726692857">
         <mark key="'" line="0" column="40" />
         <mark key="[" line="2" column="0" />
