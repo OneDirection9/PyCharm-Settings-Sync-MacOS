@@ -136,12 +136,12 @@
         <mark key="^" line="65" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" timestamp="1590591624417" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" timestamp="1590763797675">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" timestamp="1590764644718">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="126" column="69" />
-        <mark key="]" line="126" column="53" />
-        <mark key="." line="126" column="52" />
-        <mark key="^" line="126" column="53" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="126" column="19" />
+        <mark key="." line="126" column="18" />
+        <mark key="^" line="126" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590752031961" />
       <file name="$USER_HOME$/Documents/my-repositories/STEGO/legacy.py" timestamp="1590064544063">
