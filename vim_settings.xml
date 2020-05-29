@@ -167,6 +167,12 @@
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1590731440354" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" timestamp="1590734622422">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590734251028">
         <mark key="'" line="483" column="76" />
         <mark key="[" line="481" column="0" />
@@ -188,7 +194,6 @@
         <mark key="^" line="202" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3/functools.pyi" timestamp="1590723687599" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/io/handler.py" timestamp="1590722797928" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1590731202603">
         <mark key="'" line="46" column="23" />
         <mark key="[" line="20" column="48" />
