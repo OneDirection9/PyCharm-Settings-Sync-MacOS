@@ -136,12 +136,12 @@
         <mark key="^" line="65" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" timestamp="1590591624417" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" timestamp="1590824273790">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" timestamp="1590824387163">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="205" column="36" />
-        <mark key="]" line="206" column="8" />
-        <mark key="." line="206" column="7" />
-        <mark key="^" line="206" column="8" />
+        <mark key="]" line="205" column="37" />
+        <mark key="." line="205" column="36" />
+        <mark key="^" line="205" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590752031961" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/meta_arch/rcnn.py" timestamp="1590671100401" />
