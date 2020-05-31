@@ -176,12 +176,12 @@
         <mark key="^" line="53" column="28" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2020.1/python_stubs/-307713083/builtins.py" timestamp="1590842681480" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1590895142040">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1590896263905">
         <mark key="'" line="66" column="8" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="161" column="22" />
-        <mark key="." line="161" column="21" />
-        <mark key="^" line="161" column="22" />
+        <mark key="[" line="171" column="75" />
+        <mark key="]" line="173" column="19" />
+        <mark key="." line="173" column="18" />
+        <mark key="^" line="173" column="19" />
       </file>
     </filemarks>
     <jumps>
