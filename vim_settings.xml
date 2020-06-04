@@ -56,6 +56,9 @@
         <entry>^@TransformGenRegistry.register(</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1faW5zdGFuY2VfYW5ub3RhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxrZXlwb2ludF9jb25uZWN0aW9uX3J1bGVzXD4=</entry>
+        <entry>boxes</entry>
+        <entry>raise</entry>
+        <entry>in_feature</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -84,9 +87,12 @@
         <entry>%s/^@TransformGenRegistry//d</entry>
         <entry>g/TransformGen/ d</entry>
         <entry>e</entry>
-        <entry>noh</entry>
         <entry>we</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
+        <entry>w'</entry>
+        <entry encoding="base64">JzwsJz5ub2g=</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -160,172 +166,122 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/my_prepro.py" timestamp="1591070851115">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1591260622966">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591001017575">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="15" />
+      <file name="/Dummy.txt" timestamp="1591253633088">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" timestamp="1591004036207">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591261407913">
+        <mark key="'" line="507" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/nn/weight_init.py" timestamp="1590741394556">
-        <mark key="'" line="80" column="17" />
+      <file name="/a.dummy" timestamp="1591262156403">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/__init__.py" timestamp="1591253362795">
         <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/block.py" timestamp="1590743125054">
-        <mark key="'" line="4" column="34" />
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="24" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1591244100024">
+        <mark key="a" line="210" column="21" />
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="24" column="38" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/init.py" timestamp="1590740580788" />
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591090668857">
-        <mark key="'" line="187" column="71" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="13" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="198" column="26" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1591241797689">
+        <mark key="'" line="540" column="12" />
+        <mark key="[" line="489" column="0" />
+        <mark key="]" line="489" column="0" />
+        <mark key="^" line="488" column="54" />
+        <mark key="." line="489" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/layers/batch_norm.py" timestamp="1591154467927">
-        <mark key="'" line="50" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/base.py" timestamp="1591262182148">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/models/resnet.py" timestamp="1591000699580" />
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/prepro.py" timestamp="1591090622573">
-        <mark key="'" line="201" column="85" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/rpn2.py" timestamp="1591262133276">
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/backbone/resnet.py" timestamp="1591154582562" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/visualization/visualizer.py" timestamp="1590996916277" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/distributed_sampler.py" timestamp="1590743359452">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="40" column="34" />
-        <mark key="]" line="40" column="35" />
-        <mark key="." line="40" column="34" />
-        <mark key="^" line="40" column="35" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/base.py" timestamp="1591254375595">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1590743307789">
-        <mark key="'" line="483" column="76" />
-        <mark key="[" line="176" column="36" />
-        <mark key="]" line="176" column="37" />
-        <mark key="." line="176" column="36" />
-        <mark key="^" line="176" column="37" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/wrapper.py" timestamp="1591244772001">
+        <mark key="'" line="37" column="18" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1590743373662">
-        <mark key="[" line="201" column="31" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="202" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/base.py" timestamp="1591254393251">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="19" column="72" />
+        <mark key="." line="19" column="71" />
+        <mark key="^" line="19" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/legacy.py" timestamp="1591070880811">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" timestamp="1591241703284">
+        <mark key="[" line="78" column="17" />
+        <mark key="]" line="78" column="19" />
+        <mark key="^" line="78" column="19" />
+        <mark key="." line="78" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/caption_with_tf.py" timestamp="1591084559722" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/README.md" timestamp="1590738771224">
-        <mark key="[" line="7" column="82" />
-        <mark key="]" line="7" column="73" />
-        <mark key="^" line="7" column="73" />
-        <mark key="." line="7" column="72" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/base.py" timestamp="1591262074212">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_transform.py" timestamp="1591241923512">
+        <mark key="[" line="437" column="50" />
+        <mark key="]" line="437" column="60" />
+        <mark key="^" line="437" column="60" />
+        <mark key="." line="437" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/shape_spec.py" timestamp="1591247109916">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591261494878">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" timestamp="1591262552161">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" timestamp="1591254240089">
+        <mark key="'" line="119" column="8" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="165" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591261214263">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="127" column="33" />
+        <mark key="]" line="127" column="33" />
+        <mark key="." line="127" column="32" />
+        <mark key="^" line="127" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="42" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" />
-      <jump line="16" column="57" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" />
-      <jump line="224" column="49" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
-      <jump line="292" column="7" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="27" column="66" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="274" column="13" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="19" column="10" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="206" column="43" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" />
-      <jump line="52" column="41" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" />
-      <jump line="7" column="53" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines.py" />
-      <jump line="82" column="54" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="86" column="17" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="92" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="97" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="98" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="99" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="35" column="46" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="3" column="17" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="59" column="5" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="68" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="7" column="40" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="30" column="95" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="8" column="20" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="225" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="9" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="169" column="3" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="2" column="15" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="280" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="33" column="46" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="7" column="48" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="213" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" />
-      <jump line="228" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="189" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="266" column="21" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="178" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="330" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="337" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="72" column="26" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="6" column="21" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="76" column="22" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="83" column="24" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="18" column="27" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" />
-      <jump line="0" column="40" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="46" column="23" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
-      <jump line="4" column="15" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
-      <jump line="189" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" />
-      <jump line="25" column="40" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/wrapper.py" />
-      <jump line="41" column="18" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/wrapper.py" />
-      <jump line="179" column="72" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/utils/file_io.py" />
-      <jump line="195" column="25" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" />
-      <jump line="28" column="44" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" />
-      <jump line="193" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" />
-      <jump line="10" column="57" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" />
-      <jump line="53" column="29" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" />
-      <jump line="8" column="25" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" />
-      <jump line="55" column="24" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" />
-      <jump line="108" column="52" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_registry.py" />
-      <jump line="482" column="76" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" />
-      <jump line="62" column="17" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/nn/weight_init.py" />
-      <jump line="67" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="6" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="36" column="92" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="135" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="5" column="20" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="242" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="56" column="89" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="331" column="68" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="91" column="45" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/my_prepro.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/my_prepro.py" />
-      <jump line="269" column="4" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/my_prepro.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/my_prepro.py" />
-      <jump line="77" column="68" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="83" column="16" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="89" column="23" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="8" column="22" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="112" column="24" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="114" column="24" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="4" column="8" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="123" column="19" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="6" column="10" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
-      <jump line="127" column="24" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="142" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="7" column="10" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="141" column="36" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
@@ -337,48 +293,141 @@
       <jump line="116" column="4" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="186" column="71" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="50" column="0" filename="$USER_HOME$/Documents/repositories/detectron2/detectron2/layers/batch_norm.py" />
+      <jump line="54" column="30" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/rotated_boxes.py" />
+      <jump line="345" column="48" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/rotated_boxes.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/rotated_boxes.py" />
+      <jump line="6" column="19" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/rotated_boxes.py" />
+      <jump line="8" column="19" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/rotated_boxes.py" />
+      <jump line="346" column="19" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="5" column="19" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="296" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="298" column="93" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="368" column="24" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="2" column="61" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="374" column="21" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="365" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="305" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="371" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
+      <jump line="301" column="73" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="31" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
+      <jump line="315" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="114" column="15" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
+      <jump line="265" column="40" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="267" column="3" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="18" column="34" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="2" column="13" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="489" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="169" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="173" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="190" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="210" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="234" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="249" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="267" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="285" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="310" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="312" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="324" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="326" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="344" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="346" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="358" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="360" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="403" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="405" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="409" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="419" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="421" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="443" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="445" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="447" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="449" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="458" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="460" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="467" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="469" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="488" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="525" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="527" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="538" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="540" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
+      <jump line="77" column="34" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="101" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="29" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="60" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
+      <jump line="215" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="282" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="231" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="343" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="11" column="16" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
+      <jump line="145" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="509" column="52" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="94" column="30" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
+      <jump line="109" column="15" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="119" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="78" column="42" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="163" column="91" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="185" column="39" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="187" column="52" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="188" column="49" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="204" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">cG4K</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>top_block_in_feature_name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlwb2ludF9jb25uZWN0aW9uX3J1bGVzXD4=</text>
+        <text>in_feature</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltYWdlX2ZlYXRzX2ZpbGUuY3JlYXRlX2RhdGFzZXQoJ2ltYWdlc190cmFpbicsIGRhdGE9aW1hZ2VfZmVhdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBubi5Nb2R1bGU6IEZQTiBuZWNrIHdpdGggdG9wX2Jsb2NrIGlzIExhc3RMZXZlbE1heFBvb2wK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">cG4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlX2ZlYXRzLCBhdHRfZmVhdHMsIGNhcHRpb25zID0gcHJlZGljdF9zcGxpdHMoYXJncywgJ3RyYWluJywgaWQycGF0aCwgcHJlZGljdF9mbiwgdm9jYWIpCiAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgc2V0X3RyYWNlKCkKICAgIGltYWdlX2ZlYXRzX2ZpbGUuY3JlYXRlX2RhdGFzZXQoJ2ltYWdlc190cmFpbicsIGRhdGE9aW1hZ2VfZmVhdHMpCiAgICBpbWFnZV9mZWF0cywgYXR0X2ZlYXRzLCBjYXB0aW9ucyA9IHByZWRpY3Rfc3BsaXRzKGFyZ3MsICd2YWwnLCBpZDJwYXRoLCBwcmVkaWN0X2ZuLCB2b2NhYikKICAgIGltYWdlX2ZlYXRzX2ZpbGUuY3JlYXRlX2RhdGFzZXQoJ2ltYWdlc190cmFpbicsIGRhdGE9aW1hZ2VfZmVhdHMpCiAgICBpbWFnZV9mZWF0cywgYXR0X2ZlYXRzLCBjYXB0aW9ucyA9IHByZWRpY3Rfc3BsaXRzKGFyZ3MsICd0ZXN0JywgaWQycGF0aCwgcHJlZGljdF9mbiwgdm9jYWIpCg==</text>
+      <register name="2" type="4">
+        <text>class RPNHeadRegistry(Registry):
+    pass
+
+
+import torchvision.models.detection.r</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltYWdlX2ZlYXRzX2ZpbGUud3JpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wX2Jsb2NrX2luX2ZlYXR1cmUgPSBib3R0b21fdXBfZmVhdHVyZXMuZ2V0KHNlbGYudG9wX2Jsb2NrLmluX2ZlYXR1cmUsIE5vbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltYWdlcHJlZGljdF9zcGxpdHMoYXJncywgJ3ZhbCcsIGlkMnBhdGgsIHByZWRpY3RfZm4sIHZvY2FiKQogICAgcHJlZGljdF9zcGxpdHMoYXJncywgJ3Rlc3QnLCBpZDJwYXRoLCBwcmVkaWN0X2ZuLCB2b2NhYikK</text>
+        <text encoding="base64">ICAgIGZyb20gdG9yY2ggaW1wb3J0IG5uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltYWdlcHJlZGljdF9zcGxpdHMoYXJncywgJ3ZhbCcsIGlkMnBhdGgsIHByZWRpY3RfZm4sIHZvY2FiKQogICAgcHJlZGljdF9zcGxpdHMoYXJncywgJ3Rlc3QnLCBpZDJwYXRoLCBwcmVkaWN0X2ZuLCB2b2NhYikK</text>
+        <text encoding="base64">ICAgIG5lY2sgPSBOZWNrUmVnaXN0cnkuZ2V0KCdSZXRpbmFOZXRfRlBOX05lY2snKShpbnB1dF9zaGFwZSkKICAgIHByaW50KG5lY2sub3V0cHV0X3NoYXBlKQogICAgIyBhID0gdG9yY2gucmFuZCgoMSwgMywgMTAyNCwgMTAyNCkpCiAgICAjIGEgPSByZXNuZXQoYSkKICAgICMgYSA9IG5lY2soYSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmVjay5vdXRwdXRfc2hhcGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tCg==</text>
+        <text encoding="base64">ICAgIGZyb20gZGV0Lm1vZGVscy5iYWNrYm9uZXMgaW1wb3J0IEJhY2tib25lUmVnaXN0cnkKICAgIGZyb20gZGV0Lm1vZGVscy5uZWNrcyBpbXBvcnQgTmVja1JlZ2lzdHJ5CiAgICByZXNuZXQgPSBCYWNrYm9uZVJlZ2lzdHJ5LmdldCgnUmVzTmV0X0JhY2tib25lJykob3V0X2ZlYXR1cmVzPSgncmVzMicsICdyZXMzJywgJ3JlczQnLCAncmVzNScpKQogICAgaW5wdXRfc2hhcGUgPSByZXNuZXQub3V0cHV0X3NoYXBlCiAgICBwcmludChpbnB1dF9zaGFwZSkKICAgIG5lY2sgPSBOZWNrUmVnaXN0cnkuZ2V0KCdSQ05OX0ZQTl9OZWNrJykoaW5wdXRfc2hhcGUpCiAgICBwcmludChuZWNrLm91dHB1dF9zaGFwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkX2NscyA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBfY2hlY2tfdmFsdWUoY2xzLCB2YWx1ZTogQW55KSAtPiBOb25lOgogICAgICAgIGltcG9ydCBmdW5jdG9vbHMKICAgICAgICBpZiBpc3N1YmNsYXNzKHZhbHVlLCBjbHMuZXhwZWN0ZWRfY2xzKSBvciAoaXNpbnN0YW5jZSh2YWx1ZSwgZnVuY3Rvb2xzLnBhcnRpYWwpa2spCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -387,9 +436,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxrZXlwb2ludF9jb25uZWN0aW9uX3J1bGVzXD4=</last-search>
+      <last-search>in_feature</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlwb2ludF9jb25uZWN0aW9uX3J1bGVzXD4=</last-pattern>
+      <last-pattern>in_feature</last-pattern>
       <last-replace />
       <last-substitute>^@TransformGenRegistry.register(</last-substitute>
       <last-dir>1</last-dir>
