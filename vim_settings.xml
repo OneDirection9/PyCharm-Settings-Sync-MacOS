@@ -257,12 +257,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591327749442">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591328549601">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="185" column="36" />
-        <mark key="^" line="185" column="36" />
-        <mark key="." line="185" column="35" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" timestamp="1591262552161">
         <mark key="[" line="6" column="0" />
@@ -391,7 +390,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ci5tYWtldHJhbnMoKQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaHZpc2lvbi5vcHMucG9vbGVycyBpbXBvcnQK</text>
       </register>
       <register name="-" type="4">
         <text>top_block_in_feature_name</text>
@@ -403,35 +402,35 @@
         <text encoding="base64">ICAgICAgICBubi5Nb2R1bGU6IEZQTiBuZWNrIHdpdGggdG9wX2Jsb2NrIGlzIExhc3RMZXZlbE1heFBvb2wK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ci5tYWtldHJhbnMoKQo=</text>
+        <text encoding="base64">ZnJvbSB0b3JjaHZpc2lvbi5vcHMucG9vbGVycyBpbXBvcnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ci50cmFuc2xhdGUoKQo=</text>
+        <text encoding="base64">ICAgIHN0ci5tYWtldHJhbnMoKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0ci50cmFuc2xhdGUoKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">cG4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>class RPNHeadRegistry(Registry):
     pass
 
 
 import torchvision.models.detection.r</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdG9wX2Jsb2NrX2luX2ZlYXR1cmUgPSBib3R0b21fdXBfZmVhdHVyZXMuZ2V0KHNlbGYudG9wX2Jsb2NrLmluX2ZlYXR1cmUsIE5vbmUpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZyb20gdG9yY2ggaW1wb3J0IG5uCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5lY2sgPSBOZWNrUmVnaXN0cnkuZ2V0KCdSZXRpbmFOZXRfRlBOX05lY2snKShpbnB1dF9zaGFwZSkKICAgIHByaW50KG5lY2sub3V0cHV0X3NoYXBlKQogICAgIyBhID0gdG9yY2gucmFuZCgoMSwgMywgMTAyNCwgMTAyNCkpCiAgICAjIGEgPSByZXNuZXQoYSkKICAgICMgYSA9IG5lY2soYSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmVjay5vdXRwdXRfc2hhcGUpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gZGV0Lm1vZGVscy5iYWNrYm9uZXMgaW1wb3J0IEJhY2tib25lUmVnaXN0cnkKICAgIGZyb20gZGV0Lm1vZGVscy5uZWNrcyBpbXBvcnQgTmVja1JlZ2lzdHJ5CiAgICByZXNuZXQgPSBCYWNrYm9uZVJlZ2lzdHJ5LmdldCgnUmVzTmV0X0JhY2tib25lJykob3V0X2ZlYXR1cmVzPSgncmVzMicsICdyZXMzJywgJ3JlczQnLCAncmVzNScpKQogICAgaW5wdXRfc2hhcGUgPSByZXNuZXQub3V0cHV0X3NoYXBlCiAgICBwcmludChpbnB1dF9zaGFwZSkKICAgIG5lY2sgPSBOZWNrUmVnaXN0cnkuZ2V0KCdSQ05OX0ZQTl9OZWNrJykoaW5wdXRfc2hhcGUpCiAgICBwcmludChuZWNrLm91dHB1dF9zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmVjay5vdXRwdXRfc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
