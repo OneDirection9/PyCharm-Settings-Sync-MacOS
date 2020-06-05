@@ -152,7 +152,7 @@
         <mark key="^" line="81" column="48" />
         <mark key="." line="81" column="47" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/feature_pyramid_network.py" timestamp="1591364089625" />
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/feature_pyramid_network.py" timestamp="1591365564294" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/masks.py" timestamp="1590930838814">
         <mark key="[" line="105" column="56" />
         <mark key="]" line="105" column="57" />
