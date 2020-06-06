@@ -134,12 +134,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="204" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591406904273">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591411745825">
         <mark key="'" line="4" column="23" />
-        <mark key="[" line="141" column="35" />
-        <mark key="]" line="141" column="42" />
-        <mark key="." line="141" column="41" />
-        <mark key="^" line="141" column="42" />
+        <mark key="[" line="131" column="35" />
+        <mark key="]" line="131" column="42" />
+        <mark key="." line="131" column="41" />
+        <mark key="^" line="131" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1590843677620">
         <mark key="[" line="21" column="55" />
@@ -173,6 +173,9 @@
         <mark key="." line="172" column="49" />
         <mark key="^" line="172" column="50" />
       </file>
+      <file name="/Python Console" timestamp="1591411480531">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1590823845745" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/instances.py" timestamp="1590930808866">
         <mark key="[" line="109" column="57" />
@@ -197,7 +200,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/fire/core.py" timestamp="1590764745661" />
       <file name="/fpn.py" timestamp="1591363804160" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" timestamp="1590930758031">
         <mark key="'" line="173" column="0" />
