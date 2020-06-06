@@ -134,12 +134,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="204" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591411745825">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591412506754">
         <mark key="'" line="4" column="23" />
-        <mark key="[" line="131" column="35" />
-        <mark key="]" line="131" column="42" />
-        <mark key="." line="131" column="41" />
-        <mark key="^" line="131" column="42" />
+        <mark key="[" line="97" column="65" />
+        <mark key="]" line="98" column="54" />
+        <mark key="." line="98" column="53" />
+        <mark key="^" line="98" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1590843677620">
         <mark key="[" line="21" column="55" />
