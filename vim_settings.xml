@@ -184,12 +184,12 @@
         <mark key="." line="53" column="27" />
         <mark key="^" line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591507207895">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591507232346">
         <mark key="'" line="192" column="0" />
-        <mark key="[" line="206" column="14" />
-        <mark key="]" line="208" column="8" />
-        <mark key="." line="208" column="7" />
-        <mark key="^" line="208" column="8" />
+        <mark key="[" line="209" column="13" />
+        <mark key="]" line="210" column="47" />
+        <mark key="." line="210" column="46" />
+        <mark key="^" line="210" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/instances.py" timestamp="1590930808866">
         <mark key="[" line="109" column="57" />
