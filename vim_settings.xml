@@ -88,12 +88,12 @@
         <entry>g/TransformGen/ d</entry>
         <entry>e</entry>
         <entry>we</entry>
-        <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
         <entry>w'</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>call completor#do('doc')</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -167,7 +167,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591346949949">
+      <file name="/Python Console" timestamp="1591606625171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591601398856">
@@ -182,18 +182,13 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/base.py" timestamp="1591262182148">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="36" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/__init__.py" timestamp="1591606456301">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/models/detection/backbone_utils.py" timestamp="1591591685733" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_heads/rpn2.py" timestamp="1591262133276">
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/base.py" timestamp="1591330852502">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -218,12 +213,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591594633080">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="200" column="51" />
-        <mark key="]" line="200" column="41" />
-        <mark key="." line="200" column="40" />
-        <mark key="^" line="200" column="41" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591608961689">
+        <mark key="'" line="180" column="36" />
+        <mark key="[" line="57" column="52" />
+        <mark key="]" line="58" column="43" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1591346654137">
         <mark key="'" line="87" column="8" />
@@ -231,6 +226,9 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="77" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591607917191">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/prepro.py" timestamp="1591586629965" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/poolers.py" timestamp="1591327772012">
@@ -243,12 +241,12 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" timestamp="1591602064675">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="167" column="31" />
-        <mark key="]" line="167" column="32" />
-        <mark key="." line="167" column="31" />
-        <mark key="^" line="167" column="32" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" timestamp="1591607886214">
+        <mark key="'" line="224" column="4" />
+        <mark key="[" line="174" column="12" />
+        <mark key="]" line="174" column="18" />
+        <mark key="." line="174" column="17" />
+        <mark key="^" line="174" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/shape_spec.py" timestamp="1591329768262">
         <mark key="[" line="5" column="0" />
@@ -262,25 +260,15 @@
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591594301900">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591606687606">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="107" column="97" />
-        <mark key="]" line="107" column="104" />
-        <mark key="." line="107" column="103" />
-        <mark key="^" line="107" column="104" />
+        <mark key="[" line="121" column="13" />
+        <mark key="]" line="121" column="14" />
+        <mark key="." line="121" column="13" />
+        <mark key="^" line="121" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="301" column="73" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
-      <jump line="31" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
-      <jump line="315" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
-      <jump line="114" column="15" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn_v2.py" />
-      <jump line="265" column="40" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
-      <jump line="267" column="3" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
-      <jump line="18" column="34" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
-      <jump line="2" column="13" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
-      <jump line="489" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="169" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="173" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
@@ -371,48 +359,58 @@
       <jump line="211" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" />
+      <jump line="379" column="9" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" />
+      <jump line="123" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" />
+      <jump line="234" column="71" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" />
+      <jump line="159" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" />
+      <jump line="224" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" />
+      <jump line="2" column="38" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="151" column="67" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="179" column="36" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhcnQyOiBmcm9tIHRvcF9ibG9jawogICAgICAgIGlmIHNlbGYudG9wX2Jsb2NrIGlzIG5vdCBOb25lOgogICAgICAgICAgICBvdXRwdXRzLnVwZGF0ZShzZWxmLnRvcF9ibG9jayh4Wy0xXSwgb3V0cHV0c1tzZWxmLl9vdXRwdXRfbmFtZXNbLTFdXSkpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fpn_features</text>
+        <text>layers.BaseModule</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRfY2hhbm5lbHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgRlBOKGxheWVycy5CYXNlTW9kdWxlKToKICAgICIiImBGZWF0dXJlIFB5cmFtaWQgTmV0d29ya3MgZm9yIE9iamVjdCBEZXRlY3Rpb25gXy4KCiAgICAuLl9gRmVhdHVyZSBQeXJhbWlkIE5ldHdvcmtzIGZvciBPYmplY3QgRGV0ZWN0aW9uYDoKICAgICAgICBodHRwczovL2FyeGl2Lm9yZy9hYnMvMTYxMi4wMzE0NAogICAgIiIiCgogICAgZGVmIF9faW5pdF9fKAogICAgICAgIHNlbGYsCiAgICAgICAgaW5wdXRfc2hhcGU6IERpY3Rbc3RyLCBsYXllcnMuU2hhcGVTcGVjXSwKICAgICAgICBpbl9mZWF0dXJlczogTGlzdFtzdHJdID0gKCdyZXMyJywgJ3JlczMnLCAncmVzNCcsICdyZXM1JyksCiAgICAgICAgb3V0X2NoYW5uZWxzOiBpbnQgPSAyNTYsCiAgICAgICAgbm9ybTogVW5pb25bc3RyLCBDYWxsYWJsZV0gPSAnJywKICAgICAgICBmdXNlX3R5cGU6IHN0ciA9ICdzdW0nLAogICAgICAgIHRvcF9ibG9jazogT3B0aW9uYWxbbm4uTW9kdWxlXSA9IE5vbmUsCiAgICApIC0+IE5vbmU6CiAgICAgICAgIiIiCiAgICAgICAgQXJnczoKICAgICAgICAgICAgaW5wdXRfc2hhcGU6IE1hcHBpbmcgZnJvbSBmZWF0dXJlIG5hbWUgKGUuZy4gInJlczIiKSB0byBmZWF0dXJlIG1hcCBzaGFwZS4KICAgICAgICAgICAgaW5fZmVhdHVyZXM6IE5hbWUgb2YgdGhlIGlucHV0IGZlYXR1cmUgbWFwcyBjb21pbmcgZnJvbSB0aGUgYmFja2JvbmUgdG8gd2hpY2ggRlBOIGlzCiAgICAgICAgICAgICAgICBhdHRhY2hlZC4gRm9yIGV4YW1wbGUsIGlmIHRoZSBiYWNrYm9uZSBwcm9kdWNlcyBbInJlczIiLCAicmVzMyIsICJyZXM0Il0sIGFueQogICAgICAgICAgICAgICAgKmNvbnRpZ3VvdXMqIHN1Ymxpc3Qgb2YgdGhlc2UgbWF5IGJlIHVzZWQ7IG9yZGVyIG11c3QgYmUgZnJvbSBoaWdoIHRvIGxvdwogICAgICAgICAgICAgICAgcmVzb2x1dGlvbi4KICAgICAgICAgICAgb3V0X2NoYW5uZWxzOiBOdW1iZXIgb2YgY2hhbm5lbHMgaW4gdGhlIG91dHB1dCBmZWF0dXJlIG1hcHMuCiAgICAgICAgICAgIG5vcm06IE5vcm1hbGl6YXRpb24gZm9yIGxhdGVyYWwgYW5kIG91dHB1dCBjb252IGxheWVycy4gU2VlIDpmdW5jOmBnZXRfbm9ybWAgZm9yCiAgICAgICAgICAgICAgICBzdXBwb3J0ZWQgZm9ybWF0LgogICAgICAgICAgICBmdXNlX3R5cGUgKHN0cik6IFR5cGVzIGZvciBmdXNpbmcgdGhlIHRvcCBkb3duIGZlYXR1cmVzIGFuZCB0aGUgbGF0ZXJhbCBvbmVzLiBJdCBjYW4gYmUKICAgICAgICAgICAgICAgICJzdW0iIChkZWZhdWx0KSwgd2hpY2ggc3VtcyB1cCBlbGVtZW50LXdpc2U7IG9yICJhdmciLCB3aGljaCB0YWtlcyB0aGUgZWxlbWVudC13aXNlCiAgICAgICAgICAgICAgICBtZWFuIG9mIHRoZSB0d28uCiAgICAgICAgICAgIHRvcF9ibG9jazogSWYgcHJvdmlkZWQsIGFuIGV4dHJhIG9wZXJhdGlvbiB3aWxsIGJlIHBlcmZvcm1lZCBvbiB0aGUgbGFzdCBvdXRwdXQgb2YgdGhlCiAgICAgICAgICAgICAgICBib3R0b20tdXAgZmVhdHVyZXMgb3IgRlBOIG91dHB1dCAoc21hbGxlc3QgcmVzb2x1dGlvbiksIGFuZCB0aGUgcmVzdWx0IHdpbGwgZXh0ZW5kCiAgICAgICAgICAgICAgICB0aGUgcmVzdWx0IGxpc3QuIFRoZSB0b3BfYmxvY2sgZnVydGhlciBkb3duc2FtcGxlcyB0aGUgZmVhdHVyZSBtYXAuIEl0IG11c3QKICAgICAgICAgICAgICAgIGhhdmUgYW4gYXR0cmlidXRlICJudW1fbGV2ZWxzIiwgbWVhbmluZyB0aGUgbnVtYmVyIG9mIGV4dHJhIEZQTiBsZXZlbHMgYWRkZWQgYnkKICAgICAgICAgICAgICAgIHRoaXMgYmxvY2ssIGFuZCAiaW5fZmVhdHVyZXMiLCB3aGljaCBpcyBhIHN0cmluZyByZXByZXNlbnRpbmcgaXRzIGlucHV0IGZlYXR1cmUKICAgICAgICAgICAgICAgIChlLmcuLCBwNSBvciByZXM1KS4gVXN1YWxseSB1c2UgYSB3cmFwcGVyIHRoYXQgY3JlYXRlIHRvcF9ibG9jayBhbmQgcGFzcyBpdCB0byBGUE4uCiAgICAgICAgIiIiCiAgICAgICAgc3VwZXIoRlBOLCBzZWxmKS5fX2luaXRfXygpCgogICAgICAgIGlmIGZ1c2VfdHlwZSBub3QgaW4gWydhdmcnLCAnc3VtJ106CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ2Z1c2VfdHlwZSBzaG91bGQgYmUgZWl0aGVyIGF2ZyBvciBzdW0uIEdvdCB7fScuZm9ybWF0KGZ1c2VfdHlwZSkpCgogICAgICAgIGluX2NoYW5uZWxzID0gW2lucHV0X3NoYXBlW2ZdLmNoYW5uZWxzIGZvciBmIGluIGluX2ZlYXR1cmVzXQogICAgICAgIGluX3N0cmlkZXMgPSBbaW5wdXRfc2hhcGVbZl0uc3RyaWRlIGZvciBmIGluIGluX2ZlYXR1cmVzXQogICAgICAgIF9hc3NlcnRfc3RyaWRlc19hcmVfbG9nMl9jb250aWd1b3VzKGluX3N0cmlkZXMpCgogICAgICAgIHNlbGYuX3NpemVfZGl2aXNpYmlsaXR5ID0gaW5fc3RyaWRlc1stMV0KICAgICAgICBzZWxmLl9pbl9mZWF0dXJlcyA9IGluX2ZlYXR1cmVzCiAgICAgICAgc2VsZi5fZnVzZV90eXBlID0gZnVzZV90eXBlCgogICAgICAgIHNlbGYudG9wX2Jsb2NrID0gdG9wX2Jsb2NrCiAgICAgICAgc2VsZi5fb3V0X2ZlYXR1cmVzID0gW10KICAgICAgICBzZWxmLl9vdXRwdXRfc2hhcGUgPSB7fQogICAgICAgIHNlbGYuX2xhdGVyYWxfbmFtZXMgPSBbXQogICAgICAgIHNlbGYuX291dHB1dF9uYW1lcyA9IFtdCgogICAgICAgIHVzZV9iaWFzID0gbm9ybSA9PSAnJwogICAgICAgIGZvciBzdHJpZGUsIGNoYW5uZWxzIGluIHppcChpbl9zdHJpZGVzLCBpbl9jaGFubmVscyk6CiAgICAgICAgICAgIGxhdGVyYWxfbm9ybSA9IGxheWVycy5nZXRfbm9ybShub3JtLCBvdXRfY2hhbm5lbHMpCiAgICAgICAgICAgIG91dHB1dF9ub3JtID0gbGF5ZXJzLmdldF9ub3JtKG5vcm0sIG91dF9jaGFubmVscykKCiAgICAgICAgICAgIGxhdGVyYWxfY29udiA9IGxheWVycy5Db252MmQoCiAgICAgICAgICAgICAgICBjaGFubmVscywgb3V0X2NoYW5uZWxzLCBrZXJuZWxfc2l6ZT0xLCBiaWFzPXVzZV9iaWFzLCBub3JtPWxhdGVyYWxfbm9ybQogICAgICAgICAgICApCiAgICAgICAgICAgIG91dHB1dF9jb252ID0gbGF5ZXJzLkNvbnYyZCgKICAgICAgICAgICAgICAgIG91dF9jaGFubmVscywKICAgICAgICAgICAgICAgIG91dF9jaGFubmVscywKICAgICAgICAgICAgICAgIGtlcm5lbF9zaXplPTMsCiAgICAgICAgICAgICAgICBzdHJpZGU9MSwKICAgICAgICAgICAgICAgIHBhZGRpbmc9MSwKICAgICAgICAgICAgICAgIGJpYXM9dXNlX2JpYXMsCiAgICAgICAgICAgICAgICBub3JtPW91dHB1dF9ub3JtCiAgICAgICAgICAgICkKICAgICAgICAgICAgd2VpZ2h0X2luaXQuY2FmZmUyX3hhdmllcl9pbml0KGxhdGVyYWxfY29udikKICAgICAgICAgICAgd2VpZ2h0X2luaXQuY2FmZmUyX3hhdmllcl9pbml0KG91dHB1dF9jb252KQoKICAgICAgICAgICAgc3RhZ2UgPSBpbnQobWF0aC5sb2cyKHN0cmlkZSkpCgogICAgICAgICAgICBsYXRlcmFsX25hbWUgPSAnbGF0ZXJhbHt9Jy5mb3JtYXQoc3RhZ2UpCiAgICAgICAgICAgIHNlbGYuYWRkX21vZHVsZShsYXRlcmFsX25hbWUsIGxhdGVyYWxfY29udikKICAgICAgICAgICAgc2VsZi5fbGF0ZXJhbF9uYW1lcy5hcHBlbmQobGF0ZXJhbF9uYW1lKQoKICAgICAgICAgICAgb3V0cHV0X25hbWUgPSAncHt9Jy5mb3JtYXQoc3RhZ2UpCiAgICAgICAgICAgIHNlbGYuYWRkX21vZHVsZShvdXRwdXRfbmFtZSwgb3V0cHV0X2NvbnYpCiAgICAgICAgICAgIHNlbGYuX291dHB1dF9uYW1lcy5hcHBlbmQob3V0cHV0X25hbWUpCiAgICAgICAgICAgIHNlbGYuX291dHB1dF9zaGFwZVtvdXRwdXRfbmFtZV0gPSBsYXllcnMuU2hhcGVTcGVjKGNoYW5uZWxzPW91dF9jaGFubmVscywgc3RyaWRlPXN0cmlkZSkKCiAgICAgICAgYXNzZXJ0IHNldChzZWxmLl9vdXRwdXRfc2hhcGUua2V5cygpKS5pc3N1YnNldChbbmFtZSBmb3IgbmFtZSwgXyBpbiBzZWxmLm5hbWVkX2NoaWxkcmVuKCldKQoKICAgICAgICBpZiBzZWxmLnRvcF9ibG9jayBpcyBub3QgTm9uZToKICAgICAgICAgICAgYXNzZXJ0IG5vdCBzZXQoc2VsZi5fb3V0cHV0X3NoYXBlLmtleXMoKSkuaXNkaXNqb2ludCgKICAgICAgICAgICAgICAgIHNldChzZWxmLnRvcF9ibG9jay5vdXRwdXRfc2hhcGUua2V5cygpKQogICAgICAgICAgICApLCAiRlBOIGJvZHkgbGF5ZXJzIHNob3VsZG4ndCBoYXZlIHRoZSBzYW1lIG5hbWUgYXMgdG9wX2Jsb2NrJ3MiCiAgICAgICAgICAgIHNlbGYuX291dHB1dF9zaGFwZS51cGRhdGUoc2VsZi50b3BfYmxvY2sub3V0cHV0X3NoYXBlKQoKICAgIGRlZiBmb3J3YXJkKHNlbGYsIGJvdHRvbV91cF9mZWF0dXJlczogRGljdFtzdHIsIHRvcmNoLlRlbnNvcl0pIC0+IERpY3Rbc3RyLCB0b3JjaC5UZW5zb3JdOgogICAgICAgIHggPSBbYm90dG9tX3VwX2ZlYXR1cmVzW2ZdIGZvciBmIGluIHNlbGYuX2luX2ZlYXR1cmVzXQoKICAgICAgICAjIEJ1aWxkIGxhdGVyYWxzCiAgICAgICAgbGF0ZXJhbHMgPSBbZ2V0YXR0cihzZWxmLCBuYW1lKSh4X2kpIGZvciBuYW1lLCB4X2kgaW4gemlwKHNlbGYuX2xhdGVyYWxfbmFtZXMsIHgpXQoKICAgICAgICAjIEJ1aWxkIHRvcC1kb3duIHBhdGgKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obGF0ZXJhbHMpIC0gMSwgMCwgLTEpOgogICAgICAgICAgICBsYXRlcmFsc1tpIC0gMV0gKz0gRi5pbnRlcnBvbGF0ZShsYXRlcmFsc1tpXSwgc2NhbGVfZmFjdG9yPTIsIG1vZGU9J25lYXJlc3QnKQogICAgICAgICAgICBpZiBzZWxmLl9mdXNlX3R5cGUgPT0gJ2F2Zyc6CiAgICAgICAgICAgICAgICBsYXRlcmFsc1tpIC0gMV0gLz0gMgoKICAgICAgICAjIEJ1aWxkIG91dHB1dAogICAgICAgICMgcGFydDE6IGZyb20gb3JpZ2luYWwgbGV2ZWxzCiAgICAgICAgb3V0cHV0cyA9IHsKICAgICAgICAgICAgbmFtZTogZ2V0YXR0cihzZWxmLCBuYW1lKShsYXRlcmFsKQogICAgICAgICAgICBmb3IgbmFtZSwgbGF0ZXJhbCBpbiB6aXAoc2VsZi5fb3V0cHV0X25hbWVzLCBsYXRlcmFscykKICAgICAgICB9CiAgICAgICAgIyBwYXJ0MjogZnJvbSB0b3BfYmxvY2sKICAgICAgICBpZiBzZWxmLnRvcF9ibG9jayBpcyBub3QgTm9uZToKICAgICAgICAgICAgb3V0cHV0cy51cGRhdGUoc2VsZi50b3BfYmxvY2soeFstMV0sIG91dHB1dHNbc2VsZi5fb3V0cHV0X25hbWVzWy0xXV0pKQoKICAgICAgICByZXR1cm4gb3V0cHV0cwoKICAgIEBwcm9wZXJ0eQogICAgZGVmIG91dHB1dF9zaGFwZShzZWxmKSAtPiBEaWN0W3N0ciwgbGF5ZXJzLlNoYXBlU3BlY106CiAgICAgICAgcmV0dXJuIHNlbGYuX291dHB1dF9zaGFwZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHNpemVfZGl2aXNpYmlsaXR5KHNlbGYpIC0+IGludDoKICAgICAgICByZXR1cm4gc2VsZi5fc2l6ZV9kaXZpc2liaWxpdHkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2V0KHNlbGYuX291dHB1dF9zaGFwZS5rZXlzKCkpLmlzc3Vic2V0KFtuYW1lIGZvciBuYW1lLCBfIGluIHNlbGYubmFtZWRfY2hpbGRyZW4oKV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhcnQyOiBmcm9tIHRvcF9ibG9jawogICAgICAgIGlmIHNlbGYudG9wX2Jsb2NrIGlzIG5vdCBOb25lOgogICAgICAgICAgICBvdXRwdXRzLnVwZGF0ZShzZWxmLnRvcF9ibG9jayh4Wy0xXSwgb3V0cHV0c1tzZWxmLl9vdXRwdXRfbmFtZXNbLTFdXSkpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgc2VsZi50b3BfYmxvY2sgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGFzc2VydCBub3Qgc2V0KHNlbGYuX291dHB1dF9zaGFwZS5rZXlzKCkpLmlzZGlzam9pbnQoCiAgICAgICAgICAgICAgICBzZXQoc2VsZi50b3BfYmxvY2sub3V0cHV0X3NoYXBlLmtleXMoKSkKICAgICAgICAgICAgKSwgIkZQTiBib2R5IGxheWVycyBzaG91bGRuJ3QgaGF2ZSB0aGUgc2FtZSBuYW1lIGFzIHRvcF9ibG9jaydzIgogICAgICAgICAgICBzZWxmLl9vdXRwdXRfc2hhcGUudXBkYXRlKHNlbGYudG9wX2Jsb2NrLm91dHB1dF9zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHNldChzZWxmLl9vdXRwdXRfc2hhcGUua2V5cygpKS5pc2Rpc2pvaW50KAogICAgICAgICAgICAgICAgc2V0KHNlbGYudG9wX2Jsb2NrLm91dHB1dF9zaGFwZS5rZXlzKCkpCiAgICAgICAgICAgICksICJGUE4gYm9keSBvdXRwdXRfc2hhcGUgc2hvdWxkbid0IGhhdmUgdGhlIHNhbWUgbmFtZSBhcyB0b3BfYmxvY2sncyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRvcF9ibG9jayA9IHRvcF9ibG9jawo=</text>
+        <text encoding="base64">ICAgICdMYXN0TGV2ZWxNYXhQb29sJywKICAgICdMYXN0TGV2ZWxQNlA3JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wX2Jsb2NrOiBJZiBwcm92aWRlZCwgYW4gZXh0cmEgb3BlcmF0aW9uIHdpbGwgYmUgcGVyZm9ybWVkIG9uIHRoZSBsYXN0IG91dHB1dCBvZiB0aGUKICAgICAgICAgICAgICAgIGJvdHRvbS11cCBmZWF0dXJlcyBvciBGUE4gb3V0cHV0IChzbWFsbGVzdCByZXNvbHV0aW9uKSwgYW5kIHRoZSByZXN1bHQgd2lsbCBleHRlbmQKICAgICAgICAgICAgICAgIHRoZSByZXN1bHQgbGlzdC4gVGhlIHRvcF9ibG9jayBmdXJ0aGVyIGRvd25zYW1wbGVzIHRoZSBmZWF0dXJlIG1hcC4gSXQgbXVzdAogICAgICAgICAgICAgICAgaGF2ZSBhbiBhdHRyaWJ1dGUgIm51bV9sZXZlbHMiLCBtZWFuaW5nIHRoZSBudW1iZXIgb2YgZXh0cmEgRlBOIGxldmVscyBhZGRlZCBieQogICAgICAgICAgICAgICAgdGhpcyBibG9jaywgYW5kICJpbl9mZWF0dXJlcyIsIHdoaWNoIGlzIGEgc3RyaW5nIHJlcHJlc2VudGluZyBpdHMgaW5wdXQgZmVhdHVyZQogICAgICAgICAgICAgICAgKGUuZy4sIHA1IG9yIHJlczUpLiBVc3VhbGx5IHVzZSBhIHdyYXBwZXIgdGhhdCBjcmVhdGUgdG9wX2Jsb2NrIGFuZCBwYXNzIGl0IHRvIEZQTi4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICAncDYnOiBGLm1heF9wb29sMmQoCiAgICAgICAgICAgICAgICBmcG5fYm9keV9mZWF0dXJlc1tzZWxmLl9pbl9mZWF0dXJlXSwga2VybmVsX3NpemU9MSwgc3RyaWRlPTIsIHBhZGRpbmc9MAogICAgICAgICAgICApICAjIHlhcGY6IGRpc2FibGUKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b3BfYmxvY2s6IE9wdGlvbmFsW25uLk1vZHVsZV0gPSBOb25lLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgRlBOQm9keShsYXllcnMuQmFzZU1vZHVsZSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wX2Jsb2NrX2luX2ZlYXR1cmUgPSBib3R0b21fdXBfZmVhdHVyZXMuZ2V0KHNlbGYudG9wX2Jsb2NrLmluX2ZlYXR1cmUsIE5vbmUpCiAgICAgICAgICAgIGlmIHRvcF9ibG9ja19pbl9mZWF0dXJlIGlzIE5vbmU6CiAgICAgICAgICAgICAgICB0b3BfYmxvY2tfaW5fZmVhdHVyZSA9IG91dHB1dHNbc2VsZi5fb3V0X2ZlYXR1cmVzLmluZGV4KHNlbGYudG9wX2Jsb2NrLmluX2ZlYXR1cmUpXQogICAgICAgICAgICBvdXRwdXRzLnVwZGF0ZShzZWxmLnRvcF9ibG9jayh0b3BfYmxvY2tfaW5fZmVhdHVyZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhZ2UgPSBpbnQobWF0aC5sb2cyKGluX3N0cmlkZXNbLTFdKSkgKyAxCiAgICAgICAgICAgIGZvciBzIGluIHJhbmdlKHN0YWdlLCBzdGFnZSArIHNlbGYudG9wX2Jsb2NrLm51bV9sZXZlbHMpOgogICAgICAgICAgICAgICAgbmFtZSA9ICdwe30nLmZvcm1hdChzKQogICAgICAgICAgICAgICAgc2VsZi5fb3V0cHV0X3NoYXBlW25hbWVdID0gbGF5ZXJzLlNoYXBlU3BlYyhjaGFubmVscz1vdXRfY2hhbm5lbHMsIHN0cmlkZT0yICoqIHMpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIGJvdHRvbV91cF9mZWF0dXJlczogRGljdFtzdHIsIHRvcmNoLlRlbnNvcl0sCiAgICAgICAgICAgICAgICBmcG5fYm9keV9mZWF0dXJlczogRGljdFtzdHIsIHRvcmNoLlRlbnNvcl0pIC0+IERpY3Rbc3RyLCB0b3JjaC5UZW5zb3JdOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRzID0ge30K</text>
+        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIGJvdHRvbV91cF9mZWF0dXJlcywgZnBuX2JvZHlfZmVhdHVyZXMpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
