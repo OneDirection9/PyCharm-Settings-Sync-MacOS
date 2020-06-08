@@ -170,11 +170,12 @@
       <file name="/Python Console" timestamp="1591346949949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591585828687">
-        <mark key="'" line="476" column="4" />
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="399" column="0" />
-        <mark key="." line="399" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591592406666">
+        <mark key="'" line="481" column="4" />
+        <mark key="[" line="331" column="35" />
+        <mark key="]" line="331" column="35" />
+        <mark key="^" line="331" column="35" />
+        <mark key="." line="331" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1591330874756">
         <mark key="[" line="0" column="1" />
