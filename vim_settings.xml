@@ -203,7 +203,13 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591586408571" />
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591590711556">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="145" column="41" />
+        <mark key="]" line="145" column="41" />
+        <mark key="." line="145" column="41" />
+        <mark key="^" line="143" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/registry.py" timestamp="1591330898150">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="24" />
@@ -231,9 +237,7 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="58" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591253633088">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/prepro.py" timestamp="1591586629965" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/poolers.py" timestamp="1591327772012">
         <mark key="'" line="231" column="8" />
       </file>
@@ -270,15 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="296" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="298" column="93" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="238" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="368" column="24" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="2" column="61" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="374" column="21" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="365" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
-      <jump line="305" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
       <jump line="371" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" />
       <jump line="301" column="73" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
@@ -370,15 +365,24 @@
       <jump line="203" column="31" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="116" column="12" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="157" column="5" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="8" column="10" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="218" column="4" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="161" column="9" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="211" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWdpc3Rlcl9iYWNrd2FyZF9ob29rKHNlbGYsIGhvb2s6IENhbGxhYmxlWwogICAgICAgIFsnTW9kdWxlJywgX2dyYWRfdCwgX2dyYWRfdF0sIFVuaW9uW05vbmUsIFRlbnNvcl1dKSAtPiBSZW1vdmFibGVIYW5kbGU6CiAgICAgICAgc3VwZXIoUmVzTmV0LCBzZWxmKS5yZWdpc3Rlcl9iYWNrd2FyZF9ob29rKCkK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRfY2hhbm5lbHNcPg==</text>
@@ -387,31 +391,31 @@
         <text encoding="base64">ICAgICMgVE9ETzogY29uc2lkZXIgdXNpbmcgaW5zcGVjdC5zaWduYXR1cmUgdG8gZXh0cmFjdCBhcmd1bWVudHMgYXV0b21hdGljYWxseQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiByZWdpc3Rlcl9iYWNrd2FyZF9ob29rKHNlbGYsIGhvb2s6IENhbGxhYmxlWwogICAgICAgIFsnTW9kdWxlJywgX2dyYWRfdCwgX2dyYWRfdF0sIFVuaW9uW05vbmUsIFRlbnNvcl1dKSAtPiBSZW1vdmFibGVIYW5kbGU6CiAgICAgICAgc3VwZXIoUmVzTmV0LCBzZWxmKS5yZWdpc3Rlcl9iYWNrd2FyZF9ob29rKCkK</text>
+        <text encoding="base64">ICAgIGNhcHRpb25zLmFwcGVuZCh3b3JkcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdvcmRzID0gW10KICAgIGZvciB3b3JkX2lkIGluIHdvcmRfaWRzOgogICAgICAgIGlmIHdvcmRfaWQgPT0gdm9jYWIuZW5kX2lkeDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICB3b3Jkcy5hcHBlbmQodm9jYWIuaWR4X3RvX3dvcmQod29yZF9pZCkpCgogICAgY2FwdGlvbiA9ICcgJy5qb2luKHdvcmRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGltYWdlID0gbG9hZF9hbmRfcmVzaXplX2ltYWdlKGltYWdlX3BhdGgpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrd2FyZ3M6IEtleXdvcmQgYXJndW1lbnRzIG9mIGNvbnN0cnVjdG9yIG9mIEZQTiwgZXhjZXB0IHRvcF9ibG9jay4K</text>
+        <text encoding="base64">ICAgIGltYWdlID0gbnAuZXhwYW5kX2RpbXMoaW1hZ2UsIGF4aXM9MCkgICMgSHhXeEMgLT4gTnhIeFd4Qwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBvdXRfY2hhbm5lbHMgIT0gc2lnLmVtcHR5Cg==</text>
+        <text encoding="base64">ICAgIHRvdGFsX3NpemUgPSBsZW4oaW1hZ2VfaWRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlucHV0X3NoYXBlID0ga3dhcmdzWydpbnB1dF9zaGFwZSddCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdOdW1iZXIgb2Yge30gaW1hZ2VzIGlzOiB7fScuZm9ybWF0KHNwbGl0LCB0b3RhbF9zaXplKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgR2V0IGRlZmF1bHQgdmFsdWUgZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ051bWJlciBvZiB7fSBpbWFnZXMgaXM6IHt9Jy5mb3JtYXQoc3BsaXQsIGxlbihjYXB0aW9ucykpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpZy5wYXJhbWV0ZXJzWydvdXRfY2hhbm5lbHMnXS5lbXB0eQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
