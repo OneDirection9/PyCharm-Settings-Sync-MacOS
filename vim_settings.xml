@@ -167,7 +167,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591689259241">
+      <file name="/Python Console" timestamp="1591696321391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591683172538">
@@ -205,11 +205,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591695878121">
-        <mark key="[" line="175" column="17" />
-        <mark key="]" line="175" column="85" />
-        <mark key="." line="175" column="84" />
-        <mark key="^" line="175" column="85" />
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591696928087">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="173" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591686312895">
         <mark key="[" line="265" column="0" />
@@ -238,8 +238,12 @@
         <mark key="." line="76" column="47" />
         <mark key="^" line="76" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf2.py" timestamp="1591696254824">
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf2.py" timestamp="1591697031599">
         <mark key="'" line="177" column="37" />
+        <mark key="[" line="179" column="35" />
+        <mark key="]" line="182" column="93" />
+        <mark key="^" line="182" column="93" />
+        <mark key="." line="182" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1591683719813">
         <mark key="'" line="58" column="0" />
@@ -372,7 +376,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGltYWdlX2lkLCBpbWFnZV9mZWF0X2ksIGF0dF9mZWF0X2kgaW4gemlwKGJhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKICAgICAgICAgICAgc2V0X3RyYWNlKCkKCg==</text>
       </register>
       <register name="-" type="4">
         <text>image_feat_save_dir</text>
@@ -384,31 +388,31 @@
         <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhpbWFnZV9mZWF0X3NhdmVfZGlyLCBleGlzdF9vaz1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGltYWdlX2lkLCBpbWFnZV9mZWF0X2ksIGF0dF9mZWF0X2kgaW4gemlwKGJhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKICAgICAgICAgICAgc2V0X3RyYWNlKCkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZGljdF9zdGFydCA9IHRpbWUucGVyZl9jb3VudGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1RpbWUgb2YgcHJlZGljdGluZzoge30nLmZvcm1hdCh0aW1lLnBlcmZfY291bnRlcigpIC0gcHJlZGljdF9zdGFydCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAoKICAgICAgICAgICAgZm9yIGssIGltYWdlX2lkIGluIGVudW1lcmF0ZShiYXRjaF9pZHMpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1RpbWUgb2YgbG9hZGluZyBpbWFnZXM6IHt9Jy5mb3JtYXQodGltZS5wZXJmX2NvdW50ZXIoKSAtIGxvYWRfc3RhcnQpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIGkgJSAoYmF0Y2hfc2l6ZSAqIDEwKSA9PSAwOgogICAgICAgICAgICAgICAgZW5kX3RpbWUgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICAgICAgICAgICAgICBwcmludCgne30gLSB7fToge30ve30nLmZvcm1hdChzcGxpdCwgZW5kX3RpbWUgLSBzdGFydF90aW1lLCBpICsgMSwgbGVuKGltYWdlX2lkcykpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZF9zdGFydCA9IHRpbWUucGVyZl9jb3VudGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9mZWF0X3NhdmVfZGlyID0gb3NwLmpvaW4oYXJncy5zYXZlX2RpciwgJ2ltYWdlX2ZlYXQnKQogICAgICAgIG9zLm1ha2VkaXJzKGltYWdlX2ZlYXRfc2F2ZV9kaXIsIGV4aXN0X29rPVRydWUpCiAgICAgICAgYXR0X2ZlYXRfc2F2ZV9kaXIgPSBvc3Auam9pbihhcmdzLnNhdmVfZGlyLCAnYXR0X2ZlYXQnKQogICAgICAgIG9zLm1ha2VkaXJzKGF0dF9mZWF0X3NhdmVfZGlyLCBleGlzdF9vaz1UcnVlKQogICAgICAgIGNhcHRpb25fc2F2ZV9kaXIgPSBvc3Auam9pbihhcmdzLnNhdmVfZGlyLCAnY2FwdGlvbicpCiAgICAgICAgb3MubWFrZWRpcnMoY2FwdGlvbl9zYXZlX2RpciwgZXhpc3Rfb2s9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSBpcGRiIGltcG9ydCBzZXRfdHJhY2UKICAgICAgICAgICAgc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICBmb3IgbywgKGltYWdlX2lkLCBjYXB0aW9uLCBjb25mKSBpbiBlbnVtZXJhdGUoemlwKGJhdGNoX2lkcywgY2FwdGlvbiwgY29uZikpOgogICAgICAgICAgICAgICAgY2FwdGlvbnNbaSArIG9dID0gewogICAgICAgICAgICAgICAgICAgICdpbWFnZV9pZCc6IGltYWdlX2lkLAogICAgICAgICAgICAgICAgICAgICdjYXB0aW9uJzogY2FwdGlvbiwKICAgICAgICAgICAgICAgICAgICAnY29uZic6IGNvbmYKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGltYWdlX2lkLCBpbWFnZV9mZWF0X2ksIGF0dF9mZWF0X2kgaW4gemlwKGJhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2ltYWdlX2lkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfZmVhdCA9IG5wLm1lYW4oaW1hZ2VfZmVhdCwgYXhpcz0oMSwgMikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
