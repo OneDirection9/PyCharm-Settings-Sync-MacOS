@@ -184,6 +184,11 @@
         <mark key="." line="53" column="27" />
         <mark key="^" line="53" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf2.py" timestamp="1591704058563">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591621122962">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="58" column="0" />
@@ -311,7 +316,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdG9yY2h2aXNpb24ub3BzLmZlYXR1cmVfcHlyYW1pZF9uZXR3b3JrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -323,31 +328,31 @@
         <text encoding="base64">cHJpbnQoe2s6IHYuc2hhcGUgZm9yIGssIHYgaW4geS5pdGVtcygpfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdG9yY2h2aXNpb24ub3BzLmZlYXR1cmVfcHlyYW1pZF9uZXR3b3JrCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2VpZ2h0X2luaXQuYzJfeGF2aWVyX2ZpbGwobW9kdWxlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdG9yY2h2aXNpb24ub3BzLmZlYXR1cmVfcHlyYW1pZF9uZXR3b3JrCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2VpZ2h0X2luaXQuYzJfeGF2aWVyX2ZpbGwobW9kdWxlKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">cHJpbnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQocmVzbmV0Lm91dHB1dF9zaGFwZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQocmVzbmV0Lm91dHB1dF9zaGFwZSkK</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wX2Jsb2NrX291dHB1dHMuCg==</text>
+        <text encoding="base64">cHJpbnQocmVzbmV0Lm91dHB1dF9zaGFwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdGUE4nLAo=</text>
+        <text encoding="base64">cHJpbnQocmVzbmV0Lm91dHB1dF9zaGFwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
