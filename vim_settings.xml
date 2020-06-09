@@ -92,8 +92,8 @@
         <entry>call completor#do('doc')</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
-        <entry>noh</entry>
         <entry>w'</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -194,17 +194,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/registry.py" timestamp="1591675439018">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/base.py" timestamp="1591330021287">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/registry.py" timestamp="1591675451904">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591673437127">
         <mark key="[" line="121" column="0" />
@@ -229,20 +223,25 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/prepro.py" timestamp="1591586629965" />
-      <file name="$USER_HOME$/anaconda3/envs/visdial/lib/python3.6/site-packages/tensorflow/contrib/predictor/saved_model_predictor.py" timestamp="1591670402028" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/wrapper.py" timestamp="1591330601141">
-        <mark key="'" line="73" column="32" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="24" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1591676915133">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/visdial/lib/python3.6/site-packages/tensorflow/contrib/predictor/saved_model_predictor.py" timestamp="1591670402028" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn2.py" timestamp="1591607886214">
         <mark key="'" line="224" column="4" />
         <mark key="[" line="174" column="12" />
         <mark key="]" line="174" column="18" />
         <mark key="." line="174" column="17" />
         <mark key="^" line="174" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1591676822427">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591606687606">
         <mark key="'" line="3" column="0" />
@@ -358,7 +357,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgTGFzdExldmVsTWF4UG9vbHMoVG9wQmxvY2spOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBpbl9zdHJpZGU6IGludCwgaW5fY2hhbm5lbHM6IGludCwgbnVtX3Bvb2xzOiBpbnQgPSAxKSAtPiBOb25lOgogICAgICAgIHN1cGVyKExhc3RMZXZlbE1heFBvb2xzLCBzZWxmKS5fX2luaXRfXygpCgogICAgICAgIHN0YWdlID0gaW50KG1hdGgubG9nMihpbl9zdHJpZGUpKQoKICAgICAgICBzZWxmLl9pbl9mZWF0dXJlID0gJ3B7fScuZm9ybWF0KHN0YWdlKQoKICAgICAgICBzZWxmLl9uYW1lcyA9IFtdCiAgICAgICAgc2VsZi5fb3V0cHV0X3NoYXBlID0ge30KICAgICAgICBmb3IgaSBpbiByYW5nZShzdGFnZSwgc3RhZ2UgKyBudW1fcG9vbHMpOgogICAgICAgICAgICBuYW1lID0gJ3B7fScuZm9ybWF0KGkgKyAxKQogICAgICAgICAgICBzZWxmLmFkZF9tb2R1bGUobmFtZSwgbm4uTWF4UG9vbDJkKDEsIDIsIDApKQogICAgICAgICAgICBzZWxmLl9uYW1lcy5hcHBlbmQobmFtZSkKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBiYXRjaF90ZW5zb3JzKGltYWdlcykK</text>
       </register>
       <register name="-" type="4">
         <text>BILINEAR</text>
@@ -370,31 +369,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQgc2V0KHNlbGYuX291dHB1dF9zaGFwZS5rZXlzKCkpLmlzc3Vic2V0KFtuYW1lIGZvciBuYW1lLCBfIGluIHNlbGYubmFtZWRfY2hpbGRyZW4oKV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTGFzdExldmVsTWF4UG9vbHMoVG9wQmxvY2spOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBpbl9zdHJpZGU6IGludCwgaW5fY2hhbm5lbHM6IGludCwgbnVtX3Bvb2xzOiBpbnQgPSAxKSAtPiBOb25lOgogICAgICAgIHN1cGVyKExhc3RMZXZlbE1heFBvb2xzLCBzZWxmKS5fX2luaXRfXygpCgogICAgICAgIHN0YWdlID0gaW50KG1hdGgubG9nMihpbl9zdHJpZGUpKQoKICAgICAgICBzZWxmLl9pbl9mZWF0dXJlID0gJ3B7fScuZm9ybWF0KHN0YWdlKQoKICAgICAgICBzZWxmLl9uYW1lcyA9IFtdCiAgICAgICAgc2VsZi5fb3V0cHV0X3NoYXBlID0ge30KICAgICAgICBmb3IgaSBpbiByYW5nZShzdGFnZSwgc3RhZ2UgKyBudW1fcG9vbHMpOgogICAgICAgICAgICBuYW1lID0gJ3B7fScuZm9ybWF0KGkgKyAxKQogICAgICAgICAgICBzZWxmLmFkZF9tb2R1bGUobmFtZSwgbm4uTWF4UG9vbDJkKDEsIDIsIDApKQogICAgICAgICAgICBzZWxmLl9uYW1lcy5hcHBlbmQobmFtZSkKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBiYXRjaF90ZW5zb3JzKGltYWdlcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbl9mZWF0dXJlCg==</text>
+        <text encoding="base64">ZnJvbSBmb3VuZGF0aW9uLmJhY2tlbmRzLnRvcmNoLnV0aWxzIGltcG9ydCBiYXRjaF90ZW5zb3JzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEFyY2hTdGFzaC5yZWdpc3RlcignRmFzdGVyUkNOTicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVGhlIHNhbWUgYXMgaW1hZ2UtZml4LXJlc2l6ZXIK</text>
+        <text encoding="base64">ZnJvbSAuLnJlZ2lzdHJ5IGltcG9ydCBBcmNoU3Rhc2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTGFzdExldmVsTWF4UG9vbHMoVG9wQmxvY2spOgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBpbl9zdHJpZGU6IGludCwgaW5fY2hhbm5lbHM6IGludCwgbnVtX3Bvb2xzOiBpbnQgPSAxKSAtPiBOb25lOgogICAgICAgIHN1cGVyKExhc3RMZXZlbE1heFBvb2xzLCBzZWxmKS5fX2luaXRfXygpCgogICAgICAgIHN0YWdlID0gaW50KG1hdGgubG9nMihpbl9zdHJpZGUpKQoKICAgICAgICBzZWxmLl9pbl9mZWF0dXJlID0gJ3B7fScuZm9ybWF0KHN0YWdlKQoKICAgICAgICBzZWxmLl9uYW1lcyA9IFtdCiAgICAgICAgc2VsZi5fb3V0cHV0X3NoYXBlID0ge30KICAgICAgICBmb3IgaSBpbiByYW5nZShzdGFnZSwgc3RhZ2UgKyBudW1fcG9vbHMpOgogICAgICAgICAgICBuYW1lID0gJ3B7fScuZm9ybWF0KGkgKyAxKQogICAgICAgICAgICBzZWxmLmFkZF9tb2R1bGUobmFtZSwgbm4uTWF4UG9vbDJkKDEsIDIsIDApKQogICAgICAgICAgICBzZWxmLl9uYW1lcy5hcHBlbmQobmFtZSkKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJoLCBydyA9IDQ0OCwgNDQ4Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbl9mZWF0dXJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRmLmltYWdlLnJlc2l6ZV9pbWFnZV93aXRoX2Nyb3Bfb3JfcGFkCg==</text>
+        <text encoding="base64">ICAgICMgVGhlIHNhbWUgYXMgaW1hZ2UtZml4LXJlc2l6ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
