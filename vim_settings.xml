@@ -200,9 +200,11 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591670670650">
-        <mark key="'" line="168" column="76" />
-        <mark key="^" line="171" column="83" />
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" timestamp="1591672079392">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="102" column="20" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/registry.py" timestamp="1591330898150">
         <mark key="[" line="3" column="0" />
@@ -223,9 +225,6 @@
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/prepro.py" timestamp="1591586629965" />
       <file name="$USER_HOME$/anaconda3/envs/visdial/lib/python3.6/site-packages/tensorflow/contrib/predictor/saved_model_predictor.py" timestamp="1591670402028" />
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/poolers.py" timestamp="1591327772012">
-        <mark key="'" line="231" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/wrapper.py" timestamp="1591330601141">
         <mark key="'" line="73" column="32" />
         <mark key="[" line="2" column="19" />
@@ -255,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="16" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="234" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="249" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
       <jump line="267" column="12" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" />
@@ -355,15 +353,16 @@
       <jump line="124" column="38" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="155" column="35" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
       <jump line="168" column="76" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgaW1hZ2VfaWQgaW4gZW51bWVyYXRlKGltYWdlX2lkcyk6CiAgICAgICAgICAgIGltYWdlX3BhdGggPSBvc3Auam9pbihhcmdzLmltYWdlX3Jvb3QsIGlkMnBhdGhbaW1hZ2VfaWRdKQogICAgICAgICAgICBpbWFnZV9mZWF0LCBhdHRfZmVhdCwgY2FwdGlvbiwgY29uZiA9IHByZWRpY3QocHJlZGljdF9mbiwgdm9jYWIsIGltYWdlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="-" type="4">
-        <text>len(image_ids)</text>
+        <text>image_ids[i: j]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRfY2hhbm5lbHNcPg==</text>
@@ -372,31 +371,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQgc2V0KHNlbGYuX291dHB1dF9zaGFwZS5rZXlzKCkpLmlzc3Vic2V0KFtuYW1lIGZvciBuYW1lLCBfIGluIHNlbGYubmFtZWRfY2hpbGRyZW4oKV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgaW1hZ2VfaWQgaW4gZW51bWVyYXRlKGltYWdlX2lkcyk6CiAgICAgICAgICAgIGltYWdlX3BhdGggPSBvc3Auam9pbihhcmdzLmltYWdlX3Jvb3QsIGlkMnBhdGhbaW1hZ2VfaWRdKQogICAgICAgICAgICBpbWFnZV9mZWF0LCBhdHRfZmVhdCwgY2FwdGlvbiwgY29uZiA9IHByZWRpY3QocHJlZGljdF9mbiwgdm9jYWIsIGltYWdlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaiAtIAo=</text>
+        <text encoding="base64">ICAgIGNoLCBjdyA9IDQ0OCwgNDQ4CiAgICBpbWFnZSA9IHRmLmltYWdlLnJlc2l6ZV9pbWFnZV93aXRoX2Nyb3Bfb3JfcGFkKGltYWdlLCBjaCwgY3cpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhcHRpb25zID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGsgaW4gcmFuZ2UoaSwgaik6CiAgICAgICAgICAgICAgICBjYXB0aW9uc1trXSA9IHsKICAgICAgICAgICAgICAgICAgICAnaW1hZ2VfaWQnOiBiYXRjaF9pZHNbXQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgY2FwdGlvbnMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICdpbWFnZV9pZCc6IGltYWdlX2lkLAogICAgICAgICAgICAgICAgJ2NhcHRpb24nOiBjYXB0aW9uLAogICAgICAgICAgICAgICAgJ2NvbmZpZGVuY2UnOiBjb25mLAogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gbG9hZF9hbmRfcmVzaXplX2ltYWdlKGltYWdlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobGVuKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYuU2Vzc2lvbigpIGFzIHNlc3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FwdGlvbnNbaTogal0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gbnAuZXhwYW5kX2RpbXMoaW1hZ2UsIGF4aXM9MCkgICMgSHhXeEMgLT4gTnhIeFd4Qwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGltYWdlX2ZlYXRzW2ksIDpdID0gbnAubWVhbihpbWFnZV9mZWF0LCBheGlzPSgwLCAxKSkgICMgMTJ4MTJ4MjA0OCAtPiAyMDQ4CiAgICAgICAgICAgIGF0dF9mZWF0c1tpLCA6XSA9IG5wLm1lYW4oYXR0X2ZlYXQsIGF4aXM9MCkgICMgMTQ0eDUxMiAtPiA1MTIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY2FwdGlvbjoge30nLmZvcm1hdChjYXB0aW9uKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdvcmRzID0gW10KICAgIGZvciB3b3JkX2lkIGluIHdvcmRfaWRzOgogICAgICAgIGlmIHdvcmRfaWQgPT0gdm9jYWIuZW5kX2lkeDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICB3b3Jkcy5hcHBlbmQodm9jYWIuaWR4X3RvX3dvcmQod29yZF9pZCkpCgogICAgY2FwdGlvbiA9ICcgJy5qb2luKHdvcmRzKQoKICAgIHdvcmRfcHJvYnMgPSB3b3JkX3Byb2JzW25wLmFyYW5nZShtYXhfbGVuKSwgd29yZF9pZHNdCiAgICB3b3Jkc19sZW4gPSBsZW4od29yZHMpICsgMQogICAgY29uZiA9IG1hdGgucG93KG5wLnByb2Qod29yZF9wcm9ic1s6IHdvcmRzX2xlbl0pLCAxLiAvIHdvcmRzX2xlbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
