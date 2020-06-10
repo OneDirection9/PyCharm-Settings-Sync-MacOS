@@ -245,12 +245,12 @@
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1591683719813">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1591770263128">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1591770322517">
         <mark key="'" line="34" column="23" />
-        <mark key="[" line="76" column="55" />
-        <mark key="]" line="78" column="18" />
-        <mark key="." line="78" column="17" />
-        <mark key="^" line="78" column="18" />
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="34" column="30" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="30" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2020.1/python_stubs/-307713083/builtins.py" timestamp="1591690002276">
         <mark key="'" line="111" column="23" />
