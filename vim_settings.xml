@@ -263,11 +263,12 @@
         <mark key="'" line="111" column="23" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/copy.py" timestamp="1591691826957" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591760505548">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591760915257">
         <mark key="'" line="111" column="0" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+        <mark key="[" line="128" column="43" />
+        <mark key="]" line="128" column="58" />
+        <mark key="." line="128" column="57" />
+        <mark key="^" line="128" column="58" />
       </file>
     </filemarks>
     <jumps>
