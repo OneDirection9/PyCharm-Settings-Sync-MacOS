@@ -170,7 +170,7 @@
       <file name="/Python Console" timestamp="1591767396421">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591683172538">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591767889593">
         <mark key="'" line="480" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="26" />
@@ -248,12 +248,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1591767529956">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1591768646436">
         <mark key="'" line="34" column="23" />
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="93" column="18" />
-        <mark key="." line="93" column="17" />
-        <mark key="^" line="93" column="18" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2020.1/python_stubs/-307713083/builtins.py" timestamp="1591690002276">
         <mark key="'" line="111" column="23" />
