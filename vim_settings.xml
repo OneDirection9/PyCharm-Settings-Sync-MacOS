@@ -264,12 +264,12 @@
         <mark key="'" line="111" column="23" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/copy.py" timestamp="1591691826957" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591763104006">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591763117801">
         <mark key="'" line="7" column="36" />
-        <mark key="[" line="112" column="16" />
-        <mark key="]" line="112" column="41" />
-        <mark key="^" line="112" column="41" />
-        <mark key="." line="112" column="40" />
+        <mark key="[" line="114" column="15" />
+        <mark key="]" line="114" column="19" />
+        <mark key="^" line="114" column="19" />
+        <mark key="." line="114" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -377,17 +377,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gYnVpbGRfYXJjaChjZmcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>backbone</text>
       </register>
       <register name="-" type="4">
-        <text>image_feats</text>
+        <text>backbone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRfY2hhbm5lbHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjZmc6IERhdGEgY29uZmlnIHRoYXQgc2hvdWxkIGJlIGEgZGljdGlvbmFyeSwgbG9va3Mgc29tZXRoaW5nIGxpa2U6CiAgICAgICAgICAgIHsnZGF0YXNldHMnOiAuLi4KICAgICAgICAgICAgICdwaXBlbGluZXMnOiAuLi4KICAgICAgICAgICAgICdtYXBwZXJzJzogLi4uCiAgICAgICAgICAgICAnZGF0YWxvYWRlcic6IC4uLn0K</text>
+        <text encoding="base64">ICAgIHByaW50KGFyY2guYmFja2JvbmUub3V0cHV0X3NoYXBlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1vZGVsID0gYnVpbGRfYXJjaChjZmcpCg==</text>
