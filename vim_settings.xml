@@ -213,12 +213,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="89" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" timestamp="1591860006631">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" timestamp="1591860148421">
         <mark key="'" line="19" column="8" />
-        <mark key="[" line="29" column="98" />
-        <mark key="]" line="29" column="107" />
-        <mark key="." line="29" column="106" />
-        <mark key="^" line="29" column="107" />
+        <mark key="[" line="145" column="36" />
+        <mark key="]" line="146" column="7" />
+        <mark key="." line="146" column="6" />
+        <mark key="^" line="146" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1591848340460">
         <mark key="[" line="55" column="77" />
@@ -230,6 +230,12 @@
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1591860187301">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="/Python Console" timestamp="1591848081945">
         <mark key="[" line="0" column="0" />
