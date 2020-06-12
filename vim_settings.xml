@@ -169,19 +169,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" timestamp="1591859671692">
-        <mark key="[" line="88" column="57" />
-        <mark key="]" line="88" column="52" />
-        <mark key="." line="88" column="51" />
-        <mark key="^" line="88" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/registry.py" timestamp="1591937107354">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1591946216296">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -205,24 +192,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1591944558875">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="23" column="25" />
-        <mark key="." line="23" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1591945194927">
         <mark key="a" line="213" column="21" />
         <mark key="[" line="144" column="30" />
         <mark key="]" line="144" column="31" />
         <mark key="." line="144" column="30" />
         <mark key="^" line="144" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/__init__.py" timestamp="1591939526920">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1591929886413">
         <mark key="[" line="177" column="16" />
@@ -235,10 +210,44 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/modules/module.py" timestamp="1591953051036" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/metadata.py" timestamp="1591936733664">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591951521964">
+        <mark key="'" line="264" column="0" />
+        <mark key="[" line="130" column="13" />
+        <mark key="]" line="131" column="45" />
+        <mark key="." line="131" column="44" />
+        <mark key="^" line="131" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" timestamp="1591953245618">
+        <mark key="'" line="52" column="24" />
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="76" />
+        <mark key="^" line="13" column="76" />
+        <mark key="." line="13" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/registry.py" timestamp="1591937107354">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1591944558875">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="23" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/__init__.py" timestamp="1591939526920">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1591947712400">
         <mark key="'" line="21" column="4" />
@@ -250,13 +259,6 @@
       <file name="$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2020.1/python_stubs/-307713083/builtins.py" timestamp="1591863736317">
         <mark key="'" line="111" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1591951521964">
-        <mark key="'" line="264" column="0" />
-        <mark key="[" line="130" column="13" />
-        <mark key="]" line="131" column="45" />
-        <mark key="." line="131" column="44" />
-        <mark key="^" line="131" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" timestamp="1591934888035">
         <mark key="'" line="282" column="8" />
         <mark key="[" line="26" column="0" />
@@ -265,13 +267,6 @@
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1591939537613">
         <mark key="'" line="136" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" timestamp="1591951987463">
-        <mark key="'" line="30" column="24" />
-        <mark key="[" line="48" column="54" />
-        <mark key="]" line="51" column="89" />
-        <mark key="^" line="51" column="89" />
-        <mark key="." line="51" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591947490057">
         <mark key="^" line="53" column="34" />
@@ -383,10 +378,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Union[List[float], List[List[float]]]</text>
+        <text>list</text>
       </register>
       <register name="-" type="4">
-        <text>Union[List[float], List[List[float]]]</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZVVZcPg==</text>
