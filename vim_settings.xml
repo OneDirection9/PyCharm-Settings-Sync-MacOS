@@ -182,12 +182,11 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1591934758410">
-        <mark key="'" line="161" column="36" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="97" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="74" column="59" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1591939566352">
+        <mark key="[" line="51" column="101" />
+        <mark key="]" line="52" column="4" />
+        <mark key="^" line="52" column="4" />
+        <mark key="." line="52" column="3" />
       </file>
       <file name="/Python Console" timestamp="1591936337969">
         <mark key="[" line="0" column="0" />
@@ -212,24 +211,24 @@
         <mark key="^" line="212" column="23" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1591934718732">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="43" column="28" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1591939984566">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1591936013006">
-        <mark key="a" line="210" column="21" />
-        <mark key="'" line="30" column="54" />
-        <mark key="[" line="276" column="32" />
-        <mark key="]" line="276" column="44" />
-        <mark key="." line="276" column="43" />
-        <mark key="^" line="276" column="44" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1591940090423">
+        <mark key="a" line="213" column="21" />
+        <mark key="[" line="256" column="20" />
+        <mark key="]" line="256" column="11" />
+        <mark key="." line="256" column="10" />
+        <mark key="^" line="256" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/__init__.py" timestamp="1591933508186">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/__init__.py" timestamp="1591939526920">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/mappers.py" timestamp="1591929886413">
         <mark key="[" line="177" column="16" />
@@ -263,20 +262,18 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1591934938596">
-        <mark key="'" line="305" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1591939537613">
+        <mark key="'" line="136" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591935010131">
-        <mark key="'" line="5" column="77" />
-        <mark key="[" line="113" column="65" />
-        <mark key="]" line="114" column="37" />
-        <mark key="." line="114" column="36" />
-        <mark key="^" line="114" column="37" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1591939922955">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="79" column="33" />
+        <mark key="." line="79" column="32" />
+        <mark key="^" line="79" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
-      <jump line="151" column="67" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="179" column="36" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="166" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf.py" />
@@ -327,7 +324,6 @@
       <jump line="78" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/distributed_sampler.py" />
       <jump line="30" column="54" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
       <jump line="125" column="36" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="268" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/registry.py" />
@@ -375,15 +371,18 @@
       <jump line="5" column="14" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" />
       <jump line="275" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" />
       <jump line="5" column="77" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="136" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="6" column="50" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZVVZcPg==</text>
@@ -392,31 +391,31 @@
         <text encoding="base64">ICAgIGRhdGFsb2FkZXIgPSBidWlsZF9kZXRlY3Rpb25fdHJhaW5fbG9hZGVyKGNmZ1snZGF0YSddWyd0cmFpbiddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgY29weShzZWxmKToKICAgICAgICByZXR1cm4gTWV0YWRhdGEoKipzZWxmLmFzX2RpY3QoKSkK</text>
+        <text encoding="base64">dGVzdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tZXRhZGF0YSA9IG1ldGFkYXRhIGlmIG1ldGFkYXRhIGlzIG5vdCBOb25lIGVsc2UgTWV0YWRhdGEoKQo=</text>
+        <text encoding="base64">ICAgIHZpc2lvbl9kYXRhc2V0cyA9IGJ1aWxkX3Zpc2lvbl9kYXRhc2V0cyhjb3B5LmRlZXBjb3B5KGNmZ1snZGF0YSddWyd0cmFpbiddWydkYXRhc2V0cyddKSkKICAgIG1ldGFkYXRhID0gdmlzaW9uX2RhdGFzZXRzWzBdLm1ldGFkYXRhCiAgICBkMSA9IGJ1aWxkX3B5dG9yY2hfZGF0YXNldChjZmdbJ2RhdGEnXVsndHJhaW4nXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGlzaW5zdGFuY2UobWV0YWRhdGEsIGRpY3QpOgogICAgICAgICAgICBzZWxmLl9tZXRhZGF0YSA9IE1ldGFkYXRhKCoqbWV0YWRhdGEpCg==</text>
+        <text encoding="base64">CiAgICBSZXR1cm5zOgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtZXRhZGF0YSBpcyBub3QgTm9uZToKICAgICAgICAgICAgbWV0YWRhdGEgPSBtZXRhZGF0YS5hc19kaWN0KCkgICMgQ29weSB0byBhdm9pZCBtb2RpZnkgb3JpZ2luYWwgbWV0YWRhdGEKCg==</text>
+        <text encoding="base64">ICAgIG1hcHBlcnM6CiAgICAgIC0gbmFtZTogSW1hZ2VMb2FkZXIKICAgICAgICBpbWFnZV9mb3JtYXQ6IEJHUgogICAgICAtIG5hbWU6IFJlc2l6ZVNob3J0ZXN0RWRnZQogICAgICAgIHNob3J0OiA4MDAKICAgICAgICBtYXhfc2l6ZTogMTMzMwogICAgICAgIHNhbXBsZV9zdHlsZTogY2hvaWNlCiAgICAgIC0gbmFtZTogUmFuZG9tSEZsaXAKICAgICAgICBwcm9iOiAwLjUKICAgICAgLSBuYW1lOiBUb0luc3RhbmNlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="7" type="2">
-        <text>from det.data.build import build_pytorch_dataset, build_train_dataloader</text>
+        <text encoding="base64">CiAgICBkZWYgY29weShzZWxmKToKICAgICAgICByZXR1cm4gTWV0YWRhdGEoKipzZWxmLmFzX2RpY3QoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tZXRhZGF0YSA9IG1ldGFkYXRhIGlmIG1ldGFkYXRhIGlzIG5vdCBOb25lIGVsc2UgTWV0YWRhdGEoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXJfcGFyYW1zWyd2aXNpb25fZGF0YXNldHMnXSA9IHZpc2lvbl9kYXRhc2V0cwo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGlzaW5zdGFuY2UobWV0YWRhdGEsIGRpY3QpOgogICAgICAgICAgICBzZWxmLl9tZXRhZGF0YSA9IE1ldGFkYXRhKCoqbWV0YWRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
