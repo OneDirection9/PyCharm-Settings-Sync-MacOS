@@ -139,7 +139,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1592043333347">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1592044455884">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="^" line="87" column="42" />
@@ -171,11 +171,12 @@
         <mark key="^" line="28" column="23" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1592038508334">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="244" column="94" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1592043728819">
+        <mark key="'" line="238" column="0" />
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="71" />
+        <mark key="^" line="32" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" timestamp="1590931043576">
         <mark key="'" line="0" column="0" />
@@ -236,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="271" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/builtin_meta.py" />
       <jump line="155" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/builtin_meta.py" />
       <jump line="166" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/builtin_meta.py" />
@@ -336,6 +336,7 @@
       <jump line="34" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" />
       <jump line="17" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" />
       <jump line="133" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
+      <jump line="238" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
