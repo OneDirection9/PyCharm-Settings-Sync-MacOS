@@ -151,7 +151,7 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1591619887836">
+      <file name="/Python Console" timestamp="1591886947527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_registry.py" timestamp="1590842060128">
@@ -202,11 +202,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" timestamp="1591886784604">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" timestamp="1591886918074">
         <mark key="'" line="109" column="0" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+        <mark key="[" line="146" column="41" />
+        <mark key="]" line="146" column="51" />
+        <mark key="." line="146" column="50" />
+        <mark key="^" line="146" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/instances.py" timestamp="1590930808866">
         <mark key="[" line="109" column="57" />
@@ -327,11 +328,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfZm4gaXMgTm9uZToK</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>Type</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>pysun</text>
@@ -340,31 +341,31 @@
         <text encoding="base64">cHJpbnQoe2s6IHYuc2hhcGUgZm9yIGssIHYgaW4geS5pdGVtcygpfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfZm4gaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nX3BhcmFtcyA9IGNmZy5nZXQoJ3Byb2Nlc3NpbmdfcGFyYW1zJywge30pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfY2xzIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfY2xzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgSW5zdGFudGlhdGUgcHJvY2Vzc2luZyBjbGFzcy4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nX2ZuOiBUeXBlIG9mIHByb2Nlc3NpbmcgdGhhdCB3aWxsIGJlIGluc3RhbnRpYXRlIHdpdGggcGFyYW1ldGVycyBmcm9tIGNvbmZpZy4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfY2xzIGlzIG5vdCBOb25lOgogICAgICAgIHByb2Nlc3NpbmdfZm4gPSBwcm9jZXNzaW5nX2NscygqKmNmZy5nZXQoJ3Byb2Nlc3NpbmdfcGFyYW1zJywge30pKQogICAgZWxzZToKICAgICAgICBwcm9jZXNzaW5nX2ZuID0gTm9uZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfZm4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nX2ZuID0gUHJvY2Vzc2luZygqKmNmZy5nZXQoJ3Byb2Nlc3NpbmdfcGFyYW1zJywge30pKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfZm4gaXMgTm9uZToK</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfY2xzIGlzIG5vdCBOb25lOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgSW5zdGFudGlhdGUgcHJvY2Vzc2luZyBjbGFzcy4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nX2ZuOiBUeXBlIG9mIHByb2Nlc3NpbmcgdGhhdCB3aWxsIGJlIGluc3RhbnRpYXRlIHdpdGggcGFyYW1ldGVycyBmcm9tIGNvbmZpZy4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfY2xzIGlzIG5vdCBOb25lOgogICAgICAgIHByb2Nlc3NpbmdfZm4gPSBwcm9jZXNzaW5nX2NscygqKmNmZy5nZXQoJ3Byb2Nlc3NpbmdfcGFyYW1zJywge30pKQogICAgZWxzZToKICAgICAgICBwcm9jZXNzaW5nX2ZuID0gTm9uZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIHByb2Nlc3NpbmdfZm4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzaW5nX2ZuID0gUHJvY2Vzc2luZygqKmNmZy5nZXQoJ3Byb2Nlc3NpbmdfcGFyYW1zJywge30pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
