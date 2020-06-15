@@ -192,11 +192,11 @@
         <mark key="." line="144" column="30" />
         <mark key="^" line="144" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/matcher.py" timestamp="1592193860972">
-        <mark key="[" line="11" column="114" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="11" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/matcher.py" timestamp="1592195014800">
+        <mark key="[" line="36" column="66" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="26" />
+        <mark key="^" line="41" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/coco.py" timestamp="1591936398350">
         <mark key="[" line="55" column="0" />
@@ -382,11 +382,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmNob3JfbWF0Y2hlcjoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZVVZcPg==</text>
@@ -395,31 +395,31 @@
         <text encoding="base64">ICAgIHByaW50KHtrOiB2LnNoYXBlIGZvciBrLCB2IGluIHkuaXRlbXMoKX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmNob3JfbWF0Y2hlcjoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmNob3JfbWF0Y2hlcjoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5lY2syX2NmZyA9IGNmZ1snbW9kZWwnXQo=</text>
+        <text encoding="base64">ZnJvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgIG5lY2syX2NmZyA9IGNmZ1snbW9kZWwnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhc2V0X2RpY3RbJ2ZpbGVfbmFtZSddKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhc2V0X2RpY3RbJ2ZpbGVfbmFtZSddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc25ldCA9IEJhY2tib25lUmVnaXN0cnkuZ2V0KGNmZ1snbW9kZWwnXVsnYmFja2JvbmUnXSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
