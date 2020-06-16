@@ -143,7 +143,6 @@
       <file name="/Python Console" timestamp="1591886947527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/anchor_generator.py" timestamp="1592123225805" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1591489860581">
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
@@ -176,7 +175,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="204" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/rotated_boxes.py" timestamp="1592123703690" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/matcher.py" timestamp="1592272811724">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" timestamp="1590930758031">
         <mark key="'" line="173" column="0" />
         <mark key="[" line="3" column="21" />
@@ -203,19 +207,17 @@
         <mark key="." line="146" column="50" />
         <mark key="^" line="146" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1592121341508" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/instances.py" timestamp="1590930808866">
         <mark key="[" line="109" column="57" />
         <mark key="]" line="109" column="58" />
         <mark key="^" line="119" column="18" />
         <mark key="." line="109" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" timestamp="1592125830955">
-        <mark key="'" line="185" column="19" />
-        <mark key="[" line="298" column="94" />
-        <mark key="]" line="299" column="12" />
-        <mark key="." line="299" column="11" />
-        <mark key="^" line="299" column="12" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" timestamp="1592272788478">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="10" column="74" />
+        <mark key="." line="10" column="73" />
+        <mark key="^" line="10" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1592043614191">
         <mark key="'" line="14" column="0" />
@@ -226,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" />
       <jump line="114" column="3" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" />
@@ -326,6 +327,7 @@
       <jump line="304" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" />
       <jump line="8" column="45" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" />
       <jump line="185" column="19" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" />
+      <jump line="158" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
