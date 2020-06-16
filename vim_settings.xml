@@ -175,11 +175,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="204" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/sampling.py" timestamp="1592279780993">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/sampling.py" timestamp="1592285994367">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="24" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="37" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/matcher.py" timestamp="1592272811724">
         <mark key="[" line="9" column="36" />
