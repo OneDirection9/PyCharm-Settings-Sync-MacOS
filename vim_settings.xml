@@ -137,7 +137,7 @@
         <mark key="^" line="54" column="59" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1592273700252">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1592379347522">
         <mark key="[" line="330" column="0" />
         <mark key="]" line="330" column="0" />
         <mark key="." line="330" column="0" />
@@ -195,7 +195,7 @@
         <mark key="." line="171" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592372389639" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1592367324146">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1592379515590">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -221,12 +221,12 @@
         <mark key="." line="10" column="73" />
         <mark key="^" line="10" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" timestamp="1592373003164">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="94" column="40" />
-        <mark key="." line="94" column="39" />
-        <mark key="^" line="94" column="40" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" timestamp="1592379819757">
+        <mark key="'" line="8" column="46" />
+        <mark key="[" line="164" column="57" />
+        <mark key="]" line="165" column="58" />
+        <mark key="." line="165" column="57" />
+        <mark key="^" line="165" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1592043614191">
         <mark key="'" line="14" column="0" />
@@ -237,9 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/base.py" />
-      <jump line="25" column="54" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/engine/runner.py" />
-      <jump line="94" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" />
       <jump line="53" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/pipelines/base.py" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/filter.py" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/base.py" />
@@ -337,6 +334,9 @@
       <jump line="40" column="17" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" />
       <jump line="155" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" />
+      <jump line="158" column="49" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" />
+      <jump line="159" column="31" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" />
+      <jump line="8" column="46" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
