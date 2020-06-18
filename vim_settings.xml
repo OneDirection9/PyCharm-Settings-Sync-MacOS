@@ -257,12 +257,12 @@
         <mark key="." line="9" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform_gen.py" timestamp="1592449673495" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" timestamp="1592454850699">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" timestamp="1592458332428">
         <mark key="'" line="163" column="29" />
-        <mark key="[" line="183" column="22" />
-        <mark key="]" line="187" column="21" />
-        <mark key="^" line="187" column="21" />
-        <mark key="." line="187" column="20" />
+        <mark key="[" line="227" column="6" />
+        <mark key="]" line="228" column="12" />
+        <mark key="^" line="228" column="12" />
+        <mark key="." line="228" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1592450510821">
         <mark key="'" line="9" column="60" />
