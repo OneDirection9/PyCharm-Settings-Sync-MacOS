@@ -194,12 +194,12 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592556996701">
-        <mark key="'" line="390" column="4" />
-        <mark key="[" line="418" column="34" />
-        <mark key="]" line="418" column="50" />
-        <mark key="." line="418" column="49" />
-        <mark key="^" line="418" column="50" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592562331250">
+        <mark key="'" line="412" column="4" />
+        <mark key="[" line="458" column="0" />
+        <mark key="]" line="458" column="0" />
+        <mark key="." line="458" column="0" />
+        <mark key="^" line="456" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1592389234745">
         <mark key="'" line="28" column="0" />
@@ -241,10 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="4" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
-      <jump line="19" column="21" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
-      <jump line="92" column="3" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
-      <jump line="165" column="7" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="51" column="53" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="154" column="0" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="229" column="19" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
@@ -341,15 +337,19 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
       <jump line="389" column="37" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
       <jump line="390" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="417" column="3" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="17" column="52" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="402" column="53" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="412" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">CgpiYXRjaF9zaXplX3Blcl9pbWFnZTogaW50LApwb3NpdGl2ZV9mcmFjdGlvbjogZmxvYXQsCnByZV9ubXNfdG9wazogVHVwbGVbaW50LCBpbnRdLApwb3N0X25tc190b3BrOiBUdXBsZVtpbnQsIGludF0sCm5tc190aHJlc2g6IGZsb2F0ID0gMC43LAptaW5fYm94X3NpemU6IGZsb2F0ID0gMC4wLApsb3NzX3dlaWdodDogZmxvYXQgPSAxLjAsCnNtb290aF9sMV9iZXRhOiBmbG9hdCA9IDAuMCwK</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>standard_rcnn_rpn</text>
@@ -358,31 +358,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgaCAvIHcgPSBhciAtPiBoID0gdyAqIGFyCiAgICAgICAgICAgICAgICAjIGggKiB3ID0gYXJlYQogICAgICAgICAgICAgICAgIyB3ICogdyAqIGFyID0gYXJlYSAtPiB3ID0gc3FydChhcmVhIC8gYXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">CgpiYXRjaF9zaXplX3Blcl9pbWFnZTogaW50LApwb3NpdGl2ZV9mcmFjdGlvbjogZmxvYXQsCnByZV9ubXNfdG9wazogVHVwbGVbaW50LCBpbnRdLApwb3N0X25tc190b3BrOiBUdXBsZVtpbnQsIGludF0sCm5tc190aHJlc2g6IGZsb2F0ID0gMC43LAptaW5fYm94X3NpemU6IGZsb2F0ID0gMC4wLApsb3NzX3dlaWdodDogZmxvYXQgPSAxLjAsCnNtb290aF9sMV9iZXRhOiBmbG9hdCA9IDAuMCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IAoKICAgIFJldHVybnM6Cgo=</text>
+        <text encoding="base64">aW5fZmVhdHVyZXM6IExpc3Rbc3RyXSwKaGVhZDogbm4uTW9kdWxlLAphbmNob3JfZ2VuZXJhdG9yOiBubi5Nb2R1bGUsCmFuY2hvcl9tYXRjaGVyOiBNYXRjaGVyLApib3gyYm94X3RyYW5zZm9ybTogQm94MkJveFRyYW5zZm9ybSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBtb3ZlIG5hbWUgZGVmaW5pdGlvbiB0byBhbiBpbmRpdmlkdWFsIG1ldGhvZCwgc28gdGhhdCB3ZSBjYW4gY2hhbmdlIHRoZSBvdXRwdXQKICAgICAgICAgICAgIyAgIG5hbWUgZWFzaWx5IGJ5IGluaGVyaXRpbmcgdGhpcyBjbGFzcyBhbmQgY2hhbmdpbmcgdGhlIG5hbWluZyBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgIGJhdGNoX3NpemVfcGVyX2ltYWdlOiBpbnQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hbmNob3JfYm91bmRhcnlfdGhyZXNoID0gYW5jaG9yX2JvdW5kYXJ5X3RocmVzaAo=</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplX3Blcl9pbWFnZTogaW50LAogICAgICAgIHBvc2l0aXZlX2ZyYWN0aW9uOiBmbG9hdCwKICAgICAgICBwcmVfbm1zX3RvcGs6IFR1cGxlW2ludCwgaW50XSwKICAgICAgICBwb3N0X25tc190b3BrOiBUdXBsZVtpbnQsIGludF0sCiAgICAgICAgbm1zX3RocmVzaDogZmxvYXQgPSAwLjcsCiAgICAgICAgbWluX2JveF9zaXplOiBmbG9hdCA9IDAuMCwKICAgICAgICBsb3NzX3dlaWdodDogZmxvYXQgPSAxLjAsCiAgICAgICAgc21vb3RoX2wxX2JldGE6IGZsb2F0ID0gMC4wLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yX2JvdW5kYXJ5X3RocmVzaDogUmVtb3ZlIFJQTiBhbmNob3JzIHRoYXQgZ28gb3V0c2lkZSB0aGUgaW1hZ2UgYnkgQk9VTkRBUllfVEhSRVNICiAgICAgICAgICAgICAgICBwaXhlbHMuIFNldCB0byAtMSBvciBhIGxhcmdlIHZhbHVlLCBlLmcuIDEwMDAwMCwgdG8gZGlzYWJsZSBwcnVuaW5nIGFuY2hvcnMuCg==</text>
+        <text encoding="base64">ICAgIHBvcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmNob3JfYm91bmRhcnlfdGhyZXNoOiBmbG9hdCA9IC0xLjAsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgogICAgICAgICAgICBpbWFnZV9saXN0OiAKICAgICAgICAgICAgZmVhdHVyZXM6IAogICAgICAgICAgICBndF9pbnN0YW5jZXM6IAoKICAgICAgICBSZXR1cm5zOgoK</text>
+        <text encoding="base64">ICAgIGluX2NoYW5uZWxzID0gW3MuY2hhbm5lbHMgZm9yIHMgaW4gaW5wdXRfc2hhcGVdCiAgICBhc3NlcnQgbGVuKHNldChpbl9jaGFubmVscykpID09IDEsICJFYWNoIGxldmVsIG11c3QgaGF2ZSB0aGUgc2FtZSBjaGFubmVsISIKICAgIGluX2NoYW5uZWxzID0gaW5fY2hhbm5lbHNbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIGZlYXR1cmVzOiBEaWN0W3N0ciwgdG9yY2guVGVuc29yXSk6Cg==</text>
+        <text encoding="base64">ICAgICMgU3RhbmRhcmQgUlBOIGlzIHNoYXJlZCBhY3Jvc3MgbGV2ZWxzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
