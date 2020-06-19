@@ -244,12 +244,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592469800138">
-        <mark key="'" line="102" column="5" />
-        <mark key="[" line="386" column="14" />
-        <mark key="]" line="387" column="8" />
-        <mark key="^" line="387" column="8" />
-        <mark key="." line="387" column="7" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592545135480">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="385" column="45" />
+        <mark key="]" line="385" column="45" />
+        <mark key="^" line="385" column="45" />
+        <mark key="." line="385" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/__init__.py" timestamp="1592467296411">
         <mark key="[" line="4" column="22" />
@@ -279,8 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/registry.py" />
       <jump line="31" column="18" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
       <jump line="88" column="47" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/registry.py" />
       <jump line="73" column="86" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" />
@@ -379,6 +377,8 @@
       <jump line="102" column="5" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
       <jump line="284" column="27" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="48" column="42" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
+      <jump line="385" column="41" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="12" column="36" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
