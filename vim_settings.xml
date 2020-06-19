@@ -137,10 +137,11 @@
         <mark key="^" line="54" column="59" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1592562783190">
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1592564915584">
+        <mark key="[" line="125" column="30" />
+        <mark key="]" line="125" column="35" />
+        <mark key="." line="125" column="34" />
+        <mark key="^" line="125" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/masks.py" timestamp="1590930838814">
         <mark key="[" line="105" column="56" />
@@ -347,10 +348,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>standard_rcnn_rpn</text>
