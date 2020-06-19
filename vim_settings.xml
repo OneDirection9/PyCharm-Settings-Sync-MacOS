@@ -209,12 +209,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1592470407086">
-        <mark key="'" line="213" column="0" />
-        <mark key="[" line="313" column="24" />
-        <mark key="]" line="308" column="0" />
-        <mark key="^" line="282" column="36" />
-        <mark key="." line="308" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1592470576893">
+        <mark key="'" line="283" column="27" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="326" column="28" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/nn/__init__.py" timestamp="1592462177123">
         <mark key="[" line="1" column="0" />
@@ -282,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="36" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="119" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="268" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/registry.py" />
@@ -382,12 +381,13 @@
       <jump line="34" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
       <jump line="102" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
       <jump line="102" column="5" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="284" column="27" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IE91dHB1dCBzaGFwZSBvZiBiYWNrYm9uZSwgZS5nLiByZXNuZXQuCiAgICAgICAgaW5fZmVhdHVyZXM6CiAgICAgICAgb3V0X2NoYW5uZWxzOgogICAgICAgIG5vcm06CiAgICAgICAgZnVzZV90eXBlOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -399,31 +399,31 @@
         <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IE91dHB1dCBzaGFwZSBvZiBiYWNrYm9uZSwgZS5nLiByZXNuZXQuCiAgICAgICAgaW5fZmVhdHVyZXM6IFNlZSA6Y2xhc3M6YEZQTmAuCiAgICAgICAgb3V0X2NoYW5uZWxzOiBTZWUgOmNsYXNzOmBGUE5gLgogICAgICAgIG5vcm06IFNlZSA6Y2xhc3M6YEZQTmAuCiAgICAgICAgZnVzZV90eXBlOiBTZWUgOmNsYXNzOmBGUE5gLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IE91dHB1dCBzaGFwZSBvZiBiYWNrYm9uZSwgZS5nLiByZXNuZXQuCiAgICAgICAgaW5fZmVhdHVyZXM6CiAgICAgICAgb3V0X2NoYW5uZWxzOgogICAgICAgIG5vcm06CiAgICAgICAgZnVzZV90eXBlOgo=</text>
+        <text encoding="base64">aW1wb3J0IGluc3BlY3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
+        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IE91dHB1dCBzaGFwZSBvZiBiYWNrYm9uZSwgZS5nLiByZXNuZXQuCiAgICAgICAgaW5fZmVhdHVyZXM6CiAgICAgICAgb3V0X2NoYW5uZWxzOgogICAgICAgIG5vcm06CiAgICAgICAgZnVzZV90eXBlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbgo=</text>
+        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGt3YXJncy51cGRhdGUoeydpbl9jaGFubmVscyc6IGluX2NoYW5uZWxzLCAnaW5fc3RyaWRlcyc6IGluX3N0cmlkZXMsICd0b3BfYmxvY2snOiB0b3BfYmxvY2t9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBzaWcgPSBpbnNwZWN0LnNpZ25hdHVyZShGUE4uX19pbml0X18pCiAgICBvdXRfY2hhbm5lbHMgPSBrd2FyZ3MuZ2V0KCdvdXRfY2hhbm5lbHMnLCBzaWcucGFyYW1ldGVyc1snb3V0X2NoYW5uZWxzJ10uZGVmYXVsdCkK</text>
+        <text encoding="base64">ICAgIGt3YXJncy51cGRhdGUoeydpbl9jaGFubmVscyc6IGluX2NoYW5uZWxzLCAnaW5fc3RyaWRlcyc6IGluX3N0cmlkZXMsICd0b3BfYmxvY2snOiB0b3BfYmxvY2t9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICd0b3BfYmxvY2snIGluIGt3YXJnczoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCd0b3BfYmxvY2sgd2lsbCBiZSBzZXQgdG8gTGFzdExldmVsUDZQNyBhdXRvbWF0aWNhbGx5JykKICAgIGlmICdpbl9jaGFubmVscycgaW4ga3dhcmdzIG9yICdpbl9zdHJpZGVzJyBpbiBrd2FyZ3M6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignaW5fY2hhbm5lbHMgYW5kIGluX3N0cmlkZXMgYXJlIGluZmVycmVkIGZyb20gYmFja2JvbmUgb3V0cHV0IHNoYXBlJykKCiAgICBpbl9mZWF0dXJlcyA9IGt3YXJnc1snaW5fZmVhdHVyZXMnXQo=</text>
+        <text encoding="base64">CiAgICBzaWcgPSBpbnNwZWN0LnNpZ25hdHVyZShGUE4uX19pbml0X18pCiAgICBvdXRfY2hhbm5lbHMgPSBrd2FyZ3MuZ2V0KCdvdXRfY2hhbm5lbHMnLCBzaWcucGFyYW1ldGVyc1snb3V0X2NoYW5uZWxzJ10uZGVmYXVsdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAga3dhcmdzID0gewogICAgICAgICdpbl9jaGEnCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICd0b3BfYmxvY2snIGluIGt3YXJnczoKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCd0b3BfYmxvY2sgd2lsbCBiZSBzZXQgdG8gTGFzdExldmVsUDZQNyBhdXRvbWF0aWNhbGx5JykKICAgIGlmICdpbl9jaGFubmVscycgaW4ga3dhcmdzIG9yICdpbl9zdHJpZGVzJyBpbiBrd2FyZ3M6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignaW5fY2hhbm5lbHMgYW5kIGluX3N0cmlkZXMgYXJlIGluZmVycmVkIGZyb20gYmFja2JvbmUgb3V0cHV0IHNoYXBlJykKCiAgICBpbl9mZWF0dXJlcyA9IGt3YXJnc1snaW5fZmVhdHVyZXMnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAga3dhcmdzID0gewogICAgICAgICdpbl9jaGEnCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
