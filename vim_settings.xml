@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>beam</entry>
-        <entry>py_function</entry>
         <entry>beam-size</entry>
         <entry>beam_size</entry>
         <entry encoding="base64">XDxmaW5hbF9lbmRwb2ludFw+</entry>
@@ -27,6 +25,8 @@
         <entry>pysun</entry>
         <entry encoding="base64">XDxzYW1wbGVfc3R5bGVcPg==</entry>
         <entry encoding="base64">XDxfc3RyaWRlc1w+</entry>
+        <entry encoding="base64">XDxTdGFuZGFyZF9SQ05OX1JQTlw+</entry>
+        <entry>standard_rcnn_rpn</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -194,12 +194,12 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592555041168">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="394" column="17" />
-        <mark key="]" line="394" column="53" />
-        <mark key="^" line="394" column="53" />
-        <mark key="." line="394" column="52" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592556996701">
+        <mark key="'" line="390" column="4" />
+        <mark key="[" line="418" column="34" />
+        <mark key="]" line="418" column="50" />
+        <mark key="." line="418" column="49" />
+        <mark key="^" line="418" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1592389234745">
         <mark key="'" line="28" column="0" />
@@ -241,8 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="16" column="27" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="210" column="4" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="19" column="21" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
       <jump line="92" column="3" filename="$USER_HOME$/Documents/my-repositories/STEGO/train.py" />
@@ -341,48 +339,50 @@
       <jump line="92" column="27" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn2.py" />
       <jump line="393" column="9" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="389" column="37" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
+      <jump line="390" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IAoKICAgIFJldHVybnM6Cgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3RyaWRlc1w+</text>
+        <text>standard_rcnn_rpn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICMgaCAvIHcgPSBhciAtPiBoID0gdyAqIGFyCiAgICAgICAgICAgICAgICAjIGggKiB3ID0gYXJlYQogICAgICAgICAgICAgICAgIyB3ICogdyAqIGFyID0gYXJlYSAtPiB3ID0gc3FydChhcmVhIC8gYXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IAoKICAgIFJldHVybnM6Cgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBtb3ZlIG5hbWUgZGVmaW5pdGlvbiB0byBhbiBpbmRpdmlkdWFsIG1ldGhvZCwgc28gdGhhdCB3ZSBjYW4gY2hhbmdlIHRoZSBvdXRwdXQKICAgICAgICAgICAgIyAgIG5hbWUgZWFzaWx5IGJ5IGluaGVyaXRpbmcgdGhpcyBjbGFzcyBhbmQgY2hhbmdpbmcgdGhlIG5hbWluZyBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgIGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hbmNob3JfYm91bmRhcnlfdGhyZXNoID0gYW5jaG9yX2JvdW5kYXJ5X3RocmVzaAo=</text>
+        <text encoding="base64">ICAgIEFyZ3M6CiAgICAgICAgaW5wdXRfc2hhcGU6IAoKICAgIFJldHVybnM6Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yX2JvdW5kYXJ5X3RocmVzaDogUmVtb3ZlIFJQTiBhbmNob3JzIHRoYXQgZ28gb3V0c2lkZSB0aGUgaW1hZ2UgYnkgQk9VTkRBUllfVEhSRVNICiAgICAgICAgICAgICAgICBwaXhlbHMuIFNldCB0byAtMSBvciBhIGxhcmdlIHZhbHVlLCBlLmcuIDEwMDAwMCwgdG8gZGlzYWJsZSBwcnVuaW5nIGFuY2hvcnMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPOiBtb3ZlIG5hbWUgZGVmaW5pdGlvbiB0byBhbiBpbmRpdmlkdWFsIG1ldGhvZCwgc28gdGhhdCB3ZSBjYW4gY2hhbmdlIHRoZSBvdXRwdXQKICAgICAgICAgICAgIyAgIG5hbWUgZWFzaWx5IGJ5IGluaGVyaXRpbmcgdGhpcyBjbGFzcyBhbmQgY2hhbmdpbmcgdGhlIG5hbWluZyBtZXRob2QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmNob3JfYm91bmRhcnlfdGhyZXNoOiBmbG9hdCA9IC0xLjAsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9hbmNob3JfYm91bmRhcnlfdGhyZXNoID0gYW5jaG9yX2JvdW5kYXJ5X3RocmVzaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgogICAgICAgICAgICBpbWFnZV9saXN0OiAKICAgICAgICAgICAgZmVhdHVyZXM6IAogICAgICAgICAgICBndF9pbnN0YW5jZXM6IAoKICAgICAgICBSZXR1cm5zOgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5jaG9yX2JvdW5kYXJ5X3RocmVzaDogUmVtb3ZlIFJQTiBhbmNob3JzIHRoYXQgZ28gb3V0c2lkZSB0aGUgaW1hZ2UgYnkgQk9VTkRBUllfVEhSRVNICiAgICAgICAgICAgICAgICBwaXhlbHMuIFNldCB0byAtMSBvciBhIGxhcmdlIHZhbHVlLCBlLmcuIDEwMDAwMCwgdG8gZGlzYWJsZSBwcnVuaW5nIGFuY2hvcnMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIGZlYXR1cmVzOiBEaWN0W3N0ciwgdG9yY2guVGVuc29yXSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmNob3JfYm91bmRhcnlfdGhyZXNoOiBmbG9hdCA9IC0xLjAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFByb3Bvc2FsR2VuZXJhdG9yUmVnaXN0cnkucmVnaXN0ZXIoJ1JQTicpCg==</text>
+        <text encoding="base64">ICAgICAgICBBcmdzOgogICAgICAgICAgICBpbWFnZV9saXN0OiAKICAgICAgICAgICAgZmVhdHVyZXM6IAogICAgICAgICAgICBndF9pbnN0YW5jZXM6IAoKICAgICAgICBSZXR1cm5zOgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgogICAgICAgICAgICBmZWF0dXJlczoKCiAgICAgICAgUmV0dXJuczoKCg==</text>
+        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIGZlYXR1cmVzOiBEaWN0W3N0ciwgdG9yY2guVGVuc29yXSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -391,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfc3RyaWRlc1w+</last-search>
+      <last-search>standard_rcnn_rpn</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3RyaWRlc1w+</last-pattern>
+      <last-pattern>standard_rcnn_rpn</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
