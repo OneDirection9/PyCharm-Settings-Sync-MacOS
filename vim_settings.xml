@@ -137,7 +137,7 @@
         <mark key="^" line="54" column="59" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1592564915584">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1592639299692">
         <mark key="[" line="125" column="30" />
         <mark key="]" line="125" column="35" />
         <mark key="." line="125" column="34" />
@@ -148,13 +148,6 @@
         <mark key="]" line="140" column="12" />
         <mark key="." line="140" column="11" />
         <mark key="^" line="140" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet_v2.py" timestamp="1590931043576">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="204" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/matcher.py" timestamp="1592563294637">
         <mark key="'" line="104" column="44" />
@@ -180,6 +173,12 @@
         <mark key="]" line="10" column="74" />
         <mark key="." line="10" column="73" />
         <mark key="^" line="10" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/registry.py" timestamp="1592639553048">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1592618292096">
         <mark key="'" line="13" column="8" />
