@@ -176,9 +176,6 @@
         <mark key="." line="167" column="0" />
         <mark key="^" line="167" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1592466281073">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1592799737572">
         <mark key="'" line="274" column="9" />
         <mark key="[" line="517" column="57" />
@@ -220,6 +217,13 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" timestamp="1592807844320">
+        <mark key="'" line="138" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1592803049201">
         <mark key="[" line="40" column="14" />
         <mark key="]" line="40" column="14" />
@@ -238,7 +242,7 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592803325778">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592808022099">
         <mark key="'" line="12" column="36" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
