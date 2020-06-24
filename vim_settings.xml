@@ -183,12 +183,12 @@
         <mark key="." line="517" column="69" />
         <mark key="^" line="517" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" timestamp="1592976597004">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" timestamp="1592980126199">
         <mark key="'" line="133" column="11" />
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="67" />
-        <mark key="^" line="14" column="67" />
-        <mark key="." line="14" column="66" />
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="124" column="38" />
+        <mark key="^" line="124" column="38" />
+        <mark key="." line="124" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1592810492277">
         <mark key="[" line="0" column="9" />
@@ -249,14 +249,14 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" timestamp="1592978143334">
-        <mark key="'" line="10" column="67" />
-        <mark key="[" line="130" column="27" />
-        <mark key="]" line="131" column="32" />
-        <mark key="^" line="131" column="32" />
-        <mark key="." line="131" column="31" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" timestamp="1592980105282">
+        <mark key="'" line="199" column="29" />
+        <mark key="[" line="89" column="25" />
+        <mark key="]" line="89" column="42" />
+        <mark key="^" line="89" column="42" />
+        <mark key="." line="89" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592978515951">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592978733104">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="192" column="87" />
         <mark key="]" line="192" column="87" />
@@ -283,9 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="95" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
-      <jump line="6" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
-      <jump line="143" column="30" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="8" column="20" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="161" column="36" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/distributed_sampler.py" />
@@ -374,7 +371,6 @@
       <jump line="8" column="38" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="85" column="56" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
-      <jump line="7" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
       <jump line="121" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
@@ -383,15 +379,19 @@
       <jump line="133" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
       <jump line="124" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="10" column="67" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
+      <jump line="160" column="55" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
+      <jump line="175" column="20" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
+      <jump line="199" column="29" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0czogTGVuZ3RoIGBOYCBsaXN0IG9mIGBJbnN0YW5jZXNgLiBUaGUgaS10aAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfbG93X3F1YWxpdHlfbWF0Y2hlc19cPg==</text>
@@ -400,31 +400,31 @@
         <text encoding="base64">ICAgICAgICBwaXhlbF9tZWFuOiBMaXN0W2Zsb2F0XSA9ICgxMDMuNTMwLCAxMTYuMjgwLCAxMjMuNjc1KSwKICAgICAgICBwaXhlbF9zdGQ6IExpc3RbZmxvYXRdID0gKDU3LjM3NSwgNTcuMTIwLCA1OC4zOTUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGd0X2xvZ2l0X3ZhbHVlID0gbWF0aC5sb2coKDEuMCAtIDFlLTEwKSAvICgxIC0gKDEuMCAtIDFlLTEwKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0czogTGVuZ3RoIGBOYCBsaXN0IG9mIGBJbnN0YW5jZXNgLiBUaGUgaS10aAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgTk9URTogCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGd0X2xvZ2l0X3ZhbHVlID0gbWF0aC5sb2coKDEuMCAtIDFlLTEwKSAvICgxIC0gKDEuMCAtIDFlLTEwKSkpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFuY2hvcl9nZW5lcmF0b3IgaXMgTm9uZToKICAgICAgICBhbmNob3JfZ2VuZXJhdG9yID0gZGljdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuY2hvcl9nZW5lcmF0b3I9Tm9uZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNsYXNzIFQ6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGEpOgogICAgICAgIHByaW50KGEpCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgZnJvbV9jb25maWcoY2xzLCApOgogICAgICAgIHJldHVybiBjbHMoYT0yKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fY29uZmlnKGNscywgaW5wdXRfc2hhcGU6IExpc3RbU2hhcGVTcGVjXSwgKiprd2FyZ3MpIC0+ICdEZWZhdWx0QW5jaG9yR2VuZXJhdG9yJzoKICAgICAgICBrd2FyZ3NbJ3N0cmlkZXMnXSA9IFt4LnN0cmlkZSBmb3IgeCBpbiBpbnB1dF9zaGFwZV0KICAgICAgICByZXR1cm4gY2xzKCoqa3dhcmdzKQoK</text>
+        <text encoding="base64">ICAgIGlmIGFuY2hvcl9nZW5lcmF0b3IgaXMgTm9uZToKICAgICAgICBhbmNob3JfZ2VuZXJhdG9yID0gZGljdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VC5mcm9tX2NvbmZpZygpCg==</text>
+        <text encoding="base64">ICAgIGFuY2hvcl9nZW5lcmF0b3I9Tm9uZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
