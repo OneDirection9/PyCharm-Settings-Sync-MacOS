@@ -249,18 +249,18 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" timestamp="1592976698394">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" timestamp="1592978143334">
         <mark key="'" line="10" column="67" />
-        <mark key="[" line="127" column="30" />
-        <mark key="]" line="129" column="27" />
-        <mark key="^" line="129" column="27" />
-        <mark key="." line="129" column="26" />
+        <mark key="[" line="130" column="27" />
+        <mark key="]" line="131" column="32" />
+        <mark key="^" line="131" column="32" />
+        <mark key="." line="131" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592970932594">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592978515951">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="108" column="13" />
-        <mark key="]" line="109" column="10" />
-        <mark key="." line="109" column="9" />
+        <mark key="[" line="192" column="87" />
+        <mark key="]" line="192" column="87" />
+        <mark key="." line="192" column="87" />
         <mark key="^" line="109" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1592803318482">
@@ -387,11 +387,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGd0X2xvZ2l0X3ZhbHVlID0gbWF0aC5sb2coKDEuMCAtIDFlLTEwKSAvICgxIC0gKDEuMCAtIDFlLTEwKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfbG93X3F1YWxpdHlfbWF0Y2hlc19cPg==</text>
