@@ -243,13 +243,14 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" timestamp="1592970047111">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="49" column="11" />
-        <mark key="^" line="49" column="11" />
-        <mark key="." line="49" column="10" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" timestamp="1592971701451">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="110" column="11" />
+        <mark key="]" line="111" column="47" />
+        <mark key="^" line="111" column="47" />
+        <mark key="." line="111" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592969960314">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592970932594">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="108" column="13" />
         <mark key="]" line="109" column="10" />
@@ -276,10 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="20" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
-      <jump line="189" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
-      <jump line="222" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
       <jump line="336" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
       <jump line="45" column="12" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="3" column="13" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
@@ -376,15 +373,19 @@
       <jump line="103" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" />
       <jump line="125" column="47" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" />
       <jump line="12" column="31" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" />
+      <jump line="8" column="38" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
+      <jump line="85" column="56" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
+      <jump line="7" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfbG93X3F1YWxpdHlfbWF0Y2hlc19cPg==</text>
