@@ -121,57 +121,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/registry.py" timestamp="1592644981346">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" timestamp="1592898516199">
         <mark key="'" line="175" column="52" />
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="^" line="123" column="55" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1592997978714">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/registry.py" timestamp="1592644831167">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="65" />
-        <mark key="^" line="9" column="65" />
-        <mark key="." line="9" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/image_list.py" timestamp="1592647734110">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/config.py" timestamp="1593002057328">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="59" column="60" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/registry.py" timestamp="1592645588486">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-        <mark key="." line="24" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1592644490179">
-        <mark key="'" line="147" column="66" />
-        <mark key="[" line="300" column="38" />
-        <mark key="]" line="301" column="6" />
-        <mark key="." line="301" column="5" />
-        <mark key="^" line="301" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593010184506">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/datasets/registry.py" timestamp="1592644981346">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/file_handler.py" timestamp="1593002530756">
         <mark key="'" line="18" column="21" />
@@ -182,17 +143,26 @@
         <mark key="^" line="81" column="46" />
         <mark key="." line="81" column="45" />
       </file>
+      <file name="/Python Console" timestamp="1592997978714">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/registry.py" timestamp="1592645009993">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/config.py" timestamp="1593010042344">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="18" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/config.py" timestamp="1593056188203">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/__init__.py" timestamp="1593056158253">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1592646133016">
         <mark key="'" line="13" column="8" />
@@ -201,10 +171,21 @@
         <mark key="^" line="42" column="52" />
         <mark key="." line="42" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/setup.cfg" timestamp="1593055721241">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/wrapper.py" timestamp="1592647932559">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/image_list.py" timestamp="1593054242439">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="55" column="8" />
+        <mark key="." line="55" column="7" />
+        <mark key="^" line="55" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" timestamp="1592999086496">
         <mark key="[" line="52" column="35" />
@@ -212,31 +193,39 @@
         <mark key="^" line="52" column="43" />
         <mark key="." line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/rpn.py" timestamp="1592644651957">
-        <mark key="'" line="395" column="5" />
-        <mark key="[" line="394" column="38" />
-        <mark key="]" line="395" column="6" />
-        <mark key="^" line="395" column="6" />
-        <mark key="." line="395" column="5" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/config.py" timestamp="1593002057328">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="59" column="60" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/data_parallel.py" timestamp="1592748004589" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/rcnn.py" timestamp="1592646270497">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1592748009753">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="32" column="18" />
-        <mark key="." line="32" column="17" />
-        <mark key="^" line="32" column="18" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/registry.py" timestamp="1592645588486">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593056185094">
+        <mark key="'" line="605" column="19" />
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="44" />
+        <mark key="^" line="44" column="44" />
+        <mark key="." line="44" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1593056983954">
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="32" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="79" column="7" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataset.py" />
       <jump line="122" column="15" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" />
       <jump line="14" column="47" filename="$USER_HOME$/Documents/my-repositories/STEGO/src/data/dataloader.py" />
@@ -335,15 +324,32 @@
       <jump line="141" column="95" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_common.py" />
       <jump line="15" column="32" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/file_handler.py" />
       <jump line="18" column="21" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/file_handler.py" />
+      <jump line="375" column="14" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" />
+      <jump line="605" column="19" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBMaXN0IG9mIHRoZSBwcmUtY29tcHV0ZWQgcHJvcG9zYWwgZmlsZXMgZm9yIHRlc3QsIHdoaWNoIG11c3QgYmUgY29uc2lzdGVudAojIHdpdGggZGF0YXNldHMgbGlzdGVkIGluIERBVEFTRVRTLlRFU1QuCl9DLkRBVEFTRVRTLlBST1BPU0FMX0ZJTEVTX1RFU1QgPSAoKQojIE51bWJlciBvZiB0b3Agc2NvcmluZyBwcmVjb21wdXRlZCBwcm9wb3NhbHMgdG8ga2VlcCBmb3IgdGVzdApfQy5EQVRBU0VUUy5QUkVDT01QVVRFRF9QUk9QT1NBTF9UT1BLX1RFU1QgPSAxMDAwCg==</text>
+        <text>cfg = load('./configs/demo.yaml')
+dataloader = build_detection_train_loader(cfg['data']['train'])
+
+batch_data = next(iter(dataloader))
+print(len(batch_data))
+
+resnet = build_backbone(cfg['model']['backbone'])
+neck = build_neck(cfg['model']['neck'], resnet.output_shape)
+proposal_generator = build_proposal_generator(cfg['model']['proposal_generator'], neck.output_shape)
+
+rcnn = GeneralizedRCNN(resnet, neck, proposal_generator=proposal_generator)
+x = rcnn(batch_data)
+
+
+from torch.nn import DataParallel
+import torchvision</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FkZXJcPg==</text>
@@ -352,31 +358,46 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IHlhbWwuY29uc3RydWN0b3IuQ29uc3RydWN0b3JFcnJvcjoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBMaXN0IG9mIHRoZSBwcmUtY29tcHV0ZWQgcHJvcG9zYWwgZmlsZXMgZm9yIHRlc3QsIHdoaWNoIG11c3QgYmUgY29uc2lzdGVudAojIHdpdGggZGF0YXNldHMgbGlzdGVkIGluIERBVEFTRVRTLlRFU1QuCl9DLkRBVEFTRVRTLlBST1BPU0FMX0ZJTEVTX1RFU1QgPSAoKQojIE51bWJlciBvZiB0b3Agc2NvcmluZyBwcmVjb21wdXRlZCBwcm9wb3NhbHMgdG8ga2VlcCBmb3IgdGVzdApfQy5EQVRBU0VUUy5QUkVDT01QVVRFRF9QUk9QT1NBTF9UT1BLX1RFU1QgPSAxMDAwCg==</text>
+        <text>cfg = load('./configs/demo.yaml')
+dataloader = build_detection_train_loader(cfg['data']['train'])
+
+batch_data = next(iter(dataloader))
+print(len(batch_data))
+
+resnet = build_backbone(cfg['model']['backbone'])
+neck = build_neck(cfg['model']['neck'], resnet.output_shape)
+proposal_generator = build_proposal_generator(cfg['model']['proposal_generator'], neck.output_shape)
+
+rcnn = GeneralizedRCNN(resnet, neck, proposal_generator=proposal_generator)
+x = rcnn(batch_data)
+
+
+from torch.nn import DataParallel
+import torchvision</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBMaXN0IG9mIHRoZSBwcmUtY29tcHV0ZWQgcHJvcG9zYWwgZmlsZXMgZm9yIHRyYWluaW5nLCB3aGljaCBtdXN0IGJlIGNvbnNpc3RlbnQKIyB3aXRoIGRhdGFzZXRzIGxpc3RlZCBpbiBEQVRBU0VUUy5UUkFJTi4KX0MuREFUQVNFVFMuUFJPUE9TQUxfRklMRVNfVFJBSU4gPSAoKQojIE51bWJlciBvZiB0b3Agc2NvcmluZyBwcmVjb21wdXRlZCBwcm9wb3NhbHMgdG8ga2VlcCBmb3IgdHJhaW5pbmcKX0MuREFUQVNFVFMuUFJFQ09NUFVURURfUFJPUE9TQUxfVE9QS19UUkFJTiA9IDIwMDAK</text>
+        <text encoding="base64">U1BMSVRfQkVGT1JFX0ZJUlNUX0FSR1VNRU5UID0gVHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X0MuTU9ERUwuTE9BRF9QUk9QT1NBTFMgPSBGYWxzZQo=</text>
+        <text encoding="base64">U1BMSVRfQkVGT1JFX0VYUFJFU1NJT05fQUZURVJfT1BFTklOR19QQVJFTiA9IFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuY29uZmlnIGltcG9ydCBDZmdOb2RlIGFzIENOCg==</text>
+        <text encoding="base64">U1BMSVRfQkVGT1JFX0NMT1NJTkdfQlJBQ0tFVCA9IEZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEhhbmRsZXJSZWdpc3RyeS5yZWdpc3RlcigneWFtbCcpCg==</text>
+        <text encoding="base64">U1BMSVRfQVJHVU1FTlRTX1dIRU5fQ09NTUFfVEVSTUlOQVRFRCA9IFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEhhbmRsZXJSZWdpc3RyeS5yZWdpc3RlcigncGlja2xlJykK</text>
+        <text encoding="base64">Q09BTEVTQ0VfQlJBQ0tFVFMgPSB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB5cmUtaWdub3JlCg==</text>
+        <text encoding="base64">IyBMaXN0IG9mIHRoZSBwcmUtY29tcHV0ZWQgcHJvcG9zYWwgZmlsZXMgZm9yIHRlc3QsIHdoaWNoIG11c3QgYmUgY29uc2lzdGVudAojIHdpdGggZGF0YXNldHMgbGlzdGVkIGluIERBVEFTRVRTLlRFU1QuCl9DLkRBVEFTRVRTLlBST1BPU0FMX0ZJTEVTX1RFU1QgPSAoKQojIE51bWJlciBvZiB0b3Agc2NvcmluZyBwcmVjb21wdXRlZCBwcm9wb3NhbHMgdG8ga2VlcCBmb3IgdGVzdApfQy5EQVRBU0VUUy5QUkVDT01QVVRFRF9QUk9QT1NBTF9UT1BLX1RFU1QgPSAxMDAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggb3BlbihmaWxlbmFtZSwgJ3InKSBhcyBmOgogICAgICAgICAgICAgICAgICAgIGNmZyA9IHlhbWwudW5zYWZlX2xvYWQoZikgICMgcHlyZS1pZ25vcmUK</text>
+        <text encoding="base64">IyBMaXN0IG9mIHRoZSBwcmUtY29tcHV0ZWQgcHJvcG9zYWwgZmlsZXMgZm9yIHRyYWluaW5nLCB3aGljaCBtdXN0IGJlIGNvbnNpc3RlbnQKIyB3aXRoIGRhdGFzZXRzIGxpc3RlZCBpbiBEQVRBU0VUUy5UUkFJTi4KX0MuREFUQVNFVFMuUFJPUE9TQUxfRklMRVNfVFJBSU4gPSAoKQojIE51bWJlciBvZiB0b3Agc2NvcmluZyBwcmVjb21wdXRlZCBwcm9wb3NhbHMgdG8ga2VlcCBmb3IgdHJhaW5pbmcKX0MuREFUQVNFVFMuUFJFQ09NUFVURURfUFJPUE9TQUxfVE9QS19UUkFJTiA9IDIwMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYuY2xvc2UoKQo=</text>
+        <text encoding="base64">X0MuTU9ERUwuTE9BRF9QUk9QT1NBTFMgPSBGYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
