@@ -196,9 +196,6 @@
         <mark key="." line="70" column="71" />
         <mark key="^" line="70" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/file_handler.py" timestamp="1593002530756">
-        <mark key="'" line="18" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/config.py" timestamp="1593072384943">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="19" />
@@ -222,6 +219,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/utils/env.py" timestamp="1593163968731" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1593093734080" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1593092179116">
         <mark key="[" line="22" column="0" />
