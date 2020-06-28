@@ -194,12 +194,6 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1592987743302">
-        <mark key="[" line="326" column="0" />
-        <mark key="]" line="326" column="0" />
-        <mark key="^" line="326" column="53" />
-        <mark key="." line="326" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/arch/registry.py" timestamp="1592802759398">
         <mark key="[" line="18" column="33" />
         <mark key="]" line="18" column="56" />
@@ -279,11 +273,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1592968128016">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1593312953236">
         <mark key="'" line="9" column="58" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="126" column="6" />
+        <mark key="]" line="126" column="7" />
+        <mark key="." line="126" column="6" />
+        <mark key="^" line="126" column="7" />
       </file>
     </filemarks>
     <jumps>
