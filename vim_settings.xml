@@ -237,7 +237,7 @@
         <mark key="^" line="89" column="83" />
         <mark key="." line="89" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" timestamp="1593333595129">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" timestamp="1593333968333">
         <mark key="'" line="12" column="38" />
         <mark key="[" line="101" column="42" />
         <mark key="]" line="101" column="57" />
@@ -258,23 +258,23 @@
         <mark key="." line="153" column="35" />
         <mark key="^" line="153" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/registry.py" timestamp="1593333662385">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="40" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/registry.py" timestamp="1593333972001">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593331775523">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593334881642">
         <mark key="[" line="115" column="79" />
         <mark key="]" line="119" column="16" />
         <mark key="^" line="119" column="16" />
         <mark key="." line="119" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/new_defaults.py" timestamp="1593332610339">
-        <mark key="[" line="174" column="29" />
-        <mark key="]" line="174" column="29" />
-        <mark key="^" line="174" column="29" />
-        <mark key="." line="174" column="28" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/new_defaults.py" timestamp="1593334939415">
+        <mark key="[" line="132" column="3" />
+        <mark key="]" line="132" column="9" />
+        <mark key="^" line="118" column="9" />
+        <mark key="." line="132" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/config.py" timestamp="1593331965383">
         <mark key="[" line="12" column="10" />
@@ -394,8 +394,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBrIG5vdCBpbiBzZWxmLl9vdXRwdXRfc2hhcGUsICd7fSBhbHJlYWR5IGluIHRoZSBGUE4gb3V0cHV0X3NoYXBlJy5mb3JtYXQoaykK</text>
+      <register name="&quot;" type="4">
+        <text>MODEL.</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -403,8 +403,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfbG93X3F1YWxpdHlfbWF0Y2hlc19cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNmZy5tZXJnZV9mcm9tX2xpc3QoWydORUNLLk5BTUUnLCAnRlBOJ10pCiAgICBuZWNrID0gYnVpbGRfbmVjayhjZmcsIGJhY2tib25lLm91dHB1dF9zaGFwZSkKICAgIHByaW50KG5lY2sub3V0cHV0X3NoYXBlKQo=</text>
+      <register name="0" type="4">
+        <text>MODEL.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBrIG5vdCBpbiBzZWxmLl9vdXRwdXRfc2hhcGUsICd7fSBhbHJlYWR5IGluIHRoZSBGUE4gb3V0cHV0X3NoYXBlJy5mb3JtYXQoaykK</text>
