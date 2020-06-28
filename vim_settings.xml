@@ -214,18 +214,17 @@
         <mark key="." line="322" column="30" />
         <mark key="^" line="322" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593344500014">
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593346985814">
         <mark key="'" line="321" column="0" />
-        <mark key="[" line="449" column="9" />
-        <mark key="]" line="449" column="16" />
-        <mark key="^" line="449" column="16" />
-        <mark key="." line="449" column="15" />
+        <mark key="[" line="467" column="0" />
+        <mark key="]" line="467" column="0" />
+        <mark key="." line="467" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1593344505648">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="35" column="23" />
-        <mark key="^" line="35" column="23" />
-        <mark key="." line="35" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1593344581167">
+        <mark key="[" line="9" column="83" />
+        <mark key="]" line="9" column="84" />
+        <mark key="^" line="9" column="84" />
+        <mark key="." line="9" column="83" />
       </file>
     </filemarks>
     <jumps>
@@ -334,8 +333,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>cfg.merge_from_list(['NECK.NAME', 'FPN'])
-neck = build_neck(cfg, backbone.output_shape)</text>
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="-" type="4">
         <text>NECK</text>
@@ -344,35 +342,34 @@ neck = build_neck(cfg, backbone.output_shape)</text>
         <text encoding="base64">XDxMb2FkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text>cfg.merge_from_list(['NECK.NAME', 'FPN'])
-neck = build_neck(cfg, backbone.output_shape)</text>
+        <text encoding="base64">cHJpbnQobmVjay5vdXRwdXRfc2hhcGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlemVfYXQgPSBjZmcuQkFDS0JPTkUuUkVTTkVUUy5GUkVFWkVfQVQKICAgICAgICBvdXRfZmVhdHVyZXMgPSBjZmcuQkFDS0JPTkUuUkVTTkVUUy5PVVRfRkVBVFVSRVMKICAgICAgICBudW1fY2xhc3NlcyA9IGNmZy5CQUNLQk9ORS5SRVNORVRTLk5VTV9DTEFTU0VTCg==</text>
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Li4vTU9ERUxTL211bHRpbGFiZWxfZWZmYjVfYmFzZWxpbmUK</text>
+        <text encoding="base64">Y2ZnLm1lcmdlX2Zyb21fbGlzdChbJ01PREVMLlJFU05FVFMuT1VUX0ZFQVRVUkVTJywgIlsncmVzMicsICdyZXMzJywgJ3JlczQnLCAncmVzNSciXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBGcmVlemUgdGhlIGZpcnN0IHNldmVyYWwgc3RhZ2VzIHNvIHRoZXkgYXJlIG5vdCB0cmFpbmVkLgojIFRoZXJlIGFyZSA1IHN0YWdlcyBpbiBSZXNOZXQuIFRoZSBmaXJzdCBpcyBhIGNvbnZvbHV0aW9uLCBhbmQgdGhlIGZvbGxvd2luZwojIHN0YWdlcyBhcmUgZWFjaCBncm91cCBvZiByZXNpZHVhbCBibG9ja3MuCl9DLk1PREVMLkJBQ0tCT05FLkZSRUVaRV9BVCA9IDIK</text>
+        <text encoding="base64">ICAgICAgICBmcmVlemVfYXQgPSBjZmcuQkFDS0JPTkUuUkVTTkVUUy5GUkVFWkVfQVQKICAgICAgICBvdXRfZmVhdHVyZXMgPSBjZmcuQkFDS0JPTkUuUkVTTkVUUy5PVVRfRkVBVFVSRVMKICAgICAgICBudW1fY2xhc3NlcyA9IGNmZy5CQUNLQk9ORS5SRVNORVRTLk5VTV9DTEFTU0VTCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Li4vTU9ERUxTL211bHRpbGFiZWxfZWZmYjVfYmFzZWxpbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIEJhY2tib25lIG9wdGlvbnMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpfQy5CQUNLQk9ORSA9IENOKCkKCiMKIyBSZXNOZXQgb3B0aW9ucwojCg==</text>
+        <text encoding="base64">IyBGcmVlemUgdGhlIGZpcnN0IHNldmVyYWwgc3RhZ2VzIHNvIHRoZXkgYXJlIG5vdCB0cmFpbmVkLgojIFRoZXJlIGFyZSA1IHN0YWdlcyBpbiBSZXNOZXQuIFRoZSBmaXJzdCBpcyBhIGNvbnZvbHV0aW9uLCBhbmQgdGhlIGZvbGxvd2luZwojIHN0YWdlcyBhcmUgZWFjaCBncm91cCBvZiByZXNpZHVhbCBibG9ja3MuCl9DLk1PREVMLkJBQ0tCT05FLkZSRUVaRV9BVCA9IDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1nID0gcmVhZF9pbWFnZSgnLi9kYXRhL01TQ09DTy90cmFpbjIwMTcvMDAwMDAwMDAwMDA5LmpwZycsICdCR1InKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoY2ZnLkRBVEFTRVRTLlRSQUlOKQo=</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIEJhY2tib25lIG9wdGlvbnMKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwpfQy5CQUNLQk9ORSA9IENOKCkKCiMKIyBSZXNOZXQgb3B0aW9ucwojCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2ZnLm1lcmdlX2Zyb21fZmlsZSgnLi9jb25maWdzL2RlbW8ueWFtbCcpCnByaW50KGNmZy5EQVRBU0VUUy5UUkFJTikK</text>
+        <text encoding="base64">aW1nID0gcmVhZF9pbWFnZSgnLi9kYXRhL01TQ09DTy90cmFpbjIwMTcvMDAwMDAwMDAwMDA5LmpwZycsICdCR1InKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">cHJpbnQoY2ZnLkRBVEFTRVRTLlRSQUlOKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
