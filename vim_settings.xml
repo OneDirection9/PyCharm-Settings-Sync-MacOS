@@ -95,8 +95,8 @@
         <entry>w2</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGNvbXBsZXRvciNkbygnZG9jJyk=</entry>
         <entry>we</entry>
-        <entry>call completor#do('doc')</entry>
         <entry>noh</entry>
+        <entry>call completor#do('doc')</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -175,14 +175,23 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1593327500545">
-        <mark key="'" line="343" column="50" />
-        <mark key="[" line="350" column="9" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1593329703034">
+        <mark key="'" line="354" column="50" />
+        <mark key="[" line="407" column="46" />
+        <mark key="]" line="407" column="46" />
+        <mark key="." line="407" column="45" />
+        <mark key="^" line="407" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1593325701351">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/registry.py" timestamp="1593329122874">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="30" column="48" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" timestamp="1592989456989">
         <mark key="'" line="199" column="29" />
@@ -233,11 +242,11 @@
         <mark key="^" line="89" column="83" />
         <mark key="." line="89" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" timestamp="1593324306143">
-        <mark key="[" line="89" column="9" />
-        <mark key="]" line="89" column="26" />
-        <mark key="." line="89" column="25" />
-        <mark key="^" line="89" column="26" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" timestamp="1593329170361">
+        <mark key="[" line="87" column="42" />
+        <mark key="]" line="89" column="33" />
+        <mark key="." line="89" column="32" />
+        <mark key="^" line="89" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/config.py" timestamp="1592989241591">
         <mark key="'" line="134" column="42" />
@@ -253,7 +262,12 @@
         <mark key="." line="153" column="35" />
         <mark key="^" line="153" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593327397815" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593329702455">
+        <mark key="[" line="443" column="7" />
+        <mark key="]" line="443" column="9" />
+        <mark key="^" line="443" column="9" />
+        <mark key="." line="443" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" timestamp="1592987296475">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -273,11 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build2.py" />
-      <jump line="5" column="77" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="136" column="33" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" />
-      <jump line="75" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
-      <jump line="6" column="50" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="15" column="24" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/anchor_generator.py" />
       <jump line="9" column="57" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/common.py" />
       <jump line="138" column="52" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/common.py" />
@@ -373,15 +382,20 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/dataset_mapper.py" />
       <jump line="148" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/augmentation_impl.py" />
       <jump line="342" column="50" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="393" column="15" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="357" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="374" column="17" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="354" column="50" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGNmZzogQ2ZnTm9kZSwgdHJhaW5pbmc6IGJvb2wgPSBUcnU=</text>
+        <text>resnet_backbone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfbG93X3F1YWxpdHlfbWF0Y2hlc19cPg==</text>
@@ -390,31 +404,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlX3N0eWxlID0gY2ZnLklOUFVULk1JTl9TSVpFX1RSQUlOX1NBTVBMSU5HCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gIwojIAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IwojIFJFCiMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0cmFpbmluZzoK</text>
+        <text encoding="base64">ICAgICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHRyYWluaW5nOgogICAgICAgIG1pbl9zaXplID0gY2ZnLklOUFVULk1JTl9TSVpFX1RSQUlOCiAgICAgICAgbWF4X3NpemUgPSBjZmcuSU5QVVQuTUFYX1NJWkVfVFJBSU4KICAgICAgICBzYW1wbGVfc3R5bGUgPSBjZmcuSU5QVVQuTUlOX1NJWkVfVFJBSU5fU0FNUExJTkcKICAgIGVsc2U6CiAgICAgICAgbWluX3NpemUgPSBjZmcuSU5QVVQuTUlOX1NJWkVfVEVTVAogICAgICAgIG1heF9zaXplID0gY2ZnLklOUFVULk1BWF9TSVpFX1RFU1QKICAgICAgICBzYW1wbGVfc3R5bGUgPSAnY2hvaWNlJwo=</text>
+        <text encoding="base64">ICAgICdSZXNOZXQnLAogICAgJycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzeXMKCiAgICBzeXMuZXhpdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tib25lID0gQmFja2JvbmVSZWdpc3RyeS5nZXQoYmFja2JvbmVfbmFtZSkoaW5wdXRfc2hhcGUsICoqY2ZnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGJ1aWwK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9zaGFwZSA9IFNoYXBlU3BlYyhjaGFubmVscz0zKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbW0uc3luY2hyb25pemUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIERlZmF1bHQgZXhwZWN0ZWQgMyBjaGFubmVscyBpbnB1dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
