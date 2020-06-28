@@ -236,12 +236,6 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/configs/demo.yaml" timestamp="1592986695313">
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="14" />
-        <mark key="^" line="40" column="14" />
-        <mark key="." line="40" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/layers/norm.py" timestamp="1592808885795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="26" />
