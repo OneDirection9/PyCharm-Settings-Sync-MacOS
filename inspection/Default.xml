@@ -3,11 +3,17 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="4">
+        <list size="10">
           <item index="0" class="java.lang.String" itemvalue="scipy" />
           <item index="1" class="java.lang.String" itemvalue="torch" />
           <item index="2" class="java.lang.String" itemvalue="torchvision" />
           <item index="3" class="java.lang.String" itemvalue="foundation" />
+          <item index="4" class="java.lang.String" itemvalue="pydot" />
+          <item index="5" class="java.lang.String" itemvalue="fvcore" />
+          <item index="6" class="java.lang.String" itemvalue="cloudpickle" />
+          <item index="7" class="java.lang.String" itemvalue="mock" />
+          <item index="8" class="java.lang.String" itemvalue="pycocotools" />
+          <item index="9" class="java.lang.String" itemvalue="Pillow" />
         </list>
       </value>
     </option>
