@@ -171,43 +171,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/datasets/coco.py" timestamp="1593507077938">
-        <mark key="'" line="311" column="14" />
-        <mark key="[" line="261" column="93" />
-        <mark key="]" line="262" column="16" />
-        <mark key="." line="262" column="15" />
-        <mark key="^" line="262" column="16" />
+      <file name="/a.dummy" timestamp="1593571214676">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/samplers/__init__.py" timestamp="1593507376240">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/samplers/distributed_sampler.py" timestamp="1593507302611">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/transforms/__init__.py" timestamp="1593507401111">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/build.py" timestamp="1593507724678">
-        <mark key="'" line="145" column="4" />
-        <mark key="[" line="294" column="45" />
-        <mark key="]" line="294" column="50" />
-        <mark key="^" line="294" column="50" />
-        <mark key="." line="294" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/transforms/augmentation_impl.py" timestamp="1593507252841">
-        <mark key="[" line="139" column="40" />
-        <mark key="]" line="139" column="41" />
-        <mark key="^" line="87" column="9" />
-        <mark key="." line="139" column="41" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/download.py" timestamp="1593571072274">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1593569739043">
         <mark key="'" line="363" column="33" />
@@ -216,29 +190,24 @@
         <mark key="^" line="346" column="84" />
         <mark key="." line="346" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/datasets/registry.py" timestamp="1593507109567">
-        <mark key="'" line="71" column="36" />
-        <mark key="[" line="74" column="11" />
-        <mark key="]" line="74" column="18" />
-        <mark key="^" line="74" column="18" />
-        <mark key="." line="74" column="17" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path.py" timestamp="1593571848905">
+        <mark key="[" line="616" column="9" />
+        <mark key="]" line="616" column="26" />
+        <mark key="^" line="616" column="26" />
+        <mark key="." line="616" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/augmentation.py" timestamp="1593506317982">
-        <mark key="'" line="245" column="16" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_download.py" timestamp="1593570715558">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/distributed_sampler.py" timestamp="1593507336575" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1593507737166">
-        <mark key="[" line="89" column="82" />
-        <mark key="]" line="89" column="83" />
-        <mark key="^" line="89" column="83" />
-        <mark key="." line="89" column="82" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/file_handler.py" timestamp="1593572054992">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/samplers/grouped_batch_sampler.py" timestamp="1593507416021" />
-      <file name="/detection_utils.py" timestamp="1593508285422" />
-      <file name="/build.py" timestamp="1593507688949" />
       <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/utils.py" timestamp="1593508343479">
         <mark key="[" line="447" column="74" />
         <mark key="]" line="447" column="74" />
@@ -252,23 +221,47 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="/common.py" timestamp="1593507835886" />
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/datasets/__init__.py" timestamp="1593507386594">
-        <mark key="[" line="0" column="70" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="26" />
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1593573267811" />
+      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/build.py" timestamp="1593507724678">
+        <mark key="'" line="145" column="4" />
+        <mark key="[" line="294" column="45" />
+        <mark key="]" line="294" column="50" />
+        <mark key="^" line="294" column="50" />
+        <mark key="." line="294" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/samplers/grouped_batch_sampler.py" timestamp="1593507339875" />
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" timestamp="1593573282528" />
+      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1593507737166">
+        <mark key="[" line="89" column="82" />
+        <mark key="]" line="89" column="83" />
+        <mark key="^" line="89" column="83" />
+        <mark key="." line="89" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_path.py" timestamp="1593571373805">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593572106134">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="23" column="8" />
+        <mark key="^" line="23" column="8" />
+        <mark key="." line="23" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/utils/events.py" timestamp="1593572897702" />
+      <file name="/detection_utils.py" timestamp="1593508285422" />
+      <file name="/build.py" timestamp="1593507688949" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path_manager.py" timestamp="1593571197085">
+        <mark key="'" line="78" column="42" />
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/common.py" timestamp="1593507853000" />
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
-      <jump line="121" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
-      <jump line="161" column="22" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
-      <jump line="5" column="10" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
-      <jump line="133" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/proposal_generator/utils.py" />
-      <jump line="124" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="10" column="67" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="160" column="55" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="175" column="20" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
@@ -362,12 +355,19 @@
       <jump line="480" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/roi_heads.py" />
       <jump line="197" column="11" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/roi_heads/fast_rcnn.py" />
       <jump line="145" column="4" filename="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/build.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/download.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/download.py" />
+      <jump line="56" column="42" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path_manager.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/download.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
+      <jump line="26" column="13" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZXBhdGgsIG1vZGUpIGFzIGY6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -375,35 +375,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxQSUxfSU5URVJfQ09ERVNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>cfg.MODEL.ROI_KEYPOINT_HEAD.CONV_DIMS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIFBhdGhNYW5hZ2VyLm9wZW4oZmlsZXBhdGgsIG1vZGUpIGFzIGY6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAoCiAgICAgICAgaW1hZ2Vfc2l6ZVswXSA+PSBjcm9wX3NpemVbMF0gYW5kIGltYWdlX3NpemVbMV0gPj0gY3JvcF9zaXplWzFdCiAgICApLCAnQ3JvcCBzaXplIGlzIGxhcmdlciB0aGFuIGltYWdlIHNpemUhJwoK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZXBhdGgsIG1vZGUpIGFzIGY6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZXBhdGgsIG1vZGUpIGFzIGY6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpkZWYgY3JlYXRlX2tleXBvaW50X2hmbGlwX2luZGljZXModmlzaW9uX2RhdGFzZXRzOiBMaXN0W1Zpc2lvbkRhdGFzZXRdKSAtPiBucC5uZGFycmF5OgogICAgIiIiCiAgICBBcmdzOgogICAgICAgIHZpc2lvbl9kYXRhc2V0czogTGlzdCBvZiBkYXRhc2V0cy4KCiAgICBSZXR1cm5zOgogICAgICAgIG5wLm5kYXJyYXlbaW50XTogQSB2ZWN0b3Igb2Ygc2l6ZT0ja2V5cG9pbnRzLCBzdG9yaW5nIHRoZSBob3Jpem9udGFsbHktZmxpcHBlZCBrZXlwb2ludAogICAgICAgICAgICBpbmRpY2VzLgogICAgIiIiCiAgICBjaGVja19tZXRhZGF0YV9jb25zaXN0ZW5jeSgna2V5cG9pbnRfbmFtZXMnLCB2aXNpb25fZGF0YXNldHMpCiAgICBjaGVja19tZXRhZGF0YV9jb25zaXN0ZW5jeSgna2V5cG9pbnRfZmxpcF9tYXAnLCB2aXNpb25fZGF0YXNldHMpCgogICAgbWV0YWRhdGEgPSB2aXNpb25fZGF0YXNldHNbMF0ubWV0YWRhdGEKICAgIG5hbWVzID0gbWV0YWRhdGEuZ2V0KCdrZXlwb2ludF9uYW1lcycpCiAgICBoZmxpcF9tYXAgPSBkaWN0KG1ldGFkYXRhLmdldCgna2V5cG9pbnRfZmxpcF9tYXAnKSkKICAgIGhmbGlwX21hcC51cGRhdGUoe3Y6IGsgZm9yIGssIHYgaW4gaGZsaXBfbWFwLml0ZW1zKCl9KQoKICAgIGZsaXBwZWRfbmFtZXMgPSBbaSBpZiBpIG5vdCBpbiBoZmxpcF9tYXAgZWxzZSBoZmxpcF9tYXBbaV0gZm9yIGkgaW4gbmFtZXNdCiAgICBmbGlwX2luZGljZXMgPSBbbmFtZXMuaW5kZXgoaSkgZm9yIGkgaW4gZmxpcHBlZF9uYW1lc10KICAgIHJldHVybiBucC5hc2FycmF5KGZsaXBfaW5kaWNlcykK</text>
+        <text encoding="base64">X19hbGxfXyA9IFsiTGF6eVBhdGgiLCAiUGF0aE1hbmFnZXIiLCAiZ2V0X2NhY2hlX2RpciIsICJmaWxlX2xvY2siLCAnZmluJ10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdOb25lIHZpc2lvbiBkYXRhc2V0IGlzIGF2YWlsYWJsZScpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmRlZiBjcmVhdGVfa2V5cG9pbnRfaGZsaXBfaW5kaWNlcyh2aXNpb25fZGF0YXNldHM6IExpc3RbVmlzaW9uRGF0YXNldF0pIC0+IG5wLm5kYXJyYXk6CiAgICAiIiIKICAgIEFyZ3M6CiAgICAgICAgdmlzaW9uX2RhdGFzZXRzOiBMaXN0IG9mIGRhdGFzZXRzLgoKICAgIFJldHVybnM6CiAgICAgICAgbnAubmRhcnJheVtpbnRdOiBBIHZlY3RvciBvZiBzaXplPSNrZXlwb2ludHMsIHN0b3JpbmcgdGhlIGhvcml6b250YWxseS1mbGlwcGVkIGtleXBvaW50CiAgICAgICAgICAgIGluZGljZXMuCiAgICAiIiIKICAgIGNoZWNrX21ldGFkYXRhX2NvbnNpc3RlbmN5KCdrZXlwb2ludF9uYW1lcycsIHZpc2lvbl9kYXRhc2V0cykKICAgIGNoZWNrX21ldGFkYXRhX2NvbnNpc3RlbmN5KCdrZXlwb2ludF9mbGlwX21hcCcsIHZpc2lvbl9kYXRhc2V0cykKCiAgICBtZXRhZGF0YSA9IHZpc2lvbl9kYXRhc2V0c1swXS5tZXRhZGF0YQogICAgbmFtZXMgPSBtZXRhZGF0YS5nZXQoJ2tleXBvaW50X25hbWVzJykKICAgIGhmbGlwX21hcCA9IGRpY3QobWV0YWRhdGEuZ2V0KCdrZXlwb2ludF9mbGlwX21hcCcpKQogICAgaGZsaXBfbWFwLnVwZGF0ZSh7djogayBmb3IgaywgdiBpbiBoZmxpcF9tYXAuaXRlbXMoKX0pCgogICAgZmxpcHBlZF9uYW1lcyA9IFtpIGlmIGkgbm90IGluIGhmbGlwX21hcCBlbHNlIGhmbGlwX21hcFtpXSBmb3IgaSBpbiBuYW1lc10KICAgIGZsaXBfaW5kaWNlcyA9IFtuYW1lcy5pbmRleChpKSBmb3IgaSBpbiBmbGlwcGVkX25hbWVzXQogICAgcmV0dXJuIG5wLmFzYXJyYXkoZmxpcF9pbmRpY2VzKQ==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSAucGF0aCBpbXBvcnQgc2FmZV9ta2RpcnMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNhZmVfbWtkaXJzKGRpcikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgU2l6ZU1pc21hdGNoRXJyb3IoVmFsdWVFcnJvcik6CiAgICAiIiIKICAgIFdoZW4gbG9hZGVkIGltYWdlIGhhcyBkaWZmZXJlbmNlIHdpZHRoL2hlaWdodCBjb21wYXJlZCB3aXRoIGFubm90YXRpb24uCiAgICAiIiIKCg==</text>
+        <text encoding="base64">ZnJvbSAucGF0aCBpbXBvcnQgc2FmZV9ta2RpcnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tYXBfZnVuYyA9IG1hcF9mdW5jCg==</text>
+        <text encoding="base64">ZnJvbSAucGF0aCBpbXBvcnQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5fa2V5cG9pbnRzPTAsCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
