@@ -196,6 +196,9 @@
         <mark key="^" line="616" column="26" />
         <mark key="." line="616" column="25" />
       </file>
+      <file name="/Python Console" timestamp="1593580747512">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_download.py" timestamp="1593570715558">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="15" />
@@ -222,13 +225,6 @@
       </file>
       <file name="/common.py" timestamp="1593507835886" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1593573267811" />
-      <file name="$USER_HOME$/Documents/my-repositories/detectron2/detectron2/data/build.py" timestamp="1593507724678">
-        <mark key="'" line="145" column="4" />
-        <mark key="[" line="294" column="45" />
-        <mark key="]" line="294" column="50" />
-        <mark key="^" line="294" column="50" />
-        <mark key="." line="294" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" timestamp="1593573282528" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/build.py" timestamp="1593507737166">
         <mark key="[" line="89" column="82" />
