@@ -242,12 +242,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593572106134">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="23" column="7" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593593920638">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="101" column="75" />
+        <mark key="]" line="105" column="9" />
+        <mark key="^" line="105" column="9" />
+        <mark key="." line="105" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/utils/events.py" timestamp="1593572897702" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path_manager.py" timestamp="1593571197085">
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="4" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" />
       <jump line="9" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" />
       <jump line="8" column="39" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/engine/runner.py" />
       <jump line="248" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" />
@@ -359,6 +358,7 @@
       <jump line="213" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" />
+      <jump line="71" column="13" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
