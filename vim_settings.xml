@@ -242,12 +242,11 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593594610161">
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593662890026">
         <mark key="'" line="71" column="13" />
-        <mark key="[" line="105" column="10" />
-        <mark key="]" line="106" column="9" />
-        <mark key="^" line="106" column="9" />
-        <mark key="." line="106" column="8" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/utils/events.py" timestamp="1593572897702" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path_manager.py" timestamp="1593571197085">
@@ -364,7 +363,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGJvbHQK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -376,7 +375,7 @@
         <text encoding="base64">ICAgICAgICB3aXRoIFBhdGhNYW5hZ2VyLm9wZW4oZmlsZXBhdGgsIG1vZGUpIGFzIGY6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGJvbHQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
@@ -388,19 +387,19 @@
         <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdpbWFnZSBuYW1lOiB7fScuZm9ybWF0KGltZ19uYW1lKSkK</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBsb2FkX2Rvd25sb2FkX2ltZ19mZWF0KGltZ19mZWF0X2ZpbGUsIHNwbGl0PSd0cmFpbicsIGluZGV4PTApOgogICAgaW1nX2ZlYXRfZmlsZSA9IG9zcC5leHBhbmR1c2VyKGltZ19mZWF0X2ZpbGUpCgogICAgZGF0YSA9IGg1cHkuRmlsZShpbWdfZmVhdF9maWxlLCAncicpCiAgICBrZXkgPSAnaW1hZ2VzX3t9Jy5mb3JtYXQoc3BsaXQpCiAgICBpbWdfZmVhdCA9IG5wLmFycmF5KGRhdGFba2V5XSlbaW5kZXhdICAjIE54NDA5NgoKICAgIHJldHVybiBpbWdfZmVhdAoK</text>
+        <text encoding="base64">ICAgIHByaW50KCdpbWFnZSBuYW1lOiB7fScuZm9ybWF0KGltZ19uYW1lKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
