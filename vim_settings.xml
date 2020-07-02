@@ -172,6 +172,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path.py" timestamp="1593571848905">
+        <mark key="[" line="616" column="9" />
+        <mark key="]" line="616" column="26" />
+        <mark key="^" line="616" column="26" />
+        <mark key="." line="616" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/infer.py" timestamp="1593586143575">
+        <mark key="[" line="172" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1593679782152" />
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" timestamp="1593586182584">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="247" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/file_handler.py" timestamp="1593572054992">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_path.py" timestamp="1593571373805">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593680133453">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="147" column="37" />
+        <mark key="." line="147" column="36" />
+        <mark key="^" line="147" column="37" />
+      </file>
+      <file name="/Python Console" timestamp="1593580747512">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1593571214676">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="9" />
@@ -184,71 +223,21 @@
         <mark key="^" line="31" column="35" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" timestamp="1593586182584">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="271" column="0" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
-        <mark key="^" line="247" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path.py" timestamp="1593571848905">
-        <mark key="[" line="616" column="9" />
-        <mark key="]" line="616" column="26" />
-        <mark key="^" line="616" column="26" />
-        <mark key="." line="616" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/infer.py" timestamp="1593586143575">
-        <mark key="[" line="172" column="46" />
-      </file>
-      <file name="/Python Console" timestamp="1593580747512">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_download.py" timestamp="1593570715558">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/file_handler.py" timestamp="1593572054992">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="43" column="51" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/visdial/models/answerer.py" timestamp="1593585743610" />
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/data/caption_with_tf2.py" timestamp="1593588402033" />
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1593573267811" />
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/options.py" timestamp="1593584508005">
-        <mark key="[" line="15" column="52" />
-        <mark key="]" line="15" column="69" />
-        <mark key="." line="15" column="68" />
-        <mark key="^" line="15" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/proposal_generator/rpn.py" timestamp="1593670910269" />
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" timestamp="1593573282528" />
-      <file name="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3/json/__init__.pyi" timestamp="1593574101580">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/options2.py" timestamp="1593586481500" />
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_path.py" timestamp="1593571373805">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593662890026">
-        <mark key="'" line="71" column="13" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/utils/events.py" timestamp="1593572897702" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path_manager.py" timestamp="1593571197085">
         <mark key="'" line="78" column="42" />
         <mark key="[" line="17" column="46" />
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3/json/__init__.pyi" timestamp="1593574101580">
+        <mark key="'" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/options.py" timestamp="1593584508005">
+        <mark key="[" line="15" column="52" />
+        <mark key="]" line="15" column="69" />
+        <mark key="." line="15" column="68" />
+        <mark key="^" line="15" column="69" />
       </file>
     </filemarks>
     <jumps>
