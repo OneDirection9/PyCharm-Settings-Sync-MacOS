@@ -191,13 +191,6 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="247" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/utils.py" timestamp="1593569739043">
-        <mark key="'" line="363" column="33" />
-        <mark key="[" line="346" column="83" />
-        <mark key="]" line="346" column="84" />
-        <mark key="^" line="346" column="84" />
-        <mark key="." line="346" column="83" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path.py" timestamp="1593571848905">
         <mark key="[" line="616" column="9" />
         <mark key="]" line="616" column="26" />
@@ -231,6 +224,7 @@
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/proposal_generator/rpn.py" timestamp="1593670910269" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" timestamp="1593573282528" />
       <file name="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3/json/__init__.pyi" timestamp="1593574101580">
         <mark key="'" line="3" column="0" />
