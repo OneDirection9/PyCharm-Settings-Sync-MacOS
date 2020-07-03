@@ -121,66 +121,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" timestamp="1593343994347">
-        <mark key="'" line="359" column="26" />
-        <mark key="[" line="362" column="28" />
-        <mark key="]" line="362" column="33" />
-        <mark key="." line="362" column="32" />
-        <mark key="^" line="362" column="33" />
-      </file>
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" timestamp="1593765817069" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1593748101779">
         <mark key="[" line="234" column="0" />
         <mark key="]" line="234" column="0" />
         <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1593756003793" />
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1593765048573" />
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/legacy.py" timestamp="1593756902886">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="23" column="51" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/registry.py" timestamp="1593344178718">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="22" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" timestamp="1593344409653">
-        <mark key="[" line="322" column="30" />
-        <mark key="]" line="322" column="31" />
-        <mark key="." line="322" column="30" />
-        <mark key="^" line="322" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" timestamp="1593346985814">
-        <mark key="'" line="321" column="0" />
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="0" />
-        <mark key="." line="467" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/registry.py" timestamp="1593343905719">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/config.py" timestamp="1593343663201">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="9" />
-      </file>
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/poolers.py" timestamp="1593764577101" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1593758475337" />
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/matcher.py" timestamp="1593763930808" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/datagen/processors.py" timestamp="1593757051952">
         <mark key="[" line="50" column="22" />
         <mark key="]" line="50" column="22" />
         <mark key="^" line="50" column="22" />
         <mark key="." line="50" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1593746876035">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/requirements.txt" timestamp="1593746882193">
         <mark key="[" line="10" column="0" />
@@ -188,12 +150,6 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593758185879" />
-      <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1593742868746">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="39" column="37" />
-        <mark key="." line="39" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1593760528090" />
     </filemarks>
     <jumps>
