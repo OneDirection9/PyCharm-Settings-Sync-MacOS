@@ -121,14 +121,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" timestamp="1593765817069" />
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/fast_rcnn.py" timestamp="1593767315500" />
+      <file name="/Python Console" timestamp="1593766012552">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/transforms/transform.py" timestamp="1593748101779">
         <mark key="[" line="234" column="0" />
         <mark key="]" line="234" column="0" />
         <mark key="." line="234" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1593756003793" />
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1593765048573" />
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1593766902863" />
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/legacy.py" timestamp="1593756902886">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -143,11 +146,6 @@
         <mark key="]" line="50" column="22" />
         <mark key="^" line="50" column="22" />
         <mark key="." line="50" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/requirements.txt" timestamp="1593746882193">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593758185879" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1593760528090" />
