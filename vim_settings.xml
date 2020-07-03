@@ -188,7 +188,7 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1593752980805" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1593755312810" />
       <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.py" timestamp="1593746876035">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="18" />
@@ -199,13 +199,14 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593753029240" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593755141857" />
       <file name="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" timestamp="1593742868746">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="37" />
         <mark key="^" line="39" column="37" />
         <mark key="." line="39" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1593755262583" />
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
