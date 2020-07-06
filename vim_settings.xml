@@ -181,7 +181,6 @@
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/infer.py" timestamp="1593586143575">
         <mark key="[" line="172" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/setup.cfg" timestamp="1593679782152" />
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" timestamp="1593586182584">
         <mark key="'" line="160" column="0" />
         <mark key="[" line="271" column="0" />
@@ -215,13 +214,6 @@
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/download.py" timestamp="1593571072274">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="31" column="35" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path_manager.py" timestamp="1593571197085">
         <mark key="'" line="78" column="42" />
