@@ -172,11 +172,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path.py" timestamp="1593571848905">
-        <mark key="[" line="616" column="9" />
-        <mark key="]" line="616" column="26" />
-        <mark key="^" line="616" column="26" />
-        <mark key="." line="616" column="25" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path.py" timestamp="1594004740584">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/visdial-diversity/infer.py" timestamp="1593586143575">
         <mark key="[" line="172" column="46" />
@@ -194,18 +194,19 @@
         <mark key="^" line="43" column="51" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_path.py" timestamp="1593571373805">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="14" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/tests/test_path.py" timestamp="1594004395040">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="12" column="104" />
+        <mark key="^" line="12" column="104" />
+        <mark key="." line="12" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1593680133453">
-        <mark key="'" line="71" column="13" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="147" column="37" />
-        <mark key="." line="147" column="36" />
-        <mark key="^" line="147" column="37" />
+      <file name="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" timestamp="1594004260865">
+        <mark key="'" line="72" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="50" />
       </file>
       <file name="/Python Console" timestamp="1593580747512">
         <mark key="[" line="0" column="0" />
@@ -215,13 +216,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/foundation/foundation/common/path_manager.py" timestamp="1593571197085">
-        <mark key="'" line="78" column="42" />
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="41" />
-        <mark key="^" line="17" column="42" />
-      </file>
+      <file name="$USER_HOME$/Documents/repositories/fvcore/fvcore/common/file_io.py" timestamp="1594003720247" />
       <file name="$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3/json/__init__.pyi" timestamp="1593574101580">
         <mark key="'" line="3" column="0" />
       </file>
@@ -233,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="35" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/train.py" />
       <jump line="8" column="39" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/engine/runner.py" />
       <jump line="248" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/data/transforms/transform.py" />
@@ -333,15 +327,16 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/my-repositories/visdial-diversity/predict.py" />
       <jump line="71" column="13" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
+      <jump line="241" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/tests/test_path.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJvbHQK</text>
+        <text encoding="base64">aW1wb3J0IG9zLnBhdGggYXMgb3NwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQSUxfSU5URVJfQ09ERVNcPg==</text>
@@ -350,10 +345,10 @@
         <text encoding="base64">ICAgICAgICB3aXRoIFBhdGhNYW5hZ2VyLm9wZW4oZmlsZXBhdGgsIG1vZGUpIGFzIGY6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJvbHQK</text>
+        <text encoding="base64">aW1wb3J0IG9zLnBhdGggYXMgb3NwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGJvbHQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
@@ -365,16 +360,16 @@
         <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGlwZGIgaW1wb3J0IHNldF90cmFjZQogICAgICAgIHNldF90cmFjZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdpbWFnZSBuYW1lOiB7fScuZm9ybWF0KGltZ19uYW1lKSkK</text>
+        <text encoding="base64">ICAgIGZyb20gaXBkYiBpbXBvcnQgc2V0X3RyYWNlCiAgICBzZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
