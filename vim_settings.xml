@@ -121,10 +121,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1593766012552">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1593756003793" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1594088693615" />
       <file name="$USER_HOME$/Documents/my-repositories/image-captioning/legacy.py" timestamp="1593756902886">
         <mark key="[" line="8" column="0" />
@@ -132,17 +128,28 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/api.py" timestamp="1594090759666" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/poolers.py" timestamp="1593764577101" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1593758475337" />
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/matcher.py" timestamp="1593763930808" />
+      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1594090416923">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/modules.py" timestamp="1594089599742" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593758185879" />
+      <file name="/Python Console" timestamp="1593766012552">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/tasks_api.py" timestamp="1594090550634" />
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/matcher.py" timestamp="1593763930808" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/datagen/processors.py" timestamp="1593757051952">
         <mark key="[" line="50" column="22" />
         <mark key="]" line="50" column="22" />
         <mark key="^" line="50" column="22" />
         <mark key="." line="50" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593758185879" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1593760528090" />
     </filemarks>
     <jumps>
@@ -251,7 +258,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">dGYucmV2ZXJzZV9zZXF1ZW5jZQoKbm4uTGF5ZXJOb3JtCg==</text>
       </register>
       <register name="-" type="4">
         <text>NECK</text>
@@ -263,31 +270,31 @@
         <text encoding="base64">cHJpbnQobmVjay5vdXRwdXRfc2hhcGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">dGYucmV2ZXJzZV9zZXF1ZW5jZQoKbm4uTGF5ZXJOb3JtCg==</text>
       </register>
       <register name="2" type="2">
-        <text>from coreflow.deployment import get_steps_per_epoch</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0Cg==</text>
+        <text>from coreflow.deployment import get_steps_per_epoch</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCeSBkZWZhdWx0IHdpbGwgdHJhbnNmb3JtIHRoZSBjb3JuZXIgcG9pbnRzIGFuZCB1c2UgdGhlaXIgbWluaW11bS9tYXhpbXVtIHRvIGNyZWF0ZSBhIG5ldwogICAgICAgIGF4aXMtYWxpZ25lZCBib3guIE5vdGUgdGhhdCB0aGlzIGRlZmF1bHQgbWF5IGNoYW5nZSB0aGUgc2l6ZSBvZiB5b3VyIGJveCwgZS5nLiBpbiByb3RhdGlvbnMuCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJhc2UgY2xhc3MgZm9yIGltcGxlbWVudGF0aW9ucyBvZiBfX2RldGVybWluaXN0aWNfXyB0cmFuc2Zvcm1hdGlvbnMgZm9yIGltYWdlIGFuZCBvdGhlciBkYXRhCiAgICBzdHJ1Y3R1cmVzLiAiRGV0ZXJtaW5pc3RpYyIgcmVxdWlyZXMgdGhhdCB0aGUgb3V0cHV0IG9mIGFsbCBtZXRob2RzIG9mIHRoaXMgY2xhc3MgYXJlCiAgICBkZXRlcm1pbmlzdGljIHcuci50IHRoZWlyIGlucHV0IGFyZ3VtZW50cy4gSW4gdHJhaW5pbmcsIHRoZXJlIHNob3VsZCBiZSBhIGhpZ2hlci1sZXZlbCBwb2xpY3kKICAgIHRoYXQgZ2VuZXJhdGVzIChsaWtlbHkgd2l0aCByYW5kb20gdmFyaWF0aW9ucykgdGhlc2UgdHJhbnNmb3JtIG9wcy4gRWFjaCB0cmFuc2Zvcm0gb3AgbWF5IGhhbmRsZQogICAgc2V2ZXJhbCBkYXRhIHR5cGVzLCBlLmcuOiBpbWFnZSwgY29vcmRpbmF0ZXMsIHNlZ21lbnRhdGlvbiwgYm91bmRpbmcgYm94ZXMuIFNvbWUgb2YgdGhlbSBoYXZlIGEKICAgIGRlZmF1bHQgaW1wbGVtZW50YXRpb24sIGJ1dCBjYW4gYmUgb3ZlcndyaXR0ZW4gaWYgdGhlIGRlZmF1bHQgaXNuJ3QgYXBwcm9wcmlhdGUuIFRoZQogICAgaW1wbGVtZW50YXRpb24gb2YgZWFjaCBtZXRob2QgbWF5IGNob29zZSB0byBtb2RpZnkgaXRzIGlucHV0IGRhdGEgaW4tcGxhY2UgZm9yIGVmZmljaWVudAogICAgdHJhbnNmb3JtYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICBCeSBkZWZhdWx0IHdpbGwgdHJhbnNmb3JtIHRoZSBjb3JuZXIgcG9pbnRzIGFuZCB1c2UgdGhlaXIgbWluaW11bS9tYXhpbXVtIHRvIGNyZWF0ZSBhIG5ldwogICAgICAgIGF4aXMtYWxpZ25lZCBib3guIE5vdGUgdGhhdCB0aGlzIGRlZmF1bHQgbWF5IGNoYW5nZSB0aGUgc2l6ZSBvZiB5b3VyIGJveCwgZS5nLiBpbiByb3RhdGlvbnMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHljb2NvdG9vbHMK</text>
+        <text encoding="base64">ICAgIEJhc2UgY2xhc3MgZm9yIGltcGxlbWVudGF0aW9ucyBvZiBfX2RldGVybWluaXN0aWNfXyB0cmFuc2Zvcm1hdGlvbnMgZm9yIGltYWdlIGFuZCBvdGhlciBkYXRhCiAgICBzdHJ1Y3R1cmVzLiAiRGV0ZXJtaW5pc3RpYyIgcmVxdWlyZXMgdGhhdCB0aGUgb3V0cHV0IG9mIGFsbCBtZXRob2RzIG9mIHRoaXMgY2xhc3MgYXJlCiAgICBkZXRlcm1pbmlzdGljIHcuci50IHRoZWlyIGlucHV0IGFyZ3VtZW50cy4gSW4gdHJhaW5pbmcsIHRoZXJlIHNob3VsZCBiZSBhIGhpZ2hlci1sZXZlbCBwb2xpY3kKICAgIHRoYXQgZ2VuZXJhdGVzIChsaWtlbHkgd2l0aCByYW5kb20gdmFyaWF0aW9ucykgdGhlc2UgdHJhbnNmb3JtIG9wcy4gRWFjaCB0cmFuc2Zvcm0gb3AgbWF5IGhhbmRsZQogICAgc2V2ZXJhbCBkYXRhIHR5cGVzLCBlLmcuOiBpbWFnZSwgY29vcmRpbmF0ZXMsIHNlZ21lbnRhdGlvbiwgYm91bmRpbmcgYm94ZXMuIFNvbWUgb2YgdGhlbSBoYXZlIGEKICAgIGRlZmF1bHQgaW1wbGVtZW50YXRpb24sIGJ1dCBjYW4gYmUgb3ZlcndyaXR0ZW4gaWYgdGhlIGRlZmF1bHQgaXNuJ3QgYXBwcm9wcmlhdGUuIFRoZQogICAgaW1wbGVtZW50YXRpb24gb2YgZWFjaCBtZXRob2QgbWF5IGNob29zZSB0byBtb2RpZnkgaXRzIGlucHV0IGRhdGEgaW4tcGxhY2UgZm9yIGVmZmljaWVudAogICAgdHJhbnNmb3JtYXRpb24uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdjb2xvcmVkbG9ncycsCg==</text>
+        <text encoding="base64">cHljb2NvdG9vbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29sb3JlZGxvZ3MK</text>
+        <text encoding="base64">ICAgICdjb2xvcmVkbG9ncycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdweWNvY290Jwo=</text>
+        <text encoding="base64">Y29sb3JlZGxvZ3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
