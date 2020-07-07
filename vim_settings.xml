@@ -159,6 +159,12 @@
         <mark key="'" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/train_step.sh" timestamp="1594102795759" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="55" />
+        <mark key="^" line="58" column="55" />
+        <mark key="." line="58" column="54" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="173" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" />
@@ -266,16 +272,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MubWFrZWRpcnModmlkZW9fY2xpcF9tcDQsIGV4aXN0X29rPVRydWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>NECK</text>
+        <text>os.path.join(clips_dir, &quot;{:05d}&quot;.format(mid))+'/video_clip.wav'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQobmVjay5vdXRwdXRfc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MubWFrZWRpcnModmlkZW9fY2xpcF9tcDQsIGV4aXN0X29rPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHBkYgo=</text>
