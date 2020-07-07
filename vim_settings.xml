@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/api.py" timestamp="1594090759666" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/poolers.py" timestamp="1593764577101" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1593758475337" />
-      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1594090416923">
-        <mark key="[" line="32" column="2" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1594091386191">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/modules.py" timestamp="1594089599742" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593758185879" />
