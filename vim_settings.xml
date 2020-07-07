@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>beam_size</entry>
         <entry encoding="base64">XDxmaW5hbF9lbmRwb2ludFw+</entry>
         <entry>use_mxnet</entry>
         <entry>np</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxTdGFuZGFyZF9SQ05OX1JQTlw+</entry>
         <entry>standard_rcnn_rpn</entry>
         <entry encoding="base64">XDxMb2FkZXJcPg==</entry>
+        <entry encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w3</entry>
@@ -121,40 +121,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/setup_logic.sh" timestamp="1594098658434" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/roi_heads/roi_heads.py" timestamp="1594088693615" />
-      <file name="$USER_HOME$/Documents/my-repositories/image-captioning/legacy.py" timestamp="1593756902886">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="23" column="51" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/api.py" timestamp="1594090759666" />
       <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/poolers.py" timestamp="1593764577101" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1593758475337" />
-      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1594091386191">
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="34" column="36" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="34" column="36" />
+      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1594098365669">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/modules.py" timestamp="1594089599742" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1593758185879" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594098805470" />
       <file name="/Python Console" timestamp="1593766012552">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/setup.sh" timestamp="1594098729417" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/tasks_api.py" timestamp="1594090550634" />
-      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/matcher.py" timestamp="1593763930808" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/datagen/processors.py" timestamp="1593757051952">
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="22" />
-        <mark key="^" line="50" column="22" />
-        <mark key="." line="50" column="21" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/bolt.py" timestamp="1594098427450" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/bolt.py" timestamp="1594098431436">
+        <mark key="[" line="1266" column="70" />
+        <mark key="]" line="1266" column="14" />
+        <mark key="^" line="1266" column="14" />
+        <mark key="." line="1266" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1593760528090" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" timestamp="1594098500908">
+        <mark key="'" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/detectron2/detectron2/modeling/matcher.py" timestamp="1593763930808" />
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/my-repositories/foundation/legacy.py" />
-      <jump line="66" column="8" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
       <jump line="173" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" />
       <jump line="191" column="83" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="4" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
@@ -253,6 +249,8 @@
       <jump line="311" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/config/defaults.py" />
       <jump line="352" column="31" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
       <jump line="359" column="26" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
+      <jump line="2" column="23" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" />
+      <jump line="3" column="17" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -264,7 +262,7 @@
         <text>NECK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2FkZXJcPg==</text>
+        <text encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQobmVjay5vdXRwdXRfc2hhcGUpCg==</text>
@@ -303,9 +301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMb2FkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2FkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</last-pattern>
       <last-replace>#</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
