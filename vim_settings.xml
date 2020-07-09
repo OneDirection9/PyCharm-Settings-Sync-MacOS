@@ -143,12 +143,18 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1594102485653">
+      <file name="/Python Console" timestamp="1594297601308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/setup.sh" timestamp="1594098729417" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/tasks_api.py" timestamp="1594090550634" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/bolt.py" timestamp="1594098427450" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594297804657">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="18" column="182" />
+        <mark key="^" line="18" column="182" />
+        <mark key="." line="18" column="181" />
+      </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/bolt.py" timestamp="1594098431436">
         <mark key="[" line="1266" column="70" />
         <mark key="]" line="1266" column="14" />
