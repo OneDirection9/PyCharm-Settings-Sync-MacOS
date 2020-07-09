@@ -231,12 +231,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install_cuda10.sh" timestamp="1594278599260">
-        <mark key="'" line="42" column="95" />
-        <mark key="[" line="22" column="77" />
-        <mark key="]" line="22" column="78" />
-        <mark key="." line="22" column="78" />
-        <mark key="^" line="22" column="126" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install_cuda10.sh" timestamp="1594278966439">
+        <mark key="'" line="43" column="95" />
+        <mark key="[" line="22" column="126" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/transformer.py" timestamp="1594017673374">
         <mark key="[" line="241" column="0" />
