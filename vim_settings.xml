@@ -121,38 +121,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/setup_logic.sh" timestamp="1594098658434" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594103114667">
-        <mark key="]" line="136" column="21" />
-        <mark key="^" line="136" column="21" />
-        <mark key="." line="136" column="20" />
+      <file name="/Python Console" timestamp="1594297601308">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/api.py" timestamp="1594090759666" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1594102855017" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" timestamp="1594098500908">
+        <mark key="'" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-miniconda.sh" timestamp="1594304474785" />
       <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1594098365669">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/captioning/models/modules.py" timestamp="1594089599742" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594098805470" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594103114667">
+        <mark key="]" line="136" column="21" />
+        <mark key="^" line="136" column="21" />
+        <mark key="." line="136" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/Dockerfile" timestamp="1594305959086">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="55" />
+        <mark key="^" line="58" column="55" />
+        <mark key="." line="58" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594102896368">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-bolt-requirements.sh" timestamp="1594299190400" />
-      <file name="/Python Console" timestamp="1594297601308">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/setup.sh" timestamp="1594098729417" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/turibolt/tasks_api.py" timestamp="1594090550634" />
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/commands/bolt.py" timestamp="1594098427450" />
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594299983349">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594303532047">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="38" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/bolt.py" timestamp="1594098431436">
         <mark key="[" line="1266" column="70" />
@@ -160,20 +168,8 @@
         <mark key="^" line="1266" column="14" />
         <mark key="." line="1266" column="13" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" timestamp="1594098500908">
-        <mark key="'" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/train_step.sh" timestamp="1594102795759" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="58" column="55" />
-        <mark key="^" line="58" column="55" />
-        <mark key="." line="58" column="54" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/structures/boxes.py" />
-      <jump line="191" column="83" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="4" column="23" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/necks/fpn.py" />
       <jump line="297" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/legacy.py" />
@@ -272,12 +268,14 @@
       <jump line="359" column="26" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
       <jump line="2" column="23" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" />
       <jump line="3" column="17" filename="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/Dockerfile" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/Dockerfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TlZNTF9ERUI9bnZpZGlhLW1hY2hpbmUtbGVhcm5pbmctcmVwby11YnVudHUxODA0XzEuMC4wLTFfYW1kNjQuZGViCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>os.path.join(clips_dir, &quot;{:05d}&quot;.format(mid))+'/video_clip.wav'</text>
@@ -286,34 +284,34 @@
         <text encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MubWFrZWRpcnModmlkZW9fY2xpcF9tcDQsIGV4aXN0X29rPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICRDT01NT05TQ1JJUFQvY2xlYW4tbGF5ZXIuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TlZNTF9ERUI9bnZpZGlhLW1hY2hpbmUtbGVhcm5pbmctcmVwby11YnVudHUxODA0XzEuMC4wLTFfYW1kNjQuZGViCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">IyBBZGQgR1BVIHN1cHBvcnQKIyBNb3JlIGV4YW1wbGVzOiBodHRwczovL2dpdGxhYi5jb20vbnZpZGlhL2N1ZGEKIyAvdXNyL2xvY2FsL252aWRpYSBpcyB3aGVyZSB0aGUgbnZpZGlhIGRldmljZSBkcml2ZXJzIHdpbGwgYmUgbW91bnRlZCBpbiB0aGUgY29udGFpbmVyIGluIFNpbWNsb3VkLgojIEluIEt1YmVybmV0ZXMgY2x1c3RlcnMgdGhlIGRyaXZlcnMgYXJlIGluIC91c3IvbGliL3g4Nl82NC1saW51eC1nbnUsIHdoaWNoIGlzIGFscmVhZHkgaW4KIyAvZXRjL2xkLnNvLmNvbmYuZC94ODZfNjQtbGludXgtZ251LmNvbmYKUlVOIGVjaG8gIi91c3IvbG9jYWwvbnZpZGlhL2xpYiIgPj4gL2V0Yy9sZC5zby5jb25mLmQvbnZpZGlhLmNvbmYgJiYgXAogICAgZWNobyAiL3Vzci9sb2NhbC9udmlkaWEvbGliNjQiID4+IC9ldGMvbGQuc28uY29uZi5kL252aWRpYS5jb25mCkVOViBQQVRIIC91c3IvbG9jYWwvbnZpZGlhL2Jpbjoke1BBVEh9CkVOViBMRF9MSUJSQVJZX1BBVEggL3Vzci9sb2NhbC9udmlkaWEvbGliOi91c3IvbG9jYWwvbnZpZGlhL2xpYjY0OiR7TERfTElCUkFSWV9QQVRIfQoKIyBUaGlzIGxhYmVsIGVuYWJsZXMgR1BVIGRyaXZlciBtb3VudGluZyBmb3IgbnZpZGlhLWRvY2tlciB2MQpMQUJFTCBjb20ubnZpZGlhLnZvbHVtZXMubmVlZGVkPSJudmlkaWFfZHJpdmVyIgojIFRoaXMgZW52IHZhciBpcyB1c2VkIGJ5IG52aWRpYS1kb2NrZXIgdjIKRU5WIE5WSURJQV9EUklWRVJfQ0FQQUJJTElUSUVTIGNvbXB1dGUsdXRpbGl0eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGIK</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGYucmV2ZXJzZV9zZXF1ZW5jZQoKbm4uTGF5ZXJOb3JtCg==</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLS1hdXRvcmVtb3ZlIC15IGN1cmwgJiYgXApybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLyoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>from coreflow.deployment import get_steps_per_epoch</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSAtLW5vLWluc3RhbGwtcmVjb21tZW5kcyBcCiAgICBnbnVwZzIgY3VybCBjYS1jZXJ0aWZpY2F0ZXMgJiYgXAogICAgY3VybCAtZnNTTCBodHRwczovL2RldmVsb3Blci5kb3dubG9hZC5udmlkaWEuY29tL2NvbXB1dGUvY3VkYS9yZXBvcy91YnVudHUxODA0L3g4Nl82NC83ZmEyYWY4MC5wdWIgfCBhcHQta2V5IGFkZCAtICYmIFwKICAgIGVjaG8gImRlYiBodHRwczovL2RldmVsb3Blci5kb3dubG9hZC5udmlkaWEuY29tL2NvbXB1dGUvY3VkYS9yZXBvcy91YnVudHUxODA0L3g4Nl82NCAvIiA+IC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL2N1ZGEubGlzdCAmJiBcCiAgICAkQ09NTU9OU0NSSVBUL2NsZWFuLWxheWVyLnNoCgojIEZvciBsaWJyYXJpZXMgaW4gdGhlIGN1ZGEtY29tcGF0LSogcGFja2FnZTogaHR0cHM6Ly9kb2NzLm52aWRpYS5jb20vY3VkYS9ldWxhL2luZGV4Lmh0bWwjYXR0YWNobWVudC1hClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgLS1uby1pbnN0YWxsLXJlY29tbWVuZHMgXAogICAgY3VkYS1jdWRhcnQtMTAtMT0xMC4xLjI0My0xIFwKICAgIGN1ZGEtY29tcGF0LTEwLTEgXAogICAgJiYgbG4gLXMgY3VkYS0xMC4xIC91c3IvbG9jYWwvY3VkYSAmJiBcCiAgICAkQ09NTU9OU0NSSVBUL2NsZWFuLWxheWVyLnNoCgojIFJlcXVpcmVkIGZvciBudmlkaWEtZG9ja2VyIHYxClJVTiBlY2hvICIvdXNyL2xvY2FsL252aWRpYS9saWIiID4+IC9ldGMvbGQuc28uY29uZi5kL252aWRpYS5jb25mICYmIFwKICAgIGVjaG8gIi91c3IvbG9jYWwvbnZpZGlhL2xpYjY0IiA+PiAvZXRjL2xkLnNvLmNvbmYuZC9udmlkaWEuY29uZgoKRU5WIFBBVEggL3Vzci9sb2NhbC9udmlkaWEvYmluOi91c3IvbG9jYWwvY3VkYS9iaW46JHtQQVRIfQpFTlYgTERfTElCUkFSWV9QQVRIIC91c3IvbG9jYWwvbnZpZGlhL2xpYjovdXNyL2xvY2FsL252aWRpYS9saWI2NAoKIyBudmlkaWEtY29udGFpbmVyLXJ1bnRpbWUKRU5WIE5WSURJQV9WSVNJQkxFX0RFVklDRVMgYWxsCkVOViBOVklESUFfRFJJVkVSX0NBUEFCSUxJVElFUyBjb21wdXRlLHV0aWxpdHkKRU5WIE5WSURJQV9SRVFVSVJFX0NVREEgImN1ZGE+PTEwLjEgYnJhbmQ9dGVzbGEsZHJpdmVyPj00MTgsZHJpdmVyPDQxOSBicmFuZD10ZXNsYSxkcml2ZXI+PTQ0MCxkcml2ZXI8NDQxIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0Cg==</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLS1hdXRvcmVtb3ZlICYmIFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCeSBkZWZhdWx0IHdpbGwgdHJhbnNmb3JtIHRoZSBjb3JuZXIgcG9pbnRzIGFuZCB1c2UgdGhlaXIgbWluaW11bS9tYXhpbXVtIHRvIGNyZWF0ZSBhIG5ldwogICAgICAgIGF4aXMtYWxpZ25lZCBib3guIE5vdGUgdGhhdCB0aGlzIGRlZmF1bHQgbWF5IGNoYW5nZSB0aGUgc2l6ZSBvZiB5b3VyIGJveCwgZS5nLiBpbiByb3RhdGlvbnMuCg==</text>
+        <text encoding="base64">RU5WIFBBVEggL3Vzci9sb2NhbC9udmlkaWEvYmluOiR7UEFUSH0KRU5WIExEX0xJQlJBUllfUEFUSCAvdXNyL2xvY2FsL252aWRpYS9saWI6L3Vzci9sb2NhbC9udmlkaWEvbGliNjQ6JHtMRF9MSUJSQVJZX1BBVEh9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJhc2UgY2xhc3MgZm9yIGltcGxlbWVudGF0aW9ucyBvZiBfX2RldGVybWluaXN0aWNfXyB0cmFuc2Zvcm1hdGlvbnMgZm9yIGltYWdlIGFuZCBvdGhlciBkYXRhCiAgICBzdHJ1Y3R1cmVzLiAiRGV0ZXJtaW5pc3RpYyIgcmVxdWlyZXMgdGhhdCB0aGUgb3V0cHV0IG9mIGFsbCBtZXRob2RzIG9mIHRoaXMgY2xhc3MgYXJlCiAgICBkZXRlcm1pbmlzdGljIHcuci50IHRoZWlyIGlucHV0IGFyZ3VtZW50cy4gSW4gdHJhaW5pbmcsIHRoZXJlIHNob3VsZCBiZSBhIGhpZ2hlci1sZXZlbCBwb2xpY3kKICAgIHRoYXQgZ2VuZXJhdGVzIChsaWtlbHkgd2l0aCByYW5kb20gdmFyaWF0aW9ucykgdGhlc2UgdHJhbnNmb3JtIG9wcy4gRWFjaCB0cmFuc2Zvcm0gb3AgbWF5IGhhbmRsZQogICAgc2V2ZXJhbCBkYXRhIHR5cGVzLCBlLmcuOiBpbWFnZSwgY29vcmRpbmF0ZXMsIHNlZ21lbnRhdGlvbiwgYm91bmRpbmcgYm94ZXMuIFNvbWUgb2YgdGhlbSBoYXZlIGEKICAgIGRlZmF1bHQgaW1wbGVtZW50YXRpb24sIGJ1dCBjYW4gYmUgb3ZlcndyaXR0ZW4gaWYgdGhlIGRlZmF1bHQgaXNuJ3QgYXBwcm9wcmlhdGUuIFRoZQogICAgaW1wbGVtZW50YXRpb24gb2YgZWFjaCBtZXRob2QgbWF5IGNob29zZSB0byBtb2RpZnkgaXRzIGlucHV0IGRhdGEgaW4tcGxhY2UgZm9yIGVmZmljaWVudAogICAgdHJhbnNmb3JtYXRpb24uCg==</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
