@@ -190,7 +190,7 @@
       <file name="$USER_HOME$/Documents/my-repositories/transformer-xl/pytorch/mem_transformer.py" timestamp="1594026638452">
         <mark key="'" line="422" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594286418995" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594347375353" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/run.py" timestamp="1594285095292">
         <mark key="[" line="50" column="53" />
         <mark key="]" line="50" column="48" />
@@ -209,7 +209,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594283911227" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594347434216" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/utils/bolt_helper.py" timestamp="1594273526173">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="31" />
