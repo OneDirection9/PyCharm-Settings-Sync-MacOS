@@ -257,11 +257,12 @@
         <mark key="." line="15" column="90" />
         <mark key="^" line="15" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/setup.sh" timestamp="1594366982565">
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/setup.sh" timestamp="1594370330296">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="17" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/configs/config_trove.yml" timestamp="1594363182800" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/10.0/base/Dockerfile" timestamp="1594350627152">
