@@ -218,11 +218,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594350544287" />
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.sh" timestamp="1594350465476">
-        <mark key="[" line="8" column="151" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.sh" timestamp="1594353686871">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/9.2/devel/cudnn7/Dockerfile" timestamp="1594350556728">
         <mark key="[" line="2" column="0" />
