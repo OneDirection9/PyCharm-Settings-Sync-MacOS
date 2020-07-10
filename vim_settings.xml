@@ -240,7 +240,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594349854400" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594351579926">
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594350279808">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
