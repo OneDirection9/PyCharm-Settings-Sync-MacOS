@@ -191,11 +191,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/devel/Dockerfile" timestamp="1594350301382">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/10.0/devel/Dockerfile" timestamp="1594350631600">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -224,15 +219,20 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/runtime/Dockerfile" timestamp="1594350303109">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/configs/config.yml" timestamp="1594363288752">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/9.2/runtime/Dockerfile" timestamp="1594350561965">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/configs/config_mx.yml" timestamp="1594363037092">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/10.0/runtime/Dockerfile" timestamp="1594350639133">
         <mark key="[" line="2" column="0" />
@@ -244,16 +244,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/runtime/cudnn7/Dockerfile" timestamp="1594350308224">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.sh" timestamp="1594353686871">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/README.md" timestamp="1594362949369">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="15" column="91" />
+        <mark key="." line="15" column="90" />
+        <mark key="^" line="15" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/.gitignore" timestamp="1594350535042">
         <mark key="'" line="14" column="5" />
@@ -261,22 +262,18 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594350279808">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/setup.sh" timestamp="1594363249722">
+        <mark key="[" line="0" column="61" />
         <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="34" />
+        <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/configs/config_trove.yml" timestamp="1594363182800" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/10.0/base/Dockerfile" timestamp="1594350627152">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/devel/cudnn7/Dockerfile" timestamp="1594350312110">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -384,8 +381,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>scripts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2RkCg==</text>
       </register>
       <register name="-" type="4">
         <text>scripts</text>
@@ -397,31 +394,31 @@
         <text encoding="base64">ZG9ja2VyIGJ1aWxkIC10ICIke0lNQUdFX05BTUV9OiR7Q1VEQV9WRVJTSU9OfS1ydW50aW1lLSR7T1N9IiAtLWJ1aWxkLWFyZyAiSU1BR0VfTkFNRT0ke0lNQUdFX05BTUV9IiAiZGlzdC8ke09TfS8ke0NVREFfVkVSU0lPTn0vcnVudGltZSIKZG9ja2VyIGJ1aWxkIC10ICIke0lNQUdFX05BTUV9OiR7Q1VEQV9WRVJTSU9OfS1kZXZlbC0ke09TfSIgLS1idWlsZC1hcmcgIklNQUdFX05BTUU9JHtJTUFHRV9OQU1FfSIgImRpc3QvJHtPU30vJHtDVURBX1ZFUlNJT059L2RldmVsIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2RkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBBZGQgR1BVIHN1cHBvcnQKIyBNb3JlIGV4YW1wbGVzOiBodHRwczovL2dpdGxhYi5jb20vbnZpZGlhL2N1ZGEKIyAvdXNyL2xvY2FsL252aWRpYSBpcyB3aGVyZSB0aGUgbnZpZGlhIGRldmljZSBkcml2ZXJzIHdpbGwgYmUgbW91bnRlZCBpbiB0aGUgY29udGFpbmVyIGluIFNpbWNsb3VkLgojIEluIEt1YmVybmV0ZXMgY2x1c3RlcnMgdGhlIGRyaXZlcnMgYXJlIGluIC91c3IvbGliL3g4Nl82NC1saW51eC1nbnUsIHdoaWNoIGlzIGFscmVhZHkgaW4KIyAvZXRjL2xkLnNvLmNvbmYuZC94ODZfNjQtbGludXgtZ251LmNvbmYKUlVOIGVjaG8gIi91c3IvbG9jYWwvbnZpZGlhL2xpYiIgPj4gL2V0Yy9sZC5zby5jb25mLmQvbnZpZGlhLmNvbmYgJiYgXAogICAgZWNobyAiL3Vzci9sb2NhbC9udmlkaWEvbGliNjQiID4+IC9ldGMvbGQuc28uY29uZi5kL252aWRpYS5jb25mCkVOViBQQVRIIC91c3IvbG9jYWwvbnZpZGlhL2Jpbjoke1BBVEh9CkVOViBMRF9MSUJSQVJZX1BBVEggL3Vzci9sb2NhbC9udmlkaWEvbGliOi91c3IvbG9jYWwvbnZpZGlhL2xpYjY0OiR7TERfTElCUkFSWV9QQVRIfQoKIyBUaGlzIGxhYmVsIGVuYWJsZXMgR1BVIGRyaXZlciBtb3VudGluZyBmb3IgbnZpZGlhLWRvY2tlciB2MQpMQUJFTCBjb20ubnZpZGlhLnZvbHVtZXMubmVlZGVkPSJudmlkaWFfZHJpdmVyIgojIFRoaXMgZW52IHZhciBpcyB1c2VkIGJ5IG52aWRpYS1kb2NrZXIgdjIKRU5WIE5WSURJQV9EUklWRVJfQ0FQQUJJTElUSUVTIGNvbXB1dGUsdXRpbGl0eQo=</text>
+        <text encoding="base64">ICBkb2NrZXJfaW1hZ2U6IGRvY2tlci5hcHBsZS5jb20vaGFuZ3Vhbmdfemhhby9ib2x0L2N1ZGExMC10ZjEuMTMtYmFzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lciAiTlZJRElBIENPUlBPUkFUSU9OIDxjdWRhdG9vbHNAbnZpZGlhLmNvbT4iCg==</text>
+        <text encoding="base64">ICBjbHVzdGVyOiBzaW1jbG91ZC1tcjIuYXBwbGUuY29tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lciAiTlZJRElBIENPUlBPUkFUSU9OIDxjdWRhdG9vbHNAbnZpZGlhLmNvbT4iCg==</text>
+        <text encoding="base64">CnJlc291cmNlczoKICBjbHVzdGVyOiAnYXBjX3VzbXNjMjgnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lciAiTlZJRElBIENPUlBPUkFUSU9OIDxjdWRhdG9vbHNAbnZpZGlhLmNvbT4iCg==</text>
+        <text encoding="base64">cmVzb3VyY2VzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lciAiTlZJRElBIENPUlBPUkFUSU9OIDxjdWRhdG9vbHNAbnZpZGlhLmNvbT4iCg==</text>
+        <text encoding="base64">ICB0aW1lb3V0OiAxNGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lciAiTlZJRElBIENPUlBPUkFUSU9OIDxjdWRhdG9vbHNAbnZpZGlhLmNvbT4iCg==</text>
+        <text encoding="base64">ICB0aW1lb3V0OiAxNGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSB1YnVudHU6MTguMDQK</text>
+        <text encoding="base64">cmVzb3VyY2VzOgogIHRpbWVvdXQ6IDE0ZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TEFCRUwgbWFpbnRhaW5lciAiTlZJRElBIENPUlBPUkFUSU9OIDxjdWRhdG9vbHNAbnZpZGlhLmNvbT4iCg==</text>
+        <text encoding="base64">cGVybWlzc2lvbnM6CiAgdmlld2VyczogIkNhbWVyYV9Tb2Z0d2FyZV9DaGluYSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
