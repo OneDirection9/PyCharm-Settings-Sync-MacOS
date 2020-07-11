@@ -156,6 +156,12 @@
         <mark key="^" line="58" column="55" />
         <mark key="." line="58" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.py" timestamp="1594433989063">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594102896368">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
