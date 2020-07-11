@@ -124,21 +124,6 @@
       <file name="/Python Console" timestamp="1594297601308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" timestamp="1594098500908">
-        <mark key="'" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/coreflow-captioning/legacy.py" timestamp="1594098365669">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594338098200">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594103114667">
         <mark key="]" line="136" column="21" />
         <mark key="^" line="136" column="21" />
@@ -149,6 +134,38 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/README.md" timestamp="1594453336171">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594303532047">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="38" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/bolt.py" timestamp="1594098431436">
+        <mark key="[" line="1266" column="70" />
+        <mark key="]" line="1266" column="14" />
+        <mark key="^" line="1266" column="14" />
+        <mark key="." line="1266" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/README.md" timestamp="1594453097462">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/config_base.yaml" timestamp="1594098500908">
+        <mark key="'" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594338098200">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
         <mark key="[" line="58" column="24" />
@@ -163,18 +180,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594303532047">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="45" column="37" />
-        <mark key="^" line="45" column="38" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/bolt.py" timestamp="1594098431436">
-        <mark key="[" line="1266" column="70" />
-        <mark key="]" line="1266" column="14" />
-        <mark key="^" line="1266" column="14" />
-        <mark key="." line="1266" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/runtime/Dockerfile" timestamp="1594337178366">
         <mark key="[" line="1" column="0" />
@@ -289,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RlJPTSAke0lNQUdFX05BTUV9OjEwLjEtYmFzZS11YnVudHUxOC4wNAo=</text>
+        <text encoding="base64">Q2hlY2sgdGhlcmUgdG8gc2VlIHdoZXRoZXIgYWxyZWFkeSB3ZSBoYXZlIHNvbWVvbmUgbWVldCB5b3VyIG5lZWRzLgo=</text>
       </register>
       <register name="-" type="4">
         <text>os.path.join(clips_dir, &quot;{:05d}&quot;.format(mid))+'/video_clip.wav'</text>
@@ -301,31 +306,31 @@
         <text encoding="base64">ICAgICRDT01NT05TQ1JJUFQvY2xlYW4tbGF5ZXIuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RlJPTSAke0lNQUdFX05BTUV9OjEwLjEtYmFzZS11YnVudHUxOC4wNAo=</text>
+        <text encoding="base64">Q2hlY2sgdGhlcmUgdG8gc2VlIHdoZXRoZXIgYWxyZWFkeSB3ZSBoYXZlIHNvbWVvbmUgbWVldCB5b3VyIG5lZWRzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVJHIElNQUdFX05BTUUK</text>
+        <text encoding="base64">Q2hlY2sgdGhlcmUgaWYgdGhlcmUgYXJlIGFscmVhZHkgb25lIHRoYXQgeW91IG5lZWRlZC4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBZGQgR1BVIHN1cHBvcnQKIyBNb3JlIGV4YW1wbGVzOiBodHRwczovL2dpdGxhYi5jb20vbnZpZGlhL2N1ZGEKIyAvdXNyL2xvY2FsL252aWRpYSBpcyB3aGVyZSB0aGUgbnZpZGlhIGRldmljZSBkcml2ZXJzIHdpbGwgYmUgbW91bnRlZCBpbiB0aGUgY29udGFpbmVyIGluIFNpbWNsb3VkLgojIEluIEt1YmVybmV0ZXMgY2x1c3RlcnMgdGhlIGRyaXZlcnMgYXJlIGluIC91c3IvbGliL3g4Nl82NC1saW51eC1nbnUsIHdoaWNoIGlzIGFscmVhZHkgaW4KIyAvZXRjL2xkLnNvLmNvbmYuZC94ODZfNjQtbGludXgtZ251LmNvbmYKUlVOIGVjaG8gIi91c3IvbG9jYWwvbnZpZGlhL2xpYiIgPj4gL2V0Yy9sZC5zby5jb25mLmQvbnZpZGlhLmNvbmYgJiYgXAogICAgZWNobyAiL3Vzci9sb2NhbC9udmlkaWEvbGliNjQiID4+IC9ldGMvbGQuc28uY29uZi5kL252aWRpYS5jb25mCkVOViBQQVRIIC91c3IvbG9jYWwvbnZpZGlhL2Jpbjoke1BBVEh9CkVOViBMRF9MSUJSQVJZX1BBVEggL3Vzci9sb2NhbC9udmlkaWEvbGliOi91c3IvbG9jYWwvbnZpZGlhL2xpYjY0OiR7TERfTElCUkFSWV9QQVRIfQoKIyBUaGlzIGxhYmVsIGVuYWJsZXMgR1BVIGRyaXZlciBtb3VudGluZyBmb3IgbnZpZGlhLWRvY2tlciB2MQpMQUJFTCBjb20ubnZpZGlhLnZvbHVtZXMubmVlZGVkPSJudmlkaWFfZHJpdmVyIgojIFRoaXMgZW52IHZhciBpcyB1c2VkIGJ5IG52aWRpYS1kb2NrZXIgdjIKRU5WIE5WSURJQV9EUklWRVJfQ0FQQUJJTElUSUVTIGNvbXB1dGUsdXRpbGl0eQo=</text>
+        <text>There are some pre-built dockers have been uploaded to `https://artifacts.apple.com/webapp/#/artifacts/browse/tree/General/dockerv2-local/zhipeng_han`</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLS1hdXRvcmVtb3ZlIC15IGN1cmwgJiYgXApybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLyoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Z2l0QGdpdGh1Yi5waWUuYXBwbGUuY29tOnpoaXBlbmctaGFuL2JvbHQtYmFzZS5naXQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Z2l0QGdpdGh1Yi5waWUuYXBwbGUuY29tOnpoaXBlbmctaGFuL2JvbHQtYmFzZS5naXQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSAtLW5vLWluc3RhbGwtcmVjb21tZW5kcyBcCiAgICBnbnVwZzIgY3VybCBjYS1jZXJ0aWZpY2F0ZXMgJiYgXAogICAgY3VybCAtZnNTTCBodHRwczovL2RldmVsb3Blci5kb3dubG9hZC5udmlkaWEuY29tL2NvbXB1dGUvY3VkYS9yZXBvcy91YnVudHUxODA0L3g4Nl82NC83ZmEyYWY4MC5wdWIgfCBhcHQta2V5IGFkZCAtICYmIFwKICAgIGVjaG8gImRlYiBodHRwczovL2RldmVsb3Blci5kb3dubG9hZC5udmlkaWEuY29tL2NvbXB1dGUvY3VkYS9yZXBvcy91YnVudHUxODA0L3g4Nl82NCAvIiA+IC9ldGMvYXB0L3NvdXJjZXMubGlzdC5kL2N1ZGEubGlzdCAmJiBcCiAgICAkQ09NTU9OU0NSSVBUL2NsZWFuLWxheWVyLnNoCgojIEZvciBsaWJyYXJpZXMgaW4gdGhlIGN1ZGEtY29tcGF0LSogcGFja2FnZTogaHR0cHM6Ly9kb2NzLm52aWRpYS5jb20vY3VkYS9ldWxhL2luZGV4Lmh0bWwjYXR0YWNobWVudC1hClJVTiBhcHQtZ2V0IHVwZGF0ZSAmJiBhcHQtZ2V0IGluc3RhbGwgLXkgLS1uby1pbnN0YWxsLXJlY29tbWVuZHMgXAogICAgY3VkYS1jdWRhcnQtMTAtMT0xMC4xLjI0My0xIFwKICAgIGN1ZGEtY29tcGF0LTEwLTEgXAogICAgJiYgbG4gLXMgY3VkYS0xMC4xIC91c3IvbG9jYWwvY3VkYSAmJiBcCiAgICAkQ09NTU9OU0NSSVBUL2NsZWFuLWxheWVyLnNoCgojIFJlcXVpcmVkIGZvciBudmlkaWEtZG9ja2VyIHYxClJVTiBlY2hvICIvdXNyL2xvY2FsL252aWRpYS9saWIiID4+IC9ldGMvbGQuc28uY29uZi5kL252aWRpYS5jb25mICYmIFwKICAgIGVjaG8gIi91c3IvbG9jYWwvbnZpZGlhL2xpYjY0IiA+PiAvZXRjL2xkLnNvLmNvbmYuZC9udmlkaWEuY29uZgoKRU5WIFBBVEggL3Vzci9sb2NhbC9udmlkaWEvYmluOi91c3IvbG9jYWwvY3VkYS9iaW46JHtQQVRIfQpFTlYgTERfTElCUkFSWV9QQVRIIC91c3IvbG9jYWwvbnZpZGlhL2xpYjovdXNyL2xvY2FsL252aWRpYS9saWI2NAoKIyBudmlkaWEtY29udGFpbmVyLXJ1bnRpbWUKRU5WIE5WSURJQV9WSVNJQkxFX0RFVklDRVMgYWxsCkVOViBOVklESUFfRFJJVkVSX0NBUEFCSUxJVElFUyBjb21wdXRlLHV0aWxpdHkKRU5WIE5WSURJQV9SRVFVSVJFX0NVREEgImN1ZGE+PTEwLjEgYnJhbmQ9dGVzbGEsZHJpdmVyPj00MTgsZHJpdmVyPDQxOSBicmFuZD10ZXNsYSxkcml2ZXI+PTQ0MCxkcml2ZXI8NDQxIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwdC1nZXQgcHVyZ2UgLS1hdXRvcmVtb3ZlICYmIFwK</text>
+        <text encoding="base64">RlJPTSAke0lNQUdFX05BTUV9OjEwLjEtYmFzZS11YnVudHUxOC4wNAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
