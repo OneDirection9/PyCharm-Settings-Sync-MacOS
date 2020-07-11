@@ -159,11 +159,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config.yml" timestamp="1594463563159">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config.yml" timestamp="1594467743799">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="12" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-base/setup.sh" timestamp="1594463338475" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
@@ -175,11 +175,10 @@
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.py" timestamp="1594434058324">
         <mark key="[" line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/run.py" timestamp="1594463300323">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/run.py" timestamp="1594468256314">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594102896368">
         <mark key="[" line="10" column="0" />
@@ -299,7 +298,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>torch.optim.lr_scheduler.</text>
+        <text encoding="base64">ICAgIHRhc2suY29uZmlnLnJlc291Y3JzLm51bV9ncHVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>os.path.join(clips_dir, &quot;{:05d}&quot;.format(mid))+'/video_clip.wav'</text>
@@ -311,28 +310,28 @@
         <text encoding="base64">ICAgICRDT01NT05TQ1JJUFQvY2xlYW4tbGF5ZXIuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text>torch.optim.lr_scheduler.</text>
+        <text encoding="base64">ICAgIHRhc2suY29uZmlnLnJlc291Y3JzLm51bV9ncHVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q2hlY2sgdGhlcmUgdG8gc2VlIHdoZXRoZXIgYWxyZWFkeSB3ZSBoYXZlIHNvbWVvbmUgbWVldCB5b3VyIG5lZWRzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q2hlY2sgdGhlcmUgaWYgdGhlcmUgYXJlIGFscmVhZHkgb25lIHRoYXQgeW91IG5lZWRlZC4K</text>
+        <text encoding="base64">ICBwb3J0czogWyJURU5TT1JCT0FSRF9QT1JUIl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>torch.optim.lr_scheduler.</text>
       </register>
       <register name="5" type="2">
-        <text>There are some pre-built dockers have been uploaded to `https://artifacts.apple.com/webapp/#/artifacts/browse/tree/General/dockerv2-local/zhipeng_han`</text>
+        <text encoding="base64">Q2hlY2sgdGhlcmUgdG8gc2VlIHdoZXRoZXIgYWxyZWFkeSB3ZSBoYXZlIHNvbWVvbmUgbWVldCB5b3VyIG5lZWRzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2hlY2sgdGhlcmUgaWYgdGhlcmUgYXJlIGFscmVhZHkgb25lIHRoYXQgeW91IG5lZWRlZC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2l0QGdpdGh1Yi5waWUuYXBwbGUuY29tOnpoaXBlbmctaGFuL2JvbHQtYmFzZS5naXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2l0QGdpdGh1Yi5waWUuYXBwbGUuY29tOnpoaXBlbmctaGFuL2JvbHQtYmFzZS5naXQK</text>
+        <text>There are some pre-built dockers have been uploaded to `https://artifacts.apple.com/webapp/#/artifacts/browse/tree/General/dockerv2-local/zhipeng_han`</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
