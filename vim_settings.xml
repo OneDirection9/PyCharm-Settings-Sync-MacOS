@@ -124,6 +124,7 @@
       <file name="/Python Console" timestamp="1594458894210">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config_mx.yml" timestamp="1594464000474" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594103114667">
         <mark key="]" line="136" column="21" />
         <mark key="^" line="136" column="21" />
@@ -158,11 +159,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config.yml" timestamp="1594462878628">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config.yml" timestamp="1594463563159">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-base/setup.sh" timestamp="1594463338475" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
