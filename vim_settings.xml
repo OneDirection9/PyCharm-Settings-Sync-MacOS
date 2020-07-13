@@ -199,15 +199,16 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594359540834" />
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/9.2/devel/cudnn7/Dockerfile" timestamp="1594350556728">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/dist/ubuntu18.04/10.0/runtime/cudnn7/Dockerfile" timestamp="1594350642788">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594608548367">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594366413124">
         <mark key="[" line="1" column="60" />
