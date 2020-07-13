@@ -210,11 +210,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594619229862">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594619320094">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/scripts/common.sh" timestamp="1594366413124">
         <mark key="[" line="1" column="60" />
@@ -378,7 +377,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfdGFzay5yZXNvdXJjZXMK</text>
       </register>
       <register name="-" type="4">
         <text>task</text>
@@ -390,31 +389,31 @@
         <text encoding="base64">ZG9ja2VyIGJ1aWxkIC10ICIke0lNQUdFX05BTUV9OiR7Q1VEQV9WRVJTSU9OfS1ydW50aW1lLSR7T1N9IiAtLWJ1aWxkLWFyZyAiSU1BR0VfTkFNRT0ke0lNQUdFX05BTUV9IiAiZGlzdC8ke09TfS8ke0NVREFfVkVSU0lPTn0vcnVudGltZSIKZG9ja2VyIGJ1aWxkIC10ICIke0lNQUdFX05BTUV9OiR7Q1VEQV9WRVJTSU9OfS1kZXZlbC0ke09TfSIgLS1idWlsZC1hcmcgIklNQUdFX05BTUU9JHtJTUFHRV9OQU1FfSIgImRpc3QvJHtPU30vJHtDVURBX1ZFUlNJT059L2RldmVsIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfdGFzay5yZXNvdXJjZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CmFwdC1nZXQgdXBkYXRlCmFwdC1nZXQgaW5zdGFsbCAteSB1bnppcAoKcGlwIGluc3RhbGwgdHVyaXRyb3ZlCgpjb25kYSBpbnN0YWxsIHB5dG9yY2ggdG9yY2h2aXNpb24gY3VkYXRvb2xraXQ9MTAuMSAtYyBweXRvcmNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBOZWVkZWQgYnkgZG93bmxvYWRfZmlsZQpwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgYXdzY2xpIGFwcGxlLWNlcnRpZmkK</text>
+        <text encoding="base64">CmFwdC1nZXQgdXBkYXRlCmFwdC1nZXQgaW5zdGFsbCAteSB1bnppcAoKcGlwIGluc3RhbGwgdHVyaXRyb3ZlCgpjb25kYSBpbnN0YWxsIHB5dG9yY2ggdG9yY2h2aXNpb24gY3VkYXRvb2xraXQ9MTAuMSAtYyBweXRvcmNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcmVmbG93Cg==</text>
+        <text encoding="base64">IyBOZWVkZWQgYnkgZG93bmxvYWRfZmlsZQpwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgYXdzY2xpIGFwcGxlLWNlcnRpZmkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvcmVmbG93Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvcmVmbG93Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
