@@ -121,38 +121,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build-cuda-docker.sh" timestamp="1594558694038">
+        <mark key="[" line="11" column="111" />
+        <mark key="]" line="11" column="112" />
+        <mark key="." line="11" column="111" />
+        <mark key="^" line="11" column="112" />
+      </file>
       <file name="/Python Console" timestamp="1594458894210">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config_mx.yml" timestamp="1594464000474" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594103114667">
-        <mark key="]" line="136" column="21" />
-        <mark key="^" line="136" column="21" />
-        <mark key="." line="136" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/Dockerfile" timestamp="1594336465205">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/README.md" timestamp="1594453336171">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594303532047">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="45" column="37" />
-        <mark key="^" line="45" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build-cuda-docker.sh" timestamp="1594557246153" />
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/README.md" timestamp="1594453097462">
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/README.md" timestamp="1594559262977">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594641818547">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="176" column="80" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594338098200">
         <mark key="[" line="0" column="17" />
@@ -166,25 +153,50 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/setup.sh" timestamp="1594463338475" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594103114667">
+        <mark key="]" line="136" column="21" />
+        <mark key="^" line="136" column="21" />
+        <mark key="." line="136" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/Dockerfile" timestamp="1594336465205">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
         <mark key="[" line="58" column="24" />
         <mark key="]" line="58" column="55" />
         <mark key="^" line="58" column="55" />
         <mark key="." line="58" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.py" timestamp="1594434058324">
-        <mark key="[" line="2" column="2" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.py" timestamp="1594559368586">
+        <mark key="[" line="46" column="62" />
+        <mark key="]" line="46" column="84" />
+        <mark key="^" line="46" column="84" />
+        <mark key="." line="46" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-base/run.py" timestamp="1594556887894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/README.md" timestamp="1594453336171">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594102896368">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594303532047">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/runtime/Dockerfile" timestamp="1594337178366">
         <mark key="[" line="1" column="0" />
@@ -299,10 +311,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQsIGRpdmlzaW9uLCBwcmludF9mdW5jdGlvbgoKaW1wb3J0IHRvcmNoCmltcG9ydCB0dXJpYm9sdCBhcyBib2x0CgoKZGVmIHNldHVwKCk6CiAgICB0YXNrID0gYm9sdC5nZXRfdGFzayhib2x0LmdldF9jdXJyZW50X3Rhc2tfaWQoKSkKCiAgICB0YXNrLmdsb2JhbF9yYW5rCiAgICB0YXNrcyA9IHRhc2suZGlzdHJpYnV0ZWRfc3VidGFza3MoKQogICAgbWFpbl90YXNrID0gdGFza3NbMF0KCiAgICBtYWluX3Rhc2suCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogY2hlY2sgbWV0cmljcyBhcmUgcmVwb3J0ZWQgY29ycmVjdGx5LCBpLmUuIGl0ZXJhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.join(clips_dir, &quot;{:05d}&quot;.format(mid))+'/video_clip.wav'</text>
+        <text>/${OS}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</text>
@@ -311,31 +323,31 @@
         <text encoding="base64">ICAgICRDT01NT05TQ1JJUFQvY2xlYW4tbGF5ZXIuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQsIGRpdmlzaW9uLCBwcmludF9mdW5jdGlvbgoKaW1wb3J0IHRvcmNoCmltcG9ydCB0dXJpYm9sdCBhcyBib2x0CgoKZGVmIHNldHVwKCk6CiAgICB0YXNrID0gYm9sdC5nZXRfdGFzayhib2x0LmdldF9jdXJyZW50X3Rhc2tfaWQoKSkKCiAgICB0YXNrLmdsb2JhbF9yYW5rCiAgICB0YXNrcyA9IHRhc2suZGlzdHJpYnV0ZWRfc3VidGFza3MoKQogICAgbWFpbl90YXNrID0gdGFza3NbMF0KCiAgICBtYWluX3Rhc2suCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogY2hlY2sgbWV0cmljcyBhcmUgcmVwb3J0ZWQgY29ycmVjdGx5LCBpLmUuIGl0ZXJhdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhc2suY29uZmlnLnJlc291Y3JzLm51bV9ncHVzCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQsIGRpdmlzaW9uLCBwcmludF9mdW5jdGlvbgoKaW1wb3J0IHRvcmNoCmltcG9ydCB0dXJpYm9sdCBhcyBib2x0CgoKZGVmIHNldHVwKCk6CiAgICB0YXNrID0gYm9sdC5nZXRfdGFzayhib2x0LmdldF9jdXJyZW50X3Rhc2tfaWQoKSkKCiAgICB0YXNrLmdsb2JhbF9yYW5rCiAgICB0YXNrcyA9IHRhc2suZGlzdHJpYnV0ZWRfc3VidGFza3MoKQogICAgbWFpbl90YXNrID0gdGFza3NbMF0KCiAgICBtYWluX3Rhc2suCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhc2suY29uZmlnLnJlc291Y3JzLm51bV9ncHVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwb3J0czogWyJURU5TT1JCT0FSRF9QT1JUIl0K</text>
-      </register>
-      <register name="5" type="2">
-        <text>torch.optim.lr_scheduler.</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Q2hlY2sgdGhlcmUgdG8gc2VlIHdoZXRoZXIgYWxyZWFkeSB3ZSBoYXZlIHNvbWVvbmUgbWVldCB5b3VyIG5lZWRzLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Q2hlY2sgdGhlcmUgaWYgdGhlcmUgYXJlIGFscmVhZHkgb25lIHRoYXQgeW91IG5lZWRlZC4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwb3J0czogWyJURU5TT1JCT0FSRF9QT1JUIl0K</text>
+      </register>
+      <register name="6" type="2">
+        <text>torch.optim.lr_scheduler.</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Q2hlY2sgdGhlcmUgdG8gc2VlIHdoZXRoZXIgYWxyZWFkeSB3ZSBoYXZlIHNvbWVvbmUgbWVldCB5b3VyIG5lZWRzLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Q2hlY2sgdGhlcmUgaWYgdGhlcmUgYXJlIGFscmVhZHkgb25lIHRoYXQgeW91IG5lZWRlZC4K</text>
+      </register>
       <register name="9" type="2">
-        <text>There are some pre-built dockers have been uploaded to `https://artifacts.apple.com/webapp/#/artifacts/browse/tree/General/dockerv2-local/zhipeng_han`</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
