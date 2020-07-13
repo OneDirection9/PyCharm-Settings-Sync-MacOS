@@ -135,11 +135,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594644069752">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594644950766">
+        <mark key="[" line="176" column="76" />
+        <mark key="]" line="177" column="25" />
+        <mark key="^" line="177" column="25" />
+        <mark key="." line="177" column="24" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/cfassetlib/bolt.py" timestamp="1594644034437" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/setup.sh" timestamp="1594643946839" />
