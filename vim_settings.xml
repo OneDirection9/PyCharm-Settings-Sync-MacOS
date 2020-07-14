@@ -127,9 +127,7 @@
         <mark key="." line="11" column="111" />
         <mark key="^" line="11" column="112" />
       </file>
-      <file name="/Python Console" timestamp="1594458894210">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/torch/optim/optimizer.py" timestamp="1594701551106" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/README.md" timestamp="1594559262977">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -142,6 +140,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/config.py" timestamp="1594699429831" />
       <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/cfassetlib/bolt.py" timestamp="1594647629002" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/setup.sh" timestamp="1594643946839" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594338098200">
@@ -155,23 +154,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594103114667">
-        <mark key="]" line="136" column="21" />
-        <mark key="^" line="136" column="21" />
-        <mark key="." line="136" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/Dockerfile" timestamp="1594336465205">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1594103543134">
-        <mark key="[" line="58" column="24" />
-        <mark key="]" line="58" column="55" />
-        <mark key="^" line="58" column="55" />
-        <mark key="." line="58" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.py" timestamp="1594559368586">
         <mark key="[" line="46" column="62" />
@@ -190,17 +172,19 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594698058832">
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594700224782">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/scripts/tools/install-cuda10.sh" timestamp="1594303532047">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="45" column="37" />
-        <mark key="^" line="45" column="38" />
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/torch/nn/modules/module.py" timestamp="1594700711931" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/legacy.py" timestamp="1594701511341">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="46" />
       </file>
+      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/torch/optim/sgd.py" timestamp="1594701476661" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/runtime/Dockerfile" timestamp="1594337178366">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -313,11 +297,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQVNLX1JVTlRJTUVfRElSXD4=</text>
@@ -326,31 +310,31 @@
         <text encoding="base64">ICAgICRDT01NT05TQ1JJUFQvY2xlYW4tbGF5ZXIuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5vcHRpbS5vcHRpbWl6ZXIgaW1wb3J0IE9wdGltaXplcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYWNoaW5lX3JhbmsgPSBjdXJyZW50X3Rhc2suZ2xvYmFsX3JhbmsK</text>
+        <text encoding="base64">bW9kZWwubW9kdWxlcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fZ3B1c19wZXJfbWFjaGluZSA9IHN1YnRhc2tzWzBdLnJlc291cmNlcy5udW1fZ3B1cwo=</text>
+        <text encoding="base64">bW9kZWwgPSBubi5Nb2R1bGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9yY2gub3B0aW0uU0dECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYWNoaW5lX3JhbmsgPSBjdXJyZW50X3Rhc2suZ2xvYmFsX3JhbmsK</text>
+        <text>model.parameters()</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgVE9ETzogY2hlY2sgbWV0cmljcyBhcmUgcmVwb3J0ZWQgY29ycmVjdGx5LCBpLmUuIGl0ZXJhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb21tLmlzX21haW5fcHJvY2VzcygpOgogICAgICAgICAgICBwcmludCgnZXBvY2g6IHt9Jy5mb3JtYXQoZXBvY2gpKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWNoaW5lX3JhbmsgPSBjdXJyZW50X3Rhc2suZ2xvYmFsX3JhbmsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
