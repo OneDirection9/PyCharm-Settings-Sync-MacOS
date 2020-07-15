@@ -140,6 +140,7 @@
         <mark key="^" line="150" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594723534639" />
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/roi_align.py" timestamp="1594723654189" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594338098200">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="34" />
@@ -175,11 +176,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/legacy.py" timestamp="1594718975800">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="52" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/legacy.py" timestamp="1594723643054">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/runtime/Dockerfile" timestamp="1594337178366">
         <mark key="[" line="1" column="0" />
