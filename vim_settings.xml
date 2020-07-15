@@ -139,7 +139,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594719216961" />
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594723534639" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594338098200">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="34" />
