@@ -140,13 +140,9 @@
         <mark key="^" line="150" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594723534639" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1594904874148" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1594904924347" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/roi_align.py" timestamp="1594723654189" />
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/base/Dockerfile" timestamp="1594338098200">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config.yml" timestamp="1594467743799">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -165,12 +161,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/README.md" timestamp="1594453336171">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594715824394">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -182,12 +172,7 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/ubuntu18.04/10.1/runtime/Dockerfile" timestamp="1594337178366">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="41" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1594904907756" />
     </filemarks>
     <jumps>
       <jump line="297" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
