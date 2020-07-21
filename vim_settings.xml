@@ -133,11 +133,11 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594648370020">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="150" column="0" />
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="164" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594723534639" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1594904874148" />
