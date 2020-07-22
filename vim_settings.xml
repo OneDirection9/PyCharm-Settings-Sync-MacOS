@@ -121,16 +121,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1595393650012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1594904924347" />
+      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/roi_align.py" timestamp="1594723654189" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594715724703" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/setup.sh" timestamp="1595393629625">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="49" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/legacy.py" timestamp="1594723643054">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build-cuda-docker.sh" timestamp="1594718478998">
         <mark key="[" line="11" column="111" />
         <mark key="]" line="11" column="112" />
         <mark key="." line="11" column="111" />
         <mark key="^" line="11" column="112" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/README.md" timestamp="1594559262977">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594648370020">
         <mark key="'" line="172" column="0" />
@@ -139,38 +152,19 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="164" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/scripts/common.sh" timestamp="1595392350735" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594723534639" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1594904874148" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1594904924347" />
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/roi_align.py" timestamp="1594723654189" />
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/configs/config.yml" timestamp="1594467743799">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594715724703" />
       <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build.py" timestamp="1594559368586">
         <mark key="[" line="46" column="62" />
         <mark key="]" line="46" column="84" />
         <mark key="^" line="46" column="84" />
         <mark key="." line="46" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-base/run.py" timestamp="1594556887894">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594715824394">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/legacy.py" timestamp="1594723643054">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1594904907756" />
     </filemarks>
@@ -279,8 +273,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VEFSR0VUX1BBVEg9J2RhdGFzZXRzL2F2YS8nCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -292,31 +286,31 @@
         <text encoding="base64">ICAgICRDT01NT05TQ1JJUFQvY2xlYW4tbGF5ZXIuc2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">VEFSR0VUX1BBVEg9J2RhdGFzZXRzL2F2YS8nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5vcHRpbS5vcHRpbWl6ZXIgaW1wb3J0IE9wdGltaXplcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kZWwubW9kdWxlcygpCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGRvd25sb2FkX2h0dHBfZmlsZSB7CiAgICByZW1vdGVfcGF0aD0kMQogICAgdGFyZ2V0X2Rpcj0kMgogICAgZmlsZW5hbWU9JChiYXNlbmFtZSAkMSkKICAgIHRhcmdldF9wYXRoPSIke3RhcmdldF9kaXJ9LyR7ZmlsZW5hbWV9IgogICAgaWYgWyAhIC1lICR0YXJnZXRfcGF0aCBdOyB0aGVuCiAgICAgICAgbWtkaXIgLXAgJHRhcmdldF9kaXIKICAgICAgICBlY2hvICJEb3dubG9hZGluZyAke3JlbW90ZV9wYXRofSIKICAgICAgICBjdXJsIC1zUyAkcmVtb3RlX3BhdGggLW8gJHRhcmdldF9wYXRoCiAgICBmaQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kZWwgPSBubi5Nb2R1bGUoKQo=</text>
+        <text encoding="base64">cGlwIGluc3RhbGwgLS11cGdyYWRlIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dG9yY2gub3B0aW0uU0dECg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text>model.parameters()</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5vcHRpbS5vcHRpbWl6ZXIgaW1wb3J0IE9wdGltaXplcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kZWwubW9kdWxlcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kZWwgPSBubi5Nb2R1bGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYWNoaW5lX3JhbmsgPSBjdXJyZW50X3Rhc2suZ2xvYmFsX3JhbmsK</text>
+        <text encoding="base64">dG9yY2gub3B0aW0uU0dECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
