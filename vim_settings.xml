@@ -129,12 +129,7 @@
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1594904924347" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/roi_align.py" timestamp="1594723654189" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594715724703" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/setup.sh" timestamp="1595409014087">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="20" />
-      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/setup.sh" timestamp="1595409014087" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/config.yml" timestamp="1595403871530">
         <mark key="[" line="3" column="70" />
         <mark key="]" line="3" column="84" />
@@ -152,13 +147,6 @@
         <mark key="]" line="11" column="112" />
         <mark key="." line="11" column="111" />
         <mark key="^" line="11" column="112" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/run.py" timestamp="1594648370020">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="164" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/scripts/common.sh" timestamp="1595392350735" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594723534639" />
