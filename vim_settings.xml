@@ -129,8 +129,8 @@
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1594904924347" />
       <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/roi_align.py" timestamp="1594723654189" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594715724703" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/setup.sh" timestamp="1595405726306">
-        <mark key="[" line="36" column="22" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/setup.sh" timestamp="1595407111319">
+        <mark key="[" line="36" column="20" />
         <mark key="]" line="36" column="20" />
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="20" />
