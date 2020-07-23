@@ -121,20 +121,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build-cuda-docker.sh" timestamp="1594718478998">
+        <mark key="[" line="11" column="111" />
+        <mark key="]" line="11" column="112" />
+        <mark key="." line="11" column="111" />
+        <mark key="^" line="11" column="112" />
+      </file>
       <file name="/Python Console" timestamp="1595397226993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/cf_env/lib/python3.6/site-packages/coreflow/turi/setup_logic.sh" timestamp="1595402124014" />
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/configs/config.yml" timestamp="1595403862972" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/i3dpt.py" timestamp="1594904924347" />
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torchvision/ops/roi_align.py" timestamp="1594723654189" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1594715724703" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/setup.sh" timestamp="1595409014087" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1595507398008" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/config.yml" timestamp="1595403871530">
         <mark key="[" line="3" column="70" />
         <mark key="]" line="3" column="84" />
         <mark key="^" line="3" column="84" />
         <mark key="." line="3" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594715824394">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/legacy.py" timestamp="1594723643054">
         <mark key="[" line="3" column="35" />
@@ -142,21 +148,6 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-dockerfile/build-cuda-docker.sh" timestamp="1594718478998">
-        <mark key="[" line="11" column="111" />
-        <mark key="]" line="11" column="112" />
-        <mark key="." line="11" column="111" />
-        <mark key="^" line="11" column="112" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/bolt-setup/scripts/common.sh" timestamp="1595392350735" />
-      <file name="$USER_HOME$/anaconda3/envs/cv/lib/python3.6/site-packages/torch/nn/parallel/distributed.py" timestamp="1594723534639" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/networks.py" timestamp="1594904874148" />
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/train.py" timestamp="1594715824394">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/models/two_branch.py" timestamp="1594904907756" />
     </filemarks>
     <jumps>
       <jump line="297" column="28" filename="$USER_HOME$/Documents/my-repositories/pytorch-detection/det/models/backbones/resnet.py" />
