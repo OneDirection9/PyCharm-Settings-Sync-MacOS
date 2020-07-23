@@ -130,7 +130,12 @@
       <file name="/Python Console" timestamp="1595397226993">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1595511963853" />
+      <file name="$USER_HOME$/Documents/my-repositories/multi-step/data/ava.py" timestamp="1595512143991">
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="325" column="49" />
+        <mark key="^" line="325" column="49" />
+        <mark key="." line="325" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/scripts/extract_clips.py" timestamp="1595507398008" />
       <file name="$USER_HOME$/Documents/my-repositories/multi-step/bolt/config.yml" timestamp="1595403871530">
         <mark key="[" line="3" column="70" />
