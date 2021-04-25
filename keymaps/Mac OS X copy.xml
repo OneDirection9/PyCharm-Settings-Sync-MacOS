@@ -55,9 +55,6 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
-  <action id="Compare.SameVersion">
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="c" />
-  </action>
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="w" />
   </action>
