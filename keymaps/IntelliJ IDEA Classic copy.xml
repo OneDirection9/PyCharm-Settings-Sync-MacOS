@@ -11,7 +11,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="CloseActiveTab">
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
