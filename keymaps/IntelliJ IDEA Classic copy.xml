@@ -35,6 +35,9 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="GotoTest" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
