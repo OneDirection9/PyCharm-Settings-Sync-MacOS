@@ -3,10 +3,10 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="turn_off_all_alarm_no_verb.yaml" type="AUTO_DETECTED" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="ann" type="PLAIN_TEXT" />
       <mapping ext="voc" type="PLAIN_TEXT" />
