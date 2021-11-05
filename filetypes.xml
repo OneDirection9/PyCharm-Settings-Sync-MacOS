@@ -12,6 +12,7 @@
       <mapping ext="voc" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="zh" type="PLAIN_TEXT" />
+      <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="mlmodel" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="NimConfig" />
