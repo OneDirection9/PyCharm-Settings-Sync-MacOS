@@ -16,14 +16,10 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="NimConfig" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" approved="true" type="CSV" />
-      <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="xls" approved="true" type="Native" />
-      <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="adsfadf" approved="true" type="PLAIN_TEXT" />
