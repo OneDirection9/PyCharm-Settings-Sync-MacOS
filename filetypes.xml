@@ -2,10 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping ext="xlsx" type="MyNativeFile" />
-      <mapping ext="xls" type="MyNativeFile" />
-      <removed_mapping ext="xlsx" type="Native" />
-      <removed_mapping ext="xls" type="Native" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -24,6 +20,8 @@
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <removed_mapping pattern="adsfadf" approved="true" type="PLAIN_TEXT" />
