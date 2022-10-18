@@ -25,6 +25,8 @@
       <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping pattern=".flake8" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".flake8" approved="true" type="TOML" />
       <removed_mapping pattern="adsfadf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="create_an_alarm_for_5AM_with_name.yaml" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="turn_off_all_alarm_no_verb.yaml" approved="true" type="AUTO_DETECTED" />
