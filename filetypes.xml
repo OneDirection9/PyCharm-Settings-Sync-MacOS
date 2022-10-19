@@ -8,6 +8,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="ann" type="PLAIN_TEXT" />
       <mapping ext="voc" type="PLAIN_TEXT" />
