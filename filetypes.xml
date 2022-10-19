@@ -13,6 +13,7 @@
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="zh" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
+      <mapping pattern=".flake8" type="TOML" />
       <mapping ext="mlmodel" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="NimConfig" />
