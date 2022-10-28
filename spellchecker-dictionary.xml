@@ -3,6 +3,7 @@
     <words>
       <w>assistantid</w>
       <w>dialogidentifier</w>
+      <w>gidx</w>
       <w>orch</w>
       <w>prehydration</w>
       <w>texttosynthesize</w>
