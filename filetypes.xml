@@ -4,34 +4,68 @@
     <extensionMap>
       <mapping pattern=".flake8" type="Ini" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
-      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="ann" type="PLAIN_TEXT" />
       <mapping ext="voc" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="zh" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="mlmodel" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cfg" approved="true" type="NimConfig" />
+      <removed_mapping ext="cfg" approved="true" type="NimConfig" />
       <removed_mapping ext="cfg" approved="true" type="NimConfig" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <removed_mapping pattern=".flake8" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".flake8" approved="true" type="TOML" />
+      <removed_mapping pattern=".flake8" approved="true" type="TOML" />
       <removed_mapping pattern=".flake8" approved="true" type="TOML" />
       <removed_mapping pattern="adsfadf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="adsfadf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="adsfadf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="create_an_alarm_for_5AM_with_name.yaml" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="create_an_alarm_for_5AM_with_name.yaml" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="create_an_alarm_for_5AM_with_name.yaml" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="turn_off_all_alarm_no_verb.yaml" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="turn_off_all_alarm_no_verb.yaml" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="turn_off_all_alarm_no_verb.yaml" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="zh_CN.yaml" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="zh_CN.yaml" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="zh_CN.yaml" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
