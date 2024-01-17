@@ -14,6 +14,7 @@
       <mapping ext="ann" type="PLAIN_TEXT" />
       <mapping ext="voc" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="zh" type="PLAIN_TEXT" />
       <mapping ext="pbtxt" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
@@ -25,7 +26,6 @@
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
